@@ -189,7 +189,12 @@
       (items.length !== state.events.length ? " (전체 " + state.events.length + "건 중)" : "");
 
     if (!items.length) {
-      list.appendChild(el("p", { class: "empty", text: "조건에 맞는 사건이 없음." }));
+      list.appendChild(el("p", {
+        class: "empty",
+        text: state.events.length
+          ? "조건에 맞는 사건이 없음."
+          : "아직 수집된 사건이 없음. 수집기를 한 번 실행하면 채워진다."
+      }));
       return;
     }
     items.forEach(function (e) { list.appendChild(eventCard(e)); });
@@ -695,10 +700,6 @@
       renderFooter();
       initArchive();
       showView(location.hash.replace("#", ""));
-
-      if (!state.events.length) {
-        $("#events-list").appendChild(el("p", { class: "empty", text: "아직 수집된 사건이 없음. 수집기를 한 번 실행하면 채워진다." }));
-      }
     });
   }
 

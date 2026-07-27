@@ -1,16 +1,16 @@
 {
- "updated": "2026-07-27T10:34:16Z",
- "duration_sec": 39.0,
+ "updated": "2026-07-27T10:50:05Z",
+ "duration_sec": 54.4,
  "rolling_days": 14,
- "n_events": 94,
- "n_articles": 125,
+ "n_events": 95,
+ "n_articles": 128,
  "grades": {
-  "C": 43,
-  "B": 16,
-  "D": 33,
+  "C": 42,
+  "B": 17,
+  "D": 34,
   "A": 2
  },
- "cross_language_events": 7,
+ "cross_language_events": 8,
  "tension_error": null,
  "archive_months": [
   "2026-07"
@@ -83,9 +83,9 @@
   {
    "id": "scmp_china",
    "name": "SCMP 중국 섹션",
-   "status": "not_modified",
-   "http": 304,
-   "n_entries": 0,
+   "status": "ok",
+   "http": 200,
+   "n_entries": 50,
    "error": null
   },
   {
@@ -131,9 +131,9 @@
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
-   "status": "ok",
-   "http": 200,
-   "n_entries": 25,
+   "status": "not_modified",
+   "http": 304,
+   "n_entries": 0,
    "error": null
   },
   {
