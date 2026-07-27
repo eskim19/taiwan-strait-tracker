@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>양안 뉴스 트래커 — 대만해협 정세</title>
+<meta name="description" content="대만해협 관련 보도를 사건 단위로 묶고 독립 출처 교차검증으로 신뢰도를 등급화한다. 대만 국방부 일일 PLA 활동 집계를 함께 표시한다.">
+<link rel="stylesheet" href="style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🌊</text></svg>">
+</head>
+<body>
+
+<header class="site-head">
+  <div class="wrap">
+    <div class="head-row">
+      <div>
+        <h1>양안 뉴스 트래커</h1>
+        <p class="tagline">대만해협 보도를 사건 단위로 묶고, 독립 출처 교차검증으로 신뢰도를 매긴다</p>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="밝은/어두운 화면 전환">
+        <span data-theme-icon>◐</span>
+      </button>
+    </div>
+    <div class="head-stats" id="head-stats"></div>
+  </div>
+</header>
+
+<nav class="tabs wrap" role="tablist" aria-label="화면 전환">
+  <button role="tab" class="tab" data-view="events" aria-selected="true">사건</button>
+  <button role="tab" class="tab" data-view="tension" aria-selected="false">긴장도</button>
+  <button role="tab" class="tab" data-view="perspective" aria-selected="false">관점 대조</button>
+  <button role="tab" class="tab" data-view="archive" aria-selected="false">아카이브</button>
+</nav>
+
+<main class="wrap">
+
+  <!-- 사건 피드 -->
+  <section id="view-events" class="view" role="tabpanel">
+    <div class="controls">
+      <div class="control-group" role="group" aria-label="정렬">
+        <span class="control-label">정렬</span>
+        <button class="chip is-on" data-sort="recent">최신순</button>
+        <button class="chip" data-sort="credibility">신뢰도순</button>
+      </div>
+      <div class="control-group" role="group" aria-label="등급 거르기">
+        <span class="control-label">등급</span>
+        <button class="chip is-on" data-grade="all">전체</button>
+        <button class="chip" data-grade="A">A 검증됨</button>
+        <button class="chip" data-grade="B">B 개연적</button>
+        <button class="chip" data-grade="C">C 단일</button>
+        <button class="chip" data-grade="D">D 주의</button>
+      </div>
+      <div class="control-group">
+        <label class="control-label" for="events-search">검색</label>
+        <input id="events-search" type="search" placeholder="제목·매체명" autocomplete="off">
+      </div>
+    </div>
+    <p class="result-count" id="events-count" aria-live="polite"></p>
+    <div id="events-list" class="event-list"></div>
+  </section>
+
+  <!-- 긴장도 -->
+  <section id="view-tension" class="view" hidden role="tabpanel">
+    <div class="tiles" id="tension-tiles"></div>
+
+    <figure class="chart-figure">
+      <figcaption>
+        <h2>일일 긴장도 지수</h2>
+        <p class="fig-note">
+          지수 = 항공기 소티 + 2×해군 함정 + 관공선.
+          절대값은 계절성·훈련주기 때문에 해석이 어려워, 직전 90일 중앙값 대비 배율을 함께 본다.
+        </p>
+      </figcaption>
+      <div class="legend" id="tension-legend"></div>
+      <div class="chart-host" id="chart-tension"></div>
+    </figure>
+
+    <figure class="chart-figure">
+      <figcaption>
+        <h2>해협 중간선 통과 소티</h2>
+        <p class="fig-note">
+          중간선은 양안 간 오랜 암묵적 완충선이다. 통과 건수는 총 활동량과 별개로 움직여
+          의도적 압박의 강도를 더 직접적으로 보여준다.
+        </p>
+      </figcaption>
+      <div class="chart-host" id="chart-crossed"></div>
+    </figure>
+
+    <details class="table-view">
+      <summary>표로 보기</summary>
+      <div class="table-scroll" id="tension-table"></div>
+    </details>
+  </section>
+
+  <!-- 관점 대조 -->
+  <section id="view-perspective" class="view" hidden role="tabpanel">
+    <p class="view-intro">
+      같은 해협을 두고 중국 관영매체와 대만·서방 매체가 무엇을 기사로 만드는지 나란히 놓는다.
+      두 열이 서로 다른 사건을 다루고 있다는 사실 자체가 관찰 대상이다.
+      양쪽이 <em>같은</em> 사건을 보도한 경우는 맨 위에 따로 모았다.
+    </p>
+    <div id="shared-events"></div>
+    <div class="perspective-grid">
+      <div class="perspective-col">
+        <h2 class="col-head col-head--prc">중국 관영</h2>
+        <p class="col-note">환구망·CCTV·신화·China Daily 등. 중국 정부 입장을 반영한다.</p>
+        <div id="persp-prc" class="mini-list"></div>
+      </div>
+      <div class="perspective-col">
+        <h2 class="col-head col-head--other">대만·서방·기타</h2>
+        <p class="col-note">대만 매체, 국제 통신사, 분석기관.</p>
+        <div id="persp-other" class="mini-list"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 아카이브 -->
+  <section id="view-archive" class="view" hidden role="tabpanel">
+    <div class="controls">
+      <div class="control-group">
+        <label class="control-label" for="archive-month">기간</label>
+        <select id="archive-month"></select>
+      </div>
+      <div class="control-group">
+        <label class="control-label" for="archive-search">검색</label>
+        <input id="archive-search" type="search" placeholder="제목·매체명" autocomplete="off">
+      </div>
+    </div>
+    <p class="result-count" id="archive-count" aria-live="polite"></p>
+    <div id="archive-list" class="event-list"></div>
+  </section>
+
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <details class="foot-block">
+      <summary>신뢰도 등급을 매기는 규칙</summary>
+      <div id="grade-rules"></div>
+      <p class="foot-note">
+        핵심은 '독립성'을 매체 수가 아니라 <strong>진영</strong>으로 센다는 점이다.
+        환구시보·신화·CCTV가 같은 사건을 동시에 보도해도 그것은 독립된 세 증언이 아니라
+        한 정부의 한 발표이므로 교차검증 1건으로만 계산한다.
+        포털·재배포 사이트(야후·MSN·다음 등)는 원 매체 기사를 실어 나를 뿐이라 아예 수집하지 않는다.
+      </p>
+    </details>
+
+    <details class="foot-block">
+      <summary>출처 등급표</summary>
+      <div id="source-table"></div>
+    </details>
+
+    <details class="foot-block">
+      <summary>수집 상태</summary>
+      <div id="feed-status"></div>
+    </details>
+
+    <p class="foot-meta" id="foot-meta"></p>
+    <p class="foot-note">
+      이 사이트는 공개 RSS와 대만 국방부 공개 페이지만 사용한다. 자동 분류이므로 오분류가 있을 수 있고,
+      등급은 보도의 <em>검증 정도</em>를 뜻할 뿐 사실 여부를 보증하지 않는다.
+    </p>
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>

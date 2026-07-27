@@ -1,0 +1,148 @@
+{
+ "updated": "2026-07-27T10:34:16Z",
+ "duration_sec": 39.0,
+ "rolling_days": 14,
+ "n_events": 94,
+ "n_articles": 125,
+ "grades": {
+  "C": 43,
+  "B": 16,
+  "D": 33,
+  "A": 2
+ },
+ "cross_language_events": 7,
+ "tension_error": null,
+ "archive_months": [
+  "2026-07"
+ ],
+ "feeds": [
+  {
+   "id": "gn_en",
+   "name": "Google News (영어)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "error": null
+  },
+  {
+   "id": "gn_en_mil",
+   "name": "Google News (영어·군사)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 57,
+   "error": null
+  },
+  {
+   "id": "gn_ko",
+   "name": "Google News (한국어)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "error": null
+  },
+  {
+   "id": "gn_zh",
+   "name": "Google News (중국어 번체)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "error": null
+  },
+  {
+   "id": "gn_prc_state",
+   "name": "Google News (중국 관영 감시)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "error": null
+  },
+  {
+   "id": "gn_prc_zh",
+   "name": "Google News (중국 관영·중국어)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "error": null
+  },
+  {
+   "id": "focustaiwan",
+   "name": "Focus Taiwan (中央社 영문)",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 39,
+   "error": null
+  },
+  {
+   "id": "taipeitimes",
+   "name": "Taipei Times",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 48,
+   "error": null
+  },
+  {
+   "id": "scmp_china",
+   "name": "SCMP 중국 섹션",
+   "status": "not_modified",
+   "http": 304,
+   "n_entries": 0,
+   "error": null
+  },
+  {
+   "id": "japantimes",
+   "name": "Japan Times",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 30,
+   "error": null
+  },
+  {
+   "id": "tsm",
+   "name": "Taiwan Security Monitor (GMU)",
+   "status": "not_modified",
+   "http": 304,
+   "n_entries": 0,
+   "error": null
+  },
+  {
+   "id": "guardian_taiwan",
+   "name": "The Guardian — Taiwan 태그",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 20,
+   "error": null
+  },
+  {
+   "id": "yonhap_en",
+   "name": "연합뉴스 영문",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 92,
+   "error": null
+  },
+  {
+   "id": "bbc_asia",
+   "name": "BBC News — 아시아",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 17,
+   "error": null
+  },
+  {
+   "id": "aljazeera",
+   "name": "Al Jazeera",
+   "status": "ok",
+   "http": 200,
+   "n_entries": 25,
+   "error": null
+  },
+  {
+   "id": "gti",
+   "name": "Global Taiwan Institute",
+   "status": "not_modified",
+   "http": 304,
+   "n_entries": 0,
+   "error": null
+  }
+ ]
+}

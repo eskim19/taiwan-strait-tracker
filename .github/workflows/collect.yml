@@ -1,0 +1,65 @@
+name: collect
+
+on:
+  schedule:
+    # 매시 17분. 정각은 GitHub 러너가 가장 붐비는 구간이라 피한다.
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "collector/**"
+      - ".github/workflows/collect.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: collect
+  cancel-in-progress: false
+
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 수집 실행
+        run: python -m collector.build
+
+      - name: 커밋 메시지 생성
+        id: msg
+        run: |
+          python - >> "$GITHUB_ENV" <<'PY'
+          import json, pathlib
+          meta = json.loads(pathlib.Path("docs/data/build_meta.json").read_text(encoding="utf-8"))
+          grades = meta.get("grades", {})
+          parts = " ".join(f"{g}{grades[g]}" for g in ("A", "B", "C", "D") if grades.get(g))
+          failed = [f["name"] for f in meta.get("feeds", []) if f.get("status") == "error"]
+          tail = f" / 피드실패 {len(failed)}" if failed else ""
+          print(f"COMMIT_MSG=data: 사건 {meta.get('n_events', 0)}건 ({parts}){tail}")
+          PY
+
+      - name: 변경분 커밋
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --staged --quiet; then
+            echo "변경 없음 — 커밋 생략"
+            exit 0
+          fi
+          git commit -m "$COMMIT_MSG"
+          # 원격이 앞서 있을 수 있으므로 rebase 후 푸시
+          git pull --rebase --autostash origin "$GITHUB_REF_NAME"
+          git push

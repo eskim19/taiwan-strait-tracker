@@ -1,0 +1,1233 @@
+{
+ "updated": "2026-07-27T10:34:16Z",
+ "tiers": [
+  {
+   "tier": "T1",
+   "label": "통신사·공영",
+   "weight": 1.0,
+   "sources": [
+    {
+     "domain": "abc.net.au",
+     "name": "ABC (호주)",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "afp.com",
+     "name": "AFP",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "aljazeera.com",
+     "name": "Al Jazeera",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "aninews.in",
+     "name": "ANI",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "apnews.com",
+     "name": "AP",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "bbc.co.uk",
+     "name": "BBC",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "bbc.com",
+     "name": "BBC",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "bloomberg.com",
+     "name": "Bloomberg",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "channelnewsasia.com",
+     "name": "CNA (싱가포르)",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "cnn.com",
+     "name": "CNN",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "dw.com",
+     "name": "Deutsche Welle",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "france24.com",
+     "name": "France 24",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "kyodonews.net",
+     "name": "Kyodo News",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "nhk.or.jp",
+     "name": "NHK",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "pts.org.tw",
+     "name": "公視 PTS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 공영방송(편집권 독립)"
+    },
+    {
+     "domain": "reuters.com",
+     "name": "Reuters",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "rfi.fr",
+     "name": "RFI",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "upi.com",
+     "name": "UPI",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "yna.co.kr",
+     "name": "연합뉴스",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "tier": "TA",
+   "label": "분석기관",
+   "weight": 0.9,
+   "sources": [
+    {
+     "domain": "aei.org",
+     "name": "AEI",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "asiasociety.org",
+     "name": "Asia Society",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "atlanticcouncil.org",
+     "name": "Atlantic Council",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "brookings.edu",
+     "name": "Brookings",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "carnegieendowment.org",
+     "name": "Carnegie Endowment",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "cfr.org",
+     "name": "Council on Foreign Relations",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "csis.org",
+     "name": "CSIS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "defenseone.com",
+     "name": "Defense One",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "foreignaffairs.com",
+     "name": "Foreign Affairs",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "foreignpolicy.com",
+     "name": "Foreign Policy",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "globaltaiwan.org",
+     "name": "Global Taiwan Institute",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "gmu.edu",
+     "name": "Taiwan Security Monitor (GMU)",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "hudson.org",
+     "name": "Hudson Institute",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "iiss.org",
+     "name": "IISS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "inss.re.kr",
+     "name": "국가안보전략연구원",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "jamestown.org",
+     "name": "Jamestown Foundation",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "kida.re.kr",
+     "name": "한국국방연구원",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "lawfaremedia.org",
+     "name": "Lawfare",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "lowyinstitute.org",
+     "name": "Lowy Institute",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "nationalinterest.org",
+     "name": "The National Interest",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "rand.org",
+     "name": "RAND",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "stimson.org",
+     "name": "Stimson Center",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "thediplomat.com",
+     "name": "The Diplomat",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "understandingwar.org",
+     "name": "ISW",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "warontherocks.com",
+     "name": "War on the Rocks",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "tier": "T2",
+   "label": "주요 일간",
+   "weight": 0.85,
+   "sources": [
+    {
+     "domain": "asahi.com",
+     "name": "아사히신문",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "asiaone.com",
+     "name": "AsiaOne",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "breakingdefense.com",
+     "name": "Breaking Defense",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "chinatimes.com",
+     "name": "中國時報",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향"
+    },
+    {
+     "domain": "chosun.com",
+     "name": "조선일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "chosunbiz.com",
+     "name": "조선비즈",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "cnbc.com",
+     "name": "CNBC",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "cts.com.tw",
+     "name": "華視",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ctwant.com",
+     "name": "CTWANT",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "defensenews.com",
+     "name": "Defense News",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "donga.com",
+     "name": "동아일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ebc.net.tw",
+     "name": "東森新聞",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "economist.com",
+     "name": "The Economist",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "elmundo.es",
+     "name": "El Mundo",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "etoday.co.kr",
+     "name": "이투데이",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ettoday.net",
+     "name": "ETtoday新聞雲",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ft.com",
+     "name": "Financial Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ftvnews.com.tw",
+     "name": "民視新聞",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향"
+    },
+    {
+     "domain": "hani.co.kr",
+     "name": "한겨레",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "hankookilbo.com",
+     "name": "한국일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "hankyung.com",
+     "name": "한국경제",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "hk01.com",
+     "name": "香港01",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재"
+    },
+    {
+     "domain": "imbc.com",
+     "name": "MBC",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "independent.co.uk",
+     "name": "The Independent",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "janes.com",
+     "name": "Janes",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "japantimes.co.jp",
+     "name": "Japan Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "joongang.co.kr",
+     "name": "중앙일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "kbs.co.kr",
+     "name": "KBS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "khan.co.kr",
+     "name": "경향신문",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "kmib.co.kr",
+     "name": "국민일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "lemonde.fr",
+     "name": "Le Monde",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ltn.com.tw",
+     "name": "自由時報",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향"
+    },
+    {
+     "domain": "mbn.co.kr",
+     "name": "MBN",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "mirrormedia.mg",
+     "name": "鏡週刊",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "mk.co.kr",
+     "name": "매일경제",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "munhwa.com",
+     "name": "문화일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "nbcnews.com",
+     "name": "NBC News",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "news1.kr",
+     "name": "뉴스1",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "newsis.com",
+     "name": "뉴시스",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "newsweek.com",
+     "name": "Newsweek",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "newtalk.tw",
+     "name": "新頭殼",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "nikkei.com",
+     "name": "Nikkei",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "nocutnews.co.kr",
+     "name": "노컷뉴스",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "nytimes.com",
+     "name": "New York Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "politico.com",
+     "name": "Politico",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "rfa.org",
+     "name": "RFA 자유아시아방송",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 지원(USAGM) 매체"
+    },
+    {
+     "domain": "sbs.co.kr",
+     "name": "SBS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "scmp.com",
+     "name": "SCMP",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유"
+    },
+    {
+     "domain": "segye.com",
+     "name": "세계일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "seoul.co.kr",
+     "name": "서울신문",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "setn.com",
+     "name": "三立新聞",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향"
+    },
+    {
+     "domain": "skynews.com.au",
+     "name": "Sky News Australia",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "호주 보수 성향"
+    },
+    {
+     "domain": "spiegel.de",
+     "name": "Der Spiegel",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "storm.mg",
+     "name": "風傳媒",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "straitstimes.com",
+     "name": "Straits Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "taipeitimes.com",
+     "name": "Taipei Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향"
+    },
+    {
+     "domain": "taisounds.com",
+     "name": "太報 TaiSounds",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "taiwannews.com.tw",
+     "name": "Taiwan News",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "telegraph.co.uk",
+     "name": "The Telegraph",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "theglobeandmail.com",
+     "name": "Globe and Mail",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "theguardian.com",
+     "name": "The Guardian",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "thehill.com",
+     "name": "The Hill",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "thehindu.com",
+     "name": "The Hindu",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "timesofindia.indiatimes.com",
+     "name": "Times of India",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "tribuneindia.com",
+     "name": "Tribune India",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "tvbs.com.tw",
+     "name": "TVBS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "udn.com",
+     "name": "聯合報",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향"
+    },
+    {
+     "domain": "usni.org",
+     "name": "USNI News",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "voanews.com",
+     "name": "VOA",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 지원(USAGM) 매체"
+    },
+    {
+     "domain": "washingtonpost.com",
+     "name": "Washington Post",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "washingtontimes.com",
+     "name": "Washington Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "미국 보수 성향"
+    },
+    {
+     "domain": "wsj.com",
+     "name": "Wall Street Journal",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "yomiuri.co.jp",
+     "name": "요미우리신문",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "ytn.co.kr",
+     "name": "YTN",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    }
+   ]
+  },
+  {
+   "tier": "T3",
+   "label": "관영·정부",
+   "weight": 0.6,
+   "sources": [
+    {
+     "domain": "81.cn",
+     "name": "中國軍網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 인민해방군 매체"
+    },
+    {
+     "domain": "cctv.cn",
+     "name": "CCTV 中央電視台",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송"
+    },
+    {
+     "domain": "cctv.com",
+     "name": "CCTV 中央電視台",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송"
+    },
+    {
+     "domain": "cgtn.com",
+     "name": "CGTN",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송"
+    },
+    {
+     "domain": "china.com.cn",
+     "name": "中國網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영"
+    },
+    {
+     "domain": "chinadaily.com.cn",
+     "name": "China Daily",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 영문지"
+    },
+    {
+     "domain": "chinadailyhk.com",
+     "name": "China Daily HK",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 영문지 홍콩판"
+    },
+    {
+     "domain": "chinamil.com.cn",
+     "name": "中國軍網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 인민해방군 매체"
+    },
+    {
+     "domain": "chinanews.com.cn",
+     "name": "中國新聞網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사"
+    },
+    {
+     "domain": "cna.com.tw",
+     "name": "中央社 CNA",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사"
+    },
+    {
+     "domain": "defense.gov",
+     "name": "미 국방부",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 공식 발표"
+    },
+    {
+     "domain": "ecns.cn",
+     "name": "中國新聞網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영"
+    },
+    {
+     "domain": "focustaiwan.tw",
+     "name": "Focus Taiwan (CNA)",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사"
+    },
+    {
+     "domain": "globaltimes.cn",
+     "name": "環球時報 Global Times",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열"
+    },
+    {
+     "domain": "gwytb.gov.cn",
+     "name": "국무원 대만사무판공실",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 정부 공식 발표"
+    },
+    {
+     "domain": "hkcna.hk",
+     "name": "香港中國通訊社",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 계열"
+    },
+    {
+     "domain": "huanqiu.com",
+     "name": "環球網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "환구시보 중문판·중국 공산당 기관지 계열"
+    },
+    {
+     "domain": "indopacom.mil",
+     "name": "미 인도태평양사령부",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 공식 발표"
+    },
+    {
+     "domain": "mac.gov.tw",
+     "name": "대만 대륙위원회",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 정부 공식 발표"
+    },
+    {
+     "domain": "mnd.gov.tw",
+     "name": "대만 국방부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 정부 공식 발표"
+    },
+    {
+     "domain": "mod.go.jp",
+     "name": "일본 방위성",
+     "bloc": "jp_gov",
+     "bloc_label": "일본 정부",
+     "bias": "일본 정부 공식 발표"
+    },
+    {
+     "domain": "mod.gov.cn",
+     "name": "중국 국방부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 정부 공식 발표"
+    },
+    {
+     "domain": "mofa.gov.tw",
+     "name": "대만 외교부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 정부 공식 발표"
+    },
+    {
+     "domain": "news.cn",
+     "name": "新華社 Xinhua",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사"
+    },
+    {
+     "domain": "pacom.mil",
+     "name": "미 인도태평양사령부",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 공식 발표"
+    },
+    {
+     "domain": "people.com.cn",
+     "name": "人民日報",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지"
+    },
+    {
+     "domain": "president.gov.tw",
+     "name": "대만 총통부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 정부 공식 발표"
+    },
+    {
+     "domain": "rti.org.tw",
+     "name": "中央廣播電臺",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송"
+    },
+    {
+     "domain": "scio.gov.cn",
+     "name": "국무원 신문판공실",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 정부 공식 발표"
+    },
+    {
+     "domain": "state.gov",
+     "name": "미 국무부",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 공식 발표"
+    },
+    {
+     "domain": "takungpao.com",
+     "name": "大公報",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체"
+    },
+    {
+     "domain": "tkww.hk",
+     "name": "大公文匯網",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체"
+    },
+    {
+     "domain": "wenweipo.com",
+     "name": "文匯報",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체"
+    },
+    {
+     "domain": "whitehouse.gov",
+     "name": "백악관",
+     "bloc": "us_gov",
+     "bloc_label": "미국 정부·지원",
+     "bias": "미국 정부 공식 발표"
+    },
+    {
+     "domain": "xinhuanet.com",
+     "name": "新華社 Xinhua",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사"
+    },
+    {
+     "domain": "yicai.com",
+     "name": "第一財經",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 계열"
+    }
+   ]
+  },
+  {
+   "tier": "T4",
+   "label": "성향 매체",
+   "weight": 0.45,
+   "sources": [
+    {
+     "domain": "epochtimes.com",
+     "name": "大紀元 Epoch Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조"
+    },
+    {
+     "domain": "ntdtv.com",
+     "name": "新唐人 NTD",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조"
+    },
+    {
+     "domain": "ntdtv.com.tw",
+     "name": "新唐人 NTD",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조"
+    },
+    {
+     "domain": "rt.com",
+     "name": "RT",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "러시아 국영·선전 매체"
+    },
+    {
+     "domain": "sputniknews.com",
+     "name": "Sputnik",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "러시아 국영·선전 매체"
+    },
+    {
+     "domain": "theepochtimes.com",
+     "name": "Epoch Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조"
+    },
+    {
+     "domain": "zerohedge.com",
+     "name": "ZeroHedge",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "선정적 논조·검증 부실"
+    }
+   ]
+  },
+  {
+   "tier": "T5",
+   "label": "미분류",
+   "weight": 0.3,
+   "sources": []
+  }
+ ],
+ "blocs": [
+  {
+   "key": "independent",
+   "label": "독립"
+  },
+  {
+   "key": "prc_state",
+   "label": "중국 관영"
+  },
+  {
+   "key": "tw_state",
+   "label": "대만 국영·정부"
+  },
+  {
+   "key": "us_gov",
+   "label": "미국 정부·지원"
+  },
+  {
+   "key": "jp_gov",
+   "label": "일본 정부"
+  }
+ ],
+ "grade_rules": [
+  {
+   "grade": "A",
+   "label": "검증됨",
+   "rule": "독립된 진영 3곳 이상이 보도했고 통신사·공영방송 또는 분석기관이 포함됨"
+  },
+  {
+   "grade": "B",
+   "label": "개연적",
+   "rule": "독립된 진영 2곳이 보도했거나, 통신사·공영방송이 단독 보도함"
+  },
+  {
+   "grade": "C",
+   "label": "단일 출처",
+   "rule": "출처가 한 곳뿐이라 교차 확인되지 않음"
+  },
+  {
+   "grade": "D",
+   "label": "주의",
+   "rule": "한쪽 정부 발표만 있거나, 성향·미분류 매체 단독이거나, 전언 표현이 지배적임"
+  }
+ ],
+ "syndicators_excluded": [
+  "yahoo.com",
+  "msn.com",
+  "news.nate.com",
+  "daum.net",
+  "naver.com",
+  "pchome.com.tw",
+  "flipboard.com",
+  "ground.news",
+  "newsbreak.com",
+  "smartnews.com",
+  "headtopics.com",
+  "newscord.org",
+  "biztoc.com",
+  "zhuanlan.zhihu.com"
+ ]
+}
