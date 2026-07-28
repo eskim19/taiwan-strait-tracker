@@ -48,6 +48,46 @@ def write_json(path, payload, indent=1):
         raise
 
 
+def write_json_if_changed(path, payload, volatile=("updated",), fingerprint=None):
+    """실질 내용이 그대로면 파일을 건드리지 않는다. 바뀌었으면 원자적으로 쓴다.
+
+    매 실행 벽시계 값을 새로 박으면 워크플로의 `git diff --staged --quiet` 가
+    절대 비지 않는다. 그래서 '변경 없음 → 커밋 생략' 분기가 도달 불가능한
+    죽은 코드가 되고, 신규 기사 0건인 회차에도 3시간마다 커밋과 Pages
+    재빌드가 돈다. git log docs/data 가 '데이터가 실제로 변한 시점'의 기록이
+    아니라 '크론이 돈 시각'의 기록이 되는 것이 더 큰 손해다.
+
+    volatile     — 비교에서 제외할 최상위 키(매 실행 달라지는 계측값).
+    fingerprint  — 중첩 구조까지 걸러야 할 때 쓰는 함수(payload -> 비교값).
+    반환         — 실제로 썼으면 True.
+    """
+    compare = fingerprint or (lambda p: {k: v for k, v in p.items() if k not in volatile})
+    if path.exists():
+        try:
+            previous = json.loads(path.read_text(encoding="utf-8"))
+        except (json.JSONDecodeError, OSError):
+            previous = None
+        if isinstance(previous, dict) and compare(previous) == compare(payload):
+            return False
+    write_json(path, payload)
+    return True
+
+
+_ADDR = re.compile(r"0x[0-9a-fA-F]{4,}")
+
+
+def short_error(exc, limit=200):
+    """예외를 '커밋해도 되는' 문자열로 만든다.
+
+    urllib3 예외 문자열에는 객체의 메모리 주소가 섞인다:
+        <urllib3.connection.HTTPSConnection object at 0x000001F2A3B4C5D0>
+    그 값을 build_meta 에 그대로 넣으면, 피드 status·error 를 커밋 판단에
+    넣는 순간(write_json_if_changed) 장애가 계속되는 동안 매 실행 문자열이
+    달라진다 — 하필 사람이 지켜봐야 할 시간에 3시간마다 무의미한 커밋이 쌓인다.
+    """
+    return _ADDR.sub("0x…", f"{type(exc).__name__}: {exc}")[:limit]
+
+
 def utcnow():
     return datetime.now(timezone.utc)
 

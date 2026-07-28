@@ -18,11 +18,11 @@ import json
 import re
 import statistics
 import time
-from datetime import date, datetime
+from datetime import date
 from pathlib import Path
 
 from .fetch import make_session
-from .util import enable_utf8_stdout, write_json
+from .util import enable_utf8_stdout, iso, utcnow, write_json_if_changed
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_PATH = ROOT / "docs" / "data" / "tension.json"
@@ -280,7 +280,9 @@ def build_payload(records):
             rec["ratio"] = None
 
     return {
-        "updated": datetime.now().astimezone().isoformat(timespec="seconds"),
+        # util.iso 로 통일한다. datetime.now().astimezone() 은 로컬에서
+        # +09:00, 러너에서 +00:00 을 뱉어 로컬/CI 교차 실행마다 헛diff 가 난다.
+        "updated": iso(utcnow()),
         "source": "대만 국방부 (mnd.gov.tw) 일일 PLA 활동 발표",
         "source_url": BASE + "/en/news/PlaactList",
         "baseline_days": BASELINE_DAYS,
@@ -291,7 +293,7 @@ def build_payload(records):
 
 def save(records):
     payload = build_payload(records)
-    write_json(OUT_PATH, payload)
+    write_json_if_changed(OUT_PATH, payload)
     return payload
 
 

@@ -70,10 +70,24 @@ jobs:
           fi
 
       - name: 수집 실행
+        id: build
         run: python -m collector.build
 
+      # 빌드가 실패해도 커밋한다.
+      #
+      # [5/5] 국방부 스크래핑은 RSS 와 완전히 독립인데, '모든 피드 수집 실패'
+      # 종료코드 때문에 아래 두 스텝이 통째로 건너뛰어져 방금 긁은 국방부
+      # 하루치가 러너와 함께 사라졌다(러너는 매 실행 새로 뜬다). 목록은 최신
+      # 1쪽만 긁으므로 그 하루는 돌아오지 않는다.
+      #
+      # 안전한 이유 둘: ① write_json 은 임시파일+os.replace 라 반쯤 쓰인 파일이
+      # 남지 않는다. ② 낡은 events.json 을 새 타임스탬프로 재게시하는 문제
+      # (원래 이 종료코드의 목적)는 write_json_if_changed 가 구조적으로 없앴다 —
+      # 내용이 같으면 파일을 아예 다시 쓰지 않아 재게시할 diff 자체가 없다.
+      # 잡 전체는 여전히 빨갛게 끝난다(= 알림이 온다).
       - name: 커밋 메시지 생성
         id: msg
+        if: ${{ !cancelled() }}
         run: |
           python - >> "$GITHUB_ENV" <<'PY'
           import json, pathlib
@@ -86,6 +100,7 @@ jobs:
           PY
 
       - name: 변경분 커밋
+        if: ${{ !cancelled() }}
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -94,7 +109,8 @@ jobs:
             echo "변경 없음 — 커밋 생략"
             exit 0
           fi
-          git commit -m "$COMMIT_MSG"
+          # 빌드가 메시지 생성 전에 죽으면 COMMIT_MSG 가 비고 git 이 거부한다
+          git commit -m "${COMMIT_MSG:-data: 자동 수집(메시지 생성 실패)}"
           # 원격이 앞서 있을 수 있으므로 rebase 후 푸시
           git pull --rebase --autostash origin "$GITHUB_REF_NAME"
           git push

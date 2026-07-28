@@ -23,7 +23,7 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.ssl_ import create_urllib3_context
 
 from . import feeds as feedreg
-from .util import enable_utf8_stdout
+from .util import enable_utf8_stdout, short_error
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE_PATH = ROOT / "state" / "etag.json"
@@ -108,7 +108,7 @@ def fetch_one(feed, state, session, use_cache=True):
         resp = session.get(feed["url"], headers=headers, timeout=TIMEOUT)
     except requests.RequestException as exc:
         report["status"] = "error"
-        report["error"] = f"{type(exc).__name__}: {exc}"
+        report["error"] = short_error(exc)
         return None, report
 
     report["http"] = resp.status_code
