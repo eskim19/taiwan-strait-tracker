@@ -1,14 +1,14 @@
 {
- "updated": "2026-07-28T19:55:12Z",
+ "updated": "2026-07-28T22:18:50Z",
  "checked": "2026-07-28",
- "duration_sec": 35.1,
+ "duration_sec": 33.6,
  "rolling_days": 14,
- "n_events": 108,
- "n_articles": 168,
+ "n_events": 111,
+ "n_articles": 171,
  "grades": {
-  "C": 47,
-  "D": 47,
-  "B": 12,
+  "C": 50,
+  "D": 48,
+  "B": 11,
   "A": 2
  },
  "cross_language_events": 5,
@@ -22,7 +22,7 @@
   "T2": 71,
   "T3": 33,
   "T4": 11,
-  "T5": 38,
+  "T5": 39,
   "TA": 4
  },
  "t1_domains": [
@@ -42,7 +42,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
+   "n_adopted": 26,
    "newest": "2026-07-27T12:00:38+00:00",
    "stale": false,
    "error": null
@@ -55,8 +55,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 55,
-   "n_adopted": 31,
-   "newest": "2026-07-28T14:08:50+00:00",
+   "n_adopted": 32,
+   "newest": "2026-07-28T17:13:18+00:00",
    "stale": false,
    "error": null
   },
@@ -81,8 +81,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 74,
-   "newest": "2026-07-28T18:32:00+00:00",
+   "n_adopted": 72,
+   "newest": "2026-07-28T22:17:23+00:00",
    "stale": false,
    "error": null
   },
@@ -107,7 +107,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
+   "n_adopted": 6,
    "newest": "2026-07-28T14:34:00+00:00",
    "stale": false,
    "error": null
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-07-28T15:12:20+00:00",
+   "newest": "2026-07-28T22:11:16+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 95,
+   "n_entries": 96,
    "n_adopted": 0,
-   "newest": "2026-07-28T16:49:46+00:00",
+   "newest": "2026-07-28T22:15:40+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-28T19:36:55+00:00",
+   "newest": "2026-07-28T21:59:40+00:00",
    "stale": false,
    "error": null
   },
@@ -268,6 +268,11 @@
    "domain": "taiwanreports.com",
    "n_articles": 1,
    "sample_title": "社論 /台海「反封鎖」 美國政客又在畫餅充飢"
+  },
+  {
+   "domain": "dailytimes.com.pk",
+   "n_articles": 1,
+   "sample_title": "Taiwan tests arms relocation in war drills"
   },
   {
    "domain": "mirrordaily.news",
@@ -338,11 +343,6 @@
    "domain": "t.co",
    "n_articles": 1,
    "sample_title": "China’s two-day drill adds to Taiwan’s new military normal"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 1,
-   "sample_title": "兩岸要聞-北約最高司令部被攻破 中共要的是台海開戰底牌 0727"
   }
  ]
 }
