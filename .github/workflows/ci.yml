@@ -6,16 +6,31 @@ name: ci
 # 41%가 사라지고, 로이터·BBC·AP 가 한 출처로 계산되고, 같은 기사가 두 카드에
 # 노출됐다. 게이트는 네트워크를 타지 않고 7초면 끝난다 — 안 돌릴 이유가 없다.
 
+# 이 잡은 PR 브랜치의 코드를 그대로 실행한다(게이트 자체가 저장소 코드고,
+# pip 은 sdist 를 만나면 빌드 스크립트를 돌린다). 저장소 기본 토큰이 쓰기
+# 권한이면 그 코드가 저장소에 쓸 수 있다. 게이트는 커밋된 픽스처를 읽기만 한다.
+permissions:
+  contents: read
+
 on:
   push:
+    # 브랜치 필터가 없으면 같은 저장소의 PR 브랜치에서 push 와 pull_request 가
+    # 둘 다 걸려 같은 게이트가 두 번 돈다.
+    branches: [main]
     paths:
       - "collector/**"
       - "requirements.txt"
+      - "requirements.lock.txt"
       - ".github/workflows/ci.yml"
   pull_request:
     paths:
       - "collector/**"
       - "requirements.txt"
+      - "requirements.lock.txt"
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
   gate:
@@ -29,9 +44,39 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          # 기본 캐시 키는 **/requirements.txt 만 본다. 락만 바꾸면 낡은 캐시가
+          # 그대로 재사용돼 고정한 버전이 안 깔린다.
+          cache-dependency-path: |
+            requirements.txt
+            requirements.lock.txt
 
       - name: 의존성 설치
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt -c requirements.lock.txt
+
+      # 락이 조용히 낡으면 '고정돼 보이는데 안 고정된' 상태가 된다. 새 전이
+      # 의존성이 생겼는데 락에 없으면 그 패키지만 매 실행 새로 풀린다.
+      - name: 락 완전성 확인
+        run: |
+          python - <<'PY'
+          import pathlib, re, subprocess, sys
+          norm = lambda n: re.sub(r"[-_.]+", "-", n).strip().lower()
+          lock = {
+              norm(line.split("==")[0])
+              for line in pathlib.Path("requirements.lock.txt").read_text(encoding="utf-8").splitlines()
+              if "==" in line and not line.lstrip().startswith("#")
+          }
+          out = subprocess.run(
+              [sys.executable, "-m", "pip", "list", "--format=freeze",
+               "--exclude", "pip", "--exclude", "setuptools", "--exclude", "wheel"],
+              capture_output=True, text=True, check=True).stdout
+          installed = {norm(l.split("==")[0]) for l in out.splitlines() if "==" in l}
+          missing = sorted(installed - lock)
+          if missing:
+              print("락에 없는 패키지가 설치됐다 — 다음 회차에 조용히 버전이 바뀐다:")
+              print("\n".join("  " + m for m in missing))
+              sys.exit(1)
+          print(f"락 완전 — 설치된 {len(installed)}개 전부 고정됨")
+          PY
 
       - name: 클러스터링 회귀 게이트
         run: python -m collector.metrics --robust

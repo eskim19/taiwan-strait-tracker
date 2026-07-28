@@ -33,18 +33,41 @@ jobs:
         with:
           python-version: "3.12"
           cache: pip
+          cache-dependency-path: |
+            requirements.txt
+            requirements.lock.txt
 
       - name: 의존성 설치
-        run: pip install -r requirements.txt
+        run: pip install -r requirements.txt -c requirements.lock.txt
 
       # 게이트는 네트워크를 안 타고 7초면 끝난다. 실패해도 수집은 계속한다 —
       # 데이터 수집 중단이 클러스터링 품질 저하보다 회복 불가능하기 때문이다.
       # 피드는 지나간 시간을 돌려주지 않는다.
+      #
+      # `shell: bash` 가 필수다. GitHub 의 run 기본 셸은 `bash -e {0}` 인데
+      # pipefail 이 꺼져 있어서 `python -m ... | tee` 의 종료코드가 tee 의
+      # 것(항상 0)이 된다. 그래서 continue-on-error 가 발동할 일 자체가 없었고
+      # 게이트는 깨져도 언제나 초록이었다 — 신호가 0이었다. 하필 selfcheck 는
+      # 국방부 시계열이 41% 사라진 걸 잡으라고 만든 검사다.
+      #
+      # 이 스텝은 경고만 낸다. 실제로 잡을 빨갛게 만드는(=메일이 오는) 것은
+      # 커밋 뒤의 '배포 후 검증' 스텝이다.
       - name: 회귀 게이트(비차단)
+        id: gate
         continue-on-error: true
+        shell: bash
         run: |
-          python -m collector.metrics | tee -a "$GITHUB_STEP_SUMMARY"
-          python -m collector.selfcheck | tee -a "$GITHUB_STEP_SUMMARY"
+          set -uo pipefail
+          failed=""
+          { echo "## 회귀 게이트"; echo '```'; } >> "$GITHUB_STEP_SUMMARY"
+          python -m collector.metrics   2>&1 | tee -a "$GITHUB_STEP_SUMMARY" || failed="$failed 클러스터링"
+          python -m collector.selfcheck 2>&1 | tee -a "$GITHUB_STEP_SUMMARY" || failed="$failed 사실성"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          if [ -n "$failed" ]; then
+            echo "> ⚠️ 게이트 실패:$failed — 수집은 계속 진행한다" >> "$GITHUB_STEP_SUMMARY"
+            echo "::warning title=회귀 게이트 실패::${failed# } — 수집은 계속 진행한다"
+            exit 1
+          fi
 
       - name: 수집 실행
         run: python -m collector.build
