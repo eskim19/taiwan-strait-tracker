@@ -23,7 +23,7 @@
 ## 실행
 
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt -c requirements.lock.txt
 
 python -m collector.fetch            # 피드 생존 진단 (좀비 피드 조기 탐지)
 python -m collector.metrics          # 클러스터링 품질 게이트 — 코드 고치면 반드시
@@ -52,6 +52,7 @@ collector/
   mnd.py        대만 국방부 일일 PLA 집계 스크래퍼
   metrics.py    클러스터링 품질 측정 + 게이트
   selfcheck.py  데이터 사실성 검사 (품질이 아니라 '이게 사실인가')
+  feedhealth.py 피드 건전성 보고 (수집 경로가 살아 있는가)
   build.py      엔트리포인트
   tests/
     gold_2026_07.py        골드 라벨(다건 사건 25개)
@@ -112,19 +113,46 @@ UI에는 점수보다 **근거 문자열**을 앞세운다. 숫자만 보여주�
 
 **스케줄 워크플로 자동 비활성화.** GitHub는 레포가 60일간 활동이 없으면 스케줄 워크플로를 끈다. 봇 커밋은 활동으로 인정되지 않을 수 있다. 멈춘 것 같으면 Actions 탭에서 수동 `Run workflow`로 되살린다.
 
+**데이터가 안 변하면 커밋하지 않는다.** `util.write_json_if_changed`가 실질 내용을 비교해 같으면 파일을 건드리지 않는다. 그래서 `build_meta.updated`의 의미는 "마지막 실행"이 아니라 **"마지막 변경"**이고, "수집기가 아직 사는가"는 `checked`(하루 1회 갱신)로 본다. 비교에서 빠지는 것은 계측값(`updated`·`duration_sec`·`n_entries`·`newest`·`http`)이고, 피드 `status`·`health`·`error`는 **비교에 들어간다** — 주요 피드가 죽으면 그 회차에 바로 커밋돼 사이트에 떠야 하기 때문이다. 새 필드를 추가할 때 이 구분을 지킬 것(`build.meta_fingerprint`).
+
 **미병합 > 과병합.** 클러스터 병합 임계는 보수적으로 잡혀 있다. 과병합은 없는 교차검증을 만들어내 등급을 조작하는 셈이라, 사건이 쪼개져 보이는 미병합보다 훨씬 해롭다.
 
 **사건이 쪼개지면 임계값이 아니라 EVENT 엔티티를 한 줄 추가한다.** 임계값을 만지면 반대쪽이 조용히 터진다. `python -m collector.metrics` 게이트(BCubed F1 ≥ 0.80, 혼입 ≤ 2, 파편화 ≤ 6)와 `python -m collector.selfcheck` 를 통과하는지 반드시 확인할 것. 클러스터링·등급 규칙을 바꿨으면 배포 시 `--rebuild`를 한 번 돌려야 한다 — 사건 ID가 전부 바뀌는데 옛 카드가 14일(아카이브는 영구) 남는다.
 
-**지표가 통과했다는 것과 데이터가 옳다는 것은 다른 명제다.** 한 번 크게 데였다 — 파편화·BCubed 가 전부 좋아진 회차에 국방부 시계열의 41%가 조용히 사라졌다. `collector/metrics.py` 는 클러스터링 *품질*을, `collector/selfcheck.py` 는 *사실성*(시계열 연속성·기사 중복 노출·숫자 지문 환각·제목 절단·게이트 리콜)을 본다. 새 결함을 찾을 때마다 "어떤 검사가 이걸 잡았을까"를 묻고 selfcheck 에 추가할 것.
+**지표가 통과했다는 것과 데이터가 옳다는 것은 다른 명제다.** 한 번 크게 데였다 — 파편화·BCubed 가 전부 좋아진 회차에 국방부 시계열의 41%가 조용히 사라졌다. 검사가 세 축으로 나뉘어 있는 건 이 때문이다.
+
+| | 묻는 것 | 언제 |
+|---|---|---|
+| `collector/metrics.py` | 클러스터링 **품질** — 고정 픽스처 채점 | CI(차단) |
+| `collector/selfcheck.py` | 데이터 **사실성** — 시계열 연속성·기사 중복 노출·숫자 지문 환각·제목 절단·게이트 리콜 | CI + 매 수집 후 |
+| `collector/feedhealth.py` | 수집 **경로 생존** — 중대 피드가 200을 주면서 채택 0건인가 | 매 수집 후 |
+
+새 결함을 찾을 때마다 "어떤 검사가 이걸 잡았을까"를 묻고 해당 모듈에 추가할 것.
+
+**게이트를 파이프로 태우지 말 것.** GitHub의 `run:` 기본 셸은 `bash -e {0}`이고 pipefail이 꺼져 있어서 `python -m collector.selfcheck | tee`의 종료코드는 `tee`의 것(항상 0)이 된다. 이 함정을 한 번 밟았고, 그동안 게이트는 깨져도 언제나 초록이었다. `shell: bash` + `set -uo pipefail`을 명시할 것.
 
 **국방부는 보고 문구를 바꾼다.** 실제로 세 가지 형식을 겪었다. 2024년형은 `27 PLA aircraft and 7 PLAN vessels`, 2026년형은 `3 sorties of PLA aircraft, 7 PLAN ships and 4 official ships`, 2022년 11월 이전은 남서 ADIZ만 다루는 **다른 보고서**라 이 지수에 넣으면 안 된다(실측 경계: 150쪽=2022-11-24 성공 / 152쪽=2022-10-30 실패). 따라서 2022년 8월 펠로시 위기는 범위 밖이다. `parse_detail`은 숫자를 실제로 하나라도 뽑았을 때만 `parse_ok`를 준다. 이 방어가 없던 시절 2년치가 0으로 쌓여 기준선 중앙값을 무너뜨렸고 '평소 대비 113배' 같은 헛수치가 나왔다. 백필 로그에 `집계 문장 없음`이 대량으로 찍히면 형식이 또 바뀐 것이다.
 
 ---
 
-## GitHub Pages 설정
+## 배포
 
-레포 Settings → Pages → Source를 `Deploy from a branch`, 브랜치 `main` / 폴더 `/docs`로 지정. 별도 배포 스텝이 없다.
+공개 레포여야 한다 — 무료 계정은 공개 레포에서만 Pages를 쓸 수 있고, 공개 레포는 Actions 분도 무제한이다.
+
+```bash
+gh repo create taiwan-strait-tracker --public --source=. --remote=origin --push
+gh api -X POST repos/{owner}/taiwan-strait-tracker/pages \
+  -f 'source[branch]=main' -f 'source[path]=/docs'
+gh workflow run collect.yml      # cron 을 기다리지 말 것
+```
+
+**마지막 줄이 핵심이다.** 러너의 데이터센터 IP에서 구글 뉴스가 429나 동의 인터스티셜을 주는지는 로컬에서 알 방법이 없는데, T1 통신사(로이터·AP·CNN·교도)가 전부 그 경로를 탄다. 수동 실행 한 번이면 3분 만에 답이 나온다 — 워크플로 요약의 피드 건전성 표에서 `채택 0`이 뜨는지 보면 된다.
+
+**커밋 이메일.** 공개 전에 `git config user.email`을 GitHub noreply(`<ID>+<사용자명>@users.noreply.github.com`)로 바꿀 것. 원격이 생긴 뒤에는 히스토리 재작성이 사실상 불가능하다.
+
+**브랜치 보호를 걸면** 봇의 `git push`가 실패한다. 걸려면 `github-actions[bot]`을 예외로 둘 것.
+
+`docs/data/tension.json`은 **크론이 재생성할 수 없다.** 워크플로는 최신 1쪽만 긁으므로(`mnd.scrape(pages=1)`), 이 파일이 사라지면 누적 1300여 일치가 날아가고 15건짜리로 영원히 정체한다. 복구하려면 `python -m collector.mnd --backfill`을 다시 돌려야 한다.
 
 ---
 
