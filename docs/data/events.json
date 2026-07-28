@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-28T17:17:07Z",
+ "updated": "2026-07-28T19:55:12Z",
  "events": [
   {
    "id": "evt_20260728_ac360c",
@@ -99,6 +99,65 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260728_745d7d",
+   "headline": "余宗基闡述台海戰局與科技防衛新構想",
+   "headline_source": "大紀元 Epoch Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80Y2xGNW5lTnQ0Umh1UEJRWmo5YzBnbHNFMHhzVTNfTFJ0aTBjV3dZemVtdFFxTDB6SXBRc2NyLVY1ZE9JWWZ2VXBXSmFkUTI2em9xcnhVZjU4T3ZYWUIzU9IBZkFVX3lxTFBmYjI1VDM5Y1VFdlp5cHJDRTdMUkdNa2NUd09ReWhTMEktUVo1Z3lraW5xMjAzdExPYVRyejN3LW45eDYzR21wY0ZCV08wOC1TWHg0d3loM0dsUXpISDk4c1RWWlFCQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-07-28T18:32:00Z",
+   "last_seen": "2026-07-28T18:32:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b4be274f7f8c2937"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b4be274f7f8c2937",
+     "title": "余宗基闡述台海戰局與科技防衛新構想",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80Y2xGNW5lTnQ0Umh1UEJRWmo5YzBnbHNFMHhzVTNfTFJ0aTBjV3dZemVtdFFxTDB6SXBRc2NyLVY1ZE9JWWZ2VXBXSmFkUTI2em9xcnhVZjU4T3ZYWUIzU9IBZkFVX3lxTFBmYjI1VDM5Y1VFdlp5cHJDRTdMUkdNa2NUd09ReWhTMEktUVo1Z3lraW5xMjAzdExPYVRyejN3LW45eDYzR21wY0ZCV08wOC1TWHg0d3loM0dsUXpISDk4c1RWWlFCQQ?oc=5",
+     "published": "2026-07-28T18:32:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -212,6 +271,372 @@
      "entities": [],
      "source_name": "The Defense Post",
      "source_domain": "thedefensepost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260728_3967f0",
+   "headline": "漢光42號演習模擬共軍攻台！訓練要項曝",
+   "headline_source": "鏡週刊",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeVlMbWI0aUZIRXBpeElGZk5MNTVjaEJmQk1hcUtFZzZFNzA3SlpqTEJjVmFlS2pla2w5dkNlbGJCLUo4UTFyenZuOXdfSXdFQWZ0S04zQW5aeXlU0gFiQVVfeXFMT1dPUnlLOVVYU3VCMnBQY0RMbkVlSVAwWDN1aFBjT2J1Z01kYTV2QTkwMTZoTlJ3Y0JtSElyZXlFaURpS194Q2JDQWVzV1l3NFZ2dXlZc3U3OXFla0xDRzN3RHc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-07-28T01:39:00Z",
+   "last_seen": "2026-07-28T13:14:22Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 15,
+    "n_unrated": 5,
+    "score": 85.8,
+    "n_independent": 5,
+    "n_articles": 16,
+    "n_domains": 11,
+    "blocs": [
+     "independent",
+     "prc_state",
+     "tw_state",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 5곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "중국·대만 양측 모두 보도",
+     "정부·군 공식 발표 인용",
+     "中央社 CNA 원고를 客新聞 HakkaNews 가 전재 — 1곳으로 계산",
+     "미분류 매체 5곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "43f82920c65615c3",
+     "bd19bc28561d563d",
+     "1c0b84ad2da0f7b3",
+     "6a69b3ec8a5131d8",
+     "90391eaaa8c61b28",
+     "ae12e3fdf44e1225",
+     "66079ccbda23900f",
+     "387060c780db822c",
+     "2fab57f0120f83a2",
+     "2bbd27c25bfc75c2",
+     "e756d9e271734234",
+     "5bdbbc1d1763dec7",
+     "e10a8a1c33fb5041",
+     "8adef98afe3a19ef",
+     "eb725025e6d4c081"
+    ]
+   },
+   "articles": [
+    {
+     "id": "43f82920c65615c3",
+     "title": "漢光演習將展開總統勗勉國軍精進訓練維持台海和平| 政治",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Yll1dkJsZ2pNdHBobVhxMEt0U0xfRlkwWjRCM09OSW9hNTEyM2RVU0NQaTlULXh0WkplVGRIZDVwdlNrZU81Y2FsMml2cTVDOWpSNU5sUzRxdXNYLVhB?oc=5",
+     "published": "2026-07-28T01:39:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "military_drill",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "bd19bc28561d563d",
+     "title": "漢光42號演習模擬共軍攻台！訓練要項曝",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeVlMbWI0aUZIRXBpeElGZk5MNTVjaEJmQk1hcUtFZzZFNzA3SlpqTEJjVmFlS2pla2w5dkNlbGJCLUo4UTFyenZuOXdfSXdFQWZ0S04zQW5aeXlU0gFiQVVfeXFMT1dPUnlLOVVYU3VCMnBQY0RMbkVlSVAwWDN1aFBjT2J1Z01kYTV2QTkwMTZoTlJ3Y0JtSElyZXlFaURpS194Q2JDQWVzV1l3NFZ2dXlZc3U3OXFla0xDRzN3RHc?oc=5",
+     "published": "2026-07-28T02:24:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "military_drill",
+      "pla"
+     ],
+     "source_name": "鏡週刊",
+     "source_domain": "mirrormedia.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "1c0b84ad2da0f7b3",
+     "title": "漢光演習8/5登場模擬共軍攻台！國防部：排定兩旅級單位「全旅動員」",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUQUc3b0FJN0VDbEJpYXBjOS1XdUhoaE9aQ19JYTNSWXNnOE1vVi1Tb3E0MnhLaGJTTlAyVjdfa0Vrb19ObmVQaXIyY1RyZklza0hOZzV6SVpJUWxVTHpnVNIBZkFVX3lxTE5QcmF4UngwOVBRajg0NUJXeDNMYkJhcjZ4QUJmUUFlbFA3al9SWlUtWUZRcFNMZUYyVDBCaEFGNi0tQThBTy1UUU1tSW5yXzBXNnE2N0U0Q0c3N3ZqOG9WNHBpWVFDUQ?oc=5",
+     "published": "2026-07-28T02:32:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "military_drill",
+      "pla",
+      "tw_mnd"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "6a69b3ec8a5131d8",
+     "title": "漢光演習8/5登場！10天9夜模擬共軍攻台 2旅動員逾5000名後備兵力",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BVGxRT2ZQc2NTcW5YMEtRa0gyTEl0cDVHa3RIX0VpWkJNVVNzV0prTEVqUnFvSHVZVGg0Vmp6MC1HaWJlbzF4bzEyTDBMenRHOWc?oc=5",
+     "published": "2026-07-28T03:33:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "military_drill",
+      "pla"
+     ],
+     "source_name": "鏡報",
+     "source_domain": "mirrordaily.news",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "90391eaaa8c61b28",
+     "title": "漢光演習將登場 賴清德揭國家安全戰略首要目標：維持台海和平",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZmgydDIxNGhOTEQwY1hIVUlaT2NnWFJqLTBJbFhMb0VIemdYdXhWSDB4c1lpOTY0M0lNY2stenBaZkJkbTVKaTQ0bEbSAVJBVV95cUxNSTluVUNMMFFiSHpfeXlxS1RRRGM2ektrcjAwd19fMjZ6bVJvS1BhSG5YM1h5emlodS1DRUI2YVFldUZZcWprblJzSUF2OHRpek13?oc=5",
+     "published": "2026-07-28T04:36:21Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "lai_chingte",
+      "military_drill",
+      "taiwan_strait"
+     ],
+     "source_name": "NOWnews今日新聞",
+     "source_domain": "nownews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ae12e3fdf44e1225",
+     "title": "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tS1BlZlFtZkFrOEVOT0xzWGdfTjIzNXhBRFJDeGFIbHV3LTdyV1NIYnhWV0FJbVoxdnp2c2pVaHVBVUZwZUhZdzdqWUtxX2NL?oc=5",
+     "published": "2026-07-28T07:05:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "military_drill",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "客新聞 HakkaNews",
+     "source_domain": "hakkanews.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "66079ccbda23900f",
+     "title": "漢光演習將登場賴清德登鑑勗勉國軍維持台海和平穩定- 要聞",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQUROaGM4aXRiRDF0ZE1UbFMxQ3NZUDlvRUJPYXlPaDZOQXlKdWtRMXpjcEp5NVd2Tk9uaWlsZmVfdy1CZ1FicnVlTTE2dF84bm01SW1UczFoSU1xSXFn?oc=5",
+     "published": "2026-07-28T08:25:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "lai_chingte",
+      "military_drill",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "工商時報",
+     "source_domain": "ctee.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "387060c780db822c",
+     "title": "Taiwan to conduct drone and counter-drone drills in annual military exercises",
+     "url": "https://focustaiwan.tw/politics/202607280016",
+     "published": "2026-07-28T09:08:40Z",
+     "lang": "en",
+     "entities": [
+      "drone",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "2fab57f0120f83a2",
+     "title": "賴清德勗勉國軍精進訓練 共同維持台海和平",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GbXY2VjA2by1yZFVXUFM5ZWVNS0x6VWYtcjVXZ2xQUkg0YmgzcFo5U0FtV00wdjIxYTlqTzEwd2lXdDJCeDhNZWpEWUZObmNPeXdHTE1CLW5lNmk3MEhSY9IBZkFVX3lxTFA0VGRxa000eG5uQm1oTjI1LUtHM3Q0Mmt5SHhTNU5JQ0RLbzJWV215U25DMklDME5iX3E0Q2ZfLWthVi1BUENRNlFsZzRqRkZ0MldaV2tma28yakNES3hocmdoM2JiUQ?oc=5",
+     "published": "2026-07-28T09:14:00Z",
+     "lang": "zh",
+     "entities": [
+      "lai_chingte",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    },
+    {
+     "id": "2bbd27c25bfc75c2",
+     "title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV09PeXBMQkhMR2VPZjdsUjh0T21yTmR1eTl3N1NQbGZvZU1iWW1jMWxRbnZQWnp1V2hlZG04TG9WWXluNnlPQ0g5ZS1ISGJjRS1ZQWFDdDFMa0N3QnE1dlI2SHdfNTVyWlRBUXp3U3RwSjhudmRwRUZVclpHYWxPTW84LUY2QlV6Y1B6SFBCV1o?oc=5",
+     "published": "2026-07-28T10:17:19Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "rehearsal"
+     ],
+     "source_name": "dominotheory.com",
+     "source_domain": "dominotheory.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "e756d9e271734234",
+     "title": "Taiwan to test relocation of weapons production in annual war games",
+     "url": "https://focustaiwan.tw/politics/202607280022",
+     "published": "2026-07-28T10:49:55Z",
+     "lang": "en",
+     "entities": [
+      "tabletop_wargame"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "5bdbbc1d1763dec7",
+     "title": "台灣年度漢光演習在即 實兵演練反制共軍攻台",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrU0NpMVZXbjhPZU9XcmtvNm1WLTFiSGpnTWVjUmM3SS1wVzlvN2tKRVZWT3hPSTEwVW52Wk0zZXhZd0JPdFdZZDRTU2pHal91ai14TEFraUdoWGNTWGp4TtIBZkFVX3lxTE9rUGU0cFJfRDU4dnpZTVBydFp3UVRBd3pYUlBEVkZUaExGUzhuajFKSXpOa0tRSWQwMHpRV1JiV1ZqZTlycGtwUWlUbWp2U0ZaSG9TeU9rZHVmTVRRcDVUSXd3U3Jmdw?oc=5",
+     "published": "2026-07-28T11:18:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "military_drill",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    },
+    {
+     "id": "e10a8a1c33fb5041",
+     "title": "Taiwan Tests Relocating Weapons Production as Military Drills Prepare for Potential China Attack",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGpxR3RQNUxUUEFhTjZQWHR1aGNSNU5LaFBwQ0lTUEtROFVKQ2NtWVBtXzF4SkQzaHcwMjRMalhRSFhfNkdKdjhLODBoZXNtLXZHYU1BUlFEbzNDeW5YSV9BWmthcTRxZm5rR2cyR3lJODFEbG5HX0ZxUzhTVGFISjVfNXEwREtDS0NZZ1V3MEk2bmlrRXN4YlJPSnk3alRySTY4SjBGQnpOQ2ZFcEloZkJlR2xTT1p6ZUE?oc=5",
+     "published": "2026-07-28T11:20:01Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "International Business Times, Singapore Edition",
+     "source_domain": "ibtimes.sg",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "8adef98afe3a19ef",
+     "title": "Loong Air launches Chengdu-Taichung route with twice-weekly flights",
+     "url": "https://focustaiwan.tw/business/202607280024",
+     "published": "2026-07-28T11:43:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "eb725025e6d4c081",
+     "title": "Taiwan to test shifting weapons production during major military exercise",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNVBwM1dHYm0wU0dmVU56V1Z1UEt5VUpyOVcwZFFDTnEza1MxZnNIZEoxUTg1ZWZQZlJLLUJuRDZndmVVWEJYUTg1cVRBcktTbzl2VUFFb2ZGWTA3Rm5xaFd1VDBWZEZnM3k3MXlDUkhtcFJlTTRrNDZDSUVUd0pLdWNrbElEN1ZaYzlhdm1xd3NvbEwzUXd2elBZci1QRHhSV1NJSVczdkc4VTJMRmc?oc=5",
+     "published": "2026-07-28T13:14:22Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Minute Mirror",
+     "source_domain": "minutemirror.com.pk",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -399,391 +824,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260728_3967f0",
-   "headline": "漢光42號演習模擬共軍攻台！訓練要項曝",
-   "headline_source": "鏡週刊",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeVlMbWI0aUZIRXBpeElGZk5MNTVjaEJmQk1hcUtFZzZFNzA3SlpqTEJjVmFlS2pla2w5dkNlbGJCLUo4UTFyenZuOXdfSXdFQWZ0S04zQW5aeXlU0gFiQVVfeXFMT1dPUnlLOVVYU3VCMnBQY0RMbkVlSVAwWDN1aFBjT2J1Z01kYTV2QTkwMTZoTlJ3Y0JtSElyZXlFaURpS194Q2JDQWVzV1l3NFZ2dXlZc3U3OXFla0xDRzN3RHc?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-07-28T01:39:00Z",
-   "last_seen": "2026-07-28T11:43:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 15,
-    "n_unrated": 5,
-    "score": 85.8,
-    "n_independent": 5,
-    "n_articles": 16,
-    "n_domains": 11,
-    "blocs": [
-     "independent",
-     "prc_state",
-     "tw_state",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 5곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "중국·대만 양측 모두 보도",
-     "정부·군 공식 발표 인용",
-     "中央社 CNA 원고를 客新聞 HakkaNews 가 전재 — 1곳으로 계산",
-     "미분류 매체 5곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "68be66ed2e87d927"
-    ],
-    "tw_west": [
-     "43f82920c65615c3",
-     "bd19bc28561d563d",
-     "1c0b84ad2da0f7b3",
-     "6a69b3ec8a5131d8",
-     "90391eaaa8c61b28",
-     "99680cc5982b252b",
-     "ae12e3fdf44e1225",
-     "66079ccbda23900f",
-     "387060c780db822c",
-     "2fab57f0120f83a2",
-     "2bbd27c25bfc75c2",
-     "e756d9e271734234",
-     "5bdbbc1d1763dec7",
-     "e10a8a1c33fb5041",
-     "8adef98afe3a19ef"
-    ]
-   },
-   "articles": [
-    {
-     "id": "43f82920c65615c3",
-     "title": "漢光演習將展開總統勗勉國軍精進訓練維持台海和平| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE12Yll1dkJsZ2pNdHBobVhxMEt0U0xfRlkwWjRCM09OSW9hNTEyM2RVU0NQaTlULXh0WkplVGRIZDVwdlNrZU81Y2FsMml2cTVDOWpSNU5sUzRxdXNYLVhB?oc=5",
-     "published": "2026-07-28T01:39:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "military_drill",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "bd19bc28561d563d",
-     "title": "漢光42號演習模擬共軍攻台！訓練要項曝",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE8xeVlMbWI0aUZIRXBpeElGZk5MNTVjaEJmQk1hcUtFZzZFNzA3SlpqTEJjVmFlS2pla2w5dkNlbGJCLUo4UTFyenZuOXdfSXdFQWZ0S04zQW5aeXlU0gFiQVVfeXFMT1dPUnlLOVVYU3VCMnBQY0RMbkVlSVAwWDN1aFBjT2J1Z01kYTV2QTkwMTZoTlJ3Y0JtSElyZXlFaURpS194Q2JDQWVzV1l3NFZ2dXlZc3U3OXFla0xDRzN3RHc?oc=5",
-     "published": "2026-07-28T02:24:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "military_drill",
-      "pla"
-     ],
-     "source_name": "鏡週刊",
-     "source_domain": "mirrormedia.mg",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "1c0b84ad2da0f7b3",
-     "title": "漢光演習8/5登場模擬共軍攻台！國防部：排定兩旅級單位「全旅動員」",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBUQUc3b0FJN0VDbEJpYXBjOS1XdUhoaE9aQ19JYTNSWXNnOE1vVi1Tb3E0MnhLaGJTTlAyVjdfa0Vrb19ObmVQaXIyY1RyZklza0hOZzV6SVpJUWxVTHpnVNIBZkFVX3lxTE5QcmF4UngwOVBRajg0NUJXeDNMYkJhcjZ4QUJmUUFlbFA3al9SWlUtWUZRcFNMZUYyVDBCaEFGNi0tQThBTy1UUU1tSW5yXzBXNnE2N0U0Q0c3N3ZqOG9WNHBpWVFDUQ?oc=5",
-     "published": "2026-07-28T02:32:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "military_drill",
-      "pla",
-      "tw_mnd"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "68be66ed2e87d927",
-     "title": "7月28日台海早資訊",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcDZGRXRhcWFma0MzVU5Rc0NXbkpuVVloY0FjaUN3b0xaT2hiVUQwUmJHcGhvMUs5STVWVDMxUE8tX1V3cVB3N2l1Vk5nbnRiRENfU2tPdkpfRlRiMkYzdTYxNi0yeVpDSDJz?oc=5",
-     "published": "2026-07-28T03:06:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "香港中國通訊社",
-     "source_domain": "hkcna.hk",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 계열",
-     "hedged": false
-    },
-    {
-     "id": "6a69b3ec8a5131d8",
-     "title": "漢光演習8/5登場！10天9夜模擬共軍攻台 2旅動員逾5000名後備兵力",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BVGxRT2ZQc2NTcW5YMEtRa0gyTEl0cDVHa3RIX0VpWkJNVVNzV0prTEVqUnFvSHVZVGg0Vmp6MC1HaWJlbzF4bzEyTDBMenRHOWc?oc=5",
-     "published": "2026-07-28T03:33:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "military_drill",
-      "pla"
-     ],
-     "source_name": "鏡報",
-     "source_domain": "mirrordaily.news",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "90391eaaa8c61b28",
-     "title": "漢光演習將登場 賴清德揭國家安全戰略首要目標：維持台海和平",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1JZmgydDIxNGhOTEQwY1hIVUlaT2NnWFJqLTBJbFhMb0VIemdYdXhWSDB4c1lpOTY0M0lNY2stenBaZkJkbTVKaTQ0bEbSAVJBVV95cUxNSTluVUNMMFFiSHpfeXlxS1RRRGM2ektrcjAwd19fMjZ6bVJvS1BhSG5YM1h5emlodS1DRUI2YVFldUZZcWprblJzSUF2OHRpek13?oc=5",
-     "published": "2026-07-28T04:36:21Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "lai_chingte",
-      "military_drill",
-      "taiwan_strait"
-     ],
-     "source_name": "NOWnews今日新聞",
-     "source_domain": "nownews.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "99680cc5982b252b",
-     "title": "Chinese rocket launch expected to pass through Taiwan ADIZ: MND",
-     "url": "https://focustaiwan.tw/politics/202607280012",
-     "published": "2026-07-28T06:31:29Z",
-     "lang": "en",
-     "entities": [
-      "adiz"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "ae12e3fdf44e1225",
-     "title": "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9tS1BlZlFtZkFrOEVOT0xzWGdfTjIzNXhBRFJDeGFIbHV3LTdyV1NIYnhWV0FJbVoxdnp2c2pVaHVBVUZwZUhZdzdqWUtxX2NL?oc=5",
-     "published": "2026-07-28T07:05:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "military_drill",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "客新聞 HakkaNews",
-     "source_domain": "hakkanews.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "66079ccbda23900f",
-     "title": "漢光演習將登場賴清德登鑑勗勉國軍維持台海和平穩定- 要聞",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1aQUROaGM4aXRiRDF0ZE1UbFMxQ3NZUDlvRUJPYXlPaDZOQXlKdWtRMXpjcEp5NVd2Tk9uaWlsZmVfdy1CZ1FicnVlTTE2dF84bm01SW1UczFoSU1xSXFn?oc=5",
-     "published": "2026-07-28T08:25:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "lai_chingte",
-      "military_drill",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "工商時報",
-     "source_domain": "ctee.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "387060c780db822c",
-     "title": "Taiwan to conduct drone and counter-drone drills in annual military exercises",
-     "url": "https://focustaiwan.tw/politics/202607280016",
-     "published": "2026-07-28T09:08:40Z",
-     "lang": "en",
-     "entities": [
-      "drone",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "2fab57f0120f83a2",
-     "title": "賴清德勗勉國軍精進訓練 共同維持台海和平",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9GbXY2VjA2by1yZFVXUFM5ZWVNS0x6VWYtcjVXZ2xQUkg0YmgzcFo5U0FtV00wdjIxYTlqTzEwd2lXdDJCeDhNZWpEWUZObmNPeXdHTE1CLW5lNmk3MEhSY9IBZkFVX3lxTFA0VGRxa000eG5uQm1oTjI1LUtHM3Q0Mmt5SHhTNU5JQ0RLbzJWV215U25DMklDME5iX3E0Q2ZfLWthVi1BUENRNlFsZzRqRkZ0MldaV2tma28yakNES3hocmdoM2JiUQ?oc=5",
-     "published": "2026-07-28T09:14:00Z",
-     "lang": "zh",
-     "entities": [
-      "lai_chingte",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "大紀元 Epoch Times",
-     "source_domain": "epochtimes.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
-     "hedged": false
-    },
-    {
-     "id": "2bbd27c25bfc75c2",
-     "title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society",
-     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQV09PeXBMQkhMR2VPZjdsUjh0T21yTmR1eTl3N1NQbGZvZU1iWW1jMWxRbnZQWnp1V2hlZG04TG9WWXluNnlPQ0g5ZS1ISGJjRS1ZQWFDdDFMa0N3QnE1dlI2SHdfNTVyWlRBUXp3U3RwSjhudmRwRUZVclpHYWxPTW84LUY2QlV6Y1B6SFBCV1o?oc=5",
-     "published": "2026-07-28T10:17:19Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "rehearsal"
-     ],
-     "source_name": "dominotheory.com",
-     "source_domain": "dominotheory.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "e756d9e271734234",
-     "title": "Taiwan to test relocation of weapons production in annual war games",
-     "url": "https://focustaiwan.tw/politics/202607280022",
-     "published": "2026-07-28T10:49:55Z",
-     "lang": "en",
-     "entities": [
-      "tabletop_wargame"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "5bdbbc1d1763dec7",
-     "title": "台灣年度漢光演習在即 實兵演練反制共軍攻台",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBrU0NpMVZXbjhPZU9XcmtvNm1WLTFiSGpnTWVjUmM3SS1wVzlvN2tKRVZWT3hPSTEwVW52Wk0zZXhZd0JPdFdZZDRTU2pHal91ai14TEFraUdoWGNTWGp4TtIBZkFVX3lxTE9rUGU0cFJfRDU4dnpZTVBydFp3UVRBd3pYUlBEVkZUaExGUzhuajFKSXpOa0tRSWQwMHpRV1JiV1ZqZTlycGtwUWlUbWp2U0ZaSG9TeU9rZHVmTVRRcDVUSXd3U3Jmdw?oc=5",
-     "published": "2026-07-28T11:18:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "military_drill",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "大紀元 Epoch Times",
-     "source_domain": "epochtimes.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
-     "hedged": false
-    },
-    {
-     "id": "e10a8a1c33fb5041",
-     "title": "Taiwan Tests Relocating Weapons Production as Military Drills Prepare for Potential China Attack",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPMGpxR3RQNUxUUEFhTjZQWHR1aGNSNU5LaFBwQ0lTUEtROFVKQ2NtWVBtXzF4SkQzaHcwMjRMalhRSFhfNkdKdjhLODBoZXNtLXZHYU1BUlFEbzNDeW5YSV9BWmthcTRxZm5rR2cyR3lJODFEbG5HX0ZxUzhTVGFISjVfNXEwREtDS0NZZ1V3MEk2bmlrRXN4YlJPSnk3alRySTY4SjBGQnpOQ2ZFcEloZkJlR2xTT1p6ZUE?oc=5",
-     "published": "2026-07-28T11:20:01Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "International Business Times, Singapore Edition",
-     "source_domain": "ibtimes.sg",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "8adef98afe3a19ef",
-     "title": "Loong Air launches Chengdu-Taichung route with twice-weekly flights",
-     "url": "https://focustaiwan.tw/business/202607280024",
-     "published": "2026-07-28T11:43:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -1690,6 +1730,91 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260728_7437ba",
+   "headline": "7月28日台海早資訊",
+   "headline_source": "香港中國通訊社",
+   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcDZGRXRhcWFma0MzVU5Rc0NXbkpuVVloY0FjaUN3b0xaT2hiVUQwUmJHcGhvMUs5STVWVDMxUE8tX1V3cVB3N2l1Vk5nbnRiRENfU2tPdkpfRlRiMkYzdTYxNi0yeVpDSDJz?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-07-28T03:06:00Z",
+   "last_seen": "2026-07-28T06:31:29Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 55.1,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "prc_state",
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 관영·정부",
+     "2개 언어권에서 확인",
+     "중국·대만 양측 모두 보도",
+     "정부·군 공식 발표 인용",
+     "중국 관영·대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "68be66ed2e87d927"
+    ],
+    "tw_west": [
+     "99680cc5982b252b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "68be66ed2e87d927",
+     "title": "7月28日台海早資訊",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LcDZGRXRhcWFma0MzVU5Rc0NXbkpuVVloY0FjaUN3b0xaT2hiVUQwUmJHcGhvMUs5STVWVDMxUE8tX1V3cVB3N2l1Vk5nbnRiRENfU2tPdkpfRlRiMkYzdTYxNi0yeVpDSDJz?oc=5",
+     "published": "2026-07-28T03:06:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "香港中國通訊社",
+     "source_domain": "hkcna.hk",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 계열",
+     "hedged": false
+    },
+    {
+     "id": "99680cc5982b252b",
+     "title": "Chinese rocket launch expected to pass through Taiwan ADIZ: MND",
+     "url": "https://focustaiwan.tw/politics/202607280012",
+     "published": "2026-07-28T06:31:29Z",
+     "lang": "en",
+     "entities": [
+      "adiz"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -3972,7 +4097,7 @@
   {
    "id": "evt_20260727_7d0713",
    "headline": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周",
-   "headline_source": "商業周刊",
+   "headline_source": "商周",
    "headline_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSXlZTDVFdlJ2aUItSGhiUS10TThmNGpIa2RSYVBSUUxKaThqWVhJcElZTERHdC1kN00zYjNCcTNkTkxmeTBvUl9ZUVM4dTlLMGpMZnBScFlydmJ2dHUwWHR2d1hlQ0g4X0FOYQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-07-27T02:12:14Z",
@@ -4020,7 +4145,7 @@
       "suao",
       "taiwan_strait"
      ],
-     "source_name": "商業周刊",
+     "source_name": "商周",
      "source_domain": "businessweekly.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5196,7 +5321,7 @@
       "rehearsal",
       "taiwan_strait"
      ],
-     "source_name": "ilkha.com",
+     "source_name": "İlke Haber Ajansı",
      "source_domain": "ilkha.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -6124,64 +6249,44 @@
    ]
   },
   {
-   "id": "evt_20260721_04d877",
+   "id": "evt_20260723_29ceb4",
    "headline": "Taiwan Arms Sale Backlog, May 2026 Update",
    "headline_source": "Taiwan Security Monitor (GMU)",
    "headline_url": "https://tsm.schar.gmu.edu/taiwan-arms-sale-backlog-may-2026-update/?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-arms-sale-backlog-may-2026-update",
    "headline_lang": "en",
-   "first_seen": "2026-07-21T19:27:13Z",
+   "first_seen": "2026-07-23T19:24:00Z",
    "last_seen": "2026-07-23T19:24:00Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
     "n_unrated": 0,
-    "score": 46.5,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
+    "score": 26.9,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
      "independent"
     ],
     "top_tier": "TA",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
+     "독립 출처 1곳",
      "최고 등급 분석기관"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "bd30db1cfc773939",
      "d26373afcb977c9d"
     ]
    },
    "articles": [
-    {
-     "id": "bd30db1cfc773939",
-     "title": "CNN Interviews Taiwan Deputy Minister Chen on China Threats, Taiwan Strait, US Arms Sales",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNTjJGcWIzdWZzcjhrZ3A4VTBOZ0JraGlIZUhBSzBKTkFQOGtnOXZBdkhmdDVyMVYwN28yRDh3YXNkVk5GVXY0V2gyemRjNjM1UXAxRTJaeEQ2QWNOSkVSNzJNUnM3R3RDR1NTZ09FNTdoVE1OUkFPdndSWkZuNlRiMkpJZEI4Vmtvdi00VHBvNGJ4aGdROUdFTGhERGpWZTlQYmJENEtDR0x5eDJvay1BODEyZHB6S01zRllFbVpEMG92ZDN6QndSOGNQVQ?oc=5",
-     "published": "2026-07-21T19:27:13Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "taiwan_strait"
-     ],
-     "source_name": "看中國 Vision Times",
-     "source_domain": "visiontimes.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
-     "hedged": false
-    },
     {
      "id": "d26373afcb977c9d",
      "title": "Taiwan Arms Sale Backlog, May 2026 Update",
