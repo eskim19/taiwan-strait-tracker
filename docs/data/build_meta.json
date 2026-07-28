@@ -1,14 +1,14 @@
 {
- "updated": "2026-07-28T13:03:03Z",
- "duration_sec": 33.7,
+ "updated": "2026-07-28T13:28:12Z",
+ "duration_sec": 39.0,
  "rolling_days": 14,
- "n_events": 86,
- "n_articles": 141,
+ "n_events": 91,
+ "n_articles": 148,
  "grades": {
-  "D": 40,
-  "C": 39,
+  "D": 43,
+  "C": 40,
   "A": 2,
-  "B": 5
+  "B": 6
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -29,7 +29,7 @@
    "name": "Google News (영어·군사)",
    "status": "ok",
    "http": 200,
-   "n_entries": 53,
+   "n_entries": 52,
    "error": null
   },
   {
@@ -131,9 +131,9 @@
   {
    "id": "aljazeera",
    "name": "Al Jazeera",
-   "status": "not_modified",
-   "http": 304,
-   "n_entries": 0,
+   "status": "ok",
+   "http": 200,
+   "n_entries": 25,
    "error": null
   },
   {

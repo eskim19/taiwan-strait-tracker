@@ -63,12 +63,23 @@
   <section id="view-tension" class="view" hidden role="tabpanel">
     <div class="tiles" id="tension-tiles"></div>
 
+    <div class="controls">
+      <div class="control-group" role="group" aria-label="기간">
+        <span class="control-label">기간</span>
+        <button class="chip" data-range="90">90일</button>
+        <button class="chip is-on" data-range="365">1년</button>
+        <button class="chip" data-range="0">전체</button>
+      </div>
+    </div>
+
     <figure class="chart-figure">
       <figcaption>
         <h2>일일 긴장도 지수</h2>
         <p class="fig-note">
           지수 = 항공기 소티 + 2×해군 함정 + 관공선.
           절대값은 계절성·훈련주기 때문에 해석이 어려워, 직전 90일 중앙값 대비 배율을 함께 본다.
+          기간을 '전체'로 두면 2024년 연합리검, 2025년 해협뇌정 같은 대규모 훈련이
+          평시 대비 어느 높이였는지 눈으로 비교할 수 있다.
         </p>
       </figcaption>
       <div class="legend" id="tension-legend"></div>

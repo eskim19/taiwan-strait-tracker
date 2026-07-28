@@ -41,14 +41,27 @@ _TAGS = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
 
 _DATE = re.compile(r"PLA Activities\s+(\d{4})\.(\d{1,2})\.(\d{1,2})")
-_AIRCRAFT = re.compile(r"(\d+)\s+sorties?\s+of\s+PLA\s+aircraft", re.IGNORECASE)
-_NAVY = re.compile(r"(\d+)\s+PLAN\s+ships?", re.IGNORECASE)
+
+# 국방부는 문구를 여러 번 바꿨다. 두 형식을 모두 받아야 한다.
+#   2024년형: "27 PLA aircraft and 7 PLAN vessels operating around Taiwan were
+#             detected up until 6 a.m. … 19 of the aircraft crossed the median line"
+#   2026년형: "3 sorties of PLA aircraft, 7 PLAN ships and 4 official ships …
+#             detected as of 6 a.m. … 1 out of 3 sorties crossed the median line"
+# 한쪽만 지원하면 나머지 기간이 통째로 0으로 기록되고, 그 0이 기준선을 오염시켜
+# 평시/위기 비교를 무의미하게 만든다.
+_AIRCRAFT = re.compile(
+    r"(\d+)\s+(?:sorties?\s+of\s+)?PLA(?:AF)?\s+(?:aircraft|planes?|warplanes?)",
+    re.IGNORECASE,
+)
+_NAVY = re.compile(r"(\d+)\s+PLAN\s+(?:ships?|vessels?)", re.IGNORECASE)
 _OFFICIAL = re.compile(r"(\d+)\s+official\s+ships?", re.IGNORECASE)
 _BALLOON = re.compile(r"(\d+)\s+(?:PLA\s+)?balloons?", re.IGNORECASE)
-# 중간선 통과: "N out of M sorties crossed" / "N of them crossed" / "N sorties crossed"
+# 중간선 통과: "N out of M sorties crossed" / "N of the aircraft crossed"
+# / "N of them crossed" / "N sorties crossed"
 _CROSSED = re.compile(
-    r"(\d+)\s+(?:out\s+of\s+\d+\s+)?(?:sorties?\s+|of\s+(?:them|the\s+detected\s+sorties)\s+)?"
-    r"(?:sorties?\s+)?cross(?:ed)?\s+the\s+median\s+line",
+    r"(\d+)\s+(?:out\s+of\s+\d+\s+)?"
+    r"(?:sorties?\s+|of\s+(?:them|the\s+aircraft|the\s+detected\s+sorties)\s+)?"
+    r"(?:sorties?\s+|aircraft\s+)?cross(?:ed)?\s+the\s+median\s+line",
     re.IGNORECASE,
 )
 _NONE_CROSSED = re.compile(
@@ -109,26 +122,35 @@ def parse_detail(html):
     except ValueError:
         return None
 
-    def first_int(pattern, default=0):
-        found = pattern.search(text)
-        return int(found.group(1)) if found else default
+    matched = set()
 
-    aircraft = first_int(_AIRCRAFT)
-    navy = first_int(_NAVY)
-    official = first_int(_OFFICIAL)
-    balloons = first_int(_BALLOON)
+    def first_int(name, pattern, default=0):
+        found = pattern.search(text)
+        if found:
+            matched.add(name)
+            return int(found.group(1))
+        return default
+
+    aircraft = first_int("aircraft", _AIRCRAFT)
+    navy = first_int("navy", _NAVY)
+    official = first_int("official", _OFFICIAL)
+    balloons = first_int("balloon", _BALLOON)
 
     if _NONE_CROSSED.search(text):
         crossed = 0
     else:
-        crossed = first_int(_CROSSED)
+        crossed = first_int("crossed", _CROSSED)
     # 통과 소티가 전체 소티를 넘을 수는 없다(정규식 오매칭 방어)
     crossed = min(crossed, aircraft)
 
-    # '0으로 발표됨' 과 '정규식이 안 걸림' 을 구분한다. 국방부가 문장 형식을
-    # 바꾸면 지금까지는 조용히 0이 쌓이고 아무도 알아채지 못했다.
-    # 활동이 아예 없는 날에도 이 문장은 항상 나온다.
-    parse_ok = bool(_DETECTED.search(text))
+    # '0으로 발표됨' 과 '정규식이 안 걸림' 을 구분한다.
+    #
+    # 보고 문장이 있다는 것만으로는 부족하다 — 실제로 겪은 일인데, 국방부가
+    # 2024년에 쓰던 "27 PLA aircraft and 7 PLAN vessels" 형식은 그 문장을
+    # 갖고 있어 통과했지만 숫자 정규식이 전부 빗나가 2년치가 0으로 쌓였다.
+    # 그 0이 기준선 중앙값을 무너뜨려 '평소 대비 113배' 같은 헛수치를 만든다.
+    # 그래서 숫자를 실제로 하나라도 뽑았는지까지 확인한다.
+    parse_ok = bool(_DETECTED.search(text)) and bool(matched & {"aircraft", "navy"})
 
     return {
         "date": stamp.isoformat(),

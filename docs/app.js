@@ -11,6 +11,7 @@
     grade: "all",
     entity: null,
     entityLabels: {},
+    range: 365,
     query: "",
     archive: { month: "", query: "", events: [], cache: {} }
   };
@@ -363,14 +364,21 @@
     }
 
     // x축 눈금 — 월이 바뀌는 날에만. 창 시작이 월말이면 첫 두 라벨이 붙으므로
-    // 최소 간격을 두고 건너뛴다.
-    var lastMonth = null, lastX = -Infinity;
+    // 최소 간격을 두고 건너뛴다. 기간이 길면 월만으로는 몇 년치인지 알 수 없어
+    // 해가 바뀌는 지점에 연도를 붙인다.
+    var spanDays = data.length;
+    var monthStep = spanDays > 400 ? 3 : spanDays > 200 ? 2 : 1;
+    var lastMonth = null, lastX = -Infinity, lastYear = null, shown = 0;
     data.forEach(function (d, i) {
       var month = d.date.slice(0, 7);
       if (month === lastMonth) return;
       lastMonth = month;
+      var year = d.date.slice(0, 4);
+      var newYear = year !== lastYear;
+      if (!newYear && shown % monthStep !== 0) { shown += 1; return; }
+      shown += 1;
       var x = m.left + i * slot + slot / 2;
-      if (x - lastX < 42) return;
+      if (x - lastX < 44) return;
       lastX = x;
       var t = svgEl("text", {
         class: "tick",
@@ -378,7 +386,8 @@
         y: H - 8,
         "text-anchor": "middle"
       });
-      t.textContent = Number(d.date.slice(5, 7)) + "월";
+      t.textContent = (newYear ? year.slice(2) + "년 " : "") + Number(month.slice(5, 7)) + "월";
+      lastYear = year;
       svg.appendChild(t);
     });
 
@@ -479,7 +488,7 @@
 
     var recs = t.records;
     var last = recs[recs.length - 1];
-    var recent = recs.slice(-90);
+    var recent = state.range ? recs.slice(-state.range) : recs.slice();
 
     function tile(k, v, sub) {
       return el("div", { class: "tile" }, [
@@ -864,6 +873,19 @@
     $("#events-search").addEventListener("input", function (e) {
       state.query = e.target.value.trim();
       renderEvents();
+    });
+
+    $$("button[data-range]").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.classList.contains("is-on")));
+      b.addEventListener("click", function () {
+        $$("button[data-range]").forEach(function (x) {
+          var on = x === b;
+          x.classList.toggle("is-on", on);
+          x.setAttribute("aria-pressed", String(on));
+        });
+        state.range = Number(b.dataset.range);
+        renderTension();
+      });
     });
   }
 
