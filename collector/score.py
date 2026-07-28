@@ -240,14 +240,25 @@ def evaluate(articles):
     # 죽은 항 두 개(hedged 0/128, adversarial_pair 0/95)를 제거하고,
     # primary_cited 는 20 → 7 로 낮췄다. 실측상 그 항의 히트 7건이 전부
     # 중국어 '기관명：' 인용 구문이라 사실상 언어 보너스였다.
-    rated_weights = [
-        feedreg.TIER_WEIGHT.get(a["tier"], 0.3)
-        for a in reps if a["bloc"] != "unknown"
-    ]
+    # 증거력은 **독립 단위마다 하나씩**만 센다. 원고군으로 접은 뒤에도
+    # 같은 매체의 다른 기사 여러 건이 남을 수 있는데, 그대로 넣으면 로이터
+    # 기사 5건이 상위 4칸을 전부 채워 만점을 받는다 — 이 모듈이 막겠다고
+    # 선언한 바로 그 일이다(실측: 로이터 단독 61.3점 > 독립 T1 2곳 49.2점).
+    best_by_key = {}
+    for a in reps:
+        if a["bloc"] == "unknown":
+            continue
+        key = independence_key(a)
+        weight = feedreg.TIER_WEIGHT.get(a["tier"], 0.3)
+        best_by_key[key] = max(best_by_key.get(key, 0.0), weight)
+    rated_weights = list(best_by_key.values())
     unrated_weights = [
-        0.30 * feedreg.TIER_WEIGHT.get(a["tier"], 0.3)
-        for a in reps if a["bloc"] == "unknown"
-    ]
+        0.30 * max(
+            (feedreg.TIER_WEIGHT.get(a["tier"], 0.3)
+             for a in reps if a["bloc"] == "unknown"),
+            default=0.0,
+        )
+    ] if n_unrated else []
     score = (
         50 * _evidence(rated_weights + unrated_weights)
         + 24 * min(n_independent, 4) / 4

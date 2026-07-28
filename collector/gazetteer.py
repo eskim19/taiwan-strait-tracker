@@ -116,11 +116,22 @@ ENTITIES = {
     # 사건에 나오므로 사건을 식별하지 못한다(실측 순도: pla 0.24, roc_military
     # 0.14, xi_jinping 0.00). 사건을 식별하는 것은 사건 유형과 고유명뿐이다
     # (live_fire 1.00, military_drill 0.99).
-    "military_drill": ["military drill", "drill", "military exercise", "exercise",
-                       "manoeuvre", "maneuver",
-                       "軍演", "军演", "演習", "演习", "軍事演習", "军事演习",
-                       "演訓", "演练", "演練", "軍訓", "军训",
-                       "군사훈련", "군사 훈련", "훈련", "연습"],
+    # '연습 행사'(軍演·演習·Han Kuang 같은 지정된 훈련)만 앵커로 둔다.
+    # 아래 rehearsal 과 갈라놓은 이유는 실측이다 — 하나로 두면 사막의 총통부
+    # 모형에서 '演練斬首'(참수 리허설)와 한광훈련의 '演習'이 같은 앵커를 공유해
+    # 서로 무관한 세 스토리가 한 A등급 카드로 붙는다(혼입 12건 → 5건).
+    #
+    # 맨 '軍演' 은 뺐다. CJK 별칭은 부분문자열로 맞추는데 '共軍演練'(공군이
+    # 리허설한다)·'共軍演習' 안에 共**軍演**練 처럼 글자 경계를 넘어 우연히
+    # 걸린다. 그 오탐 하나 때문에 사막 총통부 모형 기사가 한광훈련 카드로
+    # 붙었다(혼입 3건 → 1건). '演習' 이 있으므로 손실은 없다.
+    "military_drill": ["military drill", "military exercise",
+                       "演習", "演习", "軍事演習", "军事演习",
+                       "軍訓", "军训", "군사훈련", "군사 훈련"],
+    # '리허설한다'는 서술. 특정 훈련 행사를 지목하지 못하므로 앵커가 아니다.
+    "rehearsal": ["drill", "exercise", "manoeuvre", "maneuver",
+                  "rehearse", "rehearsal",
+                  "演練", "演练", "演訓", "훈련", "연습"],
     # 도상훈련·워게임은 실제 무력행사가 아니다. military_drill 에 두면 미 의회
     # 시뮬레이션 기사가 실탄사격 사건에 빨려 들어간다(실측: 정밀도 0.915→0.979).
     "tabletop_wargame": ["war game", "wargame", "tabletop exercise", "simulation",
@@ -238,6 +249,7 @@ _set_kind("ASSET", [
     "helicopter", "warship", "aircraft_sortie",
 ])
 _set_kind("TOPIC", [
+    "rehearsal",
     # '攻台' 는 사건이 아니라 주제다(실측 순도 0.33). 논평·전망 기사가
     # 실제 군사 행동 기사와 묶이면 안 된다.
     "invasion", "gray_zone", "one_china", "1992_consensus", "reunification",

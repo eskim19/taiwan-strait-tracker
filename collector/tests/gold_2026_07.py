@@ -45,6 +45,7 @@ EVENTS = {
         "中共台海實彈射擊 國防部：嚴密警戒應處",
         "中國突宣布連2天台海實彈射擊 外交部嚴正譴責",
         "China launches two-day live-fire drills in Taiwan Strait",
+        "China Launches Live-Fire Drills Near Taiwan After Rubio-Wang Talks",
         "中國突宣布台海實彈射擊外交部：即刻停止軍事挑釁",
         "時論廣場》大陸台海「軍訓」的三重意涵",
         "中國突宣布2天台海實彈射擊 外交部譴責",
@@ -158,6 +159,83 @@ EVENTS = {
         "Rights protection in the Taiwan Straits a ‘new normal’",
         "環球時報海風｜台海維權已經進入新常態",
     ],
+
+    # ---------------------------------------------------------------------
+    # 07-27 ～ 07-28 확장분.
+    #
+    # 이 구간을 넣는 이유가 있다. 07-27 까지의 코퍼스는 훈련 기사가 거의 전부
+    # 같은 실탄사격 사건이어서 "military_drill 을 앵커로 써도 안전하다"는
+    # 잘못된 결론이 나왔다. 아래 다섯 사건은 **서로 다른 훈련**이 같은 날
+    # 공존하는 상황이라, 앵커 정책을 시험할 수 있는 유일한 구간이다.
+    # ---------------------------------------------------------------------
+
+    # 대만 연례 최대 군사훈련 한광(漢光) 개시 + 라이칭더 총통 격려
+    "HAN_KUANG_2026": [
+        "漢光演習將展開總統勗勉國軍精進訓練維持台海和平",
+        "快新聞／漢光演習將登場！賴清德",
+        "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平",
+        "漢光演習將登場賴清德登鑑勗勉國軍維持台海和平穩定",
+        "賴清德勗勉國軍精進訓練 共同維持台海和平",
+        "Taiwan’s Annual Han Kuang Drill Will Test Military and Society",
+        "台灣年度漢光演習在即 實兵演練反制共軍攻台",
+    ],
+    # 한광훈련의 한 과목 — 무기 생산시설 이전 시험
+    "ARMS_RELOCATION_DRILL": [
+        "Taiwan drills to test relocating arms production under Chinese attack",
+        "Taiwan Drills Test Relocating Arms Factories to Survive a Chinese Atta",
+        "Taiwan to test relocation of weapons production in annual war games",
+        "Taiwan Tests Relocating Weapons Production as Military Drills Prepare",
+        "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses",
+        "Taiwan to conduct drone and counter-drone drills in annual military ex",
+    ],
+    # AIT 가 미·대만 해순 함정 공동항행 사진을 이례적으로 공개
+    "AIT_COASTGUARD_PHOTO": [
+        "破天荒！AIT發布美台海巡艦海上共同演練照片",
+        "AIT刻意公布美台海巡同框照",
+        "刻意秀台美海巡船同框照 AIT",
+        "中共海警台灣海域活動升高 AIT罕見秀美台海巡同框照",
+        "AIT發布台美海巡船隻同框照古屋圭司",
+        "AIT披露台美海巡艦編隊航行 管碧玲",
+        "回應AIT公布美台海巡合作 管碧玲",
+        "AIT公開台美海巡合作 管碧玲",
+        "古屋圭司：守護台海和平理所當然",
+        "台美海巡深化合作 共同守護台海與印太安全",
+        "中海警頻擾AIT公布台海巡美國海岸防衛隊同框照",
+        "影音／併航海巡艦艇！ 美方首公開與台海事合作",
+    ],
+    # 중국 사막의 타이베이 총통부 실물 모형 (스냅샷 DESERT_REPLICA 의 연장)
+    "DESERT_REPLICA_2": [
+        "總統府、蘇澳基地都被複製！衛星影像揭中國",
+        "外媒揭共軍境內打造台北複製城",
+        "共軍造台灣總統府模型演練 國防部：威脅嚴峻",
+        "新聞360》中共山寨功力再升級！",
+        "PLA building more Taiwan mock-ups",
+        "中國沙漠暗藏台北「總統府」",
+    ],
+    # 이란전 탄약 소모 → 2027 대만해협 '취약 창' 논의
+    "IRAN_AMMO_WINDOW": [
+        "彈藥耗損讓川普暫停攻擊伊朗？2027台海風險",
+        "庫存告急？美軍打伊朗狂燒飛彈 專家：台海開戰恐撐不住",
+        "伊朗戰爭耗損美軍彈藥 美智庫警告2027年台海恐現「脆弱窗口期」",
+        "美國彈藥短缺才停轟伊朗？BBC：是防止台海曝「脆弱窗口」",
+        "川普口中完美的伊朗戰爭，為何讓美軍彈藥在2027台海",
+        "手握鐵鎚卻受困！紐時爆川普陷伊朗戰爭3難題華府緊盯台海",
+    ],
+    # 7/30 중국 로켓 발사가 대만 ADIZ 를 통과할 것이라는 국방부 예고
+    "ROCKET_THROUGH_ADIZ": [
+        "Chinese rocket launch expected to pass through Taiwan ADIZ",
+        "國防部：中共預計7/30發射火箭將經過台灣防空識別區",
+    ],
+    # 대만·영국 드론 산업 MOU (초기 라벨에서 놓쳤던 쌍)
+    "UK_DRONE_MOU": [
+        "Taiwan, U.K. sign MOU to boost bilateral drone industry exchanges",
+        "Taiwan and UK drone industry groups sign MOU",
+    ],
+    # 미 의회의 대만 국방 예산 승인
+    "US_CONGRESS_AID": [
+        "US Congress approves money for Taiwan defense",
+        "U.S. Congress Approves $500 Million Military Aid for Taiwan",
+    ],
 }
 
 # 경계가 모호해 평가에서 제외하는 사건쌍.
@@ -174,6 +252,11 @@ GRAY_PAIRS = [
     ("MND_DAILY_0724", "MND_DAILY_0725"),
     ("MND_DAILY_0724", "MND_DAILY_0726"),
     ("MND_DAILY_0725", "MND_DAILY_0726"),
+    # 무기생산 이전 시험은 한광훈련의 한 과목이다. 별개 스토리로 보도되지만
+    # 같은 훈련이라 어느 쪽으로 묶여도 틀렸다고 할 수 없다.
+    ("HAN_KUANG_2026", "ARMS_RELOCATION_DRILL"),
+    # 07-27 과 07-28 의 사막 모형 보도는 같은 사건의 이틀치다.
+    ("DESERT_REPLICA", "DESERT_REPLICA_2"),
 ]
 
 

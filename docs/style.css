@@ -6,7 +6,7 @@
   --page: #f9f9f7;
   --text-primary: #0b0b0b;
   --text-secondary: #52514e;
-  --text-muted: #898781;
+  --text-muted: #6b6a65;   /* 4.72:1 — 이전 #898781 은 3.50:1 로 AA 미달 */
   --grid: #e1e0d9;
   --axis: #c3c2b7;
   --border: rgba(11, 11, 11, 0.10);
@@ -360,4 +360,31 @@ td { font-variant-numeric: tabular-nums; }
   .article-row { flex-wrap: wrap; }
   .article-row .src { min-width: 0; }
   h1 { font-size: 1.25rem; }
+}
+
+/* 스킵 링크 — 헤더에서 푸터까지 Tab 을 500번 넘게 눌러야 했다 */
+.skip-link {
+  position: absolute; left: -9999px; top: 0; z-index: 20;
+  background: var(--surface-1); color: var(--text-primary);
+  border: 1px solid var(--border); border-radius: var(--radius);
+  padding: 10px 16px;
+}
+.skip-link:focus { left: 12px; top: 12px; }
+
+.sr-only {
+  position: absolute; width: 1px; height: 1px; overflow: hidden;
+  clip: rect(0 0 0 0); clip-path: inset(50%); white-space: nowrap;
+}
+
+.active-filter { display: flex; gap: 6px; margin-bottom: 8px; }
+
+/* 차트 포커스 링이 overflow 컨테이너에 잘리던 문제 */
+.chart-host { padding: 4px; }
+.chart-host svg:focus-visible { outline-offset: -3px; }
+
+/* 모바일 터치 타깃 24px 확보 */
+@media (max-width: 720px) {
+  .ent-chip, .chip { min-height: 26px; }
+  .event summary { min-height: 26px; }
+  .article-row a { display: inline-block; min-height: 24px; }
 }

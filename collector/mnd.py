@@ -29,10 +29,14 @@ OUT_PATH = ROOT / "docs" / "data" / "tension.json"
 
 BASE = "https://www.mnd.gov.tw"
 LIST_URL = BASE + "/en/news/plaactlist/{page}"
-# 국방부는 2020-11-14 까지 208쪽을 공개한다(실측: 12쪽=2026-04, 100쪽=2024-02,
-# 208쪽=2020-11). 2022년 8월 펠로시 방문 위기와 2024년 연합리검 훈련이 이 범위
-# 안에 있어, 지금 지수가 평시인지 위기인지 비교할 기준선을 만들 수 있다.
-FULL_HISTORY_PAGES = 210
+# 국방부는 208쪽(2020-11)까지 공개하지만, **이 지수에 쓸 수 있는 범위는
+# 2022년 11월까지**다. 그 이전은 "Air activities in the southwestern ADIZ"
+# 라는 다른 보고서라 항공기·함정 집계 문장 자체가 없다.
+#
+# 실측 경계(2026-07-29): 150쪽=2022-11-24 파싱 성공 / 152쪽=2022-10-30 실패.
+# 따라서 2022년 8월 펠로시 방문 위기는 **범위 밖**이다. 이전 주석은 208쪽까지
+# 긁으면 펠로시 위기가 들어온다고 적었는데 사실이 아니었다.
+FULL_HISTORY_PAGES = 151
 TIMEOUT = (6, 25)
 
 _DETAIL_LINK = re.compile(r'href="([^"]*?/PLAAct/(\d+))"', re.IGNORECASE)
@@ -60,8 +64,8 @@ _BALLOON = re.compile(r"(\d+)\s+(?:PLA\s+)?balloons?", re.IGNORECASE)
 # / "N of them crossed" / "N sorties crossed"
 _CROSSED = re.compile(
     r"(\d+)\s+(?:out\s+of\s+\d+\s+)?"
-    r"(?:sorties?\s+|of\s+(?:them|the\s+aircraft|the\s+detected\s+sorties)\s+)?"
-    r"(?:sorties?\s+|aircraft\s+)?cross(?:ed)?\s+the\s+median\s+line",
+    r"(?:sorties?\s+|of\s+(?:them|the\s+aircraft|the\s+detected\s+(?:aircraft|sorties))\s+)?"
+    r"(?:sorties?\s+|aircraft\s+)?(?:had\s+)?cross(?:ed)?\s+the\s+median\s+line",
     re.IGNORECASE,
 )
 _NONE_CROSSED = re.compile(
@@ -70,7 +74,8 @@ _NONE_CROSSED = re.compile(
 )
 # 이 문장은 활동이 0인 날에도 반드시 나온다. 파싱 성공 여부의 판정 기준.
 _DETECTED = re.compile(
-    r"(?:were|was)\s+detected\s+as\s+of|operating\s+around\s+Taiwan", re.IGNORECASE
+    r"(?:were|was)\s+detected\s+(?:as\s+of|by|up\s+until)"
+    r"|operating\s+around\s+Taiwan", re.IGNORECASE
 )
 
 
@@ -95,12 +100,15 @@ def list_detail_ids(session, page):
         if num in seen:
             continue
         seen.add(num)
-        # 목록 항목의 날짜는 링크 바로 앞에 온다
-        window = page_text(text[max(0, match.start() - 400) : match.end()])
-        found = _LIST_DATE.findall(window)
+        # 날짜는 링크 **뒤에** 온다. 앞을 보면 윗 항목의 날짜를 집어
+        # 목록 전체가 한 칸씩 밀리고, "이미 가진 날짜는 건너뛴다" 규칙과
+        # 맞물려 격일로 건너뛰는 자기증식 버그가 된다(실측: 커버리지 100%
+        # → 58.8%, 2일 간격 345건이 그 지문이었다).
+        window = page_text(text[match.end() : match.end() + 400])
+        found = _LIST_DATE.search(window)
         stamp = None
         if found:
-            year, month, day = (int(x) for x in found[-1])
+            year, month, day = (int(x) for x in found.groups())
             try:
                 stamp = date(year, month, day).isoformat()
             except ValueError:
@@ -186,7 +194,7 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
     session = session or make_session()
     existing = load_existing() if existing is None else existing
     records = dict(existing)
-    added = skipped = failed = 0
+    added = skipped = failed = mismatched = 0
 
     for page in range(1, pages + 1):
         try:
@@ -202,6 +210,7 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
             if stamp and stamp in records:
                 skipped += 1
                 continue
+            expected = stamp
             try:
                 time.sleep(delay)
                 resp = session.get(url, timeout=TIMEOUT)
@@ -224,6 +233,17 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
                 if verbose:
                     print(f"  집계 문장 없음 {record['date']} — 형식 변경 의심 {url}")
                 continue
+            # 목록에서 읽은 날짜와 상세 페이지의 날짜가 어긋나면 목록 파싱이
+            # 밀린 것이다. 이 교차검증이 있었으면 격일 건너뛰기 버그가
+            # 배포되지 않았다. 건너뛰기 판단의 근거가 무너진 것이므로
+            # 조용히 넘기지 않고 집계해서 드러낸다.
+            if expected and expected != record["date"]:
+                mismatched += 1
+                if verbose:
+                    print(
+                        f"  ! 날짜 불일치: 목록 {expected} vs 상세 {record['date']}"
+                        f" — 목록 파싱 확인 필요 {url}"
+                    )
             if record["date"] not in records:
                 added += 1
                 if verbose:
@@ -234,7 +254,8 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
                     )
             records[record["date"]] = record
 
-    return records, {"added": added, "skipped": skipped, "failed": failed}
+    return records, {"added": added, "skipped": skipped,
+                     "failed": failed, "mismatched": mismatched}
 
 
 BASELINE_DAYS = 90

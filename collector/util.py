@@ -101,10 +101,22 @@ def strip_html(text):
 # ---------------------------------------------------------------------------
 
 # 매체가 제목 앞뒤에 붙이는 상용구. 남겨두면 같은 원고인데도 토큰이 갈린다.
-_FURNITURE = re.compile(
+#
+# 이 규칙은 한 번 잘못 만들어 크게 데였다. 이전 판은 `\s*-\s*[A-Za-z0-9.\s]{2,25}$`
+# 였는데, 하이픈 앞뒤 공백을 요구하지 않아 하이픈 단어를 통째로 먹었다:
+#   "…hits three-year low"        → "…hits three"
+#   "…new gray-zone tactics near" → "…new gray"   (43% 소실)
+# 게다가 문자 클래스에 숫자가 있어 "- 17 sorties" 같은 꼬리가 지워지면서
+# same_copy 의 숫자 충돌 방어까지 무력화됐다.
+#
+# 지금은 (1) 대시 앞뒤에 공백을 요구하고 (2) 꼬리에 숫자를 허용하지 않으며
+# (3) 아래 strip_furniture 가 고정점 반복 대신 한 번만 적용한다.
+_FURNITURE_PREFIX = re.compile(
     r"^\s*(?:【[^】]*】|\[[^\]]*\]|快訊／|快讯／|獨家／|独家／|更新／|影音／)+"
-    r"|\s*[|｜]\s*[^|｜]{1,20}$"
-    r"|\s*-\s*[A-Za-z0-9.\s]{2,25}$",
+)
+_FURNITURE_SUFFIX = re.compile(
+    r"\s*[|｜]\s*[^|｜]{1,20}$"          # "| 政治焦點"
+    r"|\s+[-–—]\s+[A-Za-z.\s]{2,25}$"   # " - SCMP" (숫자 불허, 양쪽 공백 필수)
 )
 
 _EN_STOP = {
@@ -122,18 +134,41 @@ _NUMBER_WORDS = {
     "一": 1, "兩": 2, "两": 2, "二": 2, "三": 3, "四": 4, "五": 5, "六": 6,
     "七": 7, "八": 8, "九": 9, "十": 10,
 }
-_WORD_NUM = re.compile("|".join(sorted(_NUMBER_WORDS, key=len, reverse=True)),
-                       re.IGNORECASE)
+# 라틴 숫자어는 반드시 단어 경계를 요구한다. 경계가 없으면 이 코퍼스에서
+# 가장 흔한 두 단어가 숫자를 만들어낸다 — "tension" → ten → 10,
+# "drone" → one → 1. 실측으로 스냅샷 128건 중 25건(20%)이 환각 숫자를 가졌고,
+# 그 결과 로이터·BBC·AP 가 "같은 발표 수치를 인용한 1곳"으로 계산됐다.
+_LATIN_NUM_WORDS = {k: v for k, v in _NUMBER_WORDS.items() if k.isascii()}
+_WORD_NUM = re.compile(
+    r"(?<![A-Za-z])(?:"
+    + "|".join(sorted(_LATIN_NUM_WORDS, key=len, reverse=True))
+    + r")(?![A-Za-z])",
+    re.IGNORECASE,
+)
+# CJK 숫자(五·十 …)는 형태소로 너무 흔해(五角大廈=펜타곤, 九二共識=92공식)
+# 지문으로 쓸 수 없다. 兩/两 만 "連兩天"(이틀 연속) 관용구 때문에 남긴다.
+_CJK_NUM_WORDS = {"兩": 2, "两": 2}
 _DIGITS = re.compile(r"\d{1,4}")
 
 
 def strip_furniture(title):
-    """매체 상용구·꼬리표 제거."""
-    prev = None
-    text = title or ""
-    while prev != text:
-        prev = text
-        text = _FURNITURE.sub("", text).strip()
+    """매체 상용구·꼬리표 제거.
+
+    두 가지를 지킨다.
+
+    1. 고정점까지 반복하지 않는다. 반복하면 "A｜B｜C" 가 "A" 로 무너진다.
+    2. **떼어낸 것이 남는 것보다 길면 떼지 않는다.** 꼬리표는 본문보다 짧다는
+       것이 유일하게 믿을 만한 신호다. 대만·홍콩 매체는 ｜를 꼬리표로도
+       쓰지만("…菲律賓| 軍事") 칼럼명 접두로도 쓴다("台海有戰事｜兩岸…").
+       길이 조건이 없으면 후자에서 제목 본문이 통째로 날아가고, 같은 칼럼의
+       서로 다른 기사 두 개가 동일한 토큰 집합이 되어 전재로 오인된다.
+    """
+    text = (title or "").strip()
+    text = _FURNITURE_PREFIX.sub("", text).strip()
+
+    stripped = _FURNITURE_SUFFIX.sub("", text).strip()
+    if stripped and len(stripped) > len(text) - len(stripped):
+        text = stripped
     return text
 
 
@@ -153,11 +188,18 @@ def title_tokens(title, lang):
 
 
 def title_numbers(title):
-    """제목의 숫자 지문. 숫자어를 아라비아 숫자로 정규화한다."""
-    text = strip_furniture(title or "")
+    """제목의 숫자 지문. 숫자어를 아라비아 숫자로 정규화한다.
+
+    상용구를 떼기 **전** 원문에서 뽑는다. 꼬리표 제거가 숫자를 지우면
+    "숫자가 충돌하니 다른 회차다"라는 방어가 조용히 꺼진다.
+    """
+    text = title or ""
     found = {int(m.group(0)) for m in _DIGITS.finditer(text)}
     for match in _WORD_NUM.finditer(text):
-        found.add(_NUMBER_WORDS[match.group(0).lower()])
+        found.add(_LATIN_NUM_WORDS[match.group(0).lower()])
+    for word, value in _CJK_NUM_WORDS.items():
+        if word in text:
+            found.add(value)
     # 연도는 변별력이 없다
     return {n for n in found if not (1900 <= n <= 2100)}
 

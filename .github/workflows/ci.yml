@@ -1,0 +1,40 @@
+name: ci
+
+# 클러스터링·등급 코드를 고치면 회귀 게이트를 강제한다.
+#
+# 이 게이트가 없던 동안 실제로 벌어진 일: 지표는 "통과"인데 국방부 시계열의
+# 41%가 사라지고, 로이터·BBC·AP 가 한 출처로 계산되고, 같은 기사가 두 카드에
+# 노출됐다. 게이트는 네트워크를 타지 않고 7초면 끝난다 — 안 돌릴 이유가 없다.
+
+on:
+  push:
+    paths:
+      - "collector/**"
+      - "requirements.txt"
+      - ".github/workflows/ci.yml"
+  pull_request:
+    paths:
+      - "collector/**"
+      - "requirements.txt"
+
+jobs:
+  gate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 클러스터링 회귀 게이트
+        run: python -m collector.metrics --robust
+
+      - name: 데이터 사실성 검사
+        run: python -m collector.selfcheck

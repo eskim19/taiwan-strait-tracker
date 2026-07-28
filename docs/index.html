@@ -9,6 +9,7 @@
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'><text y='14' font-size='14'>🌊</text></svg>">
 </head>
 <body>
+<a class="skip-link" href="#view-events">본문으로 건너뛰기</a>
 
 <header class="site-head">
   <div class="wrap">
@@ -32,10 +33,11 @@
   <button role="tab" class="tab" data-view="archive" aria-selected="false">아카이브</button>
 </nav>
 
-<main class="wrap">
+<main class="wrap" id="main" aria-label="본문">
 
   <!-- 사건 피드 -->
   <section id="view-events" class="view" role="tabpanel">
+    <h2 class="sr-only">사건 목록</h2>
     <div class="controls">
       <div class="control-group" role="group" aria-label="정렬">
         <span class="control-label">정렬</span>
@@ -55,6 +57,7 @@
         <input id="events-search" type="search" placeholder="제목·매체명" autocomplete="off">
       </div>
     </div>
+    <div id="active-filter" class="active-filter"></div>
     <p class="result-count" id="events-count" aria-live="polite"></p>
     <div id="events-list" class="event-list"></div>
   </section>
@@ -127,6 +130,7 @@
 
   <!-- 아카이브 -->
   <section id="view-archive" class="view" hidden role="tabpanel">
+    <h2 class="sr-only">아카이브</h2>
     <div class="controls">
       <div class="control-group">
         <label class="control-label" for="archive-month">기간</label>

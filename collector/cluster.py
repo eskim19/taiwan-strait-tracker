@@ -51,6 +51,18 @@ COMMON_ENTITY_RATIO = 0.40
 # 48시간은 안 된다 — 실탄사격 사건 자체가 48.4시간이다.
 MAX_EVENT_SPAN_HOURS = 72
 
+# 앵커가 하나뿐일 때 그 앵커에 허용되는 최대 문서빈도.
+#
+# 흔한 앵커(military_drill) 단독 병합을 막으려 도입했다가 **빈도로는 좋은
+# 앵커와 나쁜 앵커를 가를 수 없다**는 것을 다시 확인했다. 라이브에서는
+# military_drill 28.7% > live_fire 16.1% 인데 스냅샷에서는 live_fire 28.9% >
+# military_drill 23.4% 로 순서가 뒤집힌다. 어떤 값을 잡아도 코퍼스가 바뀌면
+# 반대로 동작한다 — IDF 가중이 실패한 것과 정확히 같은 이유다.
+#
+# 그래서 상한을 사실상 끄고, 과병합은 어휘(EVENT 엔티티 정밀화)와 골드
+# 라벨 확장으로 잡는다. 1.0 을 넘기면 이 규칙은 비활성이다.
+SOLO_ANCHOR_MAX_DF = 1.01
+
 
 def _vectorizer(lang):
     if lang == "en":
@@ -139,7 +151,8 @@ def _signature_stats(articles):
     limit = COMMON_ENTITY_RATIO * total
     common = {key for key, count in counts.items() if count > limit}
     weights = {key: math.log(1 + total / count) for key, count in counts.items()}
-    return common, weights
+    frequency = {key: count / total for key, count in counts.items()}
+    return common, weights, frequency
 
 
 def _weight_of(elements, weights):
@@ -167,7 +180,7 @@ def _gap_hours(span_a, span_b):
     return max(0.0, (overlap_start - overlap_end).total_seconds() / 3600.0)
 
 
-def merge_cross_language(groups, common, weights):
+def merge_cross_language(groups, common, weights, frequency):
     """언어별 클러스터를 시그니처로 병합.
 
     union-find 로 한 번에 잇지 않는다. 그렇게 하면 A-B 가 닮고 B-C 가 닮았다는
@@ -190,8 +203,14 @@ def merge_cross_language(groups, common, weights):
                 # 앵커 게이트 — 공유 요소 중 최소 하나가 사건 유형·고유명·큰 숫자여야
                 # 병합을 연다. 행위자(pla 등)만 공유하는 쌍은 유사도가 아무리 높아도
                 # 막는다. 이걸 허용하면 정밀도가 1.000 → 0.893 으로 무너진다.
-                if not anchors(sig_a & sig_b):
+                shared_anchors = anchors(sig_a & sig_b)
+                if not shared_anchors:
                     continue
+                # 흔한 앵커 하나만 공유하는 것으로는 부족하다(위 상수 주석 참조)
+                if len(shared_anchors) == 1:
+                    only = next(iter(shared_anchors))
+                    if frequency.get(only, 0.0) > SOLO_ANCHOR_MAX_DF:
+                        continue
                 score, shared_weight = _weighted_overlap(sig_a, sig_b, weights)
                 if shared_weight < MIN_SHARED_WEIGHT or score < SIG_OVERLAP:
                     continue
@@ -235,8 +254,8 @@ def cluster_articles(articles):
         for index_group in cluster_one_language(items, lang):
             groups.append([items[i] for i in index_group])
 
-    common, weights = _signature_stats(articles)
-    groups = merge_cross_language(groups, common, weights)
+    common, weights, frequency = _signature_stats(articles)
+    groups = merge_cross_language(groups, common, weights, frequency)
 
     for group in groups:
         group.sort(key=lambda a: a["published"])

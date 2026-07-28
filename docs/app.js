@@ -24,7 +24,7 @@
     var node = document.createElement(tag);
     if (attrs) {
       Object.keys(attrs).forEach(function (k) {
-        if (k === "class") node.className = attrs[k];
+        if (k === "class") { if (attrs[k]) node.className = attrs[k]; }
         else if (k === "text") node.textContent = attrs[k];
         else if (k === "html") node.innerHTML = attrs[k];
         else if (attrs[k] !== null && attrs[k] !== undefined) node.setAttribute(k, attrs[k]);
@@ -73,20 +73,38 @@
 
   // 사건 객체 하나가 스키마에서 벗어나면 화면 세 곳이 통째로 사라지던 문제를
   // 막는다. 조용히 비는 것보다 어디가 깨졌는지 보여주는 게 낫다.
+  //
+  // 오류 박스는 host 안이 아니라 **앞에** 붙인다. 안에 붙이면 다음 렌더가
+  // host.textContent="" 로 지워버려 보호가 무효가 된다(실제로 긴장도 탭에서
+  // 그렇게 됐다 — 차트가 사라졌는데 오류 메시지는 한 글자도 안 나왔다).
+  //
+  // 그리고 boot 전용이 아니다. 검색·필터·탭 전환 등 모든 렌더 호출이 이걸
+  // 거쳐야 한다. 첫 상호작용 이후 보호가 사라지면 없는 것과 같다.
   function guard(name, fn) {
+    var host = $("#" + name);
+    var prior = host && host.parentNode
+      ? host.parentNode.querySelector(":scope > .render-error")
+      : null;
+    if (prior) prior.remove();
     try {
       fn();
     } catch (err) {
-      var host = $("#" + name);
-      if (host) {
-        host.appendChild(el("div", {
-          class: "error-box",
-          text: "이 영역을 그리지 못했습니다 — " + err.message
-        }));
+      if (host && host.parentNode) {
+        host.parentNode.insertBefore(
+          el("div", {
+            class: "error-box render-error",
+            role: "alert",
+            text: "이 영역을 그리지 못했습니다 — " + err.message
+          }),
+          host
+        );
       }
       if (window.console) console.error(name, err);
     }
   }
+
+  // 사건 목록은 여러 곳에서 다시 그린다. 전부 이 함수를 거치게 한다.
+  function refreshEvents() { guard("events-list", renderEvents); }
 
   // ------------------------------------------------------------ 테마 전환
   function initTheme() {
@@ -104,7 +122,9 @@
       document.documentElement.setAttribute("data-theme", next);
       try { localStorage.setItem("tst-theme", next); } catch (e) { /* 무시 */ }
       updateThemeIcon();
-      renderTension();  // SVG 는 CSS 변수를 계산값으로 굳혀 쓰므로 다시 그린다
+      // SVG 는 CSS 변수를 계산값으로 굳혀 쓰므로 다시 그려야 한다.
+      // 다만 보이지 않는 뷰까지 그릴 이유는 없다(모바일에서 99ms 낭비).
+      if (!$("#view-tension").hidden) guard("tension-tiles", renderTension);
     });
   }
 
@@ -220,7 +240,11 @@
         });
         btn.addEventListener("click", function () {
           state.entity = state.entity === e ? null : e;
-          renderEvents();
+          // 아카이브·관점대조 탭에서도 이 카드가 렌더된다. 그쪽에서 누르면
+          // 눈앞에서는 아무 일도 안 일어나면서 사건 탭에만 조용히 필터가
+          // 걸렸다. 필터를 쓰는 탭으로 데려간다.
+          if (location.hash.replace("#", "") !== "events") location.hash = "events";
+          refreshEvents();
         });
         entChips.appendChild(btn);
       });
@@ -268,13 +292,29 @@
 
     var label = items.length + "건";
     if (items.length !== state.events.length) {
-      label += " (전체 " + state.events.length + "건 중";
-      if (state.entity) {
-        label += ", 주제: " + ((state.entityLabels && state.entityLabels[state.entity]) || state.entity);
-      }
-      label += ")";
+      label += " (전체 " + state.events.length + "건 중)";
     }
     $("#events-count").textContent = label;
+
+    // 주제 필터는 카드 안의 칩으로만 켜지므로, 결과가 0건이면 화면에서
+    // 필터가 걸렸다는 사실도 끄는 방법도 사라진다. 항상 보이는 해제 칩을 둔다.
+    var host = $("#active-filter");
+    host.textContent = "";
+    if (state.entity) {
+      var name = (state.entityLabels && state.entityLabels[state.entity]) || state.entity;
+      var clear = el("button", {
+        type: "button",
+        class: "chip is-on",
+        "aria-label": "주제 필터 '" + name + "' 해제",
+        text: "주제: " + name + " ✕"
+      });
+      clear.addEventListener("click", function () {
+        state.entity = null;
+        refreshEvents();
+        $("#events-search").focus();
+      });
+      host.appendChild(clear);
+    }
 
     if (!items.length) {
       list.appendChild(el("p", {
@@ -580,7 +620,7 @@
   // -------------------------------------------------------- 관점 대조
   function miniRow(a) {
     return el("div", { class: "mini-row" }, [
-      el("a", { href: a.url, target: "_blank", rel: "noopener noreferrer", text: a.title }),
+      link(a.url, a.title, null, a.lang),
       el("div", { class: "mini-meta", text: a.source_name + " · " + fmtDate(a.published) + (a.bias ? " · " + a.bias : "") })
     ]);
   }
@@ -674,9 +714,12 @@
     $("#archive-count").textContent = "불러오는 중…";
     getJSON("data/archive/" + month + ".json").then(function (data) {
       state.archive.cache[month] = data.events || [];
+      // 늦게 도착한 응답이 이미 바뀐 선택을 덮어쓰지 않게 한다
+      if (month !== state.archive.month) return;
       state.archive.events = state.archive.cache[month];
       renderArchive();
     }).catch(function (err) {
+      if (month !== state.archive.month) return;
       $("#archive-count").textContent = "";
       $("#archive-list").textContent = "";
       $("#archive-list").appendChild(el("div", { class: "error-box", text: "아카이브를 불러오지 못함: " + err.message }));
@@ -810,7 +853,7 @@
     });
     $$(".view").forEach(function (v) { v.hidden = true; });
     $("#view-" + name).hidden = false;
-    if (name === "tension") renderTension();
+    if (name === "tension") guard("tension-tiles", renderTension);
   }
 
   function initTabs() {
@@ -852,7 +895,7 @@
         x.setAttribute("aria-pressed", String(on));
       });
       apply();
-      renderEvents();
+      refreshEvents();
     }
 
     $$("button[data-sort]").forEach(function (b) {
@@ -872,7 +915,7 @@
     });
     $("#events-search").addEventListener("input", function (e) {
       state.query = e.target.value.trim();
-      renderEvents();
+      refreshEvents();
     });
 
     $$("button[data-range]").forEach(function (b) {

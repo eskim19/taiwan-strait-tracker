@@ -2,8 +2,11 @@ name: collect
 
 on:
   schedule:
-    # 매시 17분. 정각은 GitHub 러너가 가장 붐비는 구간이라 피한다.
-    - cron: "17 * * * *"
+    # 3시간마다. 매시로 잡았을 때 실측하니 시간 슬롯 318개 중 244개(77%)가
+    # 신규 기사 0건이었고(도착률 시간당 0.45건), 국방부는 하루 1회 발표한다.
+    # 최대 지연 3시간은 '사건 단위 집계'라는 성격을 바꾸지 않으면서
+    # Actions 분과 커밋 수를 1/3로 줄인다.
+    - cron: "17 */3 * * *"
   workflow_dispatch:
   push:
     branches: [main]
@@ -33,6 +36,15 @@ jobs:
 
       - name: 의존성 설치
         run: pip install -r requirements.txt
+
+      # 게이트는 네트워크를 안 타고 7초면 끝난다. 실패해도 수집은 계속한다 —
+      # 데이터 수집 중단이 클러스터링 품질 저하보다 회복 불가능하기 때문이다.
+      # 피드는 지나간 시간을 돌려주지 않는다.
+      - name: 회귀 게이트(비차단)
+        continue-on-error: true
+        run: |
+          python -m collector.metrics | tee -a "$GITHUB_STEP_SUMMARY"
+          python -m collector.selfcheck | tee -a "$GITHUB_STEP_SUMMARY"
 
       - name: 수집 실행
         run: python -m collector.build

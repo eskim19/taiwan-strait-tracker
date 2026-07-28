@@ -1,5 +1,8 @@
-requests>=2.32
-feedparser>=6.0
-scikit-learn>=1.5
-numpy>=1.26
-certifi>=2024.2
+# 버전을 고정한다. 회귀 게이트 여유가 크지 않은데 매시 pip install 을 새로
+# 하므로, sklearn 이 TfidfVectorizer 토큰화나 AgglomerativeClustering 동률
+# 처리를 미세하게 바꾸면 **코드 변경 0으로** 클러스터링 결과가 달라진다.
+requests==2.34.2
+feedparser==6.0.12
+scikit-learn==1.9.0
+numpy==2.4.6
+certifi==2026.6.17

@@ -6,3 +6,8 @@ venv/
 # 매 실행마다 내용이 바뀌어 무의미한 커밋만 늘린다.
 state/
 .DS_Store
+
+# 원자적 쓰기 임시파일과 --rebuild 백업이 docs/data 에 생기는데,
+# 워크플로가 git add docs/data 를 하므로 명시적으로 제외한다.
+*.bak
+*.tmp

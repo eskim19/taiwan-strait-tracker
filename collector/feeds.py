@@ -329,7 +329,8 @@ import re as _re
 
 TAIWAN_MENTION = _re.compile(
     r"taiwan|taipei|taiwanese|formosa|kinmen|matsu|penghu|pratas"
-    r"|台灣|台湾|臺灣|臺湾|台北|台海|兩岸|两岸|金門|金门|馬祖|马祖|澎湖"
+    r"|台灣|台湾|臺灣|臺湾|台北|臺北|台海|臺海|台灣海峽|臺灣海峽"
+    r"|兩岸|两岸|金門|金门|馬祖|马祖|澎湖"
     r"|대만|타이완|진먼|펑후",
     _re.IGNORECASE,
 )
@@ -352,8 +353,13 @@ MILITARY = _re.compile(
     r"|grey zone|conscription|arms sale|deterrence|submarine|drone|\bUAV\b"
     r"|live-fire|livefire|espionage|sanction|gunboat|amphibious|reunification"
     r"|共軍|共军|解放軍|解放军|軍演|军演|中線|中线|防空識別區|防空识别区"
+    # 국방부 일일 집계 보도의 상용 어휘. 이게 없어서 '中共機艦臺海周邊活動
+    # 國軍嚴密監控應處' 류가 통째로 버려졌다.
+    r"|機艦|机舰|共機|共机|軍機|军机|艦艇|舰艇|國軍|国军|台軍|台军|架次"
     r"|飛彈|导弹|軍艦|军舰|戰機|战机|航母|封鎖|封锁|國防部|国防部|海警"
-    r"|灰色地帶|灰色地带|軍售|军售|演習|演习|潛艦|潜艇|無人機|无人机|統一|统一"
+    r"|灰色地帶|灰色地带|軍售|军售|演習|演习|演訓|演练|演練|潛艦|潜艇"
+    r"|實彈|实弹|射擊|射击|警巡|戰備|战备|滲透|渗透|擾台|扰台|漢光|汉光"
+    r"|無人機|无人机|統一|统一"
     r"|중국군|인민해방군|군사|국방|미사일|전투기|항모|군함|봉쇄|침공|무기"
     r"|방공식별구역|해경|군용기|훈련|도발|무력|통일",
     _re.IGNORECASE,
@@ -370,13 +376,22 @@ NEGATIVE = _re.compile(
 
 
 def passes_gate(title, summary):
-    """주제 게이트. (통과여부, 탈락사유) 반환."""
+    """주제 게이트. (통과여부, 탈락사유) 반환.
+
+    핵심어(CORE_TOPIC)를 먼저 본다. 순서가 중요하다 — 이전 판은 대만 언급을
+    하드 전제조건으로 두고 그 다음에 핵심어를 봤는데, `擾台`(대만 교란)·
+    `攻台`(대만 공격) 같은 핵심어는 **그 자체가 대만 언급**이라 앞 관문에서
+    먼저 탈락하고 평가되지도 못했다. 그 결과 `19共機出海擾台` 나
+    `漢光演習…模擬共軍攻台` 같은 기사가 통째로 버려졌다.
+    """
     text = f"{title} {summary}"
     if NEGATIVE.search(text):
         return False, "negative"
+    if CORE_TOPIC.search(text):
+        return True, None
     if not TAIWAN_MENTION.search(text):
         return False, "no_taiwan"
-    if CORE_TOPIC.search(text) or MILITARY.search(title):
+    if MILITARY.search(title):
         return True, None
     return False, "no_topic"
 

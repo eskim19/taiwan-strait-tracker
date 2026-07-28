@@ -20,6 +20,7 @@ from .util import (
     normalize_text,
     sha1,
     strip_html,
+    title_numbers,
     title_tokens,
     utcnow,
 )
@@ -150,8 +151,13 @@ def normalize_entry(entry, feed, now=None, drops=None):
     }
 
 
-REVISION_CONTAINMENT = 0.85
+# 임계를 0.85 에서 올렸다. CJK 문자 2-gram 에서 0.85 는 매우 관대해서
+# "11 ships, 4 aircraft"(7/21) 와 "11 ships, 3 aircraft"(7/27) 같은 서로 다른
+# 날의 일일 집계가 1.000 으로 붙었다. 실측 스냅샷에서 임계를 넘긴 27쌍 중
+# 11쌍이 다른 사건이었다.
+REVISION_CONTAINMENT = 0.92
 REVISION_WINDOW_HOURS = 36
+REVISION_MIN_TOKENS = 6
 
 
 def dedupe_revisions(articles):
@@ -161,8 +167,9 @@ def dedupe_revisions(articles):
     → "…發射火箭將經過…| 政治"). 그대로 두면 같은 기사가 두 장의 카드로 보이고,
     교차검증에서도 한 매체가 두 번 계산될 수 있다.
 
-    같은 도메인·같은 언어이고 시간이 가까우며 토큰이 거의 포함관계면 같은
-    기사로 보고, 정보가 더 많은(긴) 제목 쪽을 남긴다.
+    **숫자가 충돌하면 합치지 않는다.** 이 방어가 없어서 국방부 일일 집계의
+    서로 다른 날짜가 하나로 합쳐지고 한쪽이 삭제됐다. cluster.py 와 score.py 는
+    같은 방어를 갖고 있었는데, 그보다 먼저 도는 이 함수에만 없었다.
     """
     kept = []
     for article in sorted(articles, key=lambda a: a["published"]):
@@ -175,14 +182,22 @@ def dedupe_revisions(articles):
             gap = abs((article["published"] - other["published"]).total_seconds()) / 3600.0
             if gap > REVISION_WINDOW_HOURS:
                 continue
+            na = title_numbers(article["title"])
+            nb = title_numbers(other["title"])
+            if na and nb and not (na & nb):
+                continue   # 다른 회차다
             ta = title_tokens(article["title"], article["lang"])
             tb = title_tokens(other["title"], other["lang"])
-            if min(len(ta), len(tb)) < 3:
+            if min(len(ta), len(tb)) < REVISION_MIN_TOKENS:
                 continue
             if containment(ta, tb) < REVISION_CONTAINMENT:
                 continue
             if len(article["title"]) > len(other["title"]):
-                article["published"] = other["published"]  # 최초 게재 시각 유지
+                # 시각은 덮어쓰지 않는다. 덮어쓰면 클러스터 시간창·대표 선정·
+                # 사건 지속시간·first_seen 에 전부 전파되어 사실과 다른 데이터가
+                # UI 로 나간다. 최초 게재 시각은 별도 필드로만 남긴다.
+                article = dict(article)
+                article["first_published"] = other["published"]
                 kept[i] = article
             merged = True
             break

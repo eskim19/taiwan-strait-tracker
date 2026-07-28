@@ -62,33 +62,59 @@ def merge_events(previous, current):
     피드가 일시적으로 죽은 회차에 사건이 통째로 사라지는 걸 막는다.
 
     두 가지를 지킨다.
-    1. 기사 수가 줄어드는 갱신은 거부한다. 피드가 한 회차 죽었다고 등급이
-       영구 강등되면 안 된다(새 계산이 항상 이기면 그렇게 된다).
-    2. 새 사건의 기사 집합에 완전히 포함되는 옛 사건은 버린다. 클러스터링
-       규칙이 바뀌어 파편들이 하나로 합쳐질 때 유령 카드가 남는 걸 막는다.
+
+    1. **기사 하나가 두 카드에 있으면 안 된다.** 이전 판은 옛 사건이 새 사건에
+       완전히 *포함될 때만* 버렸다. 클러스터링이 과병합됐던 사건을 쪼개면
+       옛 상위집합은 아무 것과도 매칭되지 않고 살아남아, 같은 기사가 두 장에
+       동시에 노출됐다(실측 5건, 아카이브에는 영구 잔존). 이제 **교집합이
+       있으면** 옛 사건을 버린다.
+    2. 기사 수가 줄어드는 갱신은 신뢰도 판정만 유지한다. 피드가 한 회차
+       죽었다고 등급이 강등되면 안 되지만, 이전 판처럼 last_seen·헤드라인까지
+       통째로 동결하면 정당한 정정이 영원히 반영되지 않는다.
     """
     merged = {e["id"]: e for e in previous}
 
     for event in current:
         old = merged.get(event["id"])
         if old and old["credibility"]["n_articles"] > event["credibility"]["n_articles"]:
-            continue  # 일시적 수집 실패로 보고 이전 판정을 유지
+            # 수집이 일시적으로 얕아진 것으로 보고 등급만 이전 값을 쓴다.
+            # 나머지(시각·헤드라인·기사 목록)는 새 계산을 따른다.
+            event = dict(event)
+            event["credibility"] = old["credibility"]
         merged[event["id"]] = event
 
     current_ids = {e["id"] for e in current}
-    article_sets = {
-        e["id"]: {a["id"] for a in e["articles"]} for e in current
-    }
+    current_articles = set()
+    for event in current:
+        current_articles.update(a["id"] for a in event["articles"])
+
     survivors = {}
     for event_id, event in merged.items():
         if event_id in current_ids:
             survivors[event_id] = event
             continue
         own = {a["id"] for a in event["articles"]}
-        if any(own and own <= other for other in article_sets.values()):
-            continue  # 새 사건에 흡수됨
+        if not own or (own & current_articles):
+            continue  # 기사가 없거나, 이번 회차 사건과 겹친다 → 유령
         survivors[event_id] = event
     return list(survivors.values())
+
+
+def assert_no_shared_articles(events):
+    """한 기사가 두 사건에 있으면 즉시 드러낸다.
+
+    이 불변식이 없어서 중복 노출이 배포되고 아카이브에 영구히 박혔다.
+    조용히 넘기면 다음에도 똑같이 나간다.
+    """
+    owner = {}
+    clashes = []
+    for event in events:
+        for article in event["articles"]:
+            prev = owner.get(article["id"])
+            if prev and prev != event["id"]:
+                clashes.append((article["id"], prev, event["id"]))
+            owner[article["id"]] = event["id"]
+    return clashes
 
 
 def prune(events, days=ROLLING_DAYS):
@@ -120,6 +146,41 @@ def update_archive(events):
         write_json(path, {"month": month, "n_events": len(ordered), "events": ordered})
         written.append(month)
     return sorted(written)
+
+
+STALE_FEED_DAYS = 7
+
+
+def _is_stale(report):
+    """최신 항목이 오래된 피드. 200 을 주면서 죽어 있는 경우를 잡는다."""
+    if not report.get("newest"):
+        return False
+    from datetime import datetime
+
+    newest = datetime.fromisoformat(report["newest"])
+    return (utcnow() - newest).days > STALE_FEED_DAYS
+
+
+def unrated_queue(events, limit=20):
+    """미분류 도메인 승격 대기열.
+
+    `unknown` 진영은 '사람이 계속 등급표에 올린다'는 전제 위에서만 안전한데,
+    그 대기열이 없으면 전제가 성립하지 않는다. 빈도순으로 남겨 운영자가
+    feeds.SOURCES 에 한 줄씩 추가할 수 있게 한다.
+    """
+    counts = Counter()
+    sample = {}
+    for event in events:
+        for article in event["articles"]:
+            if article.get("bloc") != "unknown":
+                continue
+            domain = article.get("source_domain") or "?"
+            counts[domain] += 1
+            sample.setdefault(domain, article["title"][:80])
+    return [
+        {"domain": d, "n_articles": n, "sample_title": sample.get(d, "")}
+        for d, n in counts.most_common(limit)
+    ]
 
 
 def sources_payload():
@@ -214,6 +275,13 @@ def run(skip_mnd=False, skip_fetch=False, rebuild=False):
     grades = grade_summary(events)
     print(f"      등급 분포 {grades}")
 
+    clashes = assert_no_shared_articles(events)
+    if clashes:
+        print(f"      ! 기사 중복 노출 {len(clashes)}건 — 사건 병합 규칙 위반")
+        for article_id, a, b in clashes[:5]:
+            print(f"        {article_id} ∈ {a}, {b}")
+        raise SystemExit("사건 병합 불변식 위반 — 중복 카드를 배포할 수 없다")
+
     print("[5/5] 국방부 집계 + JSON 출력")
     tension_note = None
     if skip_mnd:
@@ -245,6 +313,9 @@ def run(skip_mnd=False, skip_fetch=False, rebuild=False):
         "cross_language_events": sum(1 for e in events if e["cross_language"]),
         "tension_error": tension_note,
         "archive_months": months,
+        # newest 를 담아야 좀비 피드(200 을 주면서 몇 달 전 기사만 내보내는
+        # 신화통신형)를 UI 가 표시할 수 있다. 없으면 사람이 fetch --check 를
+        # 손으로 돌려야만 발견되는데, 무인 운영에서는 아무도 안 돌린다.
         "feeds": [
             {
                 "id": r["id"],
@@ -252,15 +323,28 @@ def run(skip_mnd=False, skip_fetch=False, rebuild=False):
                 "status": r["status"],
                 "http": r["http"],
                 "n_entries": r["n_entries"],
+                "newest": r.get("newest"),
+                "stale": _is_stale(r),
                 "error": r["error"],
             }
             for r in reports
         ],
+        "unrated_domains": unrated_queue(events),
     }
 
     write_json(DATA / "events.json", {"updated": meta["updated"], "events": events})
     write_json(DATA / "sources.json", sources_payload())
     write_json(DATA / "build_meta.json", meta)
+
+    # 전 피드 실패는 조용히 넘기면 안 된다. 이전에는 수집이 0건이어도
+    # 이전 사건을 그대로 재커밋하고 종료코드 0 을 냈다 — 전면 장애가 나도
+    # Actions 는 초록불이고 최대 14일간 낡은 데이터가 나간다.
+    if reports and not ok:
+        print("      ! 전 피드 수집 실패 — 낡은 데이터를 재게시하지 않는다")
+        raise SystemExit("모든 피드 수집 실패")
+    if meta["feeds"] and any(f["stale"] for f in meta["feeds"]):
+        stale_names = [f["name"] for f in meta["feeds"] if f["stale"]]
+        print(f"      ! 정체 의심 피드: {', '.join(stale_names)}")
 
     last = tension["records"][-1] if tension.get("records") else None
     print(
