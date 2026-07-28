@@ -18,9 +18,18 @@ from . import feeds as feedreg
 from . import mnd
 from .cluster import cluster_articles
 from .fetch import fetch_all
+from .gazetteer import ENTITY_LABEL_KO
 from .normalize import normalize_all
-from .score import GRADE_DESC, GRADE_LABEL, build_events, grade_summary
-from .util import enable_utf8_stdout, iso, utcnow
+from .score import (
+    D_DESC,
+    D_LABEL,
+    GRADE_CAVEAT,
+    GRADE_DESC,
+    GRADE_LABEL,
+    build_events,
+    grade_summary,
+)
+from .util import enable_utf8_stdout, iso, utcnow, write_json
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "docs" / "data"
@@ -30,18 +39,20 @@ ARCHIVE = DATA / "archive"
 ROLLING_DAYS = 14
 
 
-def write_json(path, payload):
-    path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
-
-
 def load_json(path, default):
     if not path.exists():
         return default
     try:
         return json.loads(path.read_text(encoding="utf-8"))
-    except (json.JSONDecodeError, OSError):
+    except (json.JSONDecodeError, OSError) as exc:
+        # 조용히 넘어가면 누적 데이터가 사라진 걸 아무도 모른다
+        print(f"      ! {path.name} 읽기 실패 — {type(exc).__name__}: {exc}")
         return default
+
+
+# 잘못 게시된 사건을 내리는 유일한 수단. 아카이브는 ID 기준 덮어쓰기라
+# 여기 넣지 않으면 한 번 올라간 사건을 제거할 방법이 없다.
+BLOCKED_EVENT_IDS = set()
 
 
 def merge_events(previous, current):
@@ -49,16 +60,43 @@ def merge_events(previous, current):
 
     수집 창(21일)보다 롤링 창이 짧아 보통은 current 가 상위집합이지만,
     피드가 일시적으로 죽은 회차에 사건이 통째로 사라지는 걸 막는다.
+
+    두 가지를 지킨다.
+    1. 기사 수가 줄어드는 갱신은 거부한다. 피드가 한 회차 죽었다고 등급이
+       영구 강등되면 안 된다(새 계산이 항상 이기면 그렇게 된다).
+    2. 새 사건의 기사 집합에 완전히 포함되는 옛 사건은 버린다. 클러스터링
+       규칙이 바뀌어 파편들이 하나로 합쳐질 때 유령 카드가 남는 걸 막는다.
     """
     merged = {e["id"]: e for e in previous}
+
     for event in current:
-        merged[event["id"]] = event  # 새로 계산한 쪽이 항상 우선
-    return list(merged.values())
+        old = merged.get(event["id"])
+        if old and old["credibility"]["n_articles"] > event["credibility"]["n_articles"]:
+            continue  # 일시적 수집 실패로 보고 이전 판정을 유지
+        merged[event["id"]] = event
+
+    current_ids = {e["id"] for e in current}
+    article_sets = {
+        e["id"]: {a["id"] for a in e["articles"]} for e in current
+    }
+    survivors = {}
+    for event_id, event in merged.items():
+        if event_id in current_ids:
+            survivors[event_id] = event
+            continue
+        own = {a["id"] for a in event["articles"]}
+        if any(own and own <= other for other in article_sets.values()):
+            continue  # 새 사건에 흡수됨
+        survivors[event_id] = event
+    return list(survivors.values())
 
 
 def prune(events, days=ROLLING_DAYS):
     cutoff = iso(utcnow() - timedelta(days=days))
-    kept = [e for e in events if e["last_seen"] >= cutoff]
+    kept = [
+        e for e in events
+        if e["last_seen"] >= cutoff and e["id"] not in BLOCKED_EVENT_IDS
+    ]
     kept.sort(key=lambda e: (e["last_seen"], e["credibility"]["score"]), reverse=True)
     return kept
 
@@ -76,6 +114,8 @@ def update_archive(events):
         merged = {e["id"]: e for e in existing}
         for event in items:
             merged[event["id"]] = event
+        for blocked in BLOCKED_EVENT_IDS:
+            merged.pop(blocked, None)
         ordered = sorted(merged.values(), key=lambda e: e["last_seen"], reverse=True)
         write_json(path, {"month": month, "n_events": len(ordered), "events": ordered})
         written.append(month)
@@ -114,12 +154,35 @@ def sources_payload():
             {"grade": g, "label": GRADE_LABEL[g], "rule": GRADE_DESC[g]}
             for g in ("A", "B", "C", "D")
         ],
+        "d_reasons": [
+            {"key": k, "label": D_LABEL[k], "rule": D_DESC[k]} for k in D_DESC
+        ],
+        "grade_caveat": GRADE_CAVEAT,
+        # 등급표는 소유·자금 구조 기준이지 개별 기사의 정확도 평가가 아니다.
+        # 이걸 밝히지 않으면 정치적 판단을 객관 지표처럼 제시하는 셈이 된다.
+        "tier_basis": (
+            "등급은 매체의 소유·자금 구조와 취재망을 기준으로 부여한 것이며, "
+            "개별 기사의 정확도를 평가한 것이 아니다. 동의하지 않으면 "
+            "collector/feeds.py 의 SOURCES 를 고쳐 쓰면 된다."
+        ),
+        "entity_labels": [
+            {"key": key, "label": label}
+            for key, label in sorted(ENTITY_LABEL_KO.items())
+        ],
         "syndicators_excluded": list(feedreg.SYNDICATORS),
     }
 
 
-def run(skip_mnd=False, skip_fetch=False):
+def run(skip_mnd=False, skip_fetch=False, rebuild=False):
     started = utcnow()
+    if rebuild:
+        # 클러스터링·등급 규칙이 바뀌면 사건 ID 가 전부 바뀐다. 이전 결과를
+        # 안고 가면 옛 파편 카드가 최대 14일(아카이브는 영구) 나란히 남는다.
+        for path in [DATA / "events.json"] + sorted(ARCHIVE.glob("*.json")):
+            backup = path.with_suffix(".json.bak")
+            if path.exists():
+                path.replace(backup)
+                print(f"      마이그레이션: {path.name} → {backup.name}")
     print(f"[1/5] 피드 수집 — {len(feedreg.FEEDS)}개")
 
     if skip_fetch:
@@ -157,9 +220,14 @@ def run(skip_mnd=False, skip_fetch=False):
         tension = load_json(DATA / "tension.json", {"records": []})
     else:
         try:
-            records, added = mnd.scrape(pages=1)
+            records, stats = mnd.scrape(pages=1)
             tension = mnd.save(records)
-            print(f"      국방부 신규 {added}건 / 누적 {len(tension['records'])}건")
+            print(
+                f"      국방부 신규 {stats['added']}건 / 재사용 {stats['skipped']}건"
+                f" / 실패 {stats['failed']}건 / 누적 {len(tension['records'])}건"
+            )
+            if stats["failed"]:
+                tension_note = f"상세 {stats['failed']}건 파싱 실패 — 형식 변경 의심"
         except Exception as exc:
             tension = load_json(DATA / "tension.json", {"records": []})
             tension_note = f"{type(exc).__name__}: {exc}"
@@ -209,8 +277,13 @@ def main():
     parser = argparse.ArgumentParser(description="양안 뉴스 트래커 빌드")
     parser.add_argument("--skip-mnd", action="store_true", help="국방부 수집 건너뛰기")
     parser.add_argument("--skip-fetch", action="store_true", help="피드 수집 건너뛰기")
+    parser.add_argument(
+        "--rebuild", action="store_true",
+        help="이전 사건·아카이브를 .bak 으로 밀어내고 처음부터 다시 생성"
+             " (클러스터링 규칙 변경 시 1회)",
+    )
     args = parser.parse_args()
-    run(skip_mnd=args.skip_mnd, skip_fetch=args.skip_fetch)
+    run(skip_mnd=args.skip_mnd, skip_fetch=args.skip_fetch, rebuild=args.rebuild)
 
 
 if __name__ == "__main__":

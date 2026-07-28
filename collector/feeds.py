@@ -40,7 +40,31 @@ BLOC_LABEL_KO = {
     "tw_state": "대만 국영·정부",
     "us_gov": "미국 정부·지원",
     "jp_gov": "일본 정부",
+    # 등급표에 없는 도메인. 성격을 판정할 수 없으므로 교차검증 계산에서 뺀다.
+    # 단, 점수에는 낮은 가중으로 반영한다 — 순위는 밀어줄 수 있어도 등급은
+    # 살 수 없게 한다. T5 도메인의 3할은 정당한 소규모 매체라 하드 배제는
+    # 부당하고, build_meta 의 승격 대기열로 사람이 계속 등록해야 한다.
+    "unknown": "미분류",
 }
+
+# 같은 상위 조직을 공유하는 매체는 독립 증언 하나로 본다.
+# GROUP_ALIASES 는 서브도메인 정규화용이라 이 관계를 표현하지 못한다.
+AFFILIATE_GROUP = {
+    "epochtimes.com": "falun_gong",
+    "theepochtimes.com": "falun_gong",
+    "ntdtv.com": "falun_gong",
+    "ntdtv.com.tw": "falun_gong",
+    "visiontimes.com": "falun_gong",
+    "soundofhope.org": "falun_gong",
+    "rt.com": "ru_state_media",
+    "sputniknews.com": "ru_state_media",
+}
+
+
+def affiliate_of(domain):
+    """도메인 → 독립성 계산 단위(계열이 있으면 계열 키)."""
+    canon = canonical_domain(domain)
+    return AFFILIATE_GROUP.get(canon, canon or "unknown")
 
 # domain -> (tier, bloc, 표시명, 편향 메모 or None)
 SOURCES = {
@@ -137,6 +161,11 @@ SOURCES = {
     "mbn.co.kr": ("T2", "independent", "MBN", None),
     "asiaone.com": ("T2", "independent", "AsiaOne", None),
     "skynews.com.au": ("T2", "independent", "Sky News Australia", "호주 보수 성향"),
+    "theprint.in": ("T2", "independent", "ThePrint", None),
+    "japantoday.com": ("T2", "independent", "Japan Today", None),
+    "kbmaeil.com": ("T2", "independent", "경북매일", None),
+    "mhns.co.kr": ("T2", "independent", "경남매일", None),
+    "tyenews.com": ("T2", "independent", "桃園電子報", None),
     # --- TA 분석·싱크탱크 ---------------------------------------------------
     "csis.org": ("TA", "independent", "CSIS", None),
     "gmu.edu": ("TA", "independent", "Taiwan Security Monitor (GMU)", None),
@@ -168,6 +197,7 @@ SOURCES = {
     "theepochtimes.com": ("T4", "independent", "Epoch Times", "파룬궁 계열·강한 반중공 논조"),
     "ntdtv.com": ("T4", "independent", "新唐人 NTD", "파룬궁 계열·강한 반중공 논조"),
     "ntdtv.com.tw": ("T4", "independent", "新唐人 NTD", "파룬궁 계열·강한 반중공 논조"),
+    "visiontimes.com": ("T4", "independent", "看中國 Vision Times", "파룬궁 계열·강한 반중공 논조"),
     "rt.com": ("T4", "independent", "RT", "러시아 국영·선전 매체"),
     "sputniknews.com": ("T4", "independent", "Sputnik", "러시아 국영·선전 매체"),
     "zerohedge.com": ("T4", "independent", "ZeroHedge", "선정적 논조·검증 부실"),
@@ -189,6 +219,7 @@ SOURCES = {
     "takungpao.com": ("T3", "prc_state", "大公報", "홍콩 친중공 매체"),
     "china.com.cn": ("T3", "prc_state", "中國網", "중국 국영"),
     "tkww.hk": ("T3", "prc_state", "大公文匯網", "홍콩 친중공 매체"),
+    "bastillepost.com": ("T3", "prc_state", "巴士的報", "홍콩 친중공 매체"),
     "huanqiu.com": ("T3", "prc_state", "環球網", "환구시보 중문판·중국 공산당 기관지 계열"),
     "cctv.com": ("T3", "prc_state", "CCTV 中央電視台", "중국 국영 방송"),
     "cctv.cn": ("T3", "prc_state", "CCTV 中央電視台", "중국 국영 방송"),
@@ -276,7 +307,9 @@ GROUP_ALIASES = {
     "air.mnd.gov.tw": "mnd.gov.tw",
 }
 
-DEFAULT_SOURCE = ("T5", "independent", None, None)
+# 미등록 도메인은 'independent' 가 아니라 'unknown' 이다. 검증 안 된 사이트가
+# 자동으로 '독립 증언' 자격을 얻으면 무명 재게재 사이트 두 곳만으로 B등급이 난다.
+DEFAULT_SOURCE = ("T5", "unknown", None, None)
 
 
 # ---------------------------------------------------------------------------
@@ -488,7 +521,7 @@ FEEDS = [
         "lang": "en",
         "kind": "native",
         "source_domain": "gmu.edu",
-        "needs_filter": False,
+        "needs_filter": True,
         "note": "PLA 활동 분석. 저빈도·고신뢰",
     },
     # --- 2차 보강 ---------------------------------------------------------
@@ -499,7 +532,7 @@ FEEDS = [
         "lang": "en",
         "kind": "native",
         "source_domain": "theguardian.com",
-        "needs_filter": False,
+        "needs_filter": True,
         "note": "태그 피드라 이미 주제 한정",
     },
     {
@@ -539,7 +572,7 @@ FEEDS = [
         "lang": "en",
         "kind": "native",
         "source_domain": "globaltaiwan.org",
-        "needs_filter": False,
+        "needs_filter": True,
         "note": "주간 분석",
     },
 ]

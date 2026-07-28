@@ -26,7 +26,7 @@ from sklearn.cluster import AgglomerativeClustering
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-from .gazetteer import signature
+from .gazetteer import anchors, extract_numbers, signature
 from .util import normalize_text
 
 WINDOW_HOURS = 48
@@ -34,14 +34,22 @@ WINDOW_HOURS = 48
 SIM_THRESHOLD = {"en": 0.34, "ko": 0.40, "zh": 0.40, "ja": 0.40}
 DEFAULT_THRESHOLD = 0.38
 
-# 시그니처 병합 조건. 요소를 개수로 세지 않고 정보량(IDF)으로 잰다.
-# "山東艦"·"n:40" 을 공유하는 것과 "군사훈련" 을 공유하는 것은 증거의 무게가
-# 전혀 다른데, 개수로 세면 둘이 같아진다.
-SIG_JACCARD = 0.5
-MIN_SHARED_WEIGHT = 2.5  # 희귀 요소 1개 또는 흔한 요소 2개에 해당
+# 시그니처 병합 조건.
+#
+# 유사도는 Jaccard 가 아니라 **겹침계수**(shared / min(|A|,|B|)) 를 쓴다.
+# 사건이 커지면 "훈련 발표" 클러스터 옆에 "외교부 규탄" 클러스터가 생기는데,
+# 후자는 요소가 더 많다. Jaccard 는 합집합으로 나누므로 그 추가 요소가 분모를
+# 부풀려 오히려 병합을 막는다. 겹침계수는 작은 쪽이 큰 쪽에 들어앉는지를 본다.
+# 실측: Jaccard 파편화 8장 / Dice 6장 / 겹침계수 1장.
+SIG_OVERLAP = 0.35        # 0.20~0.45 가 평탄역, 0.50 에서 절벽 → 평탄역 위쪽
+MIN_SHARED_WEIGHT = 1.0
 # 전체 기사의 이 비율을 넘게 등장하는 엔티티는 변별력이 없어 시그니처에서 뺀다
 # (거의 모든 기사에 taiwan_strait 가 들어 있다).
 COMMON_ENTITY_RATIO = 0.40
+# 한 사건의 총 기간 상한. _gap_hours 는 스팬 사이 간격만 재므로 클러스터가
+# 커질수록 스팬이 길어져 코퍼스 전체를 훑는 연쇄가 생긴다.
+# 48시간은 안 된다 — 실탄사격 사건 자체가 48.4시간이다.
+MAX_EVENT_SPAN_HOURS = 72
 
 
 def _vectorizer(lang):
@@ -81,6 +89,16 @@ def cluster_one_language(articles, lang):
     stamps = np.array([a["published"].timestamp() for a in articles])
     gap_hours = np.abs(stamps[:, None] - stamps[None, :]) / 3600.0
     distance[gap_hours > WINDOW_HOURS] = 1.0
+
+    # 숫자가 충돌하면 다른 회차다. 국방부 일일 집계 제목이 지뢰인데,
+    # TfidfVectorizer 의 기본 token_pattern 이 한 자리 숫자를 버려서
+    # "11 ships, 4 aircraft"(7/21) 와 "11 ships, 3 aircraft"(7/27) 의
+    # 코사인이 1.000 이 된다. 시간창만으로는 인접일을 막지 못한다.
+    numbers = [extract_numbers(a["title"]) for a in articles]
+    for i in range(len(articles)):
+        for j in range(i + 1, len(articles)):
+            if numbers[i] and numbers[j] and not (numbers[i] & numbers[j]):
+                distance[i, j] = distance[j, i] = 1.0
 
     threshold = SIM_THRESHOLD.get(lang, DEFAULT_THRESHOLD)
     model = AgglomerativeClustering(
@@ -128,12 +146,13 @@ def _weight_of(elements, weights):
     return sum(weights.get(e, 1.0) for e in elements)
 
 
-def _weighted_jaccard(a, b, weights):
+def _weighted_overlap(a, b, weights):
+    """겹침계수 — 작은 쪽 시그니처가 큰 쪽에 들어앉는 정도."""
     if not a or not b:
         return 0.0, 0.0
     shared = _weight_of(a & b, weights)
-    union = _weight_of(a | b, weights)
-    return (shared / union if union else 0.0), shared
+    smaller = min(_weight_of(a, weights), _weight_of(b, weights))
+    return (shared / smaller if smaller else 0.0), shared
 
 
 def _time_span(articles):
@@ -167,12 +186,22 @@ def merge_cross_language(groups, common, weights):
         best = None
         for i in range(len(clusters)):
             for j in range(i + 1, len(clusters)):
-                score, shared_weight = _weighted_jaccard(
-                    signatures[i], signatures[j], weights
-                )
-                if shared_weight < MIN_SHARED_WEIGHT or score < SIG_JACCARD:
+                sig_a, sig_b = signatures[i], signatures[j]
+                # 앵커 게이트 — 공유 요소 중 최소 하나가 사건 유형·고유명·큰 숫자여야
+                # 병합을 연다. 행위자(pla 등)만 공유하는 쌍은 유사도가 아무리 높아도
+                # 막는다. 이걸 허용하면 정밀도가 1.000 → 0.893 으로 무너진다.
+                if not anchors(sig_a & sig_b):
+                    continue
+                score, shared_weight = _weighted_overlap(sig_a, sig_b, weights)
+                if shared_weight < MIN_SHARED_WEIGHT or score < SIG_OVERLAP:
                     continue
                 if _gap_hours(spans[i], spans[j]) > WINDOW_HOURS:
+                    continue
+                # 병합 결과의 총 기간이 상한을 넘으면 연쇄로 번지고 있다는 뜻
+                merged_span = (
+                    max(spans[i][1], spans[j][1]) - min(spans[i][0], spans[j][0])
+                ).total_seconds() / 3600.0
+                if merged_span > MAX_EVENT_SPAN_HOURS:
                     continue
                 if best is None or score > best[0]:
                     best = (score, i, j)

@@ -22,17 +22,21 @@ from datetime import date, datetime
 from pathlib import Path
 
 from .fetch import make_session
-from .util import enable_utf8_stdout
+from .util import enable_utf8_stdout, write_json
 
 ROOT = Path(__file__).resolve().parent.parent
 OUT_PATH = ROOT / "docs" / "data" / "tension.json"
 
 BASE = "https://www.mnd.gov.tw"
 LIST_URL = BASE + "/en/news/plaactlist/{page}"
-TOTAL_PAGES = 11
+# 국방부는 2020-11-14 까지 208쪽을 공개한다(실측: 12쪽=2026-04, 100쪽=2024-02,
+# 208쪽=2020-11). 2022년 8월 펠로시 방문 위기와 2024년 연합리검 훈련이 이 범위
+# 안에 있어, 지금 지수가 평시인지 위기인지 비교할 기준선을 만들 수 있다.
+FULL_HISTORY_PAGES = 210
 TIMEOUT = (6, 25)
 
 _DETAIL_LINK = re.compile(r'href="([^"]*?/PLAAct/(\d+))"', re.IGNORECASE)
+_LIST_DATE = re.compile(r"(\d{4})[./-](\d{1,2})[./-](\d{1,2})")
 _TAGS = re.compile(r"<[^>]+>")
 _WS = re.compile(r"\s+")
 
@@ -51,6 +55,10 @@ _NONE_CROSSED = re.compile(
     r"(?:none|no)\s+(?:of\s+them\s+|sorties?\s+)?cross(?:ed)?\s+the\s+median\s+line",
     re.IGNORECASE,
 )
+# 이 문장은 활동이 0인 날에도 반드시 나온다. 파싱 성공 여부의 판정 기준.
+_DETECTED = re.compile(
+    r"(?:were|was)\s+detected\s+as\s+of|operating\s+around\s+Taiwan", re.IGNORECASE
+)
 
 
 def page_text(html):
@@ -58,16 +66,34 @@ def page_text(html):
 
 
 def list_detail_ids(session, page):
-    """목록 페이지에서 상세 URL 목록 추출."""
+    """목록 페이지에서 (날짜, URL) 목록 추출.
+
+    날짜를 여기서 뽑는 것이 핵심이다. 상세 페이지를 받아야만 날짜를 알 수 있으면
+    이미 가진 날짜도 매번 다시 받게 되고, 5년치(약 1,870건) 백필 이후에는 매시
+    실행마다 1,870건을 정부 서버에 다시 요청하게 된다.
+    """
     resp = session.get(LIST_URL.format(page=page), timeout=TIMEOUT)
     resp.raise_for_status()
-    seen, urls = set(), []
-    for href, num in _DETAIL_LINK.findall(resp.text):
+    text = resp.text
+
+    seen, items = set(), []
+    for match in _DETAIL_LINK.finditer(text):
+        href, num = match.group(1), match.group(2)
         if num in seen:
             continue
         seen.add(num)
-        urls.append((num, href if href.startswith("http") else BASE + href))
-    return urls
+        # 목록 항목의 날짜는 링크 바로 앞에 온다
+        window = page_text(text[max(0, match.start() - 400) : match.end()])
+        found = _LIST_DATE.findall(window)
+        stamp = None
+        if found:
+            year, month, day = (int(x) for x in found[-1])
+            try:
+                stamp = date(year, month, day).isoformat()
+            except ValueError:
+                stamp = None
+        items.append((stamp, href if href.startswith("http") else BASE + href))
+    return items
 
 
 def parse_detail(html):
@@ -99,6 +125,11 @@ def parse_detail(html):
     # 통과 소티가 전체 소티를 넘을 수는 없다(정규식 오매칭 방어)
     crossed = min(crossed, aircraft)
 
+    # '0으로 발표됨' 과 '정규식이 안 걸림' 을 구분한다. 국방부가 문장 형식을
+    # 바꾸면 지금까지는 조용히 0이 쌓이고 아무도 알아채지 못했다.
+    # 활동이 아예 없는 날에도 이 문장은 항상 나온다.
+    parse_ok = bool(_DETECTED.search(text))
+
     return {
         "date": stamp.isoformat(),
         "aircraft": aircraft,
@@ -106,6 +137,7 @@ def parse_detail(html):
         "official_ships": official,
         "balloons": balloons,
         "crossed_median": crossed,
+        "parse_ok": parse_ok,
     }
 
 
@@ -132,7 +164,7 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
     session = session or make_session()
     existing = load_existing() if existing is None else existing
     records = dict(existing)
-    added = 0
+    added = skipped = failed = 0
 
     for page in range(1, pages + 1):
         try:
@@ -142,19 +174,33 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
                 print(f"  목록 {page}쪽 실패: {type(exc).__name__}: {exc}")
             continue
 
-        for _, url in links:
+        for stamp, url in links:
+            # 이미 가진 날짜는 상세 페이지를 받지 않는다. 목록에서 날짜를 뽑는
+            # 이유가 이것이다 — 이게 없으면 매 실행마다 전체를 재다운로드한다.
+            if stamp and stamp in records:
+                skipped += 1
+                continue
             try:
                 time.sleep(delay)
                 resp = session.get(url, timeout=TIMEOUT)
                 resp.raise_for_status()
                 record = parse_detail(resp.text)
             except Exception as exc:
+                failed += 1
                 if verbose:
                     print(f"  상세 실패 {url}: {type(exc).__name__}: {exc}")
                 continue
             if not record:
+                failed += 1
                 if verbose:
                     print(f"  파싱 실패 {url}")
+                continue
+            if not record.get("parse_ok"):
+                # 날짜는 읽혔는데 집계 문장을 못 찾았다. 0으로 기록하면
+                # 조용한 오염이 되므로 아예 버린다.
+                failed += 1
+                if verbose:
+                    print(f"  집계 문장 없음 {record['date']} — 형식 변경 의심 {url}")
                 continue
             if record["date"] not in records:
                 added += 1
@@ -166,7 +212,7 @@ def scrape(pages=1, session=None, existing=None, delay=0.4, verbose=False):
                     )
             records[record["date"]] = record
 
-    return records, added
+    return records, {"added": added, "skipped": skipped, "failed": failed}
 
 
 BASELINE_DAYS = 90
@@ -202,26 +248,29 @@ def build_payload(records):
 
 def save(records):
     payload = build_payload(records)
-    OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
-    OUT_PATH.write_text(
-        json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8"
-    )
+    write_json(OUT_PATH, payload)
     return payload
 
 
 def main():
     parser = argparse.ArgumentParser(description="대만 국방부 PLA 일일 집계 수집")
     parser.add_argument(
-        "--backfill", action="store_true", help=f"전체 {TOTAL_PAGES}쪽 백필(최초 1회)"
+        "--backfill", action="store_true",
+        help=f"공개 이력 전체({FULL_HISTORY_PAGES}쪽 ≈ 2020-11~) 백필. 최초 1회만",
     )
-    parser.add_argument("--pages", type=int, default=1)
+    parser.add_argument("--pages", type=int, default=None)
+    parser.add_argument("--delay", type=float, default=None, help="요청 간격(초)")
     args = parser.parse_args()
 
-    pages = TOTAL_PAGES if args.backfill else args.pages
-    print(f"국방부 PLA 집계 수집 — {pages}쪽")
-    records, added = scrape(pages=pages, verbose=True)
+    pages = args.pages if args.pages else (FULL_HISTORY_PAGES if args.backfill else 1)
+    delay = args.delay if args.delay is not None else (1.2 if args.backfill else 0.4)
+    print(f"국방부 PLA 집계 수집 — {pages}쪽 (요청 간격 {delay}초)")
+    records, stats = scrape(pages=pages, verbose=True, delay=delay)
     payload = save(records)
-    print(f"\n신규 {added}건 / 누적 {len(payload['records'])}건 → {OUT_PATH}")
+    print(
+        f"\n신규 {stats['added']}건 / 재사용 {stats['skipped']}건 / "
+        f"실패 {stats['failed']}건 / 누적 {len(payload['records'])}건 → {OUT_PATH}"
+    )
     if payload["records"]:
         last = payload["records"][-1]
         print(

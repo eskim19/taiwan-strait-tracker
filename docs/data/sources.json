@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-27T10:50:05Z",
+ "updated": "2026-07-28T13:03:03Z",
  "tiers": [
   {
    "tier": "T1",
@@ -511,8 +511,22 @@
      "bias": null
     },
     {
+     "domain": "japantoday.com",
+     "name": "Japan Today",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
      "domain": "joongang.co.kr",
      "name": "중앙일보",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "kbmaeil.com",
+     "name": "경북매일",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null
@@ -555,6 +569,13 @@
     {
      "domain": "mbn.co.kr",
      "name": "MBN",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "mhns.co.kr",
+     "name": "경남매일",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null
@@ -770,6 +791,13 @@
      "bias": null
     },
     {
+     "domain": "theprint.in",
+     "name": "ThePrint",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
      "domain": "timesofindia.indiatimes.com",
      "name": "Times of India",
      "bloc": "independent",
@@ -786,6 +814,13 @@
     {
      "domain": "tvbs.com.tw",
      "name": "TVBS",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null
+    },
+    {
+     "domain": "tyenews.com",
+     "name": "桃園電子報",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null
@@ -859,6 +894,13 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 인민해방군 매체"
+    },
+    {
+     "domain": "bastillepost.com",
+     "name": "巴士的報",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체"
     },
     {
      "domain": "cctv.cn",
@@ -1155,6 +1197,13 @@
      "bias": "파룬궁 계열·강한 반중공 논조"
     },
     {
+     "domain": "visiontimes.com",
+     "name": "看中國 Vision Times",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조"
+    },
+    {
      "domain": "zerohedge.com",
      "name": "ZeroHedge",
      "bloc": "independent",
@@ -1190,28 +1239,405 @@
   {
    "key": "jp_gov",
    "label": "일본 정부"
+  },
+  {
+   "key": "unknown",
+   "label": "미분류"
   }
  ],
  "grade_rules": [
   {
    "grade": "A",
    "label": "검증됨",
-   "rule": "독립된 진영 3곳 이상이 보도했고 통신사·공영방송 또는 분석기관이 포함됨"
+   "rule": "독립된 출처 3곳 이상이 보도했고 통신사·공영방송 또는 분석기관이 포함됨"
   },
   {
    "grade": "B",
    "label": "개연적",
-   "rule": "독립된 진영 2곳이 보도했거나, 통신사·공영방송이 단독 보도함"
+   "rule": "독립된 출처 2곳이 보도했거나, 통신사·공영방송이 단독 보도함"
   },
   {
    "grade": "C",
    "label": "단일 출처",
-   "rule": "출처가 한 곳뿐이라 교차 확인되지 않음"
+   "rule": "독립 출처가 한 곳뿐이라 교차 확인되지 않음"
   },
   {
    "grade": "D",
-   "label": "주의",
-   "rule": "한쪽 정부 발표만 있거나, 성향·미분류 매체 단독이거나, 전언 표현이 지배적임"
+   "label": "미교차",
+   "rule": "발표 주체 밖의 독립 확인이 아직 없음"
+  }
+ ],
+ "d_reasons": [
+  {
+   "key": "state_only",
+   "label": "발표 단독",
+   "rule": "한 진영의 공식 발표·국영매체만 있고 그 밖의 확인이 아직 없음"
+  },
+  {
+   "key": "unrated",
+   "label": "출처 미확인",
+   "rule": "등급표에 없는 매체만 보도해 출처 성격을 판정할 수 없음"
+  },
+  {
+   "key": "partisan",
+   "label": "성향 단독",
+   "rule": "뚜렷한 당파 성향 매체가 단독 보도함"
+  }
+ ],
+ "grade_caveat": "D는 보도 내용이 틀렸다는 뜻이 아니다. 발표 주체 밖의 독립 확인이 아직 없다는 뜻이다. 국가 통신사의 정례 보도는 대개 사실이지만, 이 트래커가 재는 것은 사실 여부가 아니라 교차 확인 여부다.",
+ "tier_basis": "등급은 매체의 소유·자금 구조와 취재망을 기준으로 부여한 것이며, 개별 기사의 정확도를 평가한 것이 아니다. 동의하지 않으면 collector/feeds.py 의 SOURCES 를 고쳐 쓰면 된다.",
+ "entity_labels": [
+  {
+   "key": "1992_consensus",
+   "label": "92공식"
+  },
+  {
+   "key": "adiz",
+   "label": "방공식별구역"
+  },
+  {
+   "key": "aircraft_carrier",
+   "label": "항공모함"
+  },
+  {
+   "key": "aircraft_sortie",
+   "label": "군용기 출격"
+  },
+  {
+   "key": "ait",
+   "label": "AIT"
+  },
+  {
+   "key": "arms_sale",
+   "label": "무기판매"
+  },
+  {
+   "key": "balloon",
+   "label": "기구"
+  },
+  {
+   "key": "bashi_channel",
+   "label": "바시해협"
+  },
+  {
+   "key": "beijing",
+   "label": "베이징"
+  },
+  {
+   "key": "blockade",
+   "label": "봉쇄"
+  },
+  {
+   "key": "cable_cut",
+   "label": "해저케이블"
+  },
+  {
+   "key": "chip_war",
+   "label": "반도체"
+  },
+  {
+   "key": "cho_jungtai",
+   "label": "줘룽타이"
+  },
+  {
+   "key": "chu_lilun",
+   "label": "주리룬"
+  },
+  {
+   "key": "civil_defense",
+   "label": "민방위"
+  },
+  {
+   "key": "coast_guard",
+   "label": "해경"
+  },
+  {
+   "key": "condemn",
+   "label": "규탄"
+  },
+  {
+   "key": "drone",
+   "label": "무인기"
+  },
+  {
+   "key": "east_china_sea",
+   "label": "동중국해"
+  },
+  {
+   "key": "eastern_theater",
+   "label": "동부전구"
+  },
+  {
+   "key": "espionage",
+   "label": "간첩"
+  },
+  {
+   "key": "freedom_navigation",
+   "label": "항행의 자유"
+  },
+  {
+   "key": "fujian",
+   "label": "푸젠함"
+  },
+  {
+   "key": "gray_zone",
+   "label": "회색지대"
+  },
+  {
+   "key": "h6_bomber",
+   "label": "H-6 폭격기"
+  },
+  {
+   "key": "han_kuang",
+   "label": "한광훈련"
+  },
+  {
+   "key": "han_kuoyu",
+   "label": "한궈위"
+  },
+  {
+   "key": "helicopter",
+   "label": "헬기"
+  },
+  {
+   "key": "hsiao_bikhim",
+   "label": "샤오메이친"
+  },
+  {
+   "key": "hualien",
+   "label": "화롄"
+  },
+  {
+   "key": "incursion",
+   "label": "침범"
+  },
+  {
+   "key": "independence",
+   "label": "대만독립"
+  },
+  {
+   "key": "invasion",
+   "label": "침공론"
+  },
+  {
+   "key": "ipac",
+   "label": "IPAC"
+  },
+  {
+   "key": "itu_aba",
+   "label": "타이핑다오"
+  },
+  {
+   "key": "j16",
+   "label": "J-16"
+  },
+  {
+   "key": "j35",
+   "label": "J-35"
+  },
+  {
+   "key": "joint_sword",
+   "label": "연합리검"
+  },
+  {
+   "key": "jsdf",
+   "label": "자위대"
+  },
+  {
+   "key": "kaohsiung",
+   "label": "가오슝"
+  },
+  {
+   "key": "keelung",
+   "label": "지룽"
+  },
+  {
+   "key": "kinmen",
+   "label": "진먼"
+  },
+  {
+   "key": "ko_wenje",
+   "label": "커원저"
+  },
+  {
+   "key": "lai_chingte",
+   "label": "라이칭더"
+  },
+  {
+   "key": "liaoning",
+   "label": "랴오닝함"
+  },
+  {
+   "key": "line_crossing",
+   "label": "중간선 통과"
+  },
+  {
+   "key": "live_fire",
+   "label": "실탄사격"
+  },
+  {
+   "key": "mac",
+   "label": "대륙위원회"
+  },
+  {
+   "key": "matsu",
+   "label": "마쭈"
+  },
+  {
+   "key": "median_line",
+   "label": "해협 중간선"
+  },
+  {
+   "key": "military_drill",
+   "label": "군사훈련"
+  },
+  {
+   "key": "missile",
+   "label": "미사일"
+  },
+  {
+   "key": "miyako_strait",
+   "label": "미야코해협"
+  },
+  {
+   "key": "nav_warning",
+   "label": "항행경보"
+  },
+  {
+   "key": "one_china",
+   "label": "하나의 중국"
+  },
+  {
+   "key": "penghu",
+   "label": "펑후"
+  },
+  {
+   "key": "pentagon",
+   "label": "미 국방부"
+  },
+  {
+   "key": "pla",
+   "label": "인민해방군"
+  },
+  {
+   "key": "plaaf",
+   "label": "중국 공군"
+  },
+  {
+   "key": "plan_navy",
+   "label": "중국 해군"
+  },
+  {
+   "key": "pratas",
+   "label": "둥사"
+  },
+  {
+   "key": "prc_mnd",
+   "label": "중국 국방부"
+  },
+  {
+   "key": "restricted_zone",
+   "label": "비행제한구역"
+  },
+  {
+   "key": "reunification",
+   "label": "통일"
+  },
+  {
+   "key": "roc_military",
+   "label": "대만군"
+  },
+  {
+   "key": "sanction",
+   "label": "제재"
+  },
+  {
+   "key": "senkaku",
+   "label": "센카쿠"
+  },
+  {
+   "key": "shandong",
+   "label": "산둥함"
+  },
+  {
+   "key": "south_china_sea",
+   "label": "남중국해"
+  },
+  {
+   "key": "status_quo",
+   "label": "현상유지"
+  },
+  {
+   "key": "strait_thunder",
+   "label": "해협뇌정"
+  },
+  {
+   "key": "su30",
+   "label": "Su-30"
+  },
+  {
+   "key": "suao",
+   "label": "쑤아오"
+  },
+  {
+   "key": "submarine",
+   "label": "잠수함"
+  },
+  {
+   "key": "tabletop_wargame",
+   "label": "도상훈련"
+  },
+  {
+   "key": "taipei",
+   "label": "타이베이"
+  },
+  {
+   "key": "taiwan_strait",
+   "label": "대만해협"
+  },
+  {
+   "key": "tao",
+   "label": "국태판"
+  },
+  {
+   "key": "tra",
+   "label": "대만관계법"
+  },
+  {
+   "key": "trump",
+   "label": "트럼프"
+  },
+  {
+   "key": "tw_mnd",
+   "label": "대만 국방부"
+  },
+  {
+   "key": "type055",
+   "label": "055형"
+  },
+  {
+   "key": "us_military",
+   "label": "미군"
+  },
+  {
+   "key": "wang_yi",
+   "label": "왕이"
+  },
+  {
+   "key": "warship",
+   "label": "군함"
+  },
+  {
+   "key": "wellington_koo",
+   "label": "구리슝"
+  },
+  {
+   "key": "xi_jinping",
+   "label": "시진핑"
+  },
+  {
+   "key": "yonaguni",
+   "label": "요나구니"
   }
  ],
  "syndicators_excluded": [

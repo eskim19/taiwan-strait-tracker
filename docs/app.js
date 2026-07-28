@@ -9,6 +9,8 @@
     meta: null,
     sort: "recent",
     grade: "all",
+    entity: null,
+    entityLabels: {},
     query: "",
     archive: { month: "", query: "", events: [], cache: {} }
   };
@@ -68,6 +70,23 @@
     });
   }
 
+  // 사건 객체 하나가 스키마에서 벗어나면 화면 세 곳이 통째로 사라지던 문제를
+  // 막는다. 조용히 비는 것보다 어디가 깨졌는지 보여주는 게 낫다.
+  function guard(name, fn) {
+    try {
+      fn();
+    } catch (err) {
+      var host = $("#" + name);
+      if (host) {
+        host.appendChild(el("div", {
+          class: "error-box",
+          text: "이 영역을 그리지 못했습니다 — " + err.message
+        }));
+      }
+      if (window.console) console.error(name, err);
+    }
+  }
+
   // ------------------------------------------------------------ 테마 전환
   function initTheme() {
     var saved = null;
@@ -99,8 +118,34 @@
   }
 
   // ------------------------------------------------------------ 사건 카드
+  // RSS 가 준 URL 을 그대로 href 에 넣지 않는다. 악성·침해된 피드가
+  // javascript: URL 을 주면 클릭 시 실행된다.
+  function safeUrl(url) {
+    if (!url) return null;
+    try {
+      var parsed = new URL(url, location.href);
+      return (parsed.protocol === "http:" || parsed.protocol === "https:") ? parsed.href : null;
+    } catch (e) {
+      return null;
+    }
+  }
+
+  function link(url, text, cls, lang) {
+    var href = safeUrl(url);
+    var attrs = { text: text, lang: lang || null, class: cls || null };
+    if (!href) return el("span", attrs);
+    attrs.href = href;
+    attrs.target = "_blank";
+    attrs.rel = "noopener noreferrer";
+    return el("a", attrs);
+  }
+
   function gradeBadge(cred) {
-    return el("span", { class: "badge", "data-grade": cred.grade, title: cred.score + "점" }, [
+    return el("span", {
+      class: "badge",
+      "data-grade": cred.grade,
+      title: cred.score + "점"
+    }, [
       el("span", { text: cred.grade }),
       el("span", { text: cred.grade_label })
     ]);
@@ -110,7 +155,7 @@
     var cred = event.credibility;
 
     var title = el("h3", { class: "event-title" }, [
-      el("a", { href: event.headline_url, target: "_blank", rel: "noopener noreferrer", text: event.headline })
+      link(event.headline_url, event.headline, null, event.headline_lang)
     ]);
 
     var meta = el("p", { class: "event-meta" }, [
@@ -143,7 +188,8 @@
         el("span", { class: "lang", text: LANG_LABEL[a.lang] || a.lang }),
         el("span", { class: "src", text: a.source_name }),
         el("span", {}, [
-          el("a", { href: a.url, target: "_blank", rel: "noopener noreferrer", text: a.title }),
+          // lang 을 붙여야 스크린리더가 중국어를 한국어 음성으로 읽지 않는다
+          link(a.url, a.title, null, a.lang),
           a.bias ? el("span", { class: "bias-note", text: " — " + a.bias }) : null
         ])
       ]);
@@ -153,9 +199,35 @@
       el("summary", { text: "기사 " + event.articles.length + "건 전체 보기" })
     ].concat(rows));
 
+    // 이미 수집 단계에서 뽑아둔 주제 엔티티를 필터로 쓴다
+    var entities = [];
+    var seenEnt = {};
+    event.articles.forEach(function (a) {
+      (a.entities || []).forEach(function (e) {
+        if (!seenEnt[e]) { seenEnt[e] = 1; entities.push(e); }
+      });
+    });
+    var entChips = null;
+    if (entities.length) {
+      entChips = el("div", { class: "ent-chips" });
+      entities.slice(0, 8).forEach(function (e) {
+        var btn = el("button", {
+          type: "button",
+          class: "ent-chip",
+          "aria-pressed": String(state.entity === e),
+          text: (state.entityLabels && state.entityLabels[e]) || e
+        });
+        btn.addEventListener("click", function () {
+          state.entity = state.entity === e ? null : e;
+          renderEvents();
+        });
+        entChips.appendChild(btn);
+      });
+    }
+
     return el("article", { class: "event" }, [
       el("div", { class: "event-top" }, [gradeBadge(cred), el("div", {}, [title, meta])]),
-      reasons, chips, details
+      reasons, chips, entChips, details
     ]);
   }
 
@@ -175,18 +247,33 @@
 
     var items = state.events.filter(function (e) {
       if (state.grade !== "all" && e.credibility.grade !== state.grade) return false;
+      if (state.entity && !e.articles.some(function (a) {
+        return (a.entities || []).indexOf(state.entity) >= 0;
+      })) return false;
       return matchesQuery(e, state.query);
     });
 
     if (state.sort === "credibility") {
+      // 점수만으로 정렬하면 안 된다. 단일 출처 사건은 증거가 문자 그대로
+      // 동일해 점수가 같고, 그 구간이 사실상 무작위로 늘어선다.
+      // 등급을 1차 키로 두면 그 임의성이 순위에 영향을 주지 않는다.
+      var rank = { A: 0, B: 1, C: 2, D: 3 };
       items = items.slice().sort(function (a, b) {
-        return b.credibility.score - a.credibility.score ||
+        return (rank[a.credibility.grade] - rank[b.credibility.grade]) ||
+          (b.credibility.score - a.credibility.score) ||
           (a.last_seen < b.last_seen ? 1 : -1);
       });
     }
 
-    $("#events-count").textContent = items.length + "건" +
-      (items.length !== state.events.length ? " (전체 " + state.events.length + "건 중)" : "");
+    var label = items.length + "건";
+    if (items.length !== state.events.length) {
+      label += " (전체 " + state.events.length + "건 중";
+      if (state.entity) {
+        label += ", 주제: " + ((state.entityLabels && state.entityLabels[state.entity]) || state.entity);
+      }
+      label += ")";
+    }
+    $("#events-count").textContent = label;
 
     if (!items.length) {
       list.appendChild(el("p", {
@@ -310,11 +397,11 @@
     });
     svg.appendChild(marker);
 
-    function onMove(evt) {
-      var box = svg.getBoundingClientRect();
-      var px = (evt.clientX - box.left) / box.width * W;
-      var idx = Math.floor((px - m.left) / slot);
+    var cursor = -1;
+
+    function showAt(idx, clientX) {
       if (idx < 0 || idx >= data.length) return onLeave();
+      cursor = idx;
       var d = data[idx];
       marker.setAttribute("x", m.left + idx * slot + slot / 2 - 1);
       marker.setAttribute("opacity", 0.35);
@@ -323,19 +410,57 @@
       tip.appendChild(el("div", { html: opts.tipHtml(d) }));
       tip.classList.add("on");
       var hostBox = host.getBoundingClientRect();
-      var left = evt.clientX - hostBox.left + host.scrollLeft + 12;
+      var svgBox = svg.getBoundingClientRect();
+      var anchorX = clientX !== undefined
+        ? clientX
+        : svgBox.left + (m.left + idx * slot + slot / 2) / W * svgBox.width;
+      var left = anchorX - hostBox.left + host.scrollLeft + 12;
       if (left + tip.offsetWidth > host.scrollLeft + hostBox.width) {
-        left = evt.clientX - hostBox.left + host.scrollLeft - tip.offsetWidth - 12;
+        left = anchorX - hostBox.left + host.scrollLeft - tip.offsetWidth - 12;
       }
       tip.style.left = Math.max(0, left) + "px";
       tip.style.top = "8px";
     }
+
+    function indexFromClient(clientX) {
+      var box = svg.getBoundingClientRect();
+      var px = (clientX - box.left) / box.width * W;
+      return Math.floor((px - m.left) / slot);
+    }
+
+    function onMove(evt) {
+      showAt(indexFromClient(evt.clientX), evt.clientX);
+    }
     function onLeave() {
+      cursor = -1;
       tip.classList.remove("on");
       marker.setAttribute("opacity", 0);
     }
+
     svg.addEventListener("mousemove", onMove);
     svg.addEventListener("mouseleave", onLeave);
+    // 터치 — mousemove 만 있으면 모바일에서 수치를 볼 방법이 없다
+    svg.addEventListener("touchstart", function (e) {
+      if (e.touches.length) showAt(indexFromClient(e.touches[0].clientX), e.touches[0].clientX);
+    }, { passive: true });
+    svg.addEventListener("touchmove", function (e) {
+      if (e.touches.length) showAt(indexFromClient(e.touches[0].clientX), e.touches[0].clientX);
+    }, { passive: true });
+    // 키보드 — 차트에 포커스를 주고 좌우로 값을 읽는다
+    svg.setAttribute("tabindex", "0");
+    svg.addEventListener("focus", function () {
+      if (cursor < 0) showAt(data.length - 1);
+    });
+    svg.addEventListener("blur", onLeave);
+    svg.addEventListener("keydown", function (e) {
+      var delta = e.key === "ArrowRight" ? 1 : e.key === "ArrowLeft" ? -1 : 0;
+      if (e.key === "Home") delta = -data.length;
+      if (e.key === "End") delta = data.length;
+      if (!delta) return;
+      e.preventDefault();
+      var start = cursor < 0 ? data.length - 1 : cursor;
+      showAt(Math.max(0, Math.min(data.length - 1, start + delta)));
+    });
   }
 
   function niceCeil(v) {
@@ -414,7 +539,9 @@
       }
     });
 
-    renderTensionTable(recs.slice(-60).reverse());
+    // 차트에 표시한 구간 전체를 표로도 제공한다. 스크린리더·키보드
+    // 사용자에게는 이 표가 차트의 유일한 대체 경로다.
+    renderTensionTable(recent.slice().reverse());
   }
 
   function renderTensionTable(rows) {
@@ -484,13 +611,22 @@
     fillMini($("#persp-other"), other, "기사가 아직 없음.");
   }
 
+  var PERSPECTIVE_LIMIT = 40;
+
   function fillMini(host, items, emptyText) {
     host.textContent = "";
     if (!items.length) {
       host.appendChild(el("p", { class: "empty", text: emptyText }));
       return;
     }
-    items.slice(0, 40).forEach(function (a) { host.appendChild(miniRow(a)); });
+    items.slice(0, PERSPECTIVE_LIMIT).forEach(function (a) { host.appendChild(miniRow(a)); });
+    // 조용히 자르면 "이게 전부"로 읽힌다
+    if (items.length > PERSPECTIVE_LIMIT) {
+      host.appendChild(el("p", {
+        class: "trunc-note",
+        text: "최근 " + PERSPECTIVE_LIMIT + "건만 표시 (전체 " + items.length + "건)"
+      }));
+    }
   }
 
   // ------------------------------------------------------------ 아카이브
@@ -554,9 +690,13 @@
   function renderFooter() {
     var meta = state.meta || {};
 
+    var src = state.sources || {};
     var rules = $("#grade-rules");
     rules.textContent = "";
-    ((state.sources && state.sources.grade_rules) || []).forEach(function (r) {
+    if (src.grade_caveat) {
+      rules.appendChild(el("p", { class: "foot-note", html: "" , text: src.grade_caveat }));
+    }
+    (src.grade_rules || []).forEach(function (r) {
       rules.appendChild(el("div", { class: "rule-row" }, [
         el("span", { class: "badge", "data-grade": r.grade }, [
           el("span", { text: r.grade }), el("span", { text: r.label })
@@ -564,6 +704,17 @@
         el("span", { class: "rule-text", text: r.rule })
       ]));
     });
+    (src.d_reasons || []).forEach(function (r) {
+      rules.appendChild(el("div", { class: "rule-row" }, [
+        el("span", { class: "badge", "data-grade": "D" }, [
+          el("span", { text: "D" }), el("span", { text: r.label })
+        ]),
+        el("span", { class: "rule-text", text: r.rule })
+      ]));
+    });
+    if (src.tier_basis) {
+      rules.appendChild(el("p", { class: "foot-note", text: src.tier_basis }));
+    }
 
     var table = $("#source-table");
     table.textContent = "";
@@ -612,6 +763,14 @@
   function renderHeadStats() {
     var host = $("#head-stats");
     host.textContent = "";
+
+    // 데이터를 못 받았는데 헤더가 옛 숫자를 보여주면 정상으로 오인된다
+    if (state.loadFailed && state.loadFailed.length) {
+      host.appendChild(el("span", { class: "error-box",
+        text: "데이터를 불러오지 못함: " + state.loadFailed.join(", ") }));
+      return;
+    }
+
     var meta = state.meta || {};
     var grades = meta.grades || {};
     var last = state.tension && state.tension.records && state.tension.records.length
@@ -622,7 +781,7 @@
     }
     host.appendChild(stat("사건", String(meta.n_events || state.events.length)));
     host.appendChild(stat("A 검증됨", String(grades.A || 0)));
-    host.appendChild(stat("D 주의", String(grades.D || 0)));
+    host.appendChild(stat("D 미교차", String(grades.D || 0)));
     host.appendChild(stat("교차언어 사건", String(meta.cross_language_events || 0)));
     if (last) {
       host.appendChild(stat("긴장도 지수", last.index + (last.ratio ? " (평소 " + last.ratio + "배)" : "")));
@@ -636,7 +795,9 @@
   function showView(name) {
     if (VIEWS.indexOf(name) < 0) name = "events";
     $$(".tab").forEach(function (t) {
-      t.setAttribute("aria-selected", String(t.dataset.view === name));
+      var on = t.dataset.view === name;
+      t.setAttribute("aria-selected", String(on));
+      t.tabIndex = on ? 0 : -1;
     });
     $$(".view").forEach(function (v) { v.hidden = true; });
     $("#view-" + name).hidden = false;
@@ -644,11 +805,29 @@
   }
 
   function initTabs() {
-    $$(".tab").forEach(function (tab) {
+    var tabs = $$(".tab");
+    tabs.forEach(function (tab, i) {
+      tab.setAttribute("aria-controls", "view-" + tab.dataset.view);
+      tab.id = "tab-" + tab.dataset.view;
+      tab.tabIndex = i === 0 ? 0 : -1;   // roving tabindex
       tab.addEventListener("click", function () {
         // 해시로 남겨 화면을 그대로 공유할 수 있게 한다
         location.hash = tab.dataset.view;
       });
+      // 탭 목록은 화살표로 이동하는 것이 표준 동작이다
+      tab.addEventListener("keydown", function (e) {
+        var delta = e.key === "ArrowRight" ? 1 : e.key === "ArrowLeft" ? -1 : 0;
+        if (e.key === "Home") delta = -i;
+        if (e.key === "End") delta = tabs.length - 1 - i;
+        if (!delta) return;
+        e.preventDefault();
+        var next = tabs[(i + delta + tabs.length) % tabs.length];
+        next.focus();
+        location.hash = next.dataset.view;
+      });
+    });
+    $$(".view").forEach(function (v) {
+      v.setAttribute("aria-labelledby", "tab-" + v.id.replace("view-", ""));
     });
     window.addEventListener("hashchange", function () {
       showView(location.hash.replace("#", ""));
@@ -656,18 +835,30 @@
   }
 
   function initControls() {
-    $$("[data-sort]").forEach(function (b) {
+    // 선택 상태를 CSS 클래스로만 두면 스크린리더가 현재 필터를 알 수 없다
+    function setGroup(selector, chosen, apply) {
+      $$(selector).forEach(function (x) {
+        var on = x === chosen;
+        x.classList.toggle("is-on", on);
+        x.setAttribute("aria-pressed", String(on));
+      });
+      apply();
+      renderEvents();
+    }
+
+    $$("button[data-sort]").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.classList.contains("is-on")));
       b.addEventListener("click", function () {
-        $$("[data-sort]").forEach(function (x) { x.classList.toggle("is-on", x === b); });
-        state.sort = b.dataset.sort;
-        renderEvents();
+        setGroup("button[data-sort]", b, function () { state.sort = b.dataset.sort; });
       });
     });
-    $$("[data-grade]").forEach(function (b) {
+    $$("button[data-grade]").forEach(function (b) {
+      b.setAttribute("aria-pressed", String(b.classList.contains("is-on")));
       b.addEventListener("click", function () {
-        $$("[data-grade]").forEach(function (x) { x.classList.toggle("is-on", x === b); });
-        state.grade = b.dataset.grade;
-        renderEvents();
+        setGroup("button[data-grade]", b, function () {
+          state.grade = b.dataset.grade;
+          state.entity = null;   // 등급을 바꾸면 주제 필터는 초기화
+        });
       });
     });
     $("#events-search").addEventListener("input", function (e) {
@@ -682,23 +873,37 @@
     initTabs();
     initControls();
 
+    var failures = [];
+    function load(url, fallback) {
+      return getJSON(url).catch(function (err) {
+        failures.push(err.message);
+        return fallback;
+      });
+    }
+
     Promise.all([
-      getJSON("data/events.json").catch(function () { return { events: [] }; }),
-      getJSON("data/tension.json").catch(function () { return { records: [] }; }),
-      getJSON("data/sources.json").catch(function () { return {}; }),
-      getJSON("data/build_meta.json").catch(function () { return {}; })
+      load("data/events.json", { events: [] }),
+      load("data/tension.json", { records: [] }),
+      load("data/sources.json", {}),
+      load("data/build_meta.json", {}),
+      Promise.resolve(failures)
     ]).then(function (res) {
       state.events = res[0].events || [];
       state.tension = res[1];
       state.sources = res[2];
       state.meta = res[3];
+      state.loadFailed = res[4];
 
-      renderHeadStats();
-      renderEvents();
-      renderTension();
-      renderPerspective();
-      renderFooter();
-      initArchive();
+      (((state.sources || {}).entity_labels) || []).forEach(function (row) {
+        state.entityLabels[row.key] = row.label;
+      });
+
+      guard("head-stats", renderHeadStats);
+      guard("events-list", renderEvents);
+      guard("tension-tiles", renderTension);
+      guard("persp-other", renderPerspective);
+      guard("feed-status", renderFooter);
+      guard("archive-list", initArchive);
       showView(location.hash.replace("#", ""));
     });
   }
