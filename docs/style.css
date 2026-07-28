@@ -17,6 +17,9 @@
   --good: #0ca30c;
   --warning: #fab219;
   --critical: #d03b3b;
+  /* --warning 은 점·테두리용이다. 흰 배경에서 1.79:1 이라 글자로 쓰면
+     못 읽는다. 텍스트용 앰버를 따로 둔다(5.77:1). */
+  --warning-text: #8a5a00;
 
   /* 등급 배지는 이 사이트의 핵심 정보 전달 수단이라 WCAG AA(4.5:1) 를
      맞춘다. 상태 팔레트 원색은 라이트 표면에서 C가 1.79:1, A가 3.27:1 로
@@ -34,6 +37,7 @@
   :root:not([data-theme="light"]) {
     color-scheme: dark;
     --surface-1: #1a1a19;
+    --warning-text: #fab219;   /* 다크에선 원색이 9.49:1 로 충분하다 */
     --page: #0d0d0d;
     --text-primary: #ffffff;
     --text-secondary: #c3c2b7;
@@ -53,6 +57,7 @@
 :root[data-theme="dark"] {
   color-scheme: dark;
   --surface-1: #1a1a19;
+    --warning-text: #fab219;   /* 다크에선 원색이 9.49:1 로 충분하다 */
   --page: #0d0d0d;
   --text-primary: #ffffff;
   --text-secondary: #c3c2b7;
@@ -354,6 +359,7 @@ td { font-variant-numeric: tabular-nums; }
 
 .empty { color: var(--text-muted); font-size: 0.88rem; padding: 22px 0; text-align: center; }
 .error-box { border: 1px solid var(--critical); color: var(--critical); border-radius: var(--radius); padding: 12px 14px; font-size: 0.88rem; }
+.warn-box { border: 1px solid var(--warning); color: var(--warning-text); border-radius: var(--radius); padding: 12px 14px; font-size: 0.88rem; }
 
 @media (max-width: 720px) {
   .perspective-grid { grid-template-columns: 1fr; }

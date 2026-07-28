@@ -114,3 +114,17 @@ jobs:
           # 원격이 앞서 있을 수 있으므로 rebase 후 푸시
           git pull --rebase --autostash origin "$GITHUB_REF_NAME"
           git push
+
+      # 커밋 뒤에 둔다. 이 스텝은 잡을 빨갛게 만들 수 있고(그게 목적이다 —
+      # 경고 애노테이션만으로는 메일이 안 와서 아무도 안 본다), 그 전에
+      # 데이터는 이미 저장돼 있어야 한다.
+      #
+      # 앞의 '회귀 게이트'는 커밋된 고정 픽스처를 채점하므로 의존성이 고정된
+      # 지금은 매번 같은 답이 나온다 — 사실상 설치 스모크 테스트다.
+      # 여기 selfcheck 는 반대로 방금 발행한 docs/data 를 읽어 매 회차
+      # 새로운 정보를 준다. 그래서 빌드 뒤에 한 번 더 돈다.
+      - name: 배포 후 검증
+        if: ${{ !cancelled() }}
+        run: |
+          python -m collector.feedhealth
+          python -m collector.selfcheck

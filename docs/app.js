@@ -789,13 +789,18 @@
     var feeds = $("#feed-status");
     feeds.textContent = "";
     (meta.feeds || []).forEach(function (f) {
-      var cls = f.status === "error" ? "dot-bad" : (f.status === "empty" ? "dot-warn" : "dot-ok");
-      var msg = f.status === "error" ? f.error
-        : f.status === "not_modified" ? "변경 없음"
-          : f.n_entries + "개 항목";
+      // health 로 판정한다. status 만 보면 '200 을 주는데 채택이 0건'인 상태를
+      // 놓친다 — 구글 뉴스가 최신순에서 관련도순으로 빠지면 그렇게 된다.
+      var health = f.health || (f.status === "error" ? "error" : "ok");
+      var cls = health === "error" ? "dot-bad" : (health !== "ok" ? "dot-warn" : "dot-ok");
+      var msg = health === "error" ? f.error
+        : health === "no_adopt" ? f.n_entries + "개 항목 · 채택 0 — 관련도 정렬/차단 의심"
+          : health === "stale" ? "최신 항목 " + String(f.newest || "").slice(0, 10) + " — 정체"
+            : f.status === "not_modified" ? "변경 없음"
+              : f.n_entries + "개 항목 · 채택 " + (f.n_adopted != null ? f.n_adopted : "?");
       feeds.appendChild(el("div", { class: "feed-row" }, [
         el("span", { class: "dot " + cls }),
-        el("span", { class: "fname", text: f.name }),
+        el("span", { class: "fname", text: f.name + (f.critical ? " ●" : "") }),
         el("span", { class: "fmsg", text: msg })
       ]));
     });
@@ -807,8 +812,14 @@
       ]));
     }
 
+    // updated 의 의미가 '마지막 실행'에서 '마지막 변경'으로 바뀌었다(내용이
+    // 같으면 파일을 다시 쓰지 않는다). "마지막 수집"이라고 계속 쓰면 거짓말이
+    // 되므로 checked(마지막 확인일)를 나란히 보여준다. duration_sec 은 이제
+    // 낡은 값을 표시하게 되므로 화면에서 뺀다(JSON 에는 남긴다).
     $("#foot-meta").textContent = meta.updated
-      ? "마지막 수집 " + fmtDateTime(meta.updated) + " · 소요 " + meta.duration_sec + "초 · 사건 " + meta.n_events + "건 · 기사 " + meta.n_articles + "건"
+      ? "마지막 갱신 " + fmtDateTime(meta.updated)
+        + (meta.checked ? " · 마지막 확인 " + meta.checked : "")
+        + " · 사건 " + meta.n_events + "건 · 기사 " + meta.n_articles + "건"
       : "";
   }
 
@@ -827,6 +838,24 @@
     var grades = meta.grades || {};
     var last = state.tension && state.tension.records && state.tension.records.length
       ? state.tension.records[state.tension.records.length - 1] : null;
+
+    // 수집 장애는 접힌 <details> 안(#feed-status)에 있어서 아무도 못 본다.
+    // 등급이 통째로 내려앉는 사건인데 화면에는 그냥 낮은 등급으로만 보인다.
+    // T1 통신사가 전부 구글 뉴스 경로를 타므로, 그게 막히면 여기서 말해야 한다.
+    if (meta.all_feeds_failed) {
+      host.appendChild(el("span", { class: "error-box",
+        text: "모든 피드 수집 실패 — 아래 숫자는 이전 회차 데이터다" }));
+    } else {
+      var down = (meta.feeds || []).filter(function (f) {
+        return f.critical && f.health && f.health !== "ok";
+      });
+      if (down.length) {
+        host.appendChild(el("span", { class: "warn-box",
+          text: "주요 피드 " + down.length + "건 장애 ("
+            + down.map(function (f) { return f.name; }).join(", ")
+            + ") — 통신사 보도가 빠져 등급이 실제보다 낮게 나올 수 있다" }));
+      }
+    }
 
     function stat(label, value) {
       return el("span", {}, [document.createTextNode(label + " "), el("b", { text: value })]);
