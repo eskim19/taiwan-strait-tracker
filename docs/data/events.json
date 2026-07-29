@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-29T14:34:09Z",
+ "updated": "2026-07-29T16:40:07Z",
  "events": [
   {
    "id": "evt_20260729_2e2ff7",
@@ -60,6 +60,69 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260729_c34ece",
+   "headline": "曾在台海跟拍中國軍艦 美無人船近拍擅入菲EEZ解放軍",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzZUOFJsbmZPUTVtcndiM3djdTRNYUd2aEhBUHJKU2tjWUhxN3A2OURDcWV0TmdLaV9LcEJhdldzLUVfRUh0d0Y1R2lQV25ydFd0Wk1Rcw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-07-29T12:17:39Z",
+   "last_seen": "2026-07-29T12:17:39Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "872a3fc4b49d87a9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "872a3fc4b49d87a9",
+     "title": "曾在台海跟拍中國軍艦 美無人船近拍擅入菲EEZ解放軍",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yRzZUOFJsbmZPUTVtcndiM3djdTRNYUd2aEhBUHJKU2tjWUhxN3A2OURDcWV0TmdLaV9LcEJhdldzLUVfRUh0d0Y1R2lQV25ydFd0Wk1Rcw?oc=5",
+     "published": "2026-07-29T12:17:39Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "roc_military",
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
@@ -543,7 +606,7 @@
       "military_drill",
       "pla"
      ],
-     "source_name": "鏡報",
+     "source_name": "mirrordaily.news",
      "source_domain": "mirrordaily.news",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1129,7 +1192,7 @@
   {
    "id": "evt_20260729_d28566",
    "headline": "AIT公布美台海巡艦合照 國安人士：我與友盟共同維護海上國際秩序",
-   "headline_source": "鏡報",
+   "headline_source": "mirrordaily.news",
    "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE4taVV4QThCRm9YaTA5empRdUVRT25YTHh4Y0d5UnYzRXFWd2Y1MlllVV9oOFBvMFdWLU1UMWd2MXg4LW5yTHVZWjBMalNfSDhpVVE?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-07-29T06:13:00Z",
@@ -1177,7 +1240,7 @@
       "coast_guard",
       "taiwan_strait"
      ],
-     "source_name": "鏡報",
+     "source_name": "mirrordaily.news",
      "source_domain": "mirrordaily.news",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1792,13 +1855,13 @@
    ]
   },
   {
-   "id": "evt_20260728_ac360c",
+   "id": "evt_20260728_401d0c",
    "headline": "模擬共軍攻台！漢光演習納反封鎖護航 2旅「全旅動員」5千兵力",
    "headline_source": "TVBS",
    "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE42TTVEdkJWRTJQZnNBM056WUNSMDZaWW9kMjhhb1ZnVlFjaDJMU1duQmJILTl6dkkxZUV6VjZ4YnQyTXBWVTBRZmZQUmVONWtUQVBB?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-07-28T10:18:23Z",
-   "last_seen": "2026-07-29T00:00:00Z",
+   "last_seen": "2026-07-28T23:00:00Z",
    "langs": [
     "en",
     "zh"
@@ -1808,12 +1871,12 @@
     "grade": "B",
     "d_reason": null,
     "grade_label": "개연적",
-    "n_originals": 5,
+    "n_originals": 4,
     "n_unrated": 2,
-    "score": 69.7,
-    "n_independent": 3,
-    "n_articles": 5,
-    "n_domains": 5,
+    "score": 54.7,
+    "n_independent": 2,
+    "n_articles": 4,
+    "n_domains": 4,
     "blocs": [
      "independent",
      "unknown"
@@ -1821,7 +1884,7 @@
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 3곳",
+     "독립 출처 2곳",
      "최고 등급 주요 일간",
      "2개 언어권에서 확인",
      "미분류 매체 2곳 추가 보도(교차검증 미산입)"
@@ -1833,8 +1896,7 @@
      "32d37afb61156476",
      "507f10c92438a122",
      "9529f93226473ccb",
-     "5ad85d8aa7421607",
-     "1cdda77da9bcd045"
+     "5ad85d8aa7421607"
     ]
    },
    "articles": [
@@ -1915,24 +1977,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "1cdda77da9bcd045",
-     "title": "Taiwan, partners must prepare for blockade: expert",
-     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/07/29/2003861568",
-     "published": "2026-07-29T00:00:00Z",
-     "lang": "en",
-     "entities": [
-      "blockade"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
@@ -3271,7 +3315,7 @@
   {
    "id": "evt_20260728_b28a8e",
    "headline": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses",
-   "headline_source": "Devdiscourse",
+   "headline_source": "devdiscourse.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWmJZQ3lab1h2WDh2N0VIek9lUTN0MmtTazlDa3NWN21tSzlOUXpLQWRLWTVBMElwRy1qUTFFTXc4QTBOdWp0SkFFR2tXLWROM0h4TUc3cmVNcThGQzVaQlhqcWc5ZmF2Y3RNcExVQ1djVnNQYWo2Qy10aE4wN19VYXdLM0xDaFRmTFg3NENfVUZOLVI1d1BvSm9GUklQM0pXNkIyX080VVJLTzNQbFEtQVVzZE90NHVlYUtDemRJZi1uUdIBwgFBVV95cUxQWmJZQ3lab1h2WDh2N0VIek9lUTN0MmtTazlDa3NWN21tSzlOUXpLQWRLWTVBMElwRy1qUTFFTXc4QTBOdWp0SkFFR2tXLWROM0h4TUc3cmVNcThGQzVaQlhqcWc5ZmF2Y3RNcExVQ1djVnNQYWo2Qy10aE4wN19VYXdLM0xDaFRmTFg3NENfVUZOLVI1d1BvSm9GUklQM0pXNkIyX080VVJLTzNQbFEtQVVzZE90NHVlYUtDemRJZi1uUQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-07-28T08:25:36Z",
@@ -3315,7 +3359,7 @@
      "published": "2026-07-28T08:25:36Z",
      "lang": "en",
      "entities": [],
-     "source_name": "Devdiscourse",
+     "source_name": "devdiscourse.com",
      "source_domain": "devdiscourse.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3998,7 +4042,7 @@
   {
    "id": "evt_20260728_a14c41",
    "headline": "Taiwan's Defense Drills: Preparing for Covert Conflict",
-   "headline_source": "Devdiscourse",
+   "headline_source": "devdiscourse.com",
    "headline_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNSU1aMkhIa2h4N09FM1otRVhENTJBV0gwMmJlZk9xczRoeFJ4T2phWnRzdEd2dFB0WXdaMFA4eXJnckk1TE9GYnFZZjkzWVNvOWlWRkthdGJZSkNtRnlJR19qaGV3Nk5PNHBpQlVxZlpCRmJ1dS1lUFQ2bmZMb0E2dDNUVGFVbS1lNmc4aGM3dlVVNThXWDV2OFdMYWM2elZvUnBtempfd01FRFVzTGRoRtIBsAFBVV95cUxNSU1aMkhIa2h4N09FM1otRVhENTJBV0gwMmJlZk9xczRoeFJ4T2phWnRzdEd2dFB0WXdaMFA4eXJnckk1TE9GYnFZZjkzWVNvOWlWRkthdGJZSkNtRnlJR19qaGV3Nk5PNHBpQlVxZlpCRmJ1dS1lUFQ2bmZMb0E2dDNUVGFVbS1lNmc4aGM3dlVVNThXWDV2OFdMYWM2elZvUnBtempfd01FRFVzTGRoRg?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-07-28T04:13:40Z",
@@ -4044,7 +4088,7 @@
      "entities": [
       "rehearsal"
      ],
-     "source_name": "Devdiscourse",
+     "source_name": "devdiscourse.com",
      "source_domain": "devdiscourse.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5840,6 +5884,68 @@
     {
      "id": "db9169f7618adb57",
      "title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSXlZTDVFdlJ2aUItSGhiUS10TThmNGpIa2RSYVBSUUxKaThqWVhJcElZTERHdC1kN00zYjNCcTNkTkxmeTBvUl9ZUVM4dTlLMGpMZnBScFlydmJ2dHUwWHR2d1hlQ0g4X0FOYQ?oc=5",
+     "published": "2026-07-27T02:12:14Z",
+     "lang": "zh",
+     "entities": [
+      "rehearsal",
+      "suao",
+      "taiwan_strait"
+     ],
+     "source_name": "商周",
+     "source_domain": "businessweekly.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260727_846e1e",
+   "headline": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社",
+   "headline_source": "商周",
+   "headline_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSXlZTDVFdlJ2aUItSGhiUS10TThmNGpIa2RSYVBSUUxKaThqWVhJcElZTERHdC1kN00zYjNCcTNkTkxmeTBvUl9ZUVM4dTlLMGpMZnBScFlydmJ2dHUwWHR2d1hlQ0g4X0FOYQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-07-27T02:12:14Z",
+   "last_seen": "2026-07-27T02:12:14Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "761d7529255326de"
+    ]
+   },
+   "articles": [
+    {
+     "id": "761d7529255326de",
+     "title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社",
      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5sSXlZTDVFdlJ2aUItSGhiUS10TThmNGpIa2RSYVBSUUxKaThqWVhJcElZTERHdC1kN00zYjNCcTNkTkxmeTBvUl9ZUVM4dTlLMGpMZnBScFlydmJ2dHUwWHR2d1hlQ0g4X0FOYQ?oc=5",
      "published": "2026-07-27T02:12:14Z",
      "lang": "zh",
@@ -8407,6 +8513,66 @@
    ]
   },
   {
+   "id": "evt_20260723_405331",
+   "headline": "Ma Wen-chun Again Accused of Leaking Confidential Details About Taiwanese Military",
+   "headline_source": "New Bloom Magazine",
+   "headline_url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11ZG83a3JFOFVseDQzT3Q0NVF0NzZ6R01FWlRwaEVxRHpseVZiYWozZ1VpWHRfeDFWWTE3NzBOazlyWExxc0dhcWJPV1huQU9rSUpKQVZkX3czQVhCWGhWLW1Mcw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-07-23T07:04:56Z",
+   "last_seen": "2026-07-23T07:04:56Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d0ab8f211b45d216"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d0ab8f211b45d216",
+     "title": "Ma Wen-chun Again Accused of Leaking Confidential Details About Taiwanese Military",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE11ZG83a3JFOFVseDQzT3Q0NVF0NzZ6R01FWlRwaEVxRHpseVZiYWozZ1VpWHRfeDFWWTE3NzBOazlyWExxc0dhcWJPV1huQU9rSUpKQVZkX3czQVhCWGhWLW1Mcw?oc=5",
+     "published": "2026-07-23T07:04:56Z",
+     "lang": "en",
+     "entities": [
+      "roc_military"
+     ],
+     "source_name": "New Bloom Magazine",
+     "source_domain": "newbloommag.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260723_d7aff7",
    "headline": "共軍臺海周邊動態與運載火箭發射 國軍嚴密監控應處",
    "headline_source": "대만 국방부",
@@ -8534,7 +8700,7 @@
   {
    "id": "evt_20260723_9f537d",
    "headline": "China Amplifies Tensions with Taiwan Strait Drill",
-   "headline_source": "Devdiscourse",
+   "headline_source": "devdiscourse.com",
    "headline_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcDNsaUNTUG9xelRCNUFrOWhxR0YwNWtCSGZrX0lYOVF4UmQ1X3FNdndkZ0ZnbWdtT1UyTDgxM2R3bmdyV0xBd05VdldDOFBlUllJbzRtQlFXc2xaYzNZbDhKYjVacXZHT3BZVEVyN1pabmhENkxjWHRrMFpUM3FZME5wZkpjNW5fUHVMRlVFSHpzUDNyUEhlVkR6elE0aEFIN09PaGNn0gGrAUFVX3lxTE5aUFhOZndLeXpXdmJDYjZLbkd0c2lqSjBLcFpGNmp6cktrd3pLNVdFNmtBZmJHREJ6bDlUdG1FSVg5alRHUGZaa2dXaXY5Z0Zmblh4RmtqSEh2YzgtU0ZVTUlkaktuV0VaTFA3RFFWSTBUQkVZb1hoLThGczFTMDFERWwxQjRBSFpfU1BMUEVxdWtCcXdOcHVON212U0kxVnI0Mlp4X3pNckVEbw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-07-23T03:27:34Z",
@@ -8581,7 +8747,7 @@
       "rehearsal",
       "taiwan_strait"
      ],
-     "source_name": "Devdiscourse",
+     "source_name": "devdiscourse.com",
      "source_domain": "devdiscourse.com",
      "tier": "T5",
      "tier_label": "미분류",
