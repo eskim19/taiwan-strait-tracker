@@ -1,13 +1,13 @@
 {
- "updated": "2026-07-29T09:11:55Z",
+ "updated": "2026-07-29T11:35:43Z",
  "checked": "2026-07-29",
- "duration_sec": 33.3,
+ "duration_sec": 33.9,
  "rolling_days": 14,
- "n_events": 127,
- "n_articles": 190,
+ "n_events": 131,
+ "n_articles": 195,
  "grades": {
-  "D": 57,
-  "B": 11,
+  "B": 12,
+  "D": 60,
   "C": 57,
   "A": 2
  },
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 9,
+  "T1": 10,
   "T2": 80,
-  "T3": 37,
+  "T3": 40,
   "T4": 13,
-  "T5": 42,
+  "T5": 43,
   "TA": 5
  },
  "t1_domains": [
@@ -69,7 +69,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 11,
-   "newest": "2026-07-29T07:29:20+00:00",
+   "newest": "2026-07-29T07:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -81,8 +81,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 76,
-   "newest": "2026-07-29T08:55:31+00:00",
+   "n_adopted": 75,
+   "newest": "2026-07-29T10:42:36+00:00",
    "stale": false,
    "error": null
   },
@@ -94,8 +94,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-07-29T08:30:01+00:00",
+   "n_adopted": 11,
+   "newest": "2026-07-29T09:53:24+00:00",
    "stale": false,
    "error": null
   },
@@ -107,7 +107,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
+   "n_adopted": 6,
    "newest": "2026-07-29T02:50:49+00:00",
    "stale": false,
    "error": null
@@ -119,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 63,
-   "n_adopted": 7,
-   "newest": "2026-07-29T07:42:02+00:00",
+   "n_entries": 66,
+   "n_adopted": 8,
+   "newest": "2026-07-29T09:33:10+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-07-29T09:01:08+00:00",
+   "newest": "2026-07-29T10:06:11+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-07-29T09:06:00+00:00",
+   "newest": "2026-07-29T09:23:00+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 92,
+   "n_entries": 94,
    "n_adopted": 0,
-   "newest": "2026-07-29T08:56:56+00:00",
+   "newest": "2026-07-29T11:10:35+00:00",
    "stale": false,
    "error": null
   },
@@ -210,9 +210,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 16,
+   "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-07-29T08:16:15+00:00",
+   "newest": "2026-07-29T11:10:54+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-29T08:33:39+00:00",
+   "newest": "2026-07-29T10:55:38+00:00",
    "stale": false,
    "error": null
   },
@@ -253,6 +253,11 @@
    "domain": "upmedia.mg",
    "n_articles": 3,
    "sample_title": "美國彈藥短缺才停轟伊朗？BBC：是防止台海曝「脆弱窗口」"
+  },
+  {
+   "domain": "fountmedia.io",
+   "n_articles": 2,
+   "sample_title": "「海峽中線不存在」 北京再度否認台海中線、侵害台灣現狀"
   },
   {
    "domain": "moderndiplomacy.eu",
@@ -338,11 +343,6 @@
    "domain": "thenewslens.com",
    "n_articles": 1,
    "sample_title": "川普口中完美的伊朗戰爭，為何讓美軍彈藥在2027台海與俄烏戰場面臨「脆弱窗口期」？"
-  },
-  {
-   "domain": "fountmedia.io",
-   "n_articles": 1,
-   "sample_title": "AIT刻意公布美台海巡同框照 中國公務船東部海域騷擾持續升溫"
   }
  ]
 }
