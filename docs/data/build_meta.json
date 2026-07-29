@@ -1,17 +1,17 @@
 {
- "updated": "2026-07-28T22:18:50Z",
- "checked": "2026-07-28",
- "duration_sec": 33.6,
+ "updated": "2026-07-29T03:43:55Z",
+ "checked": "2026-07-29",
+ "duration_sec": 36.3,
  "rolling_days": 14,
- "n_events": 111,
- "n_articles": 171,
+ "n_events": 120,
+ "n_articles": 181,
  "grades": {
-  "C": 50,
-  "D": 48,
+  "C": 53,
+  "D": 54,
   "B": 11,
   "A": 2
  },
- "cross_language_events": 5,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-07"
@@ -19,9 +19,9 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 9,
-  "T2": 71,
-  "T3": 33,
-  "T4": 11,
+  "T2": 75,
+  "T3": 35,
+  "T4": 13,
   "T5": 39,
   "TA": 4
  },
@@ -42,7 +42,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 28,
    "newest": "2026-07-27T12:00:38+00:00",
    "stale": false,
    "error": null
@@ -54,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 55,
-   "n_adopted": 32,
-   "newest": "2026-07-28T17:13:18+00:00",
+   "n_entries": 57,
+   "n_adopted": 33,
+   "newest": "2026-07-29T02:00:03+00:00",
    "stale": false,
    "error": null
   },
@@ -68,7 +68,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
+   "n_adopted": 12,
    "newest": "2026-07-28T04:32:57+00:00",
    "stale": false,
    "error": null
@@ -82,7 +82,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 72,
-   "newest": "2026-07-28T22:17:23+00:00",
+   "newest": "2026-07-29T03:18:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-28T11:44:00+00:00",
+   "newest": "2026-07-29T03:22:00+00:00",
    "stale": false,
    "error": null
   },
@@ -107,8 +107,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-07-28T14:34:00+00:00",
+   "n_adopted": 8,
+   "newest": "2026-07-29T02:50:49+00:00",
    "stale": false,
    "error": null
   },
@@ -119,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
+   "n_entries": 54,
    "n_adopted": 6,
-   "newest": "2026-07-28T12:56:10+00:00",
+   "newest": "2026-07-29T02:43:37+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-07-28T22:11:16+00:00",
+   "newest": "2026-07-29T01:36:26+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-07-28T10:34:00+00:00",
+   "newest": "2026-07-29T03:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 96,
+   "n_entries": 93,
    "n_adopted": 0,
-   "newest": "2026-07-28T22:15:40+00:00",
+   "newest": "2026-07-29T03:37:03+00:00",
    "stale": false,
    "error": null
   },
@@ -212,7 +212,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-07-28T17:44:53+00:00",
+   "newest": "2026-07-29T03:42:53+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-28T21:59:40+00:00",
+   "newest": "2026-07-29T03:09:15+00:00",
    "stale": false,
    "error": null
   },
@@ -265,24 +265,9 @@
    "sample_title": "U.S. Congress Approves $500 Million Military Aid for Taiwan Amid Trump-Xi Negoti"
   },
   {
-   "domain": "taiwanreports.com",
-   "n_articles": 1,
-   "sample_title": "社論 /台海「反封鎖」 美國政客又在畫餅充飢"
-  },
-  {
-   "domain": "dailytimes.com.pk",
-   "n_articles": 1,
-   "sample_title": "Taiwan tests arms relocation in war drills"
-  },
-  {
    "domain": "mirrordaily.news",
    "n_articles": 1,
    "sample_title": "漢光演習8/5登場！10天9夜模擬共軍攻台 2旅動員逾5000名後備兵力"
-  },
-  {
-   "domain": "nownews.com",
-   "n_articles": 1,
-   "sample_title": "漢光演習將登場 賴清德揭國家安全戰略首要目標：維持台海和平"
   },
   {
    "domain": "hakkanews.tw",
@@ -308,6 +293,21 @@
    "domain": "minutemirror.com.pk",
    "n_articles": 1,
    "sample_title": "Taiwan to test shifting weapons production during major military exercise"
+  },
+  {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 1,
+   "sample_title": "Taiwan’s Pre-Han Kuang Combat Readiness Drills"
+  },
+  {
+   "domain": "taiwanreports.com",
+   "n_articles": 1,
+   "sample_title": "社論 /台海「反封鎖」 美國政客又在畫餅充飢"
+  },
+  {
+   "domain": "dailytimes.com.pk",
+   "n_articles": 1,
+   "sample_title": "Taiwan tests arms relocation in war drills"
   },
   {
    "domain": "n.yam.com",
