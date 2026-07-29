@@ -1,31 +1,32 @@
 {
- "updated": "2026-07-29T16:40:07Z",
+ "updated": "2026-07-29T19:46:34Z",
  "checked": "2026-07-29",
- "duration_sec": 35.8,
+ "duration_sec": 35.2,
  "rolling_days": 14,
- "n_events": 140,
+ "n_events": 142,
  "n_articles": 205,
  "grades": {
+  "B": 13,
   "D": 68,
-  "C": 58,
-  "B": 12,
+  "C": 59,
   "A": 2
  },
- "cross_language_events": 4,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-07"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 9,
-  "T2": 78,
+  "T1": 11,
+  "T2": 79,
   "T3": 41,
   "T4": 13,
   "T5": 51,
   "TA": 5
  },
  "t1_domains": [
+  "aljazeera.com",
   "aninews.in",
   "bbc.com",
   "pts.org.tw",
@@ -56,7 +57,7 @@
    "http": 200,
    "n_entries": 59,
    "n_adopted": 35,
-   "newest": "2026-07-29T08:11:00+00:00",
+   "newest": "2026-07-29T10:44:50+00:00",
    "stale": false,
    "error": null
   },
@@ -81,7 +82,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 77,
+   "n_adopted": 75,
    "newest": "2026-07-29T12:17:39+00:00",
    "stale": false,
    "error": null
@@ -94,7 +95,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 9,
    "newest": "2026-07-29T15:01:00+00:00",
    "stale": false,
    "error": null
@@ -107,7 +108,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
+   "n_adopted": 7,
    "newest": "2026-07-29T02:50:49+00:00",
    "stale": false,
    "error": null
@@ -119,8 +120,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 71,
-   "n_adopted": 8,
+   "n_entries": 48,
+   "n_adopted": 6,
    "newest": "2026-07-29T13:21:25+00:00",
    "stale": false,
    "error": null
@@ -199,7 +200,7 @@
    "http": 200,
    "n_entries": 93,
    "n_adopted": 0,
-   "newest": "2026-07-29T14:31:55+00:00",
+   "newest": "2026-07-29T18:55:15+00:00",
    "stale": false,
    "error": null
   },
@@ -224,8 +225,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 25,
-   "n_adopted": 0,
-   "newest": "2026-07-29T15:46:20+00:00",
+   "n_adopted": 1,
+   "newest": "2026-07-29T19:06:38+00:00",
    "stale": false,
    "error": null
   },
