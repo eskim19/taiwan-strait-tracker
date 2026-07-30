@@ -1,28 +1,28 @@
 {
- "updated": "2026-07-30T11:22:40Z",
+ "updated": "2026-07-30T14:34:53Z",
  "checked": "2026-07-30",
- "duration_sec": 36.8,
+ "duration_sec": 31.8,
  "rolling_days": 14,
- "n_events": 161,
- "n_articles": 228,
+ "n_events": 168,
+ "n_articles": 243,
  "grades": {
-  "C": 61,
-  "D": 83,
-  "B": 16,
+  "D": 87,
+  "C": 62,
+  "B": 18,
   "A": 1
  },
- "cross_language_events": 3,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-07"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 11,
-  "T2": 77,
-  "T3": 45,
-  "T4": 14,
-  "T5": 59,
+  "T1": 12,
+  "T2": 79,
+  "T3": 46,
+  "T4": 15,
+  "T5": 58,
   "TA": 5
  },
  "t1_domains": [
@@ -42,8 +42,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
-   "newest": "2026-07-29T07:56:21+00:00",
+   "n_adopted": 28,
+   "newest": "2026-07-30T13:06:15+00:00",
    "stale": false,
    "error": null
   },
@@ -54,7 +54,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 53,
+   "n_entries": 52,
    "n_adopted": 31,
    "newest": "2026-07-30T08:49:47+00:00",
    "stale": false,
@@ -69,7 +69,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-29T07:36:43+00:00",
+   "newest": "2026-07-29T07:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -82,7 +82,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 76,
-   "newest": "2026-07-30T10:20:00+00:00",
+   "newest": "2026-07-30T11:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -94,8 +94,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-07-30T09:15:00+00:00",
+   "n_adopted": 10,
+   "newest": "2026-07-30T13:29:26+00:00",
    "stale": false,
    "error": null
   },
@@ -108,7 +108,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-30T09:47:04+00:00",
+   "newest": "2026-07-30T11:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -119,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
+   "n_entries": 70,
    "n_adopted": 6,
-   "newest": "2026-07-30T09:35:33+00:00",
+   "newest": "2026-07-30T12:44:43+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-07-30T10:28:06+00:00",
+   "newest": "2026-07-30T13:30:07+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-07-30T10:32:00+00:00",
+   "newest": "2026-07-30T11:54:00+00:00",
    "stale": false,
    "error": null
   },
@@ -199,7 +199,7 @@
    "http": 200,
    "n_entries": 84,
    "n_adopted": 0,
-   "newest": "2026-07-30T11:10:12+00:00",
+   "newest": "2026-07-30T14:11:53+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-30T10:35:52+00:00",
+   "newest": "2026-07-30T14:07:49+00:00",
    "stale": false,
    "error": null
   },
@@ -234,12 +234,12 @@
    "name": "Global Taiwan Institute",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 1,
    "newest": "2026-07-22T13:55:44+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   }
  ],
@@ -247,7 +247,7 @@
   {
    "domain": "today.line.me",
    "n_articles": 6,
-   "sample_title": "中共本月第4度「聯合戰備警巡」 殲-11、殲-16等22共機伴共艦擾台| 太報"
+   "sample_title": "中共本月第4度「聯合戰備警巡」 殲-11、殲-16等22共機伴共艦擾台 | 太報"
   },
   {
    "domain": "upmedia.mg",
@@ -270,11 +270,6 @@
    "sample_title": "「海峽中線不存在」 北京再度否認台海中線、侵害台灣現狀"
   },
   {
-   "domain": "mirrordaily.news",
-   "n_articles": 2,
-   "sample_title": "漢光演習8/5登場！10天9夜模擬共軍攻台 2旅動員逾5000名後備兵力"
-  },
-  {
    "domain": "moderndiplomacy.eu",
    "n_articles": 2,
    "sample_title": "Taiwan’s Pre-Han Kuang Combat Readiness Drills"
@@ -295,9 +290,9 @@
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   },
   {
-   "domain": "news.nextapple.com",
+   "domain": "i-meihua.com",
    "n_articles": 1,
-   "sample_title": "分析：美學者倡「結構性模糊」護台 讓中國為改變台海現狀付出代價"
+   "sample_title": "馬斯克SpaceX打造「非中國非台灣」供應鏈 防範台海衝突風險"
   },
   {
    "domain": "hakkanews.tw",
@@ -305,9 +300,9 @@
    "sample_title": "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平"
   },
   {
-   "domain": "dominotheory.com",
+   "domain": "news.nextapple.com",
    "n_articles": 1,
-   "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
+   "sample_title": "分析：美學者倡「結構性模糊」護台 讓中國為改變台海現狀付出代價"
   },
   {
    "domain": "minutemirror.com.pk",
@@ -330,6 +325,16 @@
    "sample_title": "美台海巡深化合作 攜手推動海事執法與區域安全"
   },
   {
+   "domain": "dominotheory.com",
+   "n_articles": 1,
+   "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
+  },
+  {
+   "domain": "mirrordaily.news",
+   "n_articles": 1,
+   "sample_title": "AIT公布美台海巡艦合照 國安人士：我與友盟共同維護海上國際秩序"
+  },
+  {
    "domain": "cmoney.tw",
    "n_articles": 1,
    "sample_title": "陸海警艦機巡航台海「切香腸」戰略？ 國台辦：沒海峽中線正當合法- 股市爆料同學會"
@@ -338,11 +343,6 @@
    "domain": "agenzianova.com",
    "n_articles": 1,
    "sample_title": "Taiwan: Military prepares tests on relocating weapons production in case of Chin"
-  },
-  {
-   "domain": "ntd.com",
-   "n_articles": 1,
-   "sample_title": "Upcoming Taiwan Drills Tests Defense Readiness Amid China Tensions"
   }
  ]
 }
