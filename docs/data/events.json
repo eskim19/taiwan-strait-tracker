@@ -1,5 +1,5 @@
 {
- "updated": "2026-07-30T16:52:05Z",
+ "updated": "2026-07-30T19:54:41Z",
  "events": [
   {
    "id": "evt_20260731_26a436",
@@ -54,6 +54,143 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260730_9a4e6d",
+   "headline": "The PRC Launches a Diplomatic Campaign Against Japan and The Philippines – and Steps Up Naval Activity East of Taiwan",
+   "headline_source": "Global Taiwan Institute",
+   "headline_url": "https://globaltaiwan.org/2026/07/the-prc-launches-diplomatic-campaign-japan-the-philippines/",
+   "headline_lang": "en",
+   "first_seen": "2026-07-30T17:53:04Z",
+   "last_seen": "2026-07-30T17:53:04Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 26.9,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "TA",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 분석기관"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2ed8c119cbb5359b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2ed8c119cbb5359b",
+     "title": "The PRC Launches a Diplomatic Campaign Against Japan and The Philippines – and Steps Up Naval Activity East of Taiwan",
+     "url": "https://globaltaiwan.org/2026/07/the-prc-launches-diplomatic-campaign-japan-the-philippines/",
+     "published": "2026-07-30T17:53:04Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Global Taiwan Institute",
+     "source_domain": "globaltaiwan.org",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260730_935862",
+   "headline": "Are Japan Weapons Exports to Taiwan Conceivable in a Future Strait War?",
+   "headline_source": "Global Taiwan Institute",
+   "headline_url": "https://globaltaiwan.org/2026/07/are-japan-weapons-exports-to-taiwan-conceivable-in-a-future-strait-war/",
+   "headline_lang": "en",
+   "first_seen": "2026-07-30T17:40:09Z",
+   "last_seen": "2026-07-30T17:52:24Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 50.6,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "TA",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 분석기관",
+     "2개 언어권에서 확인"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0e2f27106f16f44e",
+     "79d9c43c5278703a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0e2f27106f16f44e",
+     "title": "【禁聞】傳中共售伊朗飛彈 專家：恐牽動台海、軍售",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBndTRkaUVOTE1ValFUdEJsWUN0MG9kOGZaNmlzRjhaUnFIb1pPLTZ6N0RXazltNU90dW9BSEhRZ0lYSnU5Zlk0TldGNGw3UHRRd2MxUUJKQTF3d0YxNjI5TdIBZkFVX3lxTE5iUHBmMlF5WEN4eGp5UnhnWkZMMGhTN3I2T0VEMmJ1aEsydjRYa2ppX3k4WDdSQkR0ZThucC1xSDVYM2VoVm5HalhiX3JmX2FCTHFXMlNkeURtZmlIcXpmUlZpTHdtZw?oc=5",
+     "published": "2026-07-30T17:40:09Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "missile",
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    },
+    {
+     "id": "79d9c43c5278703a",
+     "title": "Are Japan Weapons Exports to Taiwan Conceivable in a Future Strait War?",
+     "url": "https://globaltaiwan.org/2026/07/are-japan-weapons-exports-to-taiwan-conceivable-in-a-future-strait-war/",
+     "published": "2026-07-30T17:52:24Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Global Taiwan Institute",
+     "source_domain": "globaltaiwan.org",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -673,7 +810,7 @@
       "j16",
       "warship"
      ],
-     "source_name": "today.line.me",
+     "source_name": "LINE TODAY",
      "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1057,7 +1194,7 @@
    "id": "evt_20260730_6c1e66",
    "headline": "美台海巡合照發酵 美議員再提法案反制中共灰色侵擾",
    "headline_source": "新唐人 NTD",
-   "headline_url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQS2Y0V2I2WnhzLU5Ddm1tZVhCTWRjVmxHZ201Sm9EM0diZFpsMHNiMzJmeXMtbXNCbGNuZG1RdnhKbV91UU9RUUh3ejhBR0pTaWdZX2Z5clhvMWJTVFR0TkJwWHVJOEhDblVnY3NPcVpaSTByaVVaRU1lYlBmNmx1anpsNHp5NjZnUTNTczhndTBFNUVXakg4WTQ4OHU5MFdhdXRJZExpX3lIYlBMSHZFREhPdm9oNTVmWGhLMFFCMURNVEdlTW1KdjNBcXp4ZU9mWHBxdnVRZGxJZkxMd1N3QktLQTJfSHVRb0RlV3dHeUhFbmIzQ19GZjRTcXYxeVRjUy1PNzdmYlFJbkxZYnpUV2VRWFRVQ3VseWRya0ZSQ29aVjhsY0NZSDZrYWtQd203ZVpReDl3bkdhcnZ0dUhJbzEzYVJMVlIzYzVnUzFkT1hXU2U2SmVzdXlJX1pxdXYwWlNvZU5iaU43VWE2Ykd4ZE1Yb2I5dTZIaERkT2h3?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01SkVWem92UGl6TVVpeWNSNWRqME1oWU42NXVtaW1XNmlNYnRoVGVGelBWbWxabHZaYlpvWUtiemlmWHRuVWJLbnNxYl9ZVHBGamp1Y3Y2aHVSWnU1OVZHb3dNeng?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-07-30T05:27:04Z",
    "last_seen": "2026-07-30T05:27:04Z",
@@ -1095,7 +1232,7 @@
     {
      "id": "8e0ce3586a24f2eb",
      "title": "美台海巡合照發酵 美議員再提法案反制中共灰色侵擾",
-     "url": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQS2Y0V2I2WnhzLU5Ddm1tZVhCTWRjVmxHZ201Sm9EM0diZFpsMHNiMzJmeXMtbXNCbGNuZG1RdnhKbV91UU9RUUh3ejhBR0pTaWdZX2Z5clhvMWJTVFR0TkJwWHVJOEhDblVnY3NPcVpaSTByaVVaRU1lYlBmNmx1anpsNHp5NjZnUTNTczhndTBFNUVXakg4WTQ4OHU5MFdhdXRJZExpX3lIYlBMSHZFREhPdm9oNTVmWGhLMFFCMURNVEdlTW1KdjNBcXp4ZU9mWHBxdnVRZGxJZkxMd1N3QktLQTJfSHVRb0RlV3dHeUhFbmIzQ19GZjRTcXYxeVRjUy1PNzdmYlFJbkxZYnpUV2VRWFRVQ3VseWRya0ZSQ29aVjhsY0NZSDZrYWtQd203ZVpReDl3bkdhcnZ0dUhJbzEzYVJMVlIzYzVnUzFkT1hXU2U2SmVzdXlJX1pxdXYwWlNvZU5iaU43VWE2Ykd4ZE1Yb2I5dTZIaERkT2h3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE01SkVWem92UGl6TVVpeWNSNWRqME1oWU42NXVtaW1XNmlNYnRoVGVGelBWbWxabHZaYlpvWUtiemlmWHRuVWJLbnNxYl9ZVHBGamp1Y3Y2aHVSWnU1OVZHb3dNeng?oc=5",
      "published": "2026-07-30T05:27:04Z",
      "lang": "zh",
      "entities": [
@@ -1116,7 +1253,7 @@
   {
    "id": "evt_20260730_dd328f",
    "headline": "12共機7共艦1海警船擾台 共機大增疑對台美海巡合作表達不滿 | 太報",
-   "headline_source": "today.line.me",
+   "headline_source": "LINE TODAY",
    "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB6ZDNaTFhnTXlsOVpVQ1J3NjR1ajV5RnZPaWRxX0w0Q2o0cVB5LTJfSlF3WDlUQnV6b3Y5YU9xczRocFpoZW55allsa1ZUc05qYU90RGFn?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-07-30T04:16:28Z",
@@ -1165,7 +1302,7 @@
       "incursion",
       "warship"
      ],
-     "source_name": "today.line.me",
+     "source_name": "LINE TODAY",
      "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4752,12 +4889,12 @@
   },
   {
    "id": "evt_20260728_41f00b",
-   "headline": "AIT披露台美海巡艦編隊航行 管碧玲：美方了解海巡是台海唯一執法機關",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ld3JBU29BZUllZUp2aFBPNVktYURVUk8waC14RlFGcGlJSWo2M2lIQWhFMDJUd2F0VHo1aTBnZkRNQjJfWTREMW1IUkhlblNLc0HSAVdBVV95cUxPdTB1cmpWUG81S3UzTHRSR3dYWnFlVTFHWHJ6VlhaVU9oV2JRbkFKcjlieHg3anY4VFBCNDB5NWMwdTJMbmZmaDhNT1JzYzNqdG1JeFZrWlk?oc=5",
+   "headline": "回應AIT公布美台海巡合作 管碧玲：美方了解台灣海巡署是「台灣海域唯一的執法機關」",
+   "headline_source": "太報 TaiSounds",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1QbGplRnZyaGtjVGY0M0M4VEItWWJaeE51NTc5MEtmNlJmLXpCTm1lYUN3RjhUOUlRTUVRMEU0VHdDbEhVTER0LTZtd3p3Wk14ZkpaS2VrM01WeFlT?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-07-28T09:55:45Z",
-   "last_seen": "2026-07-28T10:08:11Z",
+   "first_seen": "2026-07-28T10:03:41Z",
+   "last_seen": "2026-07-28T10:03:41Z",
    "langs": [
     "zh"
    ],
@@ -4785,32 +4922,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "e5a6a0a275d6c7a6",
-     "4794bb10b447aa08",
-     "9f3e42dbc9ea1328"
+     "4794bb10b447aa08"
     ]
    },
    "articles": [
-    {
-     "id": "e5a6a0a275d6c7a6",
-     "title": "AIT披露台美海巡艦編隊航行 管碧玲：美方了解海巡是台海唯一執法機關",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ld3JBU29BZUllZUp2aFBPNVktYURVUk8waC14RlFGcGlJSWo2M2lIQWhFMDJUd2F0VHo1aTBnZkRNQjJfWTREMW1IUkhlblNLc0HSAVdBVV95cUxPdTB1cmpWUG81S3UzTHRSR3dYWnFlVTFHWHJ6VlhaVU9oV2JRbkFKcjlieHg3anY4VFBCNDB5NWMwdTJMbmZmaDhNT1JzYzNqdG1JeFZrWlk?oc=5",
-     "published": "2026-07-28T09:55:45Z",
-     "lang": "zh",
-     "entities": [
-      "ait",
-      "coast_guard",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
     {
      "id": "4794bb10b447aa08",
      "title": "回應AIT公布美台海巡合作 管碧玲：美方了解台灣海巡署是「台灣海域唯一的執法機關」",
@@ -4829,26 +4944,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "9f3e42dbc9ea1328",
-     "title": "AIT公開台美海巡合作 管碧玲：美方了解台灣海巡是台海唯一執法機關",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE52d1VzeHBsYUFZeF9KelZydzhzTUFWOVYtejM4T3Z2RzUtbXBZM2VST1V1X0I0bHlrOFE5Y0Z1elBPZGFsLXFEeFJwNzVtSXlReWfSAVdBVV95cUxOSDV6N0tCeTBIWFNBQ28zX3hnbVA5ZWtsZXF0OUhtelFnZFBKYVFsd3hCVmg1MTVfNThwc3RpM1hiU2Qxb0RNZmJORk5OUF9URDZxSjdHbG8?oc=5",
-     "published": "2026-07-28T10:08:11Z",
-     "lang": "zh",
-     "entities": [
-      "ait",
-      "coast_guard",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -4908,6 +5003,67 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260728_450a95",
+   "headline": "AIT披露台美海巡艦編隊航行 管碧玲：美方了解海巡是台海唯一執法機關",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ld3JBU29BZUllZUp2aFBPNVktYURVUk8waC14RlFGcGlJSWo2M2lIQWhFMDJUd2F0VHo1aTBnZkRNQjJfWTREMW1IUkhlblNLc0HSAVdBVV95cUxPdTB1cmpWUG81S3UzTHRSR3dYWnFlVTFHWHJ6VlhaVU9oV2JRbkFKcjlieHg3anY4VFBCNDB5NWMwdTJMbmZmaDhNT1JzYzNqdG1JeFZrWlk?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-07-28T09:55:45Z",
+   "last_seen": "2026-07-28T09:55:45Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e5a6a0a275d6c7a6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e5a6a0a275d6c7a6",
+     "title": "AIT披露台美海巡艦編隊航行 管碧玲：美方了解海巡是台海唯一執法機關",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9ld3JBU29BZUllZUp2aFBPNVktYURVUk8waC14RlFGcGlJSWo2M2lIQWhFMDJUd2F0VHo1aTBnZkRNQjJfWTREMW1IUkhlblNLc0HSAVdBVV95cUxPdTB1cmpWUG81S3UzTHRSR3dYWnFlVTFHWHJ6VlhaVU9oV2JRbkFKcjlieHg3anY4VFBCNDB5NWMwdTJMbmZmaDhNT1JzYzNqdG1JeFZrWlk?oc=5",
+     "published": "2026-07-28T09:55:45Z",
+     "lang": "zh",
+     "entities": [
+      "ait",
+      "coast_guard",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -6625,11 +6781,11 @@
   {
    "id": "evt_20260727_a6b122",
    "headline": "U.S. Congress Approves $500 Million Military Aid for Taiwan Amid Trump-Xi Negotiations",
-   "headline_source": "SSBCrack",
+   "headline_source": "news.ssbcrack.com",
    "headline_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMU5Va05rY3lfazFfR0VlS2M4Mm40c2VzU1k3UUFEN3JVV00yd3BfYVhzbnRhTDV3VzBjZTRBcjBaWnhmSlp3WUY2dlYycnlxdE5RSjJQTktnVDNWbkJIcHNHa1BlN1JYTEFhV05RaEdVZjFlWDJNUmxVMFhFZGVjQXAtQW1xZWVRS21Ea3JNZXBucmVHUWQyd0pBb0RtbDBsNEVwaHhNNDc4bENCZk81Qg?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-07-27T11:42:13Z",
-   "last_seen": "2026-07-27T11:42:13Z",
+   "first_seen": "2026-07-27T11:36:35Z",
+   "last_seen": "2026-07-27T11:36:35Z",
    "langs": [
     "en"
    ],
@@ -6666,12 +6822,12 @@
      "id": "ffce504a6f5f73ee",
      "title": "U.S. Congress Approves $500 Million Military Aid for Taiwan Amid Trump-Xi Negotiations",
      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMU5Va05rY3lfazFfR0VlS2M4Mm40c2VzU1k3UUFEN3JVV00yd3BfYVhzbnRhTDV3VzBjZTRBcjBaWnhmSlp3WUY2dlYycnlxdE5RSjJQTktnVDNWbkJIcHNHa1BlN1JYTEFhV05RaEdVZjFlWDJNUmxVMFhFZGVjQXAtQW1xZWVRS21Ea3JNZXBucmVHUWQyd0pBb0RtbDBsNEVwaHhNNDc4bENCZk81Qg?oc=5",
-     "published": "2026-07-27T11:42:13Z",
+     "published": "2026-07-27T11:36:35Z",
      "lang": "en",
      "entities": [
       "trump"
      ],
-     "source_name": "SSBCrack",
+     "source_name": "news.ssbcrack.com",
      "source_domain": "news.ssbcrack.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -7084,7 +7240,7 @@
   {
    "id": "evt_20260727_6abcf3",
    "headline": "China’s Military Prepares for Taiwan Seizure with Detailed Replicas of Key Targets",
-   "headline_source": "SSBCrack",
+   "headline_source": "news.ssbcrack.com",
    "headline_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQck53d3RsZVNXOTkya1JVeEEzR213eWZzcU1TSjl2eW9YbEt3bGRIMThDWE96alVUMk1OSjduOUpYeUwwR3ZmanF5UG1jM3Jia2gyamNjcjU4V3ZjbG9uMGFHa3JEaDFZckt2YlRXNDhWTWtWY2swM2Q5VUhQQTJlZzJraEttbGczWUxWOXFwYlNES3A3YmdWdmxkX1lNaHVQNDhCUGhfTzByeWhQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-07-27T07:21:25Z",
@@ -7130,7 +7286,7 @@
      "entities": [
       "invasion"
      ],
-     "source_name": "SSBCrack",
+     "source_name": "news.ssbcrack.com",
      "source_domain": "news.ssbcrack.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -7324,7 +7480,7 @@
   {
    "id": "evt_20260727_5ef66c",
    "headline": "攻台預演？傳共軍打造總統府等比例模型 國防部回應了 | 太報",
-   "headline_source": "today.line.me",
+   "headline_source": "LINE TODAY",
    "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90a1R4c3QyU3dMQTJ4T01HMVc2cmhoSlhaaFc0bHd6RWt6bENCM3FXSXdsTDItdEVrcWphTXhPZWRYMXpKMlNkb2hGbGdYV2h0RWpibnhB?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-07-27T04:53:29Z",
@@ -7373,7 +7529,7 @@
       "pla",
       "tw_mnd"
      ],
-     "source_name": "today.line.me",
+     "source_name": "LINE TODAY",
      "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
@@ -8589,7 +8745,7 @@
    "headline_source": "公視 PTS",
    "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13bWR2TklRNlpZS3lwR1FfcWpnY3Y1QnF0OXBxNEdMc3FDaWUwZkFQc3dOcm1qOXJiQzhjSjZQX1g1Wl83Ny1iLVZnYkxEc0E?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-07-23T03:30:03Z",
+   "first_seen": "2026-07-23T04:09:23Z",
    "last_seen": "2026-07-25T03:05:00Z",
    "langs": [
     "en",
@@ -8627,16 +8783,11 @@
     ]
    },
    "perspectives": {
-    "prc": [
-     "465dd36475879490",
-     "3d8bfcda84e2a332"
-    ],
+    "prc": [],
     "tw_west": [
-     "e094bf2955ca5f26",
      "904a19022067ac00",
      "03228a6f84d40e23",
      "f18c3eaffaa8e105",
-     "7211a01dded2e764",
      "b7a866de818480d0",
      "183f64bd34b62b0c",
      "6f1243b83c4de6b1",
@@ -8650,46 +8801,6 @@
     ]
    },
    "articles": [
-    {
-     "id": "e094bf2955ca5f26",
-     "title": "China announces live-fire drills in Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM3ZaZkgxU0pjczIxWDdBN2NQSzZLaVZQX3F0RWR0bmN4bzJfWEk3NEowdFVaMUxOR2x3LThtYk5obUwwZVNDOXI3QmQxX1BnNG1IczlrUnRYSFI3eHJ5QVRXdmdsUkt5UC1pQmJrc3BTTVV5MGx6QVVud1FpVC1xZ3REcWU4VGlEQ3I3S9IBkgFBVV95cUxPVVJDc19kTG5kT1pZVlVFUDhWcVBwMlJndDAyZkgzRkhfdFc4ZnY5RDlwMWZ4ZkVUTTNlSXRWaVBiOWJvQjZyakhxOEV2SVIxLWJvWHRmamp5TktvWlpSNy1XSHItVmpXN3VyUDNiNW1hSjhUMHJhejJ5SFVCOG1WeU9kZEdqeWJiS3ZleUdXdGQ3UQ?oc=5",
-     "published": "2026-07-23T03:30:03Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "ThePrint",
-     "source_domain": "theprint.in",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "465dd36475879490",
-     "title": "航行警告！台湾海峡部分海域进行实弹射击 禁止进入",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PMXhnLUlpbHZUOXpoalhEZHQwVldCeU03cXBKQlVtTGhKd1dqc1lKQzJQQzFzaEhJZkpOM3YxRExTRmFhelhiaUluSnhUbjUzOHdyUUxHREhPSDA5bmZRNlEtbkViZEhLczBxUUtlbGlIaTgtNXdTcXFCelJhTzg?oc=5",
-     "published": "2026-07-23T03:38:00Z",
-     "lang": "zh",
-     "entities": [
-      "live_fire",
-      "nav_warning",
-      "taiwan_strait"
-     ],
-     "source_name": "CCTV 中央電視台",
-     "source_domain": "cctv.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
-     "hedged": false
-    },
     {
      "id": "904a19022067ac00",
      "title": "中國突宣布在台海實彈射擊 今明兩日禁止進入演習海域",
@@ -8732,26 +8843,6 @@
      "hedged": false
     },
     {
-     "id": "3d8bfcda84e2a332",
-     "title": "Taiwan Straits live-fire drills are routine warning to separatists, expert says, as Fujian issues maritime alert",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBZeFVWOVEya1JKU1FMWXVyZDdITElEVlJsZVREVndFQVVodl9FbURUM2xKdGdySjktdjVtTHFYQmdxUmVKYTVjTEc2R0ZELUtWQkRRX2ZabGMydzBVUngyeXRB?oc=5",
-     "published": "2026-07-23T06:48:00Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
-     "hedged": false
-    },
-    {
      "id": "f18c3eaffaa8e105",
      "title": "China begins 2 days of live-fire drills in Taiwan Strait, China News",
      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNN1pMSkQxTUx0Mlg5ZWYwQ3pvUExUNHZ2YjdqTG9DUWRsYTJLQ0dIOTE0b1REaWRXSmc2bGxFaGs5dktsa2RVN1g3Yml6QS1iZk1qeTljVG9IYzdGUlZoeFhHVkZ6eXRMSnlkTVlFV29zRmVpZ1dPQjlKcDZ2WXNTMFMtQjJPMWM?oc=5",
@@ -8768,27 +8859,6 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "7211a01dded2e764",
-     "title": "China begins military exercises with live ammunition in the Taiwan Strait / Maritime authorities have imposed navigation restrictions",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNX3h2NUt4WF8xcjhXNVQ0UGoyUkFIdkdpV0QtSV9qNUI3a2taOVdRd0djNTZSLWV5Yy1FMGUzNnNaMWEtS1pQb0pvTXZZejUzbDdKRllONkFZRW1EdXRQVWNlRVVObHhobDdDZlJpWWNYdER2eVJleFA4YzBMZFZpa2ZObzlIMU5sSFRrTS1GdHFwMUhjRjJwUVBXaEtyR3gycjlnZy0wT043QXRDRGtBWDJ2YWZvcTdCZVMxNlFJbFpPQQ?oc=5",
-     "published": "2026-07-23T07:53:26Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "military_drill",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "Informat.ro",
-     "source_domain": "informat.ro",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     },
@@ -8863,7 +8933,7 @@
       "rehearsal",
       "taiwan_strait"
      ],
-     "source_name": "İlke Haber Ajansı",
+     "source_name": "ilkha.com",
      "source_domain": "ilkha.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -10695,34 +10765,34 @@
   },
   {
    "id": "evt_20260722_cac31b",
-   "headline": "“중국군 헬기, 대만 제한비행구역 처음 진입…새로운 압박 전술”",
-   "headline_source": "KBS",
-   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3I0SlVUWkFuUjU1aW5RdlQyc1phUjJFRXRPQWJYd0FIQ0dKNlZFVG5oNFNtQmlrSDlrUzZFc29ZeGFkMzdMTHdodTFYbjlKeEdPYU5DdnRMY2c?oc=5",
+   "headline": "\"중국군 헬기, 대만 제한비행구역 처음 진입…새로운 압박 전술\"",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lSVl0OHdjUjVRLVpHNGc2cUlSZFlEV2JzQlNXcE1lWHctVkxlSHY0WV9xUm5uMWVkTUp1aDgzenlHdDV3MWo3MFM4dGpaVkMxakR1NzNFQnB3QmPSAWBBVV95cUxONl9aN3NKTmV6QW1mU0lDd0hsVVFUc0RiQlg1UkZQMkpoMXltMlpITC1sWkptRG5XMzgwMGw2ek92YnFSRlhJQlBETlJGRjRRZ3pJcjdCQTRWWHpTYVhsTGc?oc=5",
    "headline_lang": "ko",
-   "first_seen": "2026-07-22T02:55:00Z",
+   "first_seen": "2026-07-22T02:50:05Z",
    "last_seen": "2026-07-22T09:15:00Z",
    "langs": [
     "ko"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "A",
     "d_reason": null,
-    "grade_label": "개연적",
+    "grade_label": "검증됨",
     "n_originals": 3,
     "n_unrated": 0,
-    "score": 60.3,
+    "score": 63.8,
     "n_independent": 3,
     "n_articles": 3,
     "n_domains": 3,
     "blocs": [
      "independent"
     ],
-    "top_tier": "T2",
+    "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
      "독립 출처 3곳",
-     "최고 등급 주요 일간"
+     "최고 등급 통신사·공영"
     ]
    },
    "perspectives": {
@@ -10736,9 +10806,9 @@
    "articles": [
     {
      "id": "a5c19a4f7717a64d",
-     "title": "“중국군 헬기, 대만 제한비행구역 처음 진입…새로운 압박 전술”",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VT3I0SlVUWkFuUjU1aW5RdlQyc1phUjJFRXRPQWJYd0FIQ0dKNlZFVG5oNFNtQmlrSDlrUzZFc29ZeGFkMzdMTHdodTFYbjlKeEdPYU5DdnRMY2c?oc=5",
-     "published": "2026-07-22T02:55:00Z",
+     "title": "\"중국군 헬기, 대만 제한비행구역 처음 진입…새로운 압박 전술\"",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lSVl0OHdjUjVRLVpHNGc2cUlSZFlEV2JzQlNXcE1lWHctVkxlSHY0WV9xUm5uMWVkTUp1aDgzenlHdDV3MWo3MFM4dGpaVkMxakR1NzNFQnB3QmPSAWBBVV95cUxONl9aN3NKTmV6QW1mU0lDd0hsVVFUc0RiQlg1UkZQMkpoMXltMlpITC1sWkptRG5XMzgwMGw2ek92YnFSRlhJQlBETlJGRjRRZ3pJcjdCQTRWWHpTYVhsTGc?oc=5",
+     "published": "2026-07-22T02:50:05Z",
      "lang": "ko",
      "entities": [
       "helicopter",
@@ -10746,10 +10816,10 @@
       "pla",
       "restricted_zone"
      ],
-     "source_name": "KBS",
-     "source_domain": "kbs.co.kr",
-     "tier": "T2",
-     "tier_label": "주요 일간",
+     "source_name": "연합뉴스",
+     "source_domain": "yna.co.kr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
