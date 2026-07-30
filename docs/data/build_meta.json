@@ -1,17 +1,17 @@
 {
- "updated": "2026-07-30T03:32:31Z",
+ "updated": "2026-07-30T09:04:52Z",
  "checked": "2026-07-30",
- "duration_sec": 36.3,
+ "duration_sec": 32.7,
  "rolling_days": 14,
- "n_events": 147,
- "n_articles": 212,
+ "n_events": 156,
+ "n_articles": 223,
  "grades": {
-  "D": 71,
+  "D": 79,
   "B": 15,
-  "C": 59,
+  "C": 60,
   "A": 2
  },
- "cross_language_events": 4,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-07"
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 12,
-  "T2": 75,
-  "T3": 43,
-  "T4": 13,
-  "T5": 50,
+  "T2": 76,
+  "T3": 45,
+  "T4": 14,
+  "T5": 57,
   "TA": 5
  },
  "t1_domains": [
@@ -43,8 +43,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
-   "newest": "2026-07-29T03:06:16+00:00",
+   "n_adopted": 26,
+   "newest": "2026-07-29T07:56:21+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 58,
-   "n_adopted": 32,
-   "newest": "2026-07-29T16:15:16+00:00",
+   "n_entries": 54,
+   "n_adopted": 33,
+   "newest": "2026-07-30T07:35:44+00:00",
    "stale": false,
    "error": null
   },
@@ -70,7 +70,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-29T07:29:20+00:00",
+   "newest": "2026-07-29T07:36:43+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 72,
-   "newest": "2026-07-30T03:07:06+00:00",
+   "n_adopted": 78,
+   "newest": "2026-07-30T07:41:00+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +96,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-29T15:01:00+00:00",
+   "newest": "2026-07-30T03:17:48+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-07-30T02:11:47+00:00",
+   "n_adopted": 9,
+   "newest": "2026-07-30T08:11:40+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
+   "n_entries": 59,
    "n_adopted": 6,
-   "newest": "2026-07-30T02:01:48+00:00",
+   "newest": "2026-07-30T06:49:13+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-07-30T03:09:52+00:00",
+   "newest": "2026-07-30T08:10:55+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-07-30T03:30:00+00:00",
+   "newest": "2026-07-30T08:59:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 86,
+   "n_entries": 83,
    "n_adopted": 0,
-   "newest": "2026-07-30T03:11:33+00:00",
+   "newest": "2026-07-30T09:00:01+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-07-30T03:03:12+00:00",
+   "newest": "2026-07-30T08:30:18+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-30T03:04:18+00:00",
+   "newest": "2026-07-30T08:24:50+00:00",
    "stale": false,
    "error": null
   },
@@ -247,18 +247,23 @@
  "unrated_domains": [
   {
    "domain": "upmedia.mg",
-   "n_articles": 4,
-   "sample_title": "美智庫警告：中俄伊朝抱團圍攻美國 台海若開戰恐讓華府陷「多重戰場」"
+   "n_articles": 5,
+   "sample_title": "SpaceX打造「非中非台」供應鏈避台海風險 強力排除中國商品與員工"
   },
   {
    "domain": "today.line.me",
-   "n_articles": 3,
-   "sample_title": "曾在台海跟拍中國軍艦 美無人船近拍擅入菲EEZ解放軍 | 中央廣播電臺"
+   "n_articles": 5,
+   "sample_title": "中共本月第4度「聯合戰備警巡」 殲-11、殲-16等22共機伴共艦擾台| 太報"
   },
   {
    "domain": "devdiscourse.com",
    "n_articles": 3,
    "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
+  },
+  {
+   "domain": "ctee.com.tw",
+   "n_articles": 2,
+   "sample_title": "SpaceX傳逼供應商去中化還要打造「NCNT」供應鏈避台海風險- 國際"
   },
   {
    "domain": "fountmedia.io",
@@ -301,19 +306,34 @@
    "sample_title": "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平"
   },
   {
-   "domain": "ctee.com.tw",
-   "n_articles": 1,
-   "sample_title": "漢光演習將登場賴清德登鑑勗勉國軍維持台海和平穩定- 要聞"
-  },
-  {
    "domain": "dominotheory.com",
    "n_articles": 1,
    "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
   },
   {
+   "domain": "ibtimes.sg",
+   "n_articles": 1,
+   "sample_title": "Taiwan Tests Relocating Weapons Production as Military Drills Prepare for Potent"
+  },
+  {
    "domain": "minutemirror.com.pk",
    "n_articles": 1,
    "sample_title": "Taiwan to test shifting weapons production during major military exercise"
+  },
+  {
+   "domain": "agenzianova.com",
+   "n_articles": 1,
+   "sample_title": "Taiwan: Military prepares tests on relocating weapons production in case of Chin"
+  },
+  {
+   "domain": "businesstoday.com.tw",
+   "n_articles": 1,
+   "sample_title": "研究中國一輩子，他為何反對把中國當「壞人」？藍普頓看美中從合作走向新冷戰：台海安全還差這一步"
+  },
+  {
+   "domain": "tovima.com",
+   "n_articles": 1,
+   "sample_title": "China Deploys Jet Drones Near Taiwan Strait"
   },
   {
    "domain": "cnma.org.tw",
@@ -324,26 +344,6 @@
    "domain": "cmoney.tw",
    "n_articles": 1,
    "sample_title": "陸海警艦機巡航台海「切香腸」戰略？ 國台辦：沒海峽中線正當合法- 股市爆料同學會"
-  },
-  {
-   "domain": "ntd.com",
-   "n_articles": 1,
-   "sample_title": "Upcoming Taiwan Drills Tests Defense Readiness Amid China Tensions"
-  },
-  {
-   "domain": "taiwanreports.com",
-   "n_articles": 1,
-   "sample_title": "社論 /台海「反封鎖」 美國政客又在畫餅充飢"
-  },
-  {
-   "domain": "dailytimes.com.pk",
-   "n_articles": 1,
-   "sample_title": "Taiwan tests arms relocation in war drills"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 1,
-   "sample_title": "台美海巡深化合作 共同守護台海與印太安全"
   }
  ]
 }
