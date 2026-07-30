@@ -1,26 +1,26 @@
 {
- "updated": "2026-07-30T14:34:53Z",
+ "updated": "2026-07-30T16:52:05Z",
  "checked": "2026-07-30",
- "duration_sec": 31.8,
+ "duration_sec": 32.1,
  "rolling_days": 14,
- "n_events": 168,
- "n_articles": 243,
+ "n_events": 171,
+ "n_articles": 237,
  "grades": {
-  "D": 87,
-  "C": 62,
-  "B": 18,
+  "C": 64,
+  "D": 90,
+  "B": 16,
   "A": 1
  },
- "cross_language_events": 2,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-07"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 12,
-  "T2": 79,
-  "T3": 46,
+  "T1": 11,
+  "T2": 81,
+  "T3": 43,
   "T4": 15,
   "T5": 58,
   "TA": 5
@@ -42,7 +42,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
+   "n_adopted": 27,
    "newest": "2026-07-30T13:06:15+00:00",
    "stale": false,
    "error": null
@@ -82,7 +82,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 76,
-   "newest": "2026-07-30T11:30:00+00:00",
+   "newest": "2026-07-30T16:00:30+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 10,
-   "newest": "2026-07-30T13:29:26+00:00",
+   "newest": "2026-07-30T14:50:00+00:00",
    "stale": false,
    "error": null
   },
@@ -119,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 70,
-   "n_adopted": 6,
-   "newest": "2026-07-30T12:44:43+00:00",
+   "n_entries": 45,
+   "n_adopted": 2,
+   "newest": "2026-07-30T13:13:47+00:00",
    "stale": false,
    "error": null
   },
@@ -132,9 +132,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
-   "n_adopted": 0,
-   "newest": "2026-07-30T00:00:00+00:00",
+   "n_entries": 51,
+   "n_adopted": 1,
+   "newest": "2026-07-31T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-07-30T13:30:07+00:00",
+   "newest": "2026-07-30T16:06:15+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-07-30T11:54:00+00:00",
+   "newest": "2026-07-30T15:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 84,
+   "n_entries": 83,
    "n_adopted": 0,
-   "newest": "2026-07-30T14:11:53+00:00",
+   "newest": "2026-07-30T16:24:08+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-30T14:07:49+00:00",
+   "newest": "2026-07-30T16:06:08+00:00",
    "stale": false,
    "error": null
   },
@@ -246,7 +246,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 6,
+   "n_articles": 7,
    "sample_title": "中共本月第4度「聯合戰備警巡」 殲-11、殲-16等22共機伴共艦擾台 | 太報"
   },
   {
@@ -265,14 +265,14 @@
    "sample_title": "SpaceX傳逼供應商去中化還要打造「NCNT」供應鏈避台海風險- 國際"
   },
   {
-   "domain": "fountmedia.io",
-   "n_articles": 2,
-   "sample_title": "「海峽中線不存在」 北京再度否認台海中線、侵害台灣現狀"
-  },
-  {
    "domain": "moderndiplomacy.eu",
    "n_articles": 2,
    "sample_title": "Taiwan’s Pre-Han Kuang Combat Readiness Drills"
+  },
+  {
+   "domain": "fountmedia.io",
+   "n_articles": 2,
+   "sample_title": "「海峽中線不存在」 北京再度否認台海中線、侵害台灣現狀"
   },
   {
    "domain": "thedefensepost.com",
@@ -300,6 +300,11 @@
    "sample_title": "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平"
   },
   {
+   "domain": "dominotheory.com",
+   "n_articles": 1,
+   "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
+  },
+  {
    "domain": "news.nextapple.com",
    "n_articles": 1,
    "sample_title": "分析：美學者倡「結構性模糊」護台 讓中國為改變台海現狀付出代價"
@@ -323,11 +328,6 @@
    "domain": "cnma.org.tw",
    "n_articles": 1,
    "sample_title": "美台海巡深化合作 攜手推動海事執法與區域安全"
-  },
-  {
-   "domain": "dominotheory.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
   },
   {
    "domain": "mirrordaily.news",
