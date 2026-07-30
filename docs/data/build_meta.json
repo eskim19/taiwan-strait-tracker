@@ -1,15 +1,15 @@
 {
- "updated": "2026-07-30T09:04:52Z",
+ "updated": "2026-07-30T11:22:40Z",
  "checked": "2026-07-30",
- "duration_sec": 32.7,
+ "duration_sec": 36.8,
  "rolling_days": 14,
- "n_events": 156,
- "n_articles": 223,
+ "n_events": 161,
+ "n_articles": 228,
  "grades": {
-  "D": 79,
-  "B": 15,
-  "C": 60,
-  "A": 2
+  "C": 61,
+  "D": 83,
+  "B": 16,
+  "A": 1
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 12,
-  "T2": 76,
+  "T1": 11,
+  "T2": 77,
   "T3": 45,
   "T4": 14,
-  "T5": 57,
+  "T5": 59,
   "TA": 5
  },
  "t1_domains": [
@@ -31,8 +31,7 @@
   "bbc.com",
   "pts.org.tw",
   "reuters.com",
-  "rfi.fr",
-  "yna.co.kr"
+  "rfi.fr"
  ],
  "feeds": [
   {
@@ -43,7 +42,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 27,
    "newest": "2026-07-29T07:56:21+00:00",
    "stale": false,
    "error": null
@@ -55,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
-   "n_adopted": 33,
-   "newest": "2026-07-30T07:35:44+00:00",
+   "n_entries": 53,
+   "n_adopted": 31,
+   "newest": "2026-07-30T08:49:47+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +81,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 78,
-   "newest": "2026-07-30T07:41:00+00:00",
+   "n_adopted": 76,
+   "newest": "2026-07-30T10:20:00+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-30T03:17:48+00:00",
+   "newest": "2026-07-30T09:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -109,7 +108,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-07-30T08:11:40+00:00",
+   "newest": "2026-07-30T09:47:04+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
+   "n_entries": 67,
    "n_adopted": 6,
-   "newest": "2026-07-30T06:49:13+00:00",
+   "newest": "2026-07-30T09:35:33+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-07-30T08:10:55+00:00",
+   "newest": "2026-07-30T10:28:06+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-07-30T08:59:00+00:00",
+   "newest": "2026-07-30T10:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 83,
+   "n_entries": 84,
    "n_adopted": 0,
-   "newest": "2026-07-30T09:00:01+00:00",
+   "newest": "2026-07-30T11:10:12+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-30T08:24:50+00:00",
+   "newest": "2026-07-30T10:35:52+00:00",
    "stale": false,
    "error": null
   },
@@ -246,14 +245,14 @@
  ],
  "unrated_domains": [
   {
+   "domain": "today.line.me",
+   "n_articles": 6,
+   "sample_title": "中共本月第4度「聯合戰備警巡」 殲-11、殲-16等22共機伴共艦擾台| 太報"
+  },
+  {
    "domain": "upmedia.mg",
    "n_articles": 5,
    "sample_title": "SpaceX打造「非中非台」供應鏈避台海風險 強力排除中國商品與員工"
-  },
-  {
-   "domain": "today.line.me",
-   "n_articles": 5,
-   "sample_title": "中共本月第4度「聯合戰備警巡」 殲-11、殲-16等22共機伴共艦擾台| 太報"
   },
   {
    "domain": "devdiscourse.com",
@@ -311,19 +310,9 @@
    "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
   },
   {
-   "domain": "ibtimes.sg",
-   "n_articles": 1,
-   "sample_title": "Taiwan Tests Relocating Weapons Production as Military Drills Prepare for Potent"
-  },
-  {
    "domain": "minutemirror.com.pk",
    "n_articles": 1,
    "sample_title": "Taiwan to test shifting weapons production during major military exercise"
-  },
-  {
-   "domain": "agenzianova.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan: Military prepares tests on relocating weapons production in case of Chin"
   },
   {
    "domain": "businesstoday.com.tw",
@@ -344,6 +333,16 @@
    "domain": "cmoney.tw",
    "n_articles": 1,
    "sample_title": "陸海警艦機巡航台海「切香腸」戰略？ 國台辦：沒海峽中線正當合法- 股市爆料同學會"
+  },
+  {
+   "domain": "agenzianova.com",
+   "n_articles": 1,
+   "sample_title": "Taiwan: Military prepares tests on relocating weapons production in case of Chin"
+  },
+  {
+   "domain": "ntd.com",
+   "n_articles": 1,
+   "sample_title": "Upcoming Taiwan Drills Tests Defense Readiness Amid China Tensions"
   }
  ]
 }
