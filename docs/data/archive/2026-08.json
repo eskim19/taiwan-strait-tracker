@@ -1,0 +1,65 @@
+{
+ "month": "2026-08",
+ "n_events": 1,
+ "events": [
+  {
+   "id": "evt_20260801_6f3371",
+   "headline": "Coast guard monitoring Chinese vessels east of Taiwan",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/front/archives/2026/08/01/2003861745",
+   "headline_lang": "en",
+   "first_seen": "2026-08-01T00:00:00Z",
+   "last_seen": "2026-08-01T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "790a7aab8e14dc3b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "790a7aab8e14dc3b",
+     "title": "Coast guard monitoring Chinese vessels east of Taiwan",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/08/01/2003861745",
+     "published": "2026-08-01T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "coast_guard"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  }
+ ]
+}
