@@ -1,17 +1,17 @@
 {
- "updated": "2026-07-31T16:59:05Z",
+ "updated": "2026-07-31T19:55:04Z",
  "checked": "2026-07-31",
- "duration_sec": 37.2,
+ "duration_sec": 34.6,
  "rolling_days": 14,
- "n_events": 197,
- "n_articles": 268,
+ "n_events": 198,
+ "n_articles": 267,
  "grades": {
-  "C": 71,
-  "D": 105,
-  "B": 20,
+  "C": 72,
+  "D": 106,
+  "B": 19,
   "A": 1
  },
- "cross_language_events": 4,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 82,
-  "T3": 48,
-  "T4": 17,
-  "T5": 67,
+  "T2": 83,
+  "T3": 47,
+  "T4": 16,
+  "T5": 66,
   "TA": 7
  },
  "t1_domains": [
@@ -44,7 +44,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 18,
    "newest": "2026-07-30T13:06:15+00:00",
    "stale": false,
    "error": null
@@ -56,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
-   "n_adopted": 29,
-   "newest": "2026-07-31T15:22:57+00:00",
+   "n_entries": 49,
+   "n_adopted": 28,
+   "newest": "2026-07-31T17:25:14+00:00",
    "stale": false,
    "error": null
   },
@@ -66,12 +66,12 @@
    "id": "gn_ko",
    "name": "Google News (한국어)",
    "critical": true,
-   "status": "empty",
-   "health": "empty",
+   "status": "ok",
+   "health": "ok",
    "http": 200,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "n_entries": 100,
+   "n_adopted": 9,
+   "newest": "2026-07-31T12:53:36+00:00",
    "stale": false,
    "error": null
   },
@@ -83,7 +83,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 72,
+   "n_adopted": 71,
    "newest": "2026-07-31T14:54:59+00:00",
    "stale": false,
    "error": null
@@ -109,7 +109,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
+   "n_adopted": 10,
    "newest": "2026-07-31T14:16:00+00:00",
    "stale": false,
    "error": null
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-07-31T15:00:07+00:00",
+   "newest": "2026-07-31T19:53:12+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 88,
+   "n_entries": 89,
    "n_adopted": 0,
-   "newest": "2026-07-31T15:41:11+00:00",
+   "newest": "2026-07-31T19:28:04+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +214,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-07-31T16:41:59+00:00",
+   "newest": "2026-07-31T17:55:04+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-07-31T16:35:17+00:00",
+   "newest": "2026-07-31T18:51:50+00:00",
    "stale": false,
    "error": null
   },
@@ -294,7 +294,7 @@
   {
    "domain": "thedefensepost.com",
    "n_articles": 2,
-   "sample_title": "Taiwan to Deploy Escort Ships in Simulated Chinese Blockade"
+   "sample_title": "Taiwan to Test Civilian Factories for Wartime Defense Production"
   },
   {
    "domain": "news.ssbcrack.com",
@@ -342,9 +342,9 @@
    "sample_title": "偵獲殲-16！中共兩天49機艦擾台 發射火箭經我國防空識別區"
   },
   {
-   "domain": "hakkanews.tw",
+   "domain": "dominotheory.com",
    "n_articles": 1,
-   "sample_title": "漢光演習將展開 總統勗勉國軍精進訓練維持台海和平"
+   "sample_title": "Taiwan’s Annual Han Kuang Drill Will Test Military and Society"
   }
  ]
 }
