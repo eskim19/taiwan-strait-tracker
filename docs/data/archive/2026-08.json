@@ -1,6 +1,6 @@
 {
  "month": "2026-08",
- "n_events": 12,
+ "n_events": 13,
  "events": [
   {
    "id": "evt_20260801_919bc5",
@@ -59,129 +59,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260801_b1a7c4",
-   "headline": "習近平：確保槍桿子永遠聽黨指揮深入推進共軍反腐| 兩岸要聞| 兩岸",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YzlZN3ZpV3U3Mks4SktBWVgwQTVTYkl3UXgwUDNzeTgxZmJHOEV5NWRRQnBjWW9YalRLbHZ5ZzVIVC01NkVRNkxoVkFIWkd2?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-01T07:08:34Z",
-   "last_seen": "2026-08-01T07:08:34Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3a00e694491be606"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3a00e694491be606",
-     "title": "習近平：確保槍桿子永遠聽黨指揮深入推進共軍反腐| 兩岸要聞| 兩岸",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YzlZN3ZpV3U3Mks4SktBWVgwQTVTYkl3UXgwUDNzeTgxZmJHOEV5NWRRQnBjWW9YalRLbHZ5ZzVIVC01NkVRNkxoVkFIWkd2?oc=5",
-     "published": "2026-08-01T07:08:34Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "taiwan_strait",
-      "xi_jinping"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260801_d1a8e7",
-   "headline": "菲律賓劃設民主礁領海基線共軍以海空演訓反制| 兩岸",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hMmJONEppVll1VTlJREhna2M3V2hYeDVKNy1pd2tSSVhFN2VTUTRKdkM5QUxSODRtZnVvRXFaUjZpLTNxVEhqMElqMVk3MU01enBxanBLQi1HWkZDMXc?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-01T06:55:00Z",
-   "last_seen": "2026-08-01T06:55:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "tw_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9d8dca1bdd1661ef"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9d8dca1bdd1661ef",
-     "title": "菲律賓劃設民主礁領海基線共軍以海空演訓反制| 兩岸",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hMmJONEppVll1VTlJREhna2M3V2hYeDVKNy1pd2tSSVhFN2VTUTRKdkM5QUxSODRtZnVvRXFaUjZpLTNxVEhqMElqMVk3MU01enBxanBLQi1HWkZDMXc?oc=5",
-     "published": "2026-08-01T06:55:00Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -248,6 +125,64 @@
    ]
   },
   {
+   "id": "evt_20260801_60e235",
+   "headline": "Chinese Defense Minister Vows to Firmly Thwart Attempts at Taiwanese Independence",
+   "headline_source": "아시아경제",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWlBhZ3Q2eGlRaHg5bjRHbDgtT0dnSks0OFRuMklKR2g4Wkh5NzNBaTJiN0t6QmNqYlVtSllhQWU3OEZfLUdHS0Z3WVd1Si1UanlLcmh4LXZGVmY3S1B3NmJENXY?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-01T06:38:09Z",
+   "last_seen": "2026-08-01T06:38:09Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "abc44092dfd12184"
+    ]
+   },
+   "articles": [
+    {
+     "id": "abc44092dfd12184",
+     "title": "Chinese Defense Minister Vows to Firmly Thwart Attempts at Taiwanese Independence",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWlBhZ3Q2eGlRaHg5bjRHbDgtT0dnSks0OFRuMklKR2g4Wkh5NzNBaTJiN0t6QmNqYlVtSllhQWU3OEZfLUdHS0Z3WVd1Si1UanlLcmh4LXZGVmY3S1B3NmJENXY?oc=5",
+     "published": "2026-08-01T06:38:09Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "아시아경제",
+     "source_domain": "asiae.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260801_82aeed",
    "headline": "中八一建軍節將領們今何在法廣：共軍改革成效與領導穩定性遭質疑| 兩岸要聞| 兩岸",
    "headline_source": "聯合報",
@@ -295,6 +230,67 @@
      "entities": [
       "pla",
       "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260801_b1a7c4",
+   "headline": "習近平：確保槍桿子永遠聽黨指揮深入推進共軍反腐| 兩岸要聞| 兩岸",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YzlZN3ZpV3U3Mks4SktBWVgwQTVTYkl3UXgwUDNzeTgxZmJHOEV5NWRRQnBjWW9YalRLbHZ5ZzVIVC01NkVRNkxoVkFIWkd2?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-01T05:52:45Z",
+   "last_seen": "2026-08-01T05:52:45Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3a00e694491be606"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3a00e694491be606",
+     "title": "習近平：確保槍桿子永遠聽黨指揮深入推進共軍反腐| 兩岸要聞| 兩岸",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE83YzlZN3ZpV3U3Mks4SktBWVgwQTVTYkl3UXgwUDNzeTgxZmJHOEV5NWRRQnBjWW9YalRLbHZ5ZzVIVC01NkVRNkxoVkFIWkd2?oc=5",
+     "published": "2026-08-01T05:52:45Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait",
+      "xi_jinping"
      ],
      "source_name": "聯合報",
      "source_domain": "udn.com",
@@ -660,6 +656,68 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260801_d1a8e7",
+   "headline": "菲律賓劃設民主礁領海基線共軍以海空演訓反制| 兩岸",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hMmJONEppVll1VTlJREhna2M3V2hYeDVKNy1pd2tSSVhFN2VTUTRKdkM5QUxSODRtZnVvRXFaUjZpLTNxVEhqMElqMVk3MU01enBxanBLQi1HWkZDMXc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-01T02:23:00Z",
+   "last_seen": "2026-08-01T02:23:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9d8dca1bdd1661ef"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9d8dca1bdd1661ef",
+     "title": "菲律賓劃設民主礁領海基線共軍以海空演訓反制| 兩岸",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1hMmJONEppVll1VTlJREhna2M3V2hYeDVKNy1pd2tSSVhFN2VTUTRKdkM5QUxSODRtZnVvRXFaUjZpLTNxVEhqMElqMVk3MU01enBxanBLQi1HWkZDMXc?oc=5",
+     "published": "2026-08-01T02:23:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "rehearsal",
+      "taiwan_strait"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]

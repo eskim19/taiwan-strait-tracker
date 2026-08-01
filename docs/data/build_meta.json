@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-01T08:35:42Z",
+ "updated": "2026-08-01T10:50:48Z",
  "checked": "2026-08-01",
- "duration_sec": 31.5,
+ "duration_sec": 32.1,
  "rolling_days": 14,
- "n_events": 215,
+ "n_events": 216,
  "n_articles": 285,
  "grades": {
   "C": 81,
-  "D": 115,
-  "B": 18,
+  "D": 117,
+  "B": 17,
   "A": 1
  },
- "cross_language_events": 5,
+ "cross_language_events": 4,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 12,
-  "T2": 91,
-  "T3": 55,
+  "T1": 11,
+  "T2": 92,
+  "T3": 54,
   "T4": 16,
-  "T5": 65,
+  "T5": 66,
   "TA": 7
  },
  "t1_domains": [
@@ -56,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
+   "n_entries": 48,
    "n_adopted": 29,
-   "newest": "2026-08-01T04:02:00+00:00",
+   "newest": "2026-08-01T06:38:09+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-07-31T12:53:36+00:00",
+   "newest": "2026-08-01T09:52:04+00:00",
    "stale": false,
    "error": null
   },
@@ -83,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
-   "newest": "2026-08-01T08:31:23+00:00",
+   "n_adopted": 62,
+   "newest": "2026-08-01T10:31:23+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +96,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
+   "n_adopted": 8,
    "newest": "2026-08-01T04:19:53+00:00",
    "stale": false,
    "error": null
@@ -109,7 +109,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
+   "n_adopted": 14,
    "newest": "2026-08-01T06:41:24+00:00",
    "stale": false,
    "error": null
@@ -121,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
+   "n_entries": 55,
    "n_adopted": 1,
-   "newest": "2026-08-01T08:11:44+00:00",
+   "newest": "2026-08-01T09:59:52+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-01T07:00:13+00:00",
+   "newest": "2026-08-01T10:00:12+00:00",
    "stale": false,
    "error": null
   },
@@ -201,7 +201,7 @@
    "http": 200,
    "n_entries": 87,
    "n_adopted": 0,
-   "newest": "2026-08-01T06:22:09+00:00",
+   "newest": "2026-08-01T10:48:51+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-01T07:33:33+00:00",
+   "newest": "2026-08-01T10:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -302,6 +302,11 @@
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   },
   {
+   "domain": "asiae.co.kr",
+   "n_articles": 1,
+   "sample_title": "Chinese Defense Minister Vows to Firmly Thwart Attempts at Taiwanese Independenc"
+  },
+  {
    "domain": "hindustantimes.com",
    "n_articles": 1,
    "sample_title": "Xi faces 1000-mile problem just before Taiwan 'war': Japan’s new missiles can re"
@@ -340,11 +345,6 @@
    "domain": "news.ttv.com.tw",
    "n_articles": 1,
    "sample_title": "偵獲殲-16！中共兩天49機艦擾台 發射火箭經我國防空識別區"
-  },
-  {
-   "domain": "ctee.com.tw",
-   "n_articles": 1,
-   "sample_title": "SpaceX傳逼供應商去中化還要打造「NCNT」供應鏈避台海風險- 國際"
   }
  ]
 }
