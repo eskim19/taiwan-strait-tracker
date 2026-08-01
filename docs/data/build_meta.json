@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-01T13:58:01Z",
+ "updated": "2026-08-01T16:15:11Z",
  "checked": "2026-08-01",
- "duration_sec": 34.4,
+ "duration_sec": 35.1,
  "rolling_days": 14,
- "n_events": 219,
- "n_articles": 288,
+ "n_events": 221,
+ "n_articles": 292,
  "grades": {
+  "D": 121,
   "C": 82,
-  "D": 118,
-  "B": 17,
+  "B": 16,
   "A": 2
  },
  "cross_language_events": 4,
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 13,
-  "T2": 92,
-  "T3": 55,
+  "T1": 12,
+  "T2": 93,
+  "T3": 58,
   "T4": 16,
-  "T5": 65,
+  "T5": 67,
   "TA": 7
  },
  "t1_domains": [
@@ -58,8 +58,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 49,
-   "n_adopted": 29,
-   "newest": "2026-08-01T06:38:09+00:00",
+   "n_adopted": 28,
+   "newest": "2026-08-01T16:12:04+00:00",
    "stale": false,
    "error": null
   },
@@ -72,7 +72,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 10,
-   "newest": "2026-08-01T09:52:04+00:00",
+   "newest": "2026-08-01T07:08:50+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
-   "newest": "2026-08-01T13:10:48+00:00",
+   "n_adopted": 59,
+   "newest": "2026-08-01T14:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-08-01T04:19:53+00:00",
+   "n_adopted": 9,
+   "newest": "2026-08-01T14:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,7 +111,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-08-01T12:45:00+00:00",
+   "newest": "2026-08-01T12:11:13+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-01T13:00:18+00:00",
+   "newest": "2026-08-01T14:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-08-01T13:02:04+00:00",
+   "newest": "2026-08-01T15:25:30+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-01T13:10:47+00:00",
+   "newest": "2026-08-01T15:34:15+00:00",
    "stale": false,
    "error": null
   },
@@ -303,6 +303,11 @@
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   },
   {
+   "domain": "pakistantoday.com.pk",
+   "n_articles": 1,
+   "sample_title": "China’s Defense Minister Vows to Block Taiwan Independence"
+  },
+  {
    "domain": "inews24.com",
    "n_articles": 1,
    "sample_title": "중국 국방부장 \"대만 독립 시도·외부 개입 단호히 좌절\""
@@ -341,11 +346,6 @@
    "domain": "mnews.tw",
    "n_articles": 1,
    "sample_title": "台海「現狀」一直在改變中國軍機闖越海峽中線成新常態極其危險Glenn Tiffert與Sophie Richardson警告忽視北京野心下場"
-  },
-  {
-   "domain": "nownews.com",
-   "n_articles": 1,
-   "sample_title": "台海若開戰...馬斯克早佈局特斯拉「切割中國」為SpaceX合併鋪路"
   }
  ]
 }
