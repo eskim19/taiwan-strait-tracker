@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-02T13:58:25Z",
+ "updated": "2026-08-02T16:14:49Z",
  "checked": "2026-08-02",
- "duration_sec": 33.3,
+ "duration_sec": 33.5,
  "rolling_days": 14,
- "n_events": 240,
- "n_articles": 296,
+ "n_events": 242,
+ "n_articles": 299,
  "grades": {
-  "C": 92,
-  "D": 129,
+  "C": 93,
+  "D": 130,
   "B": 18,
   "A": 1
  },
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 12,
-  "T2": 101,
+  "T2": 102,
   "T3": 61,
   "T4": 16,
-  "T5": 69,
+  "T5": 71,
   "TA": 7
  },
  "t1_domains": [
@@ -57,8 +57,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 30,
-   "newest": "2026-08-02T08:48:17+00:00",
+   "n_adopted": 28,
+   "newest": "2026-08-02T09:04:52+00:00",
    "stale": false,
    "error": null
   },
@@ -83,7 +83,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 59,
+   "n_adopted": 62,
    "newest": "2026-08-02T13:19:05+00:00",
    "stale": false,
    "error": null
@@ -96,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
-   "newest": "2026-08-02T11:54:00+00:00",
+   "n_adopted": 9,
+   "newest": "2026-08-02T14:54:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-02T12:00:18+00:00",
+   "newest": "2026-08-02T14:00:12+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 90,
+   "n_entries": 89,
    "n_adopted": 0,
-   "newest": "2026-08-02T12:31:48+00:00",
+   "newest": "2026-08-02T15:26:00+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-02T13:08:25+00:00",
+   "newest": "2026-08-02T15:36:28+00:00",
    "stale": false,
    "error": null
   },
@@ -252,6 +252,11 @@
    "sample_title": "中國海警「常態化」巡航台灣以東水域 台海巡署抨擊 | 德國之聲"
   },
   {
+   "domain": "mnews.tw",
+   "n_articles": 4,
+   "sample_title": "共軍首曝「人形機器士兵」 美罕點名勿擾台1／「八一建軍」解放軍秀肌肉 央視罕見曝光「人形機器士兵」"
+  },
+  {
    "domain": "upmedia.mg",
    "n_articles": 4,
    "sample_title": "SpaceX打造「非中非台」供應鏈避台海風險 強力排除中國商品與員工"
@@ -265,11 +270,6 @@
    "domain": "devdiscourse.com",
    "n_articles": 3,
    "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
-  },
-  {
-   "domain": "mnews.tw",
-   "n_articles": 2,
-   "sample_title": "中海警又出沒台海！ 美國務院關切 批破壞穩定"
   },
   {
    "domain": "taiwandaily.net",
