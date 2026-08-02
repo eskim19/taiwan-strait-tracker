@@ -1,12 +1,133 @@
 {
  "month": "2026-08",
- "n_events": 29,
+ "n_events": 31,
  "events": [
+  {
+   "id": "evt_20260802_298133",
+   "headline": "川普不開心！傳伊朗接裝共軍防空武器 明居正揭中國盤算：台灣要小心 | 林子靖 | 新聞",
+   "headline_source": "風傳媒",
+   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RYVFwSVJhdkJ0R25LQ3dlQ1puUEd6eW9DU3AtekNsRHBVOVRlR2tnVTFtQ3ViOVJqWDk0ZldXU3pPM1pXY1k5Sktvd0ZyQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-02T12:10:00Z",
+   "last_seen": "2026-08-02T12:10:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "624e23aa42d55801"
+    ]
+   },
+   "articles": [
+    {
+     "id": "624e23aa42d55801",
+     "title": "川普不開心！傳伊朗接裝共軍防空武器 明居正揭中國盤算：台灣要小心 | 林子靖 | 新聞",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RYVFwSVJhdkJ0R25LQ3dlQ1puUEd6eW9DU3AtekNsRHBVOVRlR2tnVTFtQ3ViOVJqWDk0ZldXU3pPM1pXY1k5Sktvd0ZyQQ?oc=5",
+     "published": "2026-08-02T12:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "trump"
+     ],
+     "source_name": "風傳媒",
+     "source_domain": "storm.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260802_91f0b4",
+   "headline": "Taiwan regional media hype annual Han Kuang drills; mainland expert dismisses these unrealistic tactical gambits as mere ‘performance’",
+   "headline_source": "環球時報 Global Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUG9TQnlGXzBFQ1pBLWRsT1JPbWd1bFZSd2ZXWUktbmtVOGxtY0U2eXJmMnlEV1BUcGptb0JvWmcteVlwdVJGVU5OYU14R0F3aHZTMFRwVDEwUlc4cDFKYjNR?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-02T11:54:00Z",
+   "last_seen": "2026-08-02T11:54:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "851729952a47a760"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "851729952a47a760",
+     "title": "Taiwan regional media hype annual Han Kuang drills; mainland expert dismisses these unrealistic tactical gambits as mere ‘performance’",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUG9TQnlGXzBFQ1pBLWRsT1JPbWd1bFZSd2ZXWUktbmtVOGxtY0U2eXJmMnlEV1BUcGptb0JvWmcteVlwdVJGVU5OYU14R0F3aHZTMFRwVDEwUlc4cDFKYjNR?oc=5",
+     "published": "2026-08-02T11:54:00Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "rehearsal"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260802_d17514",
    "headline": "台湾各界发布联合声明 抗议解散台湾“中华统一促进党”",
    "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Tk83RURhV0Nwdlc1ckdQN2dNVzFnd0NRUmxqVUFpSUpyRDJWVXhEU05SbzMwQ2VPXzZ1N3FrWHpUNnB2bDJISk00Z1ZnZWJPU0ZCNi1GTU5EZ3V3WElGOXdvVms5T3c?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wS1BsOVByTW1PZEdrdmtETGZfaGlwZ1gtM1VubFdsdjVlcmVCeVNHOXB5SzduMENrbmFCekRUZDQ3SVRhUGFvRFNsVHlpejl4eVhDQjcxTEgzd2RkenZGYVV1cEJkcHdL?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-02T10:41:18Z",
    "last_seen": "2026-08-02T10:41:18Z",
@@ -45,7 +166,7 @@
     {
      "id": "3607baa810c08120",
      "title": "台湾各界发布联合声明 抗议解散台湾“中华统一促进党”",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Tk83RURhV0Nwdlc1ckdQN2dNVzFnd0NRUmxqVUFpSUpyRDJWVXhEU05SbzMwQ2VPXzZ1N3FrWHpUNnB2bDJISk00Z1ZnZWJPU0ZCNi1GTU5EZ3V3WElGOXdvVms5T3c?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1wS1BsOVByTW1PZEdrdmtETGZfaGlwZ1gtM1VubFdsdjVlcmVCeVNHOXB5SzduMENrbmFCekRUZDQ3SVRhUGFvRFNsVHlpejl4eVhDQjcxTEgzd2RkenZGYVV1cEJkcHdL?oc=5",
      "published": "2026-08-02T10:41:18Z",
      "lang": "zh",
      "entities": [
@@ -300,7 +421,7 @@
   {
    "id": "evt_20260802_7a16a8",
    "headline": "陸媒再打「灰色地帶」攻防戰！《環時》：一中原則沒模糊空間 台海治理將全面常態化",
-   "headline_source": "梅花新聞網",
+   "headline_source": "i-meihua.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSGYtWFBGbHpaeGRKRUhocmNSQkNQMWxYRnpQT0dKNWpISlpyQjJRZFZUUzZFdFRaM3VhR3BBOHM3R045WEdHQkJvaURXbFg3Y0J0eUNyLVM?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-02T05:40:00Z",
@@ -347,7 +468,7 @@
       "gray_zone",
       "taiwan_strait"
      ],
-     "source_name": "梅花新聞網",
+     "source_name": "i-meihua.com",
      "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -501,7 +622,7 @@
   {
    "id": "evt_20260802_28e85e",
    "headline": "中海警又出沒台海！ 美國務院關切 批破壞穩定",
-   "headline_source": "mnews.tw",
+   "headline_source": "鏡新聞",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zcklfMlU0RlVROHdwSUFaYzY3UDhFTmdqSEwtR3JqU0tLZFZ0Vk1WNWRjYVVraDBYVjZRVFU3NEF1WHlwT0tUTmlTUEJXQzhKLUdFUDB6S2fSAV5BVV95cUxOQ2VZTGZ1NEZKbXdaQVhIemJnazlfNjJvcmU0OWlwcE9PTno5VVd3bS1Vb3htakVxSlVyR2tOUU5heDUxdHJSeWc4VzRzYnN6VGFOMEZpLThMOUNDbWlR?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-02T04:25:00Z",
@@ -548,7 +669,7 @@
       "coast_guard",
       "taiwan_strait"
      ],
-     "source_name": "mnews.tw",
+     "source_name": "鏡新聞",
      "source_domain": "mnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1048,7 +1169,7 @@
   {
    "id": "evt_20260801_60e235",
    "headline": "Chinese Defense Minister Vows to Firmly Thwart Attempts at Taiwanese Independence",
-   "headline_source": "아시아경제",
+   "headline_source": "asiae.co.kr",
    "headline_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aWlBhZ3Q2eGlRaHg5bjRHbDgtT0dnSks0OFRuMklKR2g4Wkh5NzNBaTJiN0t6QmNqYlVtSllhQWU3OEZfLUdHS0Z3WVd1Si1UanlLcmh4LXZGVmY3S1B3NmJENXY?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-01T06:38:09Z",
@@ -1092,7 +1213,7 @@
      "published": "2026-08-01T06:38:09Z",
      "lang": "en",
      "entities": [],
-     "source_name": "아시아경제",
+     "source_name": "asiae.co.kr",
      "source_domain": "asiae.co.kr",
      "tier": "T5",
      "tier_label": "미분류",
