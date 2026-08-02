@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-02T08:38:40Z",
+ "updated": "2026-08-02T10:51:55Z",
  "checked": "2026-08-02",
- "duration_sec": 31.5,
+ "duration_sec": 32.0,
  "rolling_days": 14,
- "n_events": 230,
- "n_articles": 300,
+ "n_events": 237,
+ "n_articles": 292,
  "grades": {
-  "C": 88,
-  "D": 123,
+  "D": 127,
+  "C": 91,
   "B": 18,
   "A": 1
  },
@@ -21,9 +21,9 @@
  "tier_articles": {
   "T1": 12,
   "T2": 100,
-  "T3": 58,
-  "T4": 15,
-  "T5": 68,
+  "T3": 60,
+  "T4": 16,
+  "T5": 69,
   "TA": 7
  },
  "t1_domains": [
@@ -56,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
-   "n_adopted": 27,
-   "newest": "2026-08-02T04:30:06+00:00",
+   "n_entries": 51,
+   "n_adopted": 30,
+   "newest": "2026-08-02T09:04:52+00:00",
    "stale": false,
    "error": null
   },
@@ -83,7 +83,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
+   "n_adopted": 62,
    "newest": "2026-08-02T08:15:00+00:00",
    "stale": false,
    "error": null
@@ -109,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-08-02T05:23:00+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-02T10:41:18+00:00",
    "stale": false,
    "error": null
   },
@@ -121,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 37,
+   "n_entries": 39,
    "n_adopted": 1,
-   "newest": "2026-08-02T05:58:31+00:00",
+   "newest": "2026-08-02T08:37:38+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-02T08:00:18+00:00",
+   "newest": "2026-08-02T10:00:08+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-02T06:53:00+00:00",
+   "newest": "2026-08-02T10:01:00+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +214,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-08-02T05:26:39+00:00",
+   "newest": "2026-08-02T10:46:47+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-02T08:12:54+00:00",
+   "newest": "2026-08-02T10:31:32+00:00",
    "stale": false,
    "error": null
   },
@@ -252,14 +252,14 @@
    "sample_title": "中國海警「常態化」巡航台灣以東水域 台海巡署抨擊 | 德國之聲"
   },
   {
+   "domain": "upmedia.mg",
+   "n_articles": 4,
+   "sample_title": "SpaceX打造「非中非台」供應鏈避台海風險 強力排除中國商品與員工"
+  },
+  {
    "domain": "i-meihua.com",
    "n_articles": 3,
    "sample_title": "陸媒再打「灰色地帶」攻防戰！《環時》：一中原則沒模糊空間 台海治理將全面常態化"
-  },
-  {
-   "domain": "upmedia.mg",
-   "n_articles": 3,
-   "sample_title": "美智庫警告：中俄伊朝抱團圍攻美國 台海若開戰恐讓華府陷「多重戰場」"
   },
   {
    "domain": "devdiscourse.com",
@@ -307,6 +307,11 @@
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   },
   {
+   "domain": "newsarenaindia.com",
+   "n_articles": 1,
+   "sample_title": "Chinese military aircraft detected around Taiwan"
+  },
+  {
    "domain": "daijiworld.com",
    "n_articles": 1,
    "sample_title": "Taiwan detects Chinese military aircraft, warships near island amid rising tensi"
@@ -340,11 +345,6 @@
    "domain": "biz.heraldcorp.com",
    "n_articles": 1,
    "sample_title": "Taiwan president calls drones 'essential' military asset, urges China-free suppl"
-  },
-  {
-   "domain": "ftnn.com.tw",
-   "n_articles": 1,
-   "sample_title": "特斯拉擬切割中國業務！傳為與SpaceX合併提前布局 台海風險也列入考量"
   }
  ]
 }

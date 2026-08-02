@@ -1,7 +1,125 @@
 {
  "month": "2026-08",
- "n_events": 24,
+ "n_events": 29,
  "events": [
+  {
+   "id": "evt_20260802_d17514",
+   "headline": "台湾各界发布联合声明 抗议解散台湾“中华统一促进党”",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Tk83RURhV0Nwdlc1ckdQN2dNVzFnd0NRUmxqVUFpSUpyRDJWVXhEU05SbzMwQ2VPXzZ1N3FrWHpUNnB2bDJISk00Z1ZnZWJPU0ZCNi1GTU5EZ3V3WElGOXdvVms5T3c?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-02T10:41:18Z",
+   "last_seen": "2026-08-02T10:41:18Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "3607baa810c08120"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "3607baa810c08120",
+     "title": "台湾各界发布联合声明 抗议解散台湾“中华统一促进党”",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE15Tk83RURhV0Nwdlc1ckdQN2dNVzFnd0NRUmxqVUFpSUpyRDJWVXhEU05SbzMwQ2VPXzZ1N3FrWHpUNnB2bDJISk00Z1ZnZWJPU0ZCNi1GTU5EZ3V3WElGOXdvVms5T3c?oc=5",
+     "published": "2026-08-02T10:41:18Z",
+     "lang": "zh",
+     "entities": [
+      "reunification"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260802_086bad",
+   "headline": "Chinese military aircraft detected around Taiwan",
+   "headline_source": "News Arena India",
+   "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGFSRDh6UzVCXzlFaDh3SXRoUThmT1JsU3ZUcDQ4RVRuSFVJZF9BZUp0dGp4eElpWkpxYzdFakpueUt2dWVkUlRyalpMb3c2SGxOTy1aXzJ2Ml9KTlk1b2h1NlF3dVR3bE8yb1ZfbUJFSjdiOWI2UDQ5NGZvc3hNQ3B4Nmc4OThoZkZBTEo4aUZyaE9ndzJwenBmMA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-02T08:48:17Z",
+   "last_seen": "2026-08-02T08:48:17Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "04023a5f33b66a2a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "04023a5f33b66a2a",
+     "title": "Chinese military aircraft detected around Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWGFSRDh6UzVCXzlFaDh3SXRoUThmT1JsU3ZUcDQ4RVRuSFVJZF9BZUp0dGp4eElpWkpxYzdFakpueUt2dWVkUlRyalpMb3c2SGxOTy1aXzJ2Ml9KTlk1b2h1NlF3dVR3bE8yb1ZfbUJFSjdiOWI2UDQ5NGZvc3hNQ3B4Nmc4OThoZkZBTEo4aUZyaE9ndzJwenBmMA?oc=5",
+     "published": "2026-08-02T08:48:17Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "News Arena India",
+     "source_domain": "newsarenaindia.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260802_e557af",
    "headline": "Will Philippine Sea be the main battlefield for PLA carriers in a Taiwan war?",
@@ -57,6 +175,64 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260802_400fcc",
+   "headline": "DEFENSE China's patrols in Taiwan-managed waters 'destabilizing': U.S.",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvZmFUSDVGczNzblNvTmVjMUZ3d2xrOEFNdnhrZW00andYSDFFYW4tcGZOMGg4RjRzY3F1T0dIdGczaHJmUUpUakpIaldTNDhYamVtOVlfZw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-02T05:58:00Z",
+   "last_seen": "2026-08-02T05:58:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "aefb79fef1015ae5"
+    ]
+   },
+   "articles": [
+    {
+     "id": "aefb79fef1015ae5",
+     "title": "DEFENSE China's patrols in Taiwan-managed waters 'destabilizing': U.S.",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvZmFUSDVGczNzblNvTmVjMUZ3d2xrOEFNdnhrZW00andYSDFFYW4tcGZOMGg4RjRzY3F1T0dIdGczaHJmUUpUakpIaldTNDhYamVtOVlfZw?oc=5",
+     "published": "2026-08-02T05:58:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -183,6 +359,66 @@
    ]
   },
   {
+   "id": "evt_20260802_065e69",
+   "headline": "不許改變台海現狀！美國務卿談美中競爭：建立溝通降低風險 衝突將致「全球災難」",
+   "headline_source": "新頭殼",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOV3o5b0hCT3EtZzBoN2FtVHlXdlZjUFVFWHE0aVVNeHBOSW1ZQjdaSFBHYlBCR1lUWi1NMm5QNkJnNndDd3Q4ZVJ1V1NpYUVBTGJNTnFIWU1Cekk?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-02T05:34:05Z",
+   "last_seen": "2026-08-02T05:34:05Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ce67deab7c281eee"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ce67deab7c281eee",
+     "title": "不許改變台海現狀！美國務卿談美中競爭：建立溝通降低風險 衝突將致「全球災難」",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOV3o5b0hCT3EtZzBoN2FtVHlXdlZjUFVFWHE0aVVNeHBOSW1ZQjdaSFBHYlBCR1lUWi1NMm5QNkJnNndDd3Q4ZVJ1V1NpYUVBTGJNTnFIWU1Cekk?oc=5",
+     "published": "2026-08-02T05:34:05Z",
+     "lang": "zh",
+     "entities": [
+      "status_quo",
+      "taiwan_strait"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260802_948bdc",
    "headline": "Taiwan detects 5 Chinese military aircraft, 8 PLAN vessels around island",
    "headline_source": "Tribune India",
@@ -265,7 +501,7 @@
   {
    "id": "evt_20260802_28e85e",
    "headline": "中海警又出沒台海！ 美國務院關切 批破壞穩定",
-   "headline_source": "鏡新聞",
+   "headline_source": "mnews.tw",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zcklfMlU0RlVROHdwSUFaYzY3UDhFTmdqSEwtR3JqU0tLZFZ0Vk1WNWRjYVVraDBYVjZRVFU3NEF1WHlwT0tUTmlTUEJXQzhKLUdFUDB6S2fSAV5BVV95cUxOQ2VZTGZ1NEZKbXdaQVhIemJnazlfNjJvcmU0OWlwcE9PTno5VVd3bS1Vb3htakVxSlVyR2tOUU5heDUxdHJSeWc4VzRzYnN6VGFOMEZpLThMOUNDbWlR?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-02T04:25:00Z",
@@ -312,7 +548,7 @@
       "coast_guard",
       "taiwan_strait"
      ],
-     "source_name": "鏡新聞",
+     "source_name": "mnews.tw",
      "source_domain": "mnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -500,6 +736,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260801_b15f95",
+   "headline": "余宗基：軍機擾台減次 中共在打無硝煙戰爭",
+   "headline_source": "大紀元 Epoch Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sRUNlRDd5WGNsd3BCSHo3ekc5QjdzUzJjU0dSa1ZjbGFhWEJEMU5aZzhaVGxLRGEyTUY1Y1Vhd2xJOXJ6WFAtOTZKMkZENEg3cEtkaDUyVE92WlM2UUx30gFkQVVfeXFMTnZyeDRDbE5hUG9YdWcxYjAwc0RES3dsRElNUzVLMmZ0QUZDSGpMT2h0Z1psSjVZc0lWVkQ3Ym1Sd2FLYUFwM3NWbVZoNVd1OTQ3MlZ5ZnZVdDg4eTFrbGtkcWx3cA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-01T21:00:00Z",
+   "last_seen": "2026-08-01T21:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ea1a948398c55ad2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ea1a948398c55ad2",
+     "title": "余宗基：軍機擾台減次 中共在打無硝煙戰爭",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9sRUNlRDd5WGNsd3BCSHo3ekc5QjdzUzJjU0dSa1ZjbGFhWEJEMU5aZzhaVGxLRGEyTUY1Y1Vhd2xJOXJ6WFAtOTZKMkZENEg3cEtkaDUyVE92WlM2UUx30gFkQVVfeXFMTnZyeDRDbE5hUG9YdWcxYjAwc0RES3dsRElNUzVLMmZ0QUZDSGpMT2h0Z1psSjVZc0lWVkQ3Ym1Sd2FLYUFwM3NWbVZoNVd1OTQ3MlZ5ZnZVdDg4eTFrbGtkcWx3cA?oc=5",
+     "published": "2026-08-01T21:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -1173,7 +1469,7 @@
    "id": "evt_20260801_4fc143",
    "headline": "Taiwan tracks 5 Chinese military planes and 12 ships",
    "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54THZkUXZ6S2dtTUNjWlM1ejh6UGNLZkdPY1hiVDAzSXoyNWhsZGRFdHVQX2RGZWIwWkhUTXVIYWtDYWhwVi1XdHkzUU1UeWduMUZYR0o2VHI?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVC1HLU44RnlkWUZSbEdWSHpYTGdka3pOenUyRS1pX1d3bzZabi1id1ZkQVRMUkw0QjZySy1ObVBqQ3RUNFNIM0RGYnpQNGtaSDJISQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-01T03:07:00Z",
    "last_seen": "2026-08-01T03:07:00Z",
@@ -1211,7 +1507,7 @@
     {
      "id": "365b459cf85a15ce",
      "title": "Taiwan tracks 5 Chinese military planes and 12 ships",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE54THZkUXZ6S2dtTUNjWlM1ejh6UGNLZkdPY1hiVDAzSXoyNWhsZGRFdHVQX2RGZWIwWkhUTXVIYWtDYWhwVi1XdHkzUU1UeWduMUZYR0o2VHI?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lVC1HLU44RnlkWUZSbEdWSHpYTGdka3pOenUyRS1pX1d3bzZabi1id1ZkQVRMUkw0QjZySy1ObVBqQ3RUNFNIM0RGYnpQNGtaSDJISQ?oc=5",
      "published": "2026-08-01T03:07:00Z",
      "lang": "en",
      "entities": [],
