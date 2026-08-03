@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-02T22:12:39Z",
- "checked": "2026-08-02",
- "duration_sec": 33.5,
+ "updated": "2026-08-03T03:57:21Z",
+ "checked": "2026-08-03",
+ "duration_sec": 36.7,
  "rolling_days": 14,
- "n_events": 249,
- "n_articles": 306,
+ "n_events": 263,
+ "n_articles": 317,
  "grades": {
-  "C": 95,
-  "D": 135,
-  "B": 17,
-  "A": 2
+  "B": 18,
+  "C": 99,
+  "D": 145,
+  "A": 1
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 101,
-  "T3": 62,
+  "T2": 108,
+  "T3": 65,
   "T4": 17,
-  "T5": 73,
+  "T5": 77,
   "TA": 7
  },
  "t1_domains": [
@@ -33,8 +33,7 @@
   "dw.com",
   "pts.org.tw",
   "reuters.com",
-  "rfi.fr",
-  "yna.co.kr"
+  "rfi.fr"
  ],
  "feeds": [
   {
@@ -45,8 +44,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-02T19:22:28+00:00",
+   "n_adopted": 19,
+   "newest": "2026-08-03T02:02:00+00:00",
    "stale": false,
    "error": null
   },
@@ -59,7 +58,7 @@
    "http": 200,
    "n_entries": 49,
    "n_adopted": 30,
-   "newest": "2026-08-02T15:00:00+00:00",
+   "newest": "2026-08-03T03:09:00+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +70,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
+   "n_adopted": 10,
    "newest": "2026-08-01T07:08:50+00:00",
    "stale": false,
    "error": null
@@ -85,7 +84,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-08-02T16:20:00+00:00",
+   "newest": "2026-08-03T01:48:59+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-08-02T14:54:00+00:00",
+   "n_adopted": 11,
+   "newest": "2026-08-03T01:43:39+00:00",
    "stale": false,
    "error": null
   },
@@ -111,7 +110,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 14,
-   "newest": "2026-08-02T16:01:50+00:00",
+   "newest": "2026-08-03T02:40:43+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 27,
+   "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-02T12:03:01+00:00",
+   "newest": "2026-08-03T02:17:27+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-02T22:00:11+00:00",
+   "newest": "2026-08-03T01:30:08+00:00",
    "stale": false,
    "error": null
   },
@@ -162,8 +161,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 0,
-   "newest": "2026-08-02T22:00:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-08-03T03:29:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 89,
+   "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-08-02T21:57:54+00:00",
+   "newest": "2026-08-03T03:18:32+00:00",
    "stale": false,
    "error": null
   },
@@ -213,9 +212,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 16,
+   "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-02T17:40:02+00:00",
+   "newest": "2026-08-03T02:43:06+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-02T21:47:18+00:00",
+   "newest": "2026-08-03T03:26:08+00:00",
    "stale": false,
    "error": null
   },
@@ -249,18 +248,18 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 8,
-   "sample_title": "中國海警「常態化」巡航台灣以東水域 台海巡署抨擊 | 德國之聲"
+   "n_articles": 9,
+   "sample_title": "共艦頻侵擾台灣東部！專家揭中共「灰船披白皮」環台手法 | 民視新聞網"
+  },
+  {
+   "domain": "upmedia.mg",
+   "n_articles": 5,
+   "sample_title": "台海開戰航艦卻殺入菲律賓海？南早：解放軍欲突破第一島鏈 美日火力成變數"
   },
   {
    "domain": "mnews.tw",
    "n_articles": 4,
    "sample_title": "共軍首曝「人形機器士兵」 美罕點名勿擾台2／國造「極音速飛彈」重大突破 射程2千公里可「直通北京」"
-  },
-  {
-   "domain": "upmedia.mg",
-   "n_articles": 4,
-   "sample_title": "SpaceX打造「非中非台」供應鏈避台海風險 強力排除中國商品與員工"
   },
   {
    "domain": "i-meihua.com",
@@ -273,6 +272,11 @@
    "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
   },
   {
+   "domain": "dars.gov.et",
+   "n_articles": 2,
+   "sample_title": "Matsu Islands: Living Between Two Worlds in the Taiwan Strait - Quarterly Profit"
+  },
+  {
    "domain": "taiwandaily.net",
    "n_articles": 2,
    "sample_title": "新聞大破解-川普連環出招 病毒溯源、中東、台海三線開打 0731"
@@ -281,6 +285,11 @@
    "domain": "smallwarsjournal.com",
    "n_articles": 2,
    "sample_title": "Resistance is (Not) Futile: Winning the War for the Narrative Against China abou"
+  },
+  {
+   "domain": "ctee.com.tw",
+   "n_articles": 2,
+   "sample_title": "SpaceX傳逼供應商去中化還要打造「NCNT」供應鏈避台海風險- 國際"
   },
   {
    "domain": "moderndiplomacy.eu",
@@ -306,11 +315,6 @@
    "domain": "businessweekly.com.tw",
    "n_articles": 2,
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
-  },
-  {
-   "domain": "dars.gov.et",
-   "n_articles": 1,
-   "sample_title": "Matsu Islands: Living Between Two Worlds in the Taiwan Strait - Quarterly Profit"
   },
   {
    "domain": "ocacnews.net",
@@ -341,11 +345,6 @@
    "domain": "inews24.com",
    "n_articles": 1,
    "sample_title": "중국 국방부장 \"대만 독립 시도·외부 개입 단호히 좌절\""
-  },
-  {
-   "domain": "asiae.co.kr",
-   "n_articles": 1,
-   "sample_title": "Chinese Defense Minister Vows to Firmly Thwart Attempts at Taiwanese Independenc"
   }
  ]
 }
