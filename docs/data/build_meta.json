@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-03T10:08:11Z",
+ "updated": "2026-08-03T15:19:04Z",
  "checked": "2026-08-03",
- "duration_sec": 30.8,
+ "duration_sec": 33.3,
  "rolling_days": 14,
- "n_events": 272,
- "n_articles": 327,
+ "n_events": 279,
+ "n_articles": 338,
  "grades": {
-  "C": 102,
-  "D": 150,
-  "B": 19,
-  "A": 1
+  "D": 153,
+  "C": 104,
+  "B": 20,
+  "A": 2
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
-  "T2": 110,
-  "T3": 67,
+  "T1": 16,
+  "T2": 112,
+  "T3": 70,
   "T4": 17,
-  "T5": 81,
+  "T5": 83,
   "TA": 7
  },
  "t1_domains": [
@@ -45,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
-   "newest": "2026-08-03T08:00:00+00:00",
+   "n_adopted": 16,
+   "newest": "2026-08-03T10:00:17+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 32,
-   "newest": "2026-08-03T05:17:19+00:00",
+   "n_entries": 48,
+   "n_adopted": 31,
+   "newest": "2026-08-03T12:30:47+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 11,
    "newest": "2026-08-03T08:45:00+00:00",
    "stale": false,
    "error": null
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 59,
-   "newest": "2026-08-03T08:36:23+00:00",
+   "n_adopted": 61,
+   "newest": "2026-08-03T14:07:24+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
-   "newest": "2026-08-03T07:16:15+00:00",
+   "n_adopted": 11,
+   "newest": "2026-08-03T13:09:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,7 +111,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 14,
-   "newest": "2026-08-03T09:33:02+00:00",
+   "newest": "2026-08-03T14:25:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 39,
-   "n_adopted": 0,
-   "newest": "2026-08-03T08:16:52+00:00",
+   "n_entries": 49,
+   "n_adopted": 1,
+   "newest": "2026-08-03T13:45:19+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-03T10:00:17+00:00",
+   "newest": "2026-08-03T15:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 0,
+   "n_adopted": 1,
    "newest": "2026-08-03T10:05:00+00:00",
    "stale": false,
    "error": null
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-08-03T09:52:41+00:00",
+   "newest": "2026-08-03T13:56:28+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-03T08:40:22+00:00",
+   "newest": "2026-08-03T14:20:56+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-03T09:52:44+00:00",
+   "newest": "2026-08-03T14:47:20+00:00",
    "stale": false,
    "error": null
   },
@@ -249,8 +249,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 8,
-   "sample_title": "共艦頻侵擾台灣東部！專家揭中共「灰船披白皮」環台手法 | 民視新聞網"
+   "n_articles": 9,
+   "sample_title": "討論牆 | 台海開戰航艦卻殺入菲律賓海？南早：解放軍欲突破第一島鏈 美日火力成變數"
   },
   {
    "domain": "mnews.tw",
@@ -323,6 +323,11 @@
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   },
   {
+   "domain": "stratnewsglobal.com",
+   "n_articles": 1,
+   "sample_title": "Taiwan Defence Chief Says U.S. Military Cooperation ‘Closer Than Many Imagine’"
+  },
+  {
    "domain": "taiwaninsight.org",
    "n_articles": 1,
    "sample_title": "The “One China” Policy and Status Quo in the Taiwan Strait: A Gambit of Strategi"
@@ -341,11 +346,6 @@
    "domain": "migflug.com",
    "n_articles": 1,
    "sample_title": "Taiwan Strait 1958: The First Sidewinder Kill"
-  },
-  {
-   "domain": "newsarenaindia.com",
-   "n_articles": 1,
-   "sample_title": "Chinese military aircraft detected around Taiwan"
   }
  ]
 }
