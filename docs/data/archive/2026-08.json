@@ -1,296 +1,169 @@
 {
  "month": "2026-08",
- "n_events": 91,
+ "n_events": 95,
  "events": [
   {
-   "id": "evt_20260802_6993b0",
-   "headline": "대만, 내일부터 중국군 침공 대비 연례 한광훈련 실시",
-   "headline_source": "연합뉴스",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZNIBYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZA?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-08-02T11:54:00Z",
-   "last_seen": "2026-08-04T14:00:26Z",
+   "id": "evt_20260805_892b73",
+   "headline": "Japan considers Taiwan, China in new defense report",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/front/archives/2026/08/05/2003861956",
+   "headline_lang": "en",
+   "first_seen": "2026-08-05T00:00:00Z",
+   "last_seen": "2026-08-05T00:00:00Z",
    "langs": [
-    "en",
-    "ko",
-    "zh"
+    "en"
    ],
-   "cross_language": true,
+   "cross_language": false,
    "credibility": {
-    "grade": "A",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 10,
-    "n_unrated": 5,
-    "score": 87.2,
-    "n_independent": 4,
-    "n_articles": 12,
-    "n_domains": 12,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "prc_state",
-     "unknown"
+     "independent"
     ],
-    "top_tier": "T1",
+    "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 4곳",
-     "최고 등급 통신사·공영",
-     "3개 언어권에서 확인",
-     "연합뉴스 원고를 asiatoday.co.kr·채널A 가 전재 — 1곳으로 계산",
-     "미분류 매체 5곳 추가 보도(교차검증 미산입)"
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
-    "prc": [
-     "851729952a47a760",
-     "cdfdd4664a873048"
-    ],
+    "prc": [],
     "tw_west": [
-     "2d6fbb26072483f1",
-     "ae87f0abf373ec7e",
-     "476bf338c72b0795",
-     "90982e709edc845c",
-     "19b2d43f54fbb4fa",
-     "8b0d1a3ba9043a4e",
-     "adde19129e719003",
-     "277544d2641711e6",
-     "0da5ba16c63aba58",
+     "07befcf8011b1a60"
+    ]
+   },
+   "articles": [
+    {
+     "id": "07befcf8011b1a60",
+     "title": "Japan considers Taiwan, China in new defense report",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/08/05/2003861956",
+     "published": "2026-08-05T00:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260804_b6793b",
+   "headline": "直通中南海的密道：1995台海飛彈危機前的檯面下交鋒",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QWThkTF82LTN5UGxNWVZkaGhxRl9GeUUtMEdpNk8zOVBGcFFpX2dzOHhhMHJWNVNDd0VTUkl5RDhfcnE3cnBUZi00WktsdUVidlVuLU5lXzh6MERBSzlXQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-04T14:36:37Z",
+   "last_seen": "2026-08-04T14:36:37Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "45679275baf5c44c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "45679275baf5c44c",
+     "title": "直通中南海的密道：1995台海飛彈危機前的檯面下交鋒",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QWThkTF82LTN5UGxNWVZkaGhxRl9GeUUtMEdpNk8zOVBGcFFpX2dzOHhhMHJWNVNDd0VTUkl5RDhfcnE3cnBUZi00WktsdUVidlVuLU5lXzh6MERBSzlXQQ?oc=5",
+     "published": "2026-08-04T14:36:37Z",
+     "lang": "zh",
+     "entities": [
+      "missile",
+      "south_china_sea",
+      "taiwan_strait"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260804_f0eb49",
+   "headline": "How Taiwan is preparing for a PLA sea blockade in its biggest war games",
+   "headline_source": "SCMP",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkpZaUowLVk2V1JJalJSckMzQnA3OEVEbmVnSVQtMm1zWVlrUHYyREs3bVpTb0psbXN3Yk9oR25UcVpjQ2VBUzNkWXVxSzYzTDhCbWkwWDFNV3dpa3FidkgxV3lTcVpTSFJlaGhsUTJIU1d3VVp0TVZqQ0dwZjFYZTVwaGVoYXNqN1kxLUlaMHpaUzVSZkVBMEZuR3dVMDBIVUZhMHBlc2t2cE9xYU1GWm5VOXFZUTDSAbcBQVVfeXFMT3hQQVd4VHplbE1KZXc4V0Znc2x6dm15ZFdkeEFmWDcyd0VrLS1HVDlmcjNzek5WQjdBS2RieVFCR3JxZUkycHdVaWhYWWt4S2lfYUZrZ2RZWnVwMjFtOXpfR2ZraDkxN2xKSXVkQm1WN0V3RkxXVHpDVVNUWjNJTFVzRE9rSW1CYTRoNlYwTXdJbVlmSFBOQWM0ekdmMzFHVmZGWFB2N0ljQjEzaVhlX283bkFfcHlr?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-04T14:00:26Z",
+   "last_seen": "2026-08-04T14:00:26Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
      "75e495ce945e17cb"
     ]
    },
    "articles": [
     {
-     "id": "851729952a47a760",
-     "title": "Taiwan regional media hype annual Han Kuang drills; mainland expert dismisses these unrealistic tactical gambits as mere ‘performance’",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUG9TQnlGXzBFQ1pBLWRsT1JPbWd1bFZSd2ZXWUktbmtVOGxtY0U2eXJmMnlEV1BUcGptb0JvWmcteVlwdVJGVU5OYU14R0F3aHZTMFRwVDEwUlc4cDFKYjNR?oc=5",
-     "published": "2026-08-02T11:54:00Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "rehearsal"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
-     "hedged": false
-    },
-    {
-     "id": "cdfdd4664a873048",
-     "title": "台湾民众手机警报大响竟是“演习预告”，网民批“扰民”",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVE1WRlRHaWlMNjRsSEFOQ1htd0VTaVR5UkY1c1dMR3llTENKZktYZ1lrNnV0OUtGcXdMZHlCOU9DZFVBRzRRclM0cmFGUzdqR09NQ2htM3ozQQ?oc=5",
-     "published": "2026-08-03T11:19:00Z",
-     "lang": "zh",
-     "entities": [
-      "military_drill"
-     ],
-     "source_name": "環球網",
-     "source_domain": "huanqiu.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
-     "hedged": false
-    },
-    {
-     "id": "2d6fbb26072483f1",
-     "title": "獨家／國軍漢光演習在即 中共山東號航母出塢威脅台海安全",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zcVU1YkVpZDZBNGR2VzYyandJNmNhelFOTWJPOWd5enZIRHRvdFBNeW9ndmdJbjV5RzRqX2NvOUFuRnBsMkxWb3lXMnZCR0x0bzgza3IxRXROcDNMTUE?oc=5",
-     "published": "2026-08-04T05:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_carrier",
-      "han_kuang",
-      "military_drill",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "bigmedia.com.tw",
-     "source_domain": "bigmedia.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "ae87f0abf373ec7e",
-     "title": "共軍挑漢光前夕出手！17機擾台「戰備警巡」 國軍岸置飛彈監控",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heG9LZGVUT3FDLTJZVGhwTldVMVo4WWJPd3VrMUMtSkR1ZEItUUg3TFBtSTFmX196Y3lQejBNWm9HMFJqcFZaVkZTNHdHdlRBeU8w?oc=5",
-     "published": "2026-08-04T07:05:00Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "incursion",
-      "missile",
-      "pla",
-      "roc_military"
-     ],
-     "source_name": "TVBS",
-     "source_domain": "tvbs.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "476bf338c72b0795",
-     "title": "대만, 내일부터 중국군 침공 대비 연례 한광훈련 실시",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZNIBYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZA?oc=5",
-     "published": "2026-08-04T07:20:48Z",
-     "lang": "ko",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "연합뉴스",
-     "source_domain": "yna.co.kr",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "90982e709edc845c",
-     "title": "대만, 중국군 침공 대비 훈련 실시",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rTWlITGFmdFNyVEdJZnFvN2U0OG54dERxbHlCM0RmRHpSM0tMV2xFd3hWMDNrS3djWXItWTB3cFZrdmdUSjI2Y25JVWNydzg4NW1YWHJna3h1ZWZKX0hjNnJJRGotWkxhUTZhQjVB?oc=5",
-     "published": "2026-08-04T09:11:33Z",
-     "lang": "ko",
-     "entities": [
-      "invasion",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "asiatoday.co.kr",
-     "source_domain": "asiatoday.co.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "19b2d43f54fbb4fa",
-     "title": "漢光演習前夕 中共發動「聯合戰備警巡」擾台 | 太報",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CVC1jRnNtdDlvQkVpZzZNdlJFQWI2c3o0NkljaGRSUmNobmlxNGkzbXh0THF2S1B3UkpHMTlqOS1IM1lKbVVKTTJDQjhDcjl6T3hOZGp3?oc=5",
-     "published": "2026-08-04T09:26:59Z",
-     "lang": "zh",
-     "entities": [
-      "han_kuang",
-      "incursion",
-      "military_drill"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "8b0d1a3ba9043a4e",
-     "title": "대만 한광훈련 5일 개시…중국군 군용기 17대 대만해협 진입",
-     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UU3RwMFFmLTZKUDJrZFowRUhCZ3pIWWRRbzV5LWlBalVrelduZ2M1SFcwN01kVkdlUXpPdjZpN1VxYU1QNC1Tb1JnMUZMNFFVbkp1WGNhOVNaQnZGMnNDcFlhNlN1RUIybXoxOU5fOVA2X0k?oc=5",
-     "published": "2026-08-04T09:35:52Z",
-     "lang": "ko",
-     "entities": [
-      "aircraft_sortie",
-      "han_kuang",
-      "incursion",
-      "pla",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "스페셜타임스",
-     "source_domain": "specialtimes.co.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "adde19129e719003",
-     "title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZkZVX1NITkphZFM2NDJBQlQyYTRhSXVmNEhlUTFzQmJHcHVBM05KUE1CRTBpZ0NSc3BxQ25mY2VuQ3FEdnRqODhCRWRaWXZicjN5SHlLRlpNNTZhOU51X0dMNjJadWYxRkE?oc=5",
-     "published": "2026-08-04T09:39:48Z",
-     "lang": "ko",
-     "entities": [
-      "drone",
-      "han_kuang",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "sisaworld.kr",
-     "source_domain": "sisaworld.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "277544d2641711e6",
-     "title": "‘중국 보란 듯’…대만, 내일부터 중국군 침공 대비 ‘한광훈련’ 시작",
-     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LS2tvZTQydWdTb0taLU9xeEhpOEVndmFtSHFyN29pbkUySXdFcVBqRW1kSG9SaG9CTW91ck5xZm8wQkJUYm1QUmJDMzNRY0l5em9KV24wYjRmSE9KVVNhNHdfMNIBY0FVX3lxTE1LS2tvZTQydWdTb0taLU9xeEhpOEVndmFtSHFyN29pbkUySXdFcVBqRW1kSG9SaG9CTW91ck5xZm8wQkJUYm1QUmJDMzNRY0l5em9KV24wYjRmSE9KVVNhNHdfMA?oc=5",
-     "published": "2026-08-04T09:51:00Z",
-     "lang": "ko",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "채널A",
-     "source_domain": "ichannela.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "0da5ba16c63aba58",
-     "title": "Taiwan's president says he won't accept China's \"red terror.\" Live-fire military drills begin Wednesday",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHRqQ3NDUFV1QkFqemEzcTNVWUpzVndWWmhjOUdQX2FQTjlfd3d2UWUxNi1CUWFHeVdIR1JCb2hMRUw3UHZySzRGUTJ4cGh6SWMxVkpPbk5SYkpmS2llbjZxYjRVREFFUmJfQjQ3NzR1VXNTMjJqcUs3NzNpYUlsNWZSYmlKTW5kZ19mWHNYeGVaY0otRXJTX2IzYw?oc=5",
-     "published": "2026-08-04T11:23:20Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Plataforma Media",
-     "source_domain": "plataformamedia.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
      "id": "75e495ce945e17cb",
      "title": "How Taiwan is preparing for a PLA sea blockade in its biggest war games",
-     "url": "https://www.scmp.com/news/china/military/article/3362965/how-taiwan-preparing-pla-sea-blockade-its-biggest-war-games?utm_source=rss_feed",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVkpZaUowLVk2V1JJalJSckMzQnA3OEVEbmVnSVQtMm1zWVlrUHYyREs3bVpTb0psbXN3Yk9oR25UcVpjQ2VBUzNkWXVxSzYzTDhCbWkwWDFNV3dpa3FidkgxV3lTcVpTSFJlaGhsUTJIU1d3VVp0TVZqQ0dwZjFYZTVwaGVoYXNqN1kxLUlaMHpaUzVSZkVBMEZuR3dVMDBIVUZhMHBlc2t2cE9xYU1GWm5VOXFZUTDSAbcBQVVfeXFMT3hQQVd4VHplbE1KZXc4V0Znc2x6dm15ZFdkeEFmWDcyd0VrLS1HVDlmcjNzek5WQjdBS2RieVFCR3JxZUkycHdVaWhYWWt4S2lfYUZrZ2RZWnVwMjFtOXpfR2ZraDkxN2xKSXVkQm1WN0V3RkxXVHpDVVNUWjNJTFVzRE9rSW1CYTRoNlYwTXdJbVlmSFBOQWM0ekdmMzFHVmZGWFB2N0ljQjEzaVhlX283bkFfcHlr?oc=5",
      "published": "2026-08-04T14:00:26Z",
      "lang": "en",
      "entities": [
@@ -549,6 +422,337 @@
    ]
   },
   {
+   "id": "evt_20260803_6993b0",
+   "headline": "共軍挑漢光前夕出手！17機擾台「戰備警巡」 國軍岸置飛彈監控",
+   "headline_source": "TVBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heG9LZGVUT3FDLTJZVGhwTldVMVo4WWJPd3VrMUMtSkR1ZEItUUg3TFBtSTFmX196Y3lQejBNWm9HMFJqcFZaVkZTNHdHdlRBeU8w?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-03T11:19:00Z",
+   "last_seen": "2026-08-04T11:23:20Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 5,
+    "n_unrated": 3,
+    "score": 57.9,
+    "n_independent": 2,
+    "n_articles": 5,
+    "n_domains": 5,
+    "blocs": [
+     "independent",
+     "prc_state",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "미분류 매체 3곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "cdfdd4664a873048"
+    ],
+    "tw_west": [
+     "2d6fbb26072483f1",
+     "ae87f0abf373ec7e",
+     "19b2d43f54fbb4fa",
+     "0da5ba16c63aba58"
+    ]
+   },
+   "articles": [
+    {
+     "id": "cdfdd4664a873048",
+     "title": "台湾民众手机警报大响竟是“演习预告”，网民批“扰民”",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wVE1WRlRHaWlMNjRsSEFOQ1htd0VTaVR5UkY1c1dMR3llTENKZktYZ1lrNnV0OUtGcXdMZHlCOU9DZFVBRzRRclM0cmFGUzdqR09NQ2htM3ozQQ?oc=5",
+     "published": "2026-08-03T11:19:00Z",
+     "lang": "zh",
+     "entities": [
+      "military_drill"
+     ],
+     "source_name": "環球網",
+     "source_domain": "huanqiu.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
+     "hedged": false
+    },
+    {
+     "id": "2d6fbb26072483f1",
+     "title": "獨家／國軍漢光演習在即 中共山東號航母出塢威脅台海安全",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5zcVU1YkVpZDZBNGR2VzYyandJNmNhelFOTWJPOWd5enZIRHRvdFBNeW9ndmdJbjV5RzRqX2NvOUFuRnBsMkxWb3lXMnZCR0x0bzgza3IxRXROcDNMTUE?oc=5",
+     "published": "2026-08-04T05:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_carrier",
+      "han_kuang",
+      "military_drill",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "鉅聞天下",
+     "source_domain": "bigmedia.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ae87f0abf373ec7e",
+     "title": "共軍挑漢光前夕出手！17機擾台「戰備警巡」 國軍岸置飛彈監控",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1heG9LZGVUT3FDLTJZVGhwTldVMVo4WWJPd3VrMUMtSkR1ZEItUUg3TFBtSTFmX196Y3lQejBNWm9HMFJqcFZaVkZTNHdHdlRBeU8w?oc=5",
+     "published": "2026-08-04T07:05:00Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "incursion",
+      "missile",
+      "pla",
+      "roc_military"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "19b2d43f54fbb4fa",
+     "title": "漢光演習前夕 中共發動「聯合戰備警巡」擾台 | 太報",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9CVC1jRnNtdDlvQkVpZzZNdlJFQWI2c3o0NkljaGRSUmNobmlxNGkzbXh0THF2S1B3UkpHMTlqOS1IM1lKbVVKTTJDQjhDcjl6T3hOZGp3?oc=5",
+     "published": "2026-08-04T09:26:59Z",
+     "lang": "zh",
+     "entities": [
+      "han_kuang",
+      "incursion",
+      "military_drill"
+     ],
+     "source_name": "LINE TODAY",
+     "source_domain": "today.line.me",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "0da5ba16c63aba58",
+     "title": "Taiwan's president says he won't accept China's \"red terror.\" Live-fire military drills begin Wednesday",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTHRqQ3NDUFV1QkFqemEzcTNVWUpzVndWWmhjOUdQX2FQTjlfd3d2UWUxNi1CUWFHeVdIR1JCb2hMRUw3UHZySzRGUTJ4cGh6SWMxVkpPbk5SYkpmS2llbjZxYjRVREFFUmJfQjQ3NzR1VXNTMjJqcUs3NzNpYUlsNWZSYmlKTW5kZ19mWHNYeGVaY0otRXJTX2IzYw?oc=5",
+     "published": "2026-08-04T11:23:20Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Plataforma Media",
+     "source_domain": "plataformamedia.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260802_5d5506",
+   "headline": "대만, 내일부터 중국군 침공 대비 연례 한광훈련 실시",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZNIBYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZA?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-08-02T11:54:00Z",
+   "last_seen": "2026-08-04T09:51:00Z",
+   "langs": [
+    "en",
+    "ko"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 4,
+    "n_unrated": 2,
+    "score": 62.5,
+    "n_independent": 2,
+    "n_articles": 6,
+    "n_domains": 6,
+    "blocs": [
+     "independent",
+     "prc_state",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 통신사·공영",
+     "2개 언어권에서 확인",
+     "연합뉴스 원고를 아시아투데이·채널A 가 전재 — 1곳으로 계산",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "851729952a47a760"
+    ],
+    "tw_west": [
+     "476bf338c72b0795",
+     "90982e709edc845c",
+     "8b0d1a3ba9043a4e",
+     "adde19129e719003",
+     "277544d2641711e6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "851729952a47a760",
+     "title": "Taiwan regional media hype annual Han Kuang drills; mainland expert dismisses these unrealistic tactical gambits as mere ‘performance’",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9xUG9TQnlGXzBFQ1pBLWRsT1JPbWd1bFZSd2ZXWUktbmtVOGxtY0U2eXJmMnlEV1BUcGptb0JvWmcteVlwdVJGVU5OYU14R0F3aHZTMFRwVDEwUlc4cDFKYjNR?oc=5",
+     "published": "2026-08-02T11:54:00Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "rehearsal"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    },
+    {
+     "id": "476bf338c72b0795",
+     "title": "대만, 내일부터 중국군 침공 대비 연례 한광훈련 실시",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZNIBYEFVX3lxTFBiWG44bTZRM25hT1V0M0VlVUNZNXIyTFQwcVc4dXpsV3prbGQxTGtGZm1MalUtZnZkTGx2RnVJaHViOWVqbll4OFl6dlhmRVY3My1UUkh1aWwxS3k0WDNpZA?oc=5",
+     "published": "2026-08-04T07:20:48Z",
+     "lang": "ko",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "연합뉴스",
+     "source_domain": "yna.co.kr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "90982e709edc845c",
+     "title": "대만, 중국군 침공 대비 훈련 실시",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1rTWlITGFmdFNyVEdJZnFvN2U0OG54dERxbHlCM0RmRHpSM0tMV2xFd3hWMDNrS3djWXItWTB3cFZrdmdUSjI2Y25JVWNydzg4NW1YWHJna3h1ZWZKX0hjNnJJRGotWkxhUTZhQjVB?oc=5",
+     "published": "2026-08-04T09:11:33Z",
+     "lang": "ko",
+     "entities": [
+      "invasion",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "아시아투데이",
+     "source_domain": "asiatoday.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "8b0d1a3ba9043a4e",
+     "title": "대만 한광훈련 5일 개시…중국군 군용기 17대 대만해협 진입",
+     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5UU3RwMFFmLTZKUDJrZFowRUhCZ3pIWWRRbzV5LWlBalVrelduZ2M1SFcwN01kVkdlUXpPdjZpN1VxYU1QNC1Tb1JnMUZMNFFVbkp1WGNhOVNaQnZGMnNDcFlhNlN1RUIybXoxOU5fOVA2X0k?oc=5",
+     "published": "2026-08-04T09:35:52Z",
+     "lang": "ko",
+     "entities": [
+      "aircraft_sortie",
+      "han_kuang",
+      "incursion",
+      "pla",
+      "rehearsal",
+      "taiwan_strait"
+     ],
+     "source_name": "스페셜타임스",
+     "source_domain": "specialtimes.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "adde19129e719003",
+     "title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5DZkZVX1NITkphZFM2NDJBQlQyYTRhSXVmNEhlUTFzQmJHcHVBM05KUE1CRTBpZ0NSc3BxQ25mY2VuQ3FEdnRqODhCRWRaWXZicjN5SHlLRlpNNTZhOU51X0dMNjJadWYxRkE?oc=5",
+     "published": "2026-08-04T09:39:48Z",
+     "lang": "ko",
+     "entities": [
+      "drone",
+      "han_kuang",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "sisaworld.kr",
+     "source_domain": "sisaworld.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "277544d2641711e6",
+     "title": "‘중국 보란 듯’…대만, 내일부터 중국군 침공 대비 ‘한광훈련’ 시작",
+     "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1LS2tvZTQydWdTb0taLU9xeEhpOEVndmFtSHFyN29pbkUySXdFcVBqRW1kSG9SaG9CTW91ck5xZm8wQkJUYm1QUmJDMzNRY0l5em9KV24wYjRmSE9KVVNhNHdfMNIBY0FVX3lxTE1LS2tvZTQydWdTb0taLU9xeEhpOEVndmFtSHFyN29pbkUySXdFcVBqRW1kSG9SaG9CTW91ck5xZm8wQkJUYm1QUmJDMzNRY0l5em9KV24wYjRmSE9KVVNhNHdfMA?oc=5",
+     "published": "2026-08-04T09:51:00Z",
+     "lang": "ko",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "채널A",
+     "source_domain": "ichannela.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260804_840eda",
    "headline": "《防衛白皮書》談中國對台行動分「3特徵」 更籲日本續關注台海... | Newtalk",
    "headline_source": "LINE TODAY",
@@ -671,7 +875,7 @@
   {
    "id": "evt_20260804_3a14e0",
    "headline": "日2026防衛白皮書點名陸「前所未見最大戰略挑戰」 憂台海形勢 無人機、AI成建軍主軸",
-   "headline_source": "梅花新聞網",
+   "headline_source": "i-meihua.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBIeFBCd2FLS1lZYmNIT0U1NWo0Y09FX29DcjV0bGprVEhNUW1Rb29vTi1pbzdhdFktWm5PbENWaHdlYWlFemQyNF8wbXFad19UNGVFQVRtbUQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-04T07:40:00Z",
@@ -718,7 +922,7 @@
       "drone",
       "taiwan_strait"
      ],
-     "source_name": "梅花新聞網",
+     "source_name": "i-meihua.com",
      "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -975,8 +1179,8 @@
    "headline_source": "LINE TODAY",
    "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IYWdKV1ZzNUdaX1BWNC0wb1B4Qnc0aUNBT2o4VzFXZFpmRmh4YXpzcW41SkpMaktBUHJQRHBTUWxvTHNKSzVVQUhDTFplZkFlRFo4X0pR?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-08-04T04:26:40Z",
-   "last_seen": "2026-08-04T04:26:40Z",
+   "first_seen": "2026-08-04T04:26:24Z",
+   "last_seen": "2026-08-04T04:26:24Z",
    "langs": [
     "zh"
    ],
@@ -1013,7 +1217,7 @@
      "id": "ac513496b094bbf5",
      "title": "共軍打造總統府模型！《地緣密碼－文薰戰情室》解析抓到台灣總統就能贏嗎？揭開北京「斬首作戰」思維 | Newtalk",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1IYWdKV1ZzNUdaX1BWNC0wb1B4Qnc0aUNBT2o4VzFXZFpmRmh4YXpzcW41SkpMaktBUHJQRHBTUWxvTHNKSzVVQUhDTFplZkFlRFo4X0pR?oc=5",
-     "published": "2026-08-04T04:26:40Z",
+     "published": "2026-08-04T04:26:24Z",
      "lang": "zh",
      "entities": [
       "beijing",
@@ -1394,99 +1598,6 @@
    ]
   },
   {
-   "id": "evt_20260803_a70b0c",
-   "headline": "Taiwan minister says close ties with U.S. Pacific Command boost defence readiness",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVklDQ3A2S254OVB4N0hfV0ZUc2trSnBwU3dUbjFQYkJKdGFoemRkU3lITTJNLUxpemJaellmQkl4T2ZCMEJpb19fcjJQVHNsS0ctMjdBNDY0bld4VW01SFVNcHM4UFNOSGE2Y1Y3bW0xeEJGSXZ4eC11SGs5RkVCb1NQenY5SDQtNzRRMnBKaDBTOE5zVnRUVkE2bEtqSDlIcm5vdDYzcV9wdkpCTkNTaXZ2b2NnNm5BclB1ZmFyRWdhWmx0Tmc?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-03T02:02:00Z",
-   "last_seen": "2026-08-04T00:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 35.1,
-    "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "Reuters 원고를 The China-Global South Project·Taipei Times 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3549b0d3ec0dfe46",
-     "518a5f575247ac37",
-     "4b37ea9825c9fc74"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3549b0d3ec0dfe46",
-     "title": "Taiwan minister says close ties with U.S. Pacific Command boost defence readiness",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVklDQ3A2S254OVB4N0hfV0ZUc2trSnBwU3dUbjFQYkJKdGFoemRkU3lITTJNLUxpemJaellmQkl4T2ZCMEJpb19fcjJQVHNsS0ctMjdBNDY0bld4VW01SFVNcHM4UFNOSGE2Y1Y3bW0xeEJGSXZ4eC11SGs5RkVCb1NQenY5SDQtNzRRMnBKaDBTOE5zVnRUVkE2bEtqSDlIcm5vdDYzcV9wdkpCTkNTaXZ2b2NnNm5BclB1ZmFyRWdhWmx0Tmc?oc=5",
-     "published": "2026-08-03T02:02:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "518a5f575247ac37",
-     "title": "Taiwan Minister Says Close Ties With U.S. Pacific Command Boost Defense Readiness",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcENWOVo1Vkc4bnpWRWFvTHJWZEh0ak9PLWktWEo0WDB1am53Y0l1WmNxcHMyakdRbVIxZ3dhQ3phVWEwSUsxWjdkVWpwZEdVRlVkYkRtMzVkT0ZJT25TeVpLYVMzWGtUMi1VNThpaW9UN2c5N0YzSU5ORWpGYmpYTU0zbl90Y2tDa2R5MEdwSFJPR09TRTA0Q3JjUHFlVC1LU09qVw?oc=5",
-     "published": "2026-08-03T02:55:31Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "The China-Global South Project",
-     "source_domain": "chinaglobalsouth.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "4b37ea9825c9fc74",
-     "title": "Close ties with US Pacific Command boost Taiwan’s defense readiness: Koo",
-     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/08/04/2003861903",
-     "published": "2026-08-04T00:00:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260803_daa59b",
    "headline": "Presence is deterrence: Restore America’s maritime patrol in the Taiwan Strait",
    "headline_source": "Washington Times",
@@ -1608,7 +1719,7 @@
   {
    "id": "evt_20260803_3d3e4d",
    "headline": "Taiwan Says Military Ties With U.S. Enter More Institutionalized Phase Amid China Tensions",
-   "headline_source": "ibtimes.sg",
+   "headline_source": "International Business Times, Singapore Edition",
    "headline_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd29QZHV3VFZhbzBKZ3JXVUVBTFFlQ1BuZEtmNzNuRHY2SmhKMjZpVnpCQzZMZExKc3U2Q0tIRHpsMUZVX2JFSHdMcWY4VkEwQUp3ZjNUZm82eFJqdUtQUkJDNXhVTlhvSnN0a1AtdEIwbV94YlRnaHJxVWNWazBZT3JoYTNmX2tDbmMzVGMtRnBGMlk1Vk9hd2JIWkhTcElFYWRGUTNiUTk0aWFKbDU3OXdBbw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-03T15:31:35Z",
@@ -1652,7 +1763,7 @@
      "published": "2026-08-03T15:31:35Z",
      "lang": "en",
      "entities": [],
-     "source_name": "ibtimes.sg",
+     "source_name": "International Business Times, Singapore Edition",
      "source_domain": "ibtimes.sg",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2510,7 +2621,7 @@
   {
    "id": "evt_20260803_cd0398",
    "headline": "China Extends Military Activity Around Taiwan with Fresh Air-Sea Operations",
-   "headline_source": "ibtimes.sg",
+   "headline_source": "International Business Times, Singapore Edition",
    "headline_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZGpiaDBYRzZKRFBwYWwxeTZMdDh2S2I0Y1dYcFRaclNvZFphS1NmZmFDVHpCU1FqSVVMSjU0R0NUbUZNT18tU3FKMDd1V3F5NzhkLXdyeWcyVjNNSmlEN2dfY0sxQ0hIUzBjRGlaS3c4OVVnc1N3WllWTFRtTUlic1g2SWVMMVlnckNpa040X29WbnFOOEdCSGtGWS1wMFBQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-03T04:38:25Z",
@@ -2554,7 +2665,7 @@
      "published": "2026-08-03T04:38:25Z",
      "lang": "en",
      "entities": [],
-     "source_name": "ibtimes.sg",
+     "source_name": "International Business Times, Singapore Edition",
      "source_domain": "ibtimes.sg",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2801,6 +2912,82 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "홍콩 친중공 매체",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260803_a70b0c",
+   "headline": "Taiwan minister says close ties with U.S. Pacific Command boost defence readiness",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVklDQ3A2S254OVB4N0hfV0ZUc2trSnBwU3dUbjFQYkJKdGFoemRkU3lITTJNLUxpemJaellmQkl4T2ZCMEJpb19fcjJQVHNsS0ctMjdBNDY0bld4VW01SFVNcHM4UFNOSGE2Y1Y3bW0xeEJGSXZ4eC11SGs5RkVCb1NQenY5SDQtNzRRMnBKaDBTOE5zVnRUVkE2bEtqSDlIcm5vdDYzcV9wdkpCTkNTaXZ2b2NnNm5BclB1ZmFyRWdhWmx0Tmc?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-03T02:02:00Z",
+   "last_seen": "2026-08-03T02:55:31Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 35.1,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영",
+     "Reuters 원고를 The China-Global South Project·Taipei Times 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3549b0d3ec0dfe46",
+     "518a5f575247ac37"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3549b0d3ec0dfe46",
+     "title": "Taiwan minister says close ties with U.S. Pacific Command boost defence readiness",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVklDQ3A2S254OVB4N0hfV0ZUc2trSnBwU3dUbjFQYkJKdGFoemRkU3lITTJNLUxpemJaellmQkl4T2ZCMEJpb19fcjJQVHNsS0ctMjdBNDY0bld4VW01SFVNcHM4UFNOSGE2Y1Y3bW0xeEJGSXZ4eC11SGs5RkVCb1NQenY5SDQtNzRRMnBKaDBTOE5zVnRUVkE2bEtqSDlIcm5vdDYzcV9wdkpCTkNTaXZ2b2NnNm5BclB1ZmFyRWdhWmx0Tmc?oc=5",
+     "published": "2026-08-03T02:02:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "518a5f575247ac37",
+     "title": "Taiwan Minister Says Close Ties With U.S. Pacific Command Boost Defense Readiness",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcENWOVo1Vkc4bnpWRWFvTHJWZEh0ak9PLWktWEo0WDB1am53Y0l1WmNxcHMyakdRbVIxZ3dhQ3phVWEwSUsxWjdkVWpwZEdVRlVkYkRtMzVkT0ZJT25TeVpLYVMzWGtUMi1VNThpaW9UN2c5N0YzSU5ORWpGYmpYTU0zbl90Y2tDa2R5MEdwSFJPR09TRTA0Q3JjUHFlVC1LU09qVw?oc=5",
+     "published": "2026-08-03T02:55:31Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "The China-Global South Project",
+     "source_domain": "chinaglobalsouth.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -4330,7 +4517,7 @@
   {
    "id": "evt_20260802_7a16a8",
    "headline": "陸媒再打「灰色地帶」攻防戰！《環時》：一中原則沒模糊空間 台海治理將全面常態化",
-   "headline_source": "梅花新聞網",
+   "headline_source": "i-meihua.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9QSGYtWFBGbHpaeGRKRUhocmNSQkNQMWxYRnpQT0dKNWpISlpyQjJRZFZUUzZFdFRaM3VhR3BBOHM3R045WEdHQkJvaURXbFg3Y0J0eUNyLVM?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-02T05:40:00Z",
@@ -4377,7 +4564,7 @@
       "gray_zone",
       "taiwan_strait"
      ],
-     "source_name": "梅花新聞網",
+     "source_name": "i-meihua.com",
      "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
