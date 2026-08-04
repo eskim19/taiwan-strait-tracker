@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-04T09:11:05Z",
+ "updated": "2026-08-04T11:34:59Z",
  "checked": "2026-08-04",
- "duration_sec": 35.8,
+ "duration_sec": 31.8,
  "rolling_days": 14,
- "n_events": 294,
- "n_articles": 358,
+ "n_events": 295,
+ "n_articles": 361,
  "grades": {
-  "D": 159,
   "A": 2,
-  "C": 114,
-  "B": 19
+  "C": 115,
+  "D": 160,
+  "B": 18
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 15,
-  "T2": 123,
-  "T3": 70,
+  "T2": 121,
+  "T3": 71,
   "T4": 16,
-  "T5": 94,
+  "T5": 97,
   "TA": 7
  },
  "t1_domains": [
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 33,
-   "newest": "2026-08-04T04:55:00+00:00",
+   "n_entries": 50,
+   "n_adopted": 31,
+   "newest": "2026-08-04T08:43:09+00:00",
    "stale": false,
    "error": null
   },
@@ -71,8 +71,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-08-04T07:20:48+00:00",
+   "n_adopted": 15,
+   "newest": "2026-08-04T09:39:48+00:00",
    "stale": false,
    "error": null
   },
@@ -85,7 +85,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 58,
-   "newest": "2026-08-04T08:36:24+00:00",
+   "newest": "2026-08-04T10:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,7 +97,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 12,
    "newest": "2026-08-04T02:03:33+00:00",
    "stale": false,
    "error": null
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 1,
-   "newest": "2026-08-04T07:12:06+00:00",
+   "n_entries": 49,
+   "n_adopted": 2,
+   "newest": "2026-08-04T09:07:14+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-04T09:00:07+00:00",
+   "newest": "2026-08-04T10:04:23+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-04T08:23:00+00:00",
+   "newest": "2026-08-04T11:02:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,7 +202,7 @@
    "http": 200,
    "n_entries": 94,
    "n_adopted": 0,
-   "newest": "2026-08-04T09:03:32+00:00",
+   "newest": "2026-08-04T10:08:00+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-04T08:51:47+00:00",
+   "newest": "2026-08-04T10:53:33+00:00",
    "stale": false,
    "error": null
   },
@@ -249,8 +249,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 12,
-   "sample_title": "《防衛白皮書》談中國對台行動分「3特徵」 更籲日本續關注台海... | Newtalk"
+   "n_articles": 13,
+   "sample_title": "漢光演習前夕 中共發動「聯合戰備警巡」擾台 | 太報"
   },
   {
    "domain": "i-meihua.com",
@@ -328,24 +328,24 @@
    "sample_title": "獨家／國軍漢光演習在即 中共山東號航母出塢威脅台海安全"
   },
   {
+   "domain": "asiatoday.co.kr",
+   "n_articles": 1,
+   "sample_title": "대만, 중국군 침공 대비 훈련 실시"
+  },
+  {
+   "domain": "specialtimes.co.kr",
+   "n_articles": 1,
+   "sample_title": "대만 한광훈련 5일 개시…중국군 군용기 17대 대만해협 진입"
+  },
+  {
+   "domain": "sisaworld.kr",
+   "n_articles": 1,
+   "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
+  },
+  {
    "domain": "theaustralian.com.au",
    "n_articles": 1,
    "sample_title": "Taiwan admits US is secretly training their troops"
-  },
-  {
-   "domain": "mirrordaily.news",
-   "n_articles": 1,
-   "sample_title": "解放軍新片再秀「南海肌肉」 台灣東方海域成中共關鍵戰場"
-  },
-  {
-   "domain": "chinaglobalsouth.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan Minister Says Close Ties With U.S. Pacific Command Boost Defense Readines"
-  },
-  {
-   "domain": "hk.on.cc",
-   "n_articles": 1,
-   "sample_title": "建軍節火箭軍特輯 展示東風導彈射向台海"
   }
  ]
 }
