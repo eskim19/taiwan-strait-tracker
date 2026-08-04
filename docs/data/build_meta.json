@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-04T17:05:16Z",
+ "updated": "2026-08-04T19:58:45Z",
  "checked": "2026-08-04",
- "duration_sec": 31.6,
+ "duration_sec": 33.1,
  "rolling_days": 14,
- "n_events": 307,
- "n_articles": 374,
+ "n_events": 309,
+ "n_articles": 380,
  "grades": {
-  "C": 121,
-  "D": 164,
-  "B": 21,
-  "A": 1
+  "A": 2,
+  "C": 123,
+  "D": 165,
+  "B": 19
  },
- "cross_language_events": 4,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 16,
-  "T2": 127,
+  "T2": 130,
   "T3": 72,
   "T4": 16,
-  "T5": 102,
+  "T5": 105,
   "TA": 7
  },
  "t1_domains": [
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 33,
-   "newest": "2026-08-04T14:00:26+00:00",
+   "n_entries": 50,
+   "n_adopted": 34,
+   "newest": "2026-08-04T16:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
+   "n_adopted": 13,
    "newest": "2026-08-04T09:51:00+00:00",
    "stale": false,
    "error": null
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-04T14:36:37+00:00",
+   "n_adopted": 62,
+   "newest": "2026-08-04T16:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-08-03T13:09:00+00:00",
+   "n_adopted": 12,
+   "newest": "2026-08-04T00:01:21+00:00",
    "stale": false,
    "error": null
   },
@@ -136,7 +136,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 47,
-   "n_adopted": 1,
+   "n_adopted": 0,
    "newest": "2026-08-05T00:00:00+00:00",
    "stale": false,
    "error": null
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-04T16:08:31+00:00",
+   "newest": "2026-08-04T18:50:12+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 97,
+   "n_entries": 98,
    "n_adopted": 0,
-   "newest": "2026-08-04T16:28:24+00:00",
+   "newest": "2026-08-04T17:05:37+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-04T16:41:30+00:00",
+   "newest": "2026-08-04T19:41:17+00:00",
    "stale": false,
    "error": null
   },
@@ -288,6 +288,11 @@
    "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
   },
   {
+   "domain": "theaustralian.com.au",
+   "n_articles": 2,
+   "sample_title": "Taiwan admits US is secretly training its troops"
+  },
+  {
    "domain": "mirrordaily.news",
    "n_articles": 2,
    "sample_title": "解放軍新片再秀「南海肌肉」 台灣東方海域成中共關鍵戰場"
@@ -328,19 +333,14 @@
    "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   },
   {
-   "domain": "geopoliticalmonitor.com",
-   "n_articles": 1,
-   "sample_title": "The Taiwan Strait’s Useful Fiction: Origins and Decay of the 1992 Consensus"
-  },
-  {
    "domain": "bigmedia.com.tw",
    "n_articles": 1,
    "sample_title": "獨家／國軍漢光演習在即 中共山東號航母出塢威脅台海安全"
   },
   {
-   "domain": "plataformamedia.com",
+   "domain": "n.yam.com",
    "n_articles": 1,
-   "sample_title": "Taiwan's president says he won't accept China's \"red terror.\" Live-fire military"
+   "sample_title": "漢光42號明登場！共軍17架軍機突襲擾台 12架逾越中線"
   },
   {
    "domain": "asiatoday.co.kr",
