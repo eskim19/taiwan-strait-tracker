@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-05T11:31:39Z",
+ "updated": "2026-08-05T14:35:32Z",
  "checked": "2026-08-05",
- "duration_sec": 31.7,
+ "duration_sec": 32.9,
  "rolling_days": 14,
- "n_events": 324,
- "n_articles": 410,
+ "n_events": 330,
+ "n_articles": 419,
  "grades": {
-  "C": 120,
-  "B": 22,
-  "A": 3,
-  "D": 179
+  "C": 124,
+  "A": 4,
+  "D": 181,
+  "B": 21
  },
- "cross_language_events": 6,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,11 +20,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 22,
-  "T2": 132,
+  "T2": 137,
   "T3": 78,
   "T4": 16,
-  "T5": 121,
-  "TA": 7
+  "T5": 124,
+  "TA": 8
  },
  "t1_domains": [
   "aljazeera.com",
@@ -59,9 +59,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
-   "n_adopted": 39,
-   "newest": "2026-08-05T09:58:39+00:00",
+   "n_entries": 62,
+   "n_adopted": 42,
+   "newest": "2026-08-05T13:54:00+00:00",
    "stale": false,
    "error": null
   },
@@ -73,8 +73,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 22,
-   "newest": "2026-08-05T09:43:00+00:00",
+   "n_adopted": 21,
+   "newest": "2026-08-05T10:39:00+00:00",
    "stale": false,
    "error": null
   },
@@ -86,8 +86,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-08-05T10:45:00+00:00",
+   "n_adopted": 60,
+   "newest": "2026-08-05T13:25:00+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-08-05T08:45:39+00:00",
+   "newest": "2026-08-05T11:44:00+00:00",
    "stale": false,
    "error": null
   },
@@ -112,8 +112,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-08-05T09:32:00+00:00",
+   "n_adopted": 5,
+   "newest": "2026-08-05T12:09:00+00:00",
    "stale": false,
    "error": null
   },
@@ -124,9 +124,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 53,
-   "n_adopted": 5,
-   "newest": "2026-08-05T09:44:22+00:00",
+   "n_entries": 57,
+   "n_adopted": 7,
+   "newest": "2026-08-05T12:22:33+00:00",
    "stale": false,
    "error": null
   },
@@ -152,7 +152,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-05T10:30:10+00:00",
+   "newest": "2026-08-05T14:00:13+00:00",
    "stale": false,
    "error": null
   },
@@ -165,7 +165,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-05T10:53:00+00:00",
+   "newest": "2026-08-05T12:51:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,9 +202,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 90,
+   "n_entries": 93,
    "n_adopted": 0,
-   "newest": "2026-08-05T10:41:08+00:00",
+   "newest": "2026-08-05T14:16:33+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +230,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-05T11:01:32+00:00",
+   "newest": "2026-08-05T14:08:46+00:00",
    "stale": false,
    "error": null
   },
@@ -251,8 +251,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 13,
-   "sample_title": "漢光演習前夕 中共發動「聯合戰備警巡」擾台 | 太報"
+   "n_articles": 14,
+   "sample_title": "美軍加速部署FPV無人機 鎖定台海衝突印太戰略島鏈 | 上報"
   },
   {
    "domain": "fountmedia.io",
@@ -270,6 +270,16 @@
    "sample_title": "SpaceX打造「非中非台」供應鏈避台海風險 強力排除中國商品與員工"
   },
   {
+   "domain": "theaustralian.com.au",
+   "n_articles": 3,
+   "sample_title": "Taiwan begins major military drills as Chinese pressure grows"
+  },
+  {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan Launches Major Military Drills Amid Growing Tensions with China"
+  },
+  {
    "domain": "ibtimes.sg",
    "n_articles": 3,
    "sample_title": "Taiwan Says Military Ties With U.S. Enter More Institutionalized Phase Amid Chin"
@@ -285,6 +295,11 @@
    "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
   },
   {
+   "domain": "unn.ua",
+   "n_articles": 2,
+   "sample_title": "Taiwan has begun its largest-ever military exercises amid the threat of an invas"
+  },
+  {
    "domain": "sisaworld.kr",
    "n_articles": 2,
    "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
@@ -295,19 +310,14 @@
    "sample_title": "대만, 5일부터 한광 42호 훈련…중국군 침공 대비 9박10일 실시"
   },
   {
-   "domain": "unn.ua",
+   "domain": "indiatoday.in",
    "n_articles": 2,
-   "sample_title": "Taiwan has begun its largest-ever military exercises amid the threat of an invas"
+   "sample_title": "Taiwan starts 10-day Han Kuang drills to prepare for possible China invasion"
   },
   {
    "domain": "stratnewsglobal.com",
    "n_articles": 2,
    "sample_title": "Taiwan Launches Largest War Drills To Counter China Threat"
-  },
-  {
-   "domain": "theaustralian.com.au",
-   "n_articles": 2,
-   "sample_title": "Taiwan admits US is secretly training its troops"
   },
   {
    "domain": "mirrordaily.news",
@@ -338,16 +348,6 @@
    "domain": "thedefensepost.com",
    "n_articles": 2,
    "sample_title": "Taiwan to Test Civilian Factories for Wartime Defense Production"
-  },
-  {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 2,
-   "sample_title": "U.S. Congress Approves $500 Million Military Aid for Taiwan Amid Trump-Xi Negoti"
-  },
-  {
-   "domain": "businessweekly.com.tw",
-   "n_articles": 2,
-   "sample_title": "總統府、蘇澳基地都被複製！衛星影像揭中國「史無前例」演練台海衝突－中央社｜商周"
   }
  ]
 }
