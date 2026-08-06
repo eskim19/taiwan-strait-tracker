@@ -11286,10 +11286,10 @@
   },
   {
    "id": "evt_20260723_0e161b",
-   "headline": "中國突宣布在台海實彈射擊 今明兩日禁止進入演習海域",
-   "headline_source": "公視 PTS",
-   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13bWR2TklRNlpZS3lwR1FfcWpnY3Y1QnF0OXBxNEdMc3FDaWUwZkFQc3dOcm1qOXJiQzhjSjZQX1g1Wl83Ny1iLVZnYkxEc0E?oc=5",
-   "headline_lang": "zh",
+   "headline": "China begins two days of live-fire drills in Taiwan Strait",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQejZfZS1QLTgtdG5SWUNpTlZsTmN0emFuTDBLZU1id0dyeXZrdl9Wc0lHYTc2VnBYcXo5ZzREUEM4QUpyMmNUT21NaWJlN3lqUng1am9Mdm1NUlVUdGdORDA5Ujd5TGZEb3JNb1lpS0EzM2ZIUnJzdUxjNEJMWTZxRGFNTXdobThjOUtoUll2Q2tma29xZ1FwTmFGVzlDa2tUaGVv?oc=5",
+   "headline_lang": "en",
    "first_seen": "2026-07-23T03:38:00Z",
    "last_seen": "2026-07-24T07:00:00Z",
    "langs": [
@@ -11329,16 +11329,17 @@
    },
    "perspectives": {
     "prc": [
-     "465dd36475879490"
+     "465dd36475879490",
+     "68f8982848a77402"
     ],
     "tw_west": [
-     "904a19022067ac00",
-     "2ec5f9fc06aea82d",
-     "6f1243b83c4de6b1",
      "b7a866de818480d0",
      "03228a6f84d40e23",
-     "e67ca9656171ad6a",
-     "c7615a029cf7ad68"
+     "2ec5f9fc06aea82d",
+     "904a19022067ac00",
+     "6f1243b83c4de6b1",
+     "c7615a029cf7ad68",
+     "e67ca9656171ad6a"
     ]
    },
    "articles": [
@@ -11360,67 +11361,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 방송",
-     "hedged": false
-    },
-    {
-     "id": "904a19022067ac00",
-     "title": "中國突宣布在台海實彈射擊 今明兩日禁止進入演習海域",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13bWR2TklRNlpZS3lwR1FfcWpnY3Y1QnF0OXBxNEdMc3FDaWUwZkFQc3dOcm1qOXJiQzhjSjZQX1g1Wl83Ny1iLVZnYkxEc0E?oc=5",
-     "published": "2026-07-23T07:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "live_fire",
-      "military_drill",
-      "taiwan_strait"
-     ],
-     "source_name": "公視 PTS",
-     "source_domain": "pts.org.tw",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 공영방송(편집권 독립)",
-     "hedged": false
-    },
-    {
-     "id": "2ec5f9fc06aea82d",
-     "title": "共軍突發台海實彈射擊！連續2天封鎖部分海域，解放軍下一步要做什麼？ | 兩岸中心 | 新聞",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XdnR2emRBaERkNDhjYk1hTVFuUHpPU0hvdlA0aG1WelN3eGpUVkszbDJjYjYzWndPTy1oNzZSdUFfZC1kbkxodmNEWE16QQ?oc=5",
-     "published": "2026-07-23T07:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "blockade",
-      "live_fire",
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "風傳媒",
-     "source_domain": "storm.mg",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "6f1243b83c4de6b1",
-     "title": "陸在台海實彈射擊陸委會：對台影響不大| 兩岸",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WUWtGcHdHQUlUbVNFcXQwUTBncHlTanhNRGQ4ZGZCLXZxbzlSNWktdEVZclRPdTJza0o5Zko2QUlHTUkzekJsQmZHRFVoYkxFbnRSWU9ocDdnRnkxN0E?oc=5",
-     "published": "2026-07-23T07:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "live_fire",
-      "mac",
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     },
     {
@@ -11465,24 +11405,85 @@
      "hedged": false
     },
     {
-     "id": "e67ca9656171ad6a",
-     "title": "突宣布台海實彈射擊！8共機四面圍台路線曝 國軍嚴密緊盯",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVHpUUXNESFk1NU5GaXBnUWdJVEV6TFgzQmlpREVjV09qN2FhaFBMWVMxQWw2SVYwQWNMaV9fa0prX1o2RGhUbk9LdlpmcGRPX1Nr?oc=5",
-     "published": "2026-07-24T07:00:00Z",
+     "id": "2ec5f9fc06aea82d",
+     "title": "共軍突發台海實彈射擊！連續2天封鎖部分海域，解放軍下一步要做什麼？ | 兩岸中心 | 新聞",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1XdnR2emRBaERkNDhjYk1hTVFuUHpPU0hvdlA0aG1WelN3eGpUVkszbDJjYjYzWndPTy1oNzZSdUFfZC1kbkxodmNEWE16QQ?oc=5",
+     "published": "2026-07-23T07:00:00Z",
      "lang": "zh",
      "entities": [
-      "aircraft_sortie",
+      "blockade",
       "live_fire",
-      "roc_military",
+      "pla",
       "taiwan_strait"
      ],
-     "source_name": "TVBS",
-     "source_domain": "tvbs.com.tw",
+     "source_name": "風傳媒",
+     "source_domain": "storm.mg",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "904a19022067ac00",
+     "title": "中國突宣布在台海實彈射擊 今明兩日禁止進入演習海域",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE13bWR2TklRNlpZS3lwR1FfcWpnY3Y1QnF0OXBxNEdMc3FDaWUwZkFQc3dOcm1qOXJiQzhjSjZQX1g1Wl83Ny1iLVZnYkxEc0E?oc=5",
+     "published": "2026-07-23T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "live_fire",
+      "military_drill",
+      "taiwan_strait"
+     ],
+     "source_name": "公視 PTS",
+     "source_domain": "pts.org.tw",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 공영방송(편집권 독립)",
+     "hedged": false
+    },
+    {
+     "id": "6f1243b83c4de6b1",
+     "title": "陸在台海實彈射擊陸委會：對台影響不大| 兩岸",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9WUWtGcHdHQUlUbVNFcXQwUTBncHlTanhNRGQ4ZGZCLXZxbzlSNWktdEVZclRPdTJza0o5Zko2QUlHTUkzekJsQmZHRFVoYkxFbnRSWU9ocDdnRnkxN0E?oc=5",
+     "published": "2026-07-23T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "live_fire",
+      "mac",
+      "taiwan_strait"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "68f8982848a77402",
+     "title": "海事局发布航行警告 台湾海峡 东海实弹射击 禁止进入！",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB3aTNwWmRNSHRXRFRvN0YyaXBzenUyQlpFczRDV3VCS2VsRWhDdnNCYkxROEhDc2ZQX1hwV3RUODRfaVMzUmdqSzBIcFRPcEFzLVJYSE04SE8zRWZCVzZYYUhzYXE5UTdCMFQyRU9GUG5FM1ls?oc=5",
+     "published": "2026-07-23T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "east_china_sea",
+      "live_fire",
+      "nav_warning",
+      "taiwan_strait"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
      "hedged": false
     },
     {
@@ -11497,6 +11498,27 @@
      ],
      "source_name": "MBC",
      "source_domain": "imbc.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "e67ca9656171ad6a",
+     "title": "突宣布台海實彈射擊！8共機四面圍台路線曝 國軍嚴密緊盯",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9CVHpUUXNESFk1NU5GaXBnUWdJVEV6TFgzQmlpREVjV09qN2FhaFBMWVMxQWw2SVYwQWNMaV9fa0prX1o2RGhUbk9LdlpmcGRPX1Nr?oc=5",
+     "published": "2026-07-24T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "live_fire",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -11878,68 +11900,45 @@
    ]
   },
   {
-   "id": "evt_20260723_fc04e0",
-   "headline": "China launches military drills in Taiwan Strait following high-level US talks",
-   "headline_source": "Sky News Australia",
-   "headline_url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT2cyZWJjR0VfSk01TE5peTFnRXYxQU14ajNoUS1MY3Nwc0hyQWxwNkhKUndULWUtM2t0OE1PZzZWbHdiS0lnR1ZNdHlBNl9GM0lzNEV6U1lIckZKbjdCR240MENXZHRuX01hYU41NEYyOU9ZVzRSeDZDOVUzaFJvaGdjV3VKVExuWnlrWDdWUHVTeDVfRUZvWVg2NExJVnJfekUzSlhTUlNJV1QwZjlPR3l2cTYtcDc4d0hhVEo0dzhVajV3RjFXRHpyWmhuSXpRdHVsVkRmQjJCVVpuMnRKdmhoaTNMUW12WWpkWFhRU0HSAfYBQVVfeXFMTjZweF9LNFpBaGdnVnRVNzBpVTBkMmRlQ0Y0YldxR1Nra3J6LU1hVTB5V2ZpbHhad2xHb2UyYkRDODVtWGxfNGFnZm5MX0ppUnp5czBtbXppTWk5RnhGWDkwY3QyeVktSkJBYW5NZ2xXXzh1NUQ5V2hQNHIyc2NvdFdZbnhyS3dtR3pIWGgxU0xCNkJJSUtXZUdOVGJmbnZJbGFsMVpKOTJYVTJHWnZTYmkxczd5Y09xZVNvbXRKOHlEczJtTVI1aUV1Y1Y4U2dUUlZ1aElpeWgtX3JkS1FNU3lZQzhUS2doY0lGNEhwV2RWVWtqM1RR?oc=5",
+   "id": "evt_20260723_9bfc8d",
+   "headline": "Sky News Australia. . China has launched two days of military exercises in the Taiwan Strait.",
+   "headline_source": "facebook.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPZHAzSEZjZ05BYVdnZWJVYUNaVS0wc3gweGY1ZkZPVURqNVc3ZUtxTXBucnJKQjd4V19PYXljVU5Oa2EzV1ZuWkx0S0RPQmkyQktUQk16SnRXWElKb1NEcThZYkptZWRGcTg3QjRmaU5jWmVEanlxZzJHTFhXcDQyUnZyUFRBZ2hSdVM2Y1BDakxzT3d5WmNUcUcwQks2MFhMZE1sdUVyeXFXcjd2UGZzTjBiOFFvcHA3SElsbi10ZGxsa2Vlc1FPckdxVkFRa2tWVl9oTjJyVkI1OFB6?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-07-23T20:45:09Z",
+   "first_seen": "2026-07-23T20:45:11Z",
    "last_seen": "2026-07-23T20:45:11Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
     "n_unrated": 1,
-    "score": 63.9,
-    "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 3,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
      "unknown"
     ],
-    "top_tier": "T1",
+    "top_tier": "T5",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 통신사·공영",
-     "2개 언어권에서 확인",
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "1b67f36544e49f74",
      "2cc113426ce1f4f2"
     ]
    },
    "articles": [
-    {
-     "id": "1b67f36544e49f74",
-     "title": "China launches military drills in Taiwan Strait following high-level US talks",
-     "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQT2cyZWJjR0VfSk01TE5peTFnRXYxQU14ajNoUS1MY3Nwc0hyQWxwNkhKUndULWUtM2t0OE1PZzZWbHdiS0lnR1ZNdHlBNl9GM0lzNEV6U1lIckZKbjdCR240MENXZHRuX01hYU41NEYyOU9ZVzRSeDZDOVUzaFJvaGdjV3VKVExuWnlrWDdWUHVTeDVfRUZvWVg2NExJVnJfekUzSlhTUlNJV1QwZjlPR3l2cTYtcDc4d0hhVEo0dzhVajV3RjFXRHpyWmhuSXpRdHVsVkRmQjJCVVpuMnRKdmhoaTNMUW12WWpkWFhRU0HSAfYBQVVfeXFMTjZweF9LNFpBaGdnVnRVNzBpVTBkMmRlQ0Y0YldxR1Nra3J6LU1hVTB5V2ZpbHhad2xHb2UyYkRDODVtWGxfNGFnZm5MX0ppUnp5czBtbXppTWk5RnhGWDkwY3QyeVktSkJBYW5NZ2xXXzh1NUQ5V2hQNHIyc2NvdFdZbnhyS3dtR3pIWGgxU0xCNkJJSUtXZUdOVGJmbnZJbGFsMVpKOTJYVTJHWnZTYmkxczd5Y09xZVNvbXRKOHlEczJtTVI1aUV1Y1Y4U2dUUlZ1aElpeWgtX3JkS1FNU3lZQzhUS2doY0lGNEhwV2RWVWtqM1RR?oc=5",
-     "published": "2026-07-23T20:45:09Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "Sky News Australia",
-     "source_domain": "skynews.com.au",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "호주 보수 성향",
-     "hedged": false
-    },
     {
      "id": "2cc113426ce1f4f2",
      "title": "Sky News Australia. . China has launched two days of military exercises in the Taiwan Strait.",
