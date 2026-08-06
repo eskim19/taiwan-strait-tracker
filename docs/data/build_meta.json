@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-05T22:29:14Z",
- "checked": "2026-08-05",
- "duration_sec": 33.8,
+ "updated": "2026-08-06T03:41:55Z",
+ "checked": "2026-08-06",
+ "duration_sec": 34.5,
  "rolling_days": 14,
- "n_events": 335,
- "n_articles": 429,
+ "n_events": 339,
+ "n_articles": 439,
  "grades": {
-  "C": 124,
-  "D": 186,
-  "A": 3,
-  "B": 22
+  "B": 22,
+  "D": 187,
+  "C": 127,
+  "A": 3
  },
  "cross_language_events": 6,
  "tension_error": null,
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 138,
-  "T3": 79,
+  "T2": 142,
+  "T3": 80,
   "T4": 16,
-  "T5": 133,
+  "T5": 139,
   "TA": 9
  },
  "t1_domains": [
@@ -46,7 +46,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
+   "n_adopted": 17,
    "newest": "2026-08-04T12:21:56+00:00",
    "stale": false,
    "error": null
@@ -58,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
-   "n_adopted": 37,
-   "newest": "2026-08-05T17:44:10+00:00",
+   "n_entries": 61,
+   "n_adopted": 41,
+   "newest": "2026-08-06T00:15:59+00:00",
    "stale": false,
    "error": null
   },
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-08-05T16:00:21+00:00",
+   "n_adopted": 66,
+   "newest": "2026-08-06T03:02:41+00:00",
    "stale": false,
    "error": null
   },
@@ -111,8 +111,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-08-05T11:51:00+00:00",
+   "n_adopted": 7,
+   "newest": "2026-08-06T02:51:00+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 35,
+   "n_entries": 38,
    "n_adopted": 6,
-   "newest": "2026-08-05T12:22:33+00:00",
+   "newest": "2026-08-06T02:14:59+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-05T22:00:06+00:00",
+   "newest": "2026-08-06T01:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-05T12:51:00+00:00",
+   "newest": "2026-08-06T03:39:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 93,
+   "n_entries": 92,
    "n_adopted": 0,
-   "newest": "2026-08-05T22:17:42+00:00",
+   "newest": "2026-08-06T03:31:55+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +216,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-05T19:02:06+00:00",
+   "newest": "2026-08-06T03:36:41+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-05T22:01:33+00:00",
+   "newest": "2026-08-06T02:39:39+00:00",
    "stale": false,
    "error": null
   },
@@ -251,17 +251,17 @@
   {
    "domain": "today.line.me",
    "n_articles": 15,
-   "sample_title": "賴:台維持現狀 陸改變台海現狀 | 中華日報"
+   "sample_title": "衝著漢光演習來！ 中共30機艦侵擾台海周邊 國軍嚴密監控應處 | 太報"
+  },
+  {
+   "domain": "fountmedia.io",
+   "n_articles": 6,
+   "sample_title": "解放軍《大型城市全域失能戰》曝光！中共恐以認知作戰佔領台北...國安人士：彰顯網路降速演習必要"
   },
   {
    "domain": "upmedia.mg",
    "n_articles": 5,
    "sample_title": "美軍加速部署FPV無人機 鎖定台海衝突印太戰略島鏈"
-  },
-  {
-   "domain": "fountmedia.io",
-   "n_articles": 5,
-   "sample_title": "麥考爾預告140億美元對台軍售將送國會 賴清德：改變台海現狀的是中國"
   },
   {
    "domain": "i-meihua.com",
@@ -274,6 +274,11 @@
    "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
   },
   {
+   "domain": "ctee.com.tw",
+   "n_articles": 4,
+   "sample_title": "建軍節看共軍高層大洗牌兩國防部長同判死緩百名將領消失52％遭波及- 兩岸"
+  },
+  {
    "domain": "theaustralian.com.au",
    "n_articles": 3,
    "sample_title": "Taiwan begins major military drills as Chinese pressure grows"
@@ -284,34 +289,34 @@
    "sample_title": "Taiwan Launches Major Military Drills Amid Growing Tensions with China"
   },
   {
-   "domain": "ctee.com.tw",
-   "n_articles": 3,
-   "sample_title": "黃岩島海空聯動執法！共軍南部戰區戰備警巡＋海警水炮攔截外船- 兩岸"
-  },
-  {
-   "domain": "devdiscourse.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
-  },
-  {
-   "domain": "stratnewsglobal.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Launches Largest War Drills To Counter China Threat"
-  },
-  {
    "domain": "unn.ua",
    "n_articles": 2,
    "sample_title": "Taiwan has begun its largest-ever military exercises amid the threat of an invas"
   },
   {
-   "domain": "chinaglobalsouth.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Begins Military Drills as China Pressure Grows"
-  },
-  {
    "domain": "tag24.com",
    "n_articles": 2,
    "sample_title": "Taiwan ramps up military drills as Chinese invasion threat grows"
+  },
+  {
+   "domain": "ctinews.com",
+   "n_articles": 2,
+   "sample_title": "我最大規模軍演展開 解放軍台海陣形曝光了！"
+  },
+  {
+   "domain": "n.yam.com",
+   "n_articles": 2,
+   "sample_title": "論台海兩岸主權歸屬、歷史演變與國際法體系之研析"
+  },
+  {
+   "domain": "hindustantimes.com",
+   "n_articles": 2,
+   "sample_title": "How China could storm Taiwan in minutes: New 1-minute PLA video feels uncomforta"
+  },
+  {
+   "domain": "stratnewsglobal.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Launches Largest War Drills To Counter China Threat"
   },
   {
    "domain": "sisaworld.kr",
@@ -342,11 +347,6 @@
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "共軍首曝「人形機器士兵」 美罕點名勿擾台2／國造「極音速飛彈」重大突破 射程2千公里可「直通北京」"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 2,
-   "sample_title": "新聞大破解-川普連環出招 病毒溯源、中東、台海三線開打 0731"
   }
  ]
 }
