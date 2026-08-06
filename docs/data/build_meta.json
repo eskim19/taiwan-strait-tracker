@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-06T11:34:51Z",
+ "updated": "2026-08-06T14:37:04Z",
  "checked": "2026-08-06",
- "duration_sec": 34.3,
+ "duration_sec": 33.8,
  "rolling_days": 14,
- "n_events": 344,
- "n_articles": 445,
+ "n_events": 350,
+ "n_articles": 457,
  "grades": {
-  "C": 130,
-  "B": 25,
-  "D": 186,
+  "C": 132,
+  "D": 191,
+  "B": 24,
   "A": 3
  },
  "cross_language_events": 7,
@@ -20,11 +20,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 22,
-  "T2": 148,
-  "T3": 79,
+  "T2": 153,
+  "T3": 80,
   "T4": 17,
-  "T5": 139,
-  "TA": 9
+  "T5": 146,
+  "TA": 8
  },
  "t1_domains": [
   "aljazeera.com",
@@ -46,7 +46,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
+   "n_adopted": 18,
    "newest": "2026-08-04T12:21:56+00:00",
    "stale": false,
    "error": null
@@ -58,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 70,
-   "n_adopted": 47,
-   "newest": "2026-08-06T10:38:08+00:00",
+   "n_entries": 80,
+   "n_adopted": 51,
+   "newest": "2026-08-06T12:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -72,7 +72,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 23,
+   "n_adopted": 22,
    "newest": "2026-08-05T11:40:00+00:00",
    "stale": false,
    "error": null
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-06T11:22:28+00:00",
+   "n_adopted": 62,
+   "newest": "2026-08-06T14:00:30+00:00",
    "stale": false,
    "error": null
   },
@@ -98,8 +98,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-06T10:45:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-06T13:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -112,7 +112,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-08-06T08:23:00+00:00",
+   "newest": "2026-08-06T12:52:23+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
-   "n_adopted": 7,
-   "newest": "2026-08-06T10:06:23+00:00",
+   "n_entries": 51,
+   "n_adopted": 9,
+   "newest": "2026-08-06T12:56:39+00:00",
    "stale": false,
    "error": null
   },
@@ -150,8 +150,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-06T11:19:32+00:00",
+   "n_adopted": 0,
+   "newest": "2026-08-06T14:18:12+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-06T11:02:00+00:00",
+   "newest": "2026-08-06T12:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -203,7 +203,7 @@
    "http": 200,
    "n_entries": 95,
    "n_adopted": 0,
-   "newest": "2026-08-06T11:16:42+00:00",
+   "newest": "2026-08-06T12:45:46+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-06T11:20:41+00:00",
+   "newest": "2026-08-06T14:11:15+00:00",
    "stale": false,
    "error": null
   },
@@ -250,8 +250,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 15,
-   "sample_title": "中國KVD002無人機首秀「獵海」！自動鎖定失效改人工操控 13架同框瞄準台海 | 上報"
+   "n_articles": 16,
+   "sample_title": "首度接受日媒專訪 顧立雄：日本應嚴肅面對台海有事 | 自由電子報"
   },
   {
    "domain": "fountmedia.io",
@@ -287,6 +287,11 @@
    "domain": "theaustralian.com.au",
    "n_articles": 3,
    "sample_title": "Taiwan begins major military drills as Chinese pressure grows"
+  },
+  {
+   "domain": "plataformamedia.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan's president says he won't accept China's \"red terror.\" Live-fire military"
   },
   {
    "domain": "unn.ua",
@@ -342,11 +347,6 @@
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "共軍首曝「人形機器士兵」 美罕點名勿擾台2／國造「極音速飛彈」重大突破 射程2千公里可「直通北京」"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 2,
-   "sample_title": "新聞大破解-川普連環出招 病毒溯源、中東、台海三線開打 0731"
   }
  ]
 }
