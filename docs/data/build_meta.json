@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-07T00:17:42Z",
+ "updated": "2026-08-07T03:21:33Z",
  "checked": "2026-08-07",
- "duration_sec": 35.5,
+ "duration_sec": 35.3,
  "rolling_days": 14,
- "n_events": 356,
- "n_articles": 463,
+ "n_events": 357,
+ "n_articles": 461,
  "grades": {
-  "C": 136,
-  "A": 3,
+  "C": 138,
   "B": 26,
-  "D": 191
+  "D": 191,
+  "A": 2
  },
- "cross_language_events": 6,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,15 +20,16 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 25,
-  "T2": 158,
+  "T2": 159,
   "T3": 78,
   "T4": 18,
-  "T5": 142,
+  "T5": 138,
   "TA": 8
  },
  "t1_domains": [
   "aljazeera.com",
   "aninews.in",
+  "apnews.com",
   "bbc.com",
   "bloomberg.com",
   "dw.com",
@@ -47,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
+   "n_adopted": 17,
    "newest": "2026-08-04T12:21:56+00:00",
    "stale": false,
    "error": null
@@ -59,9 +60,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 83,
-   "n_adopted": 51,
-   "newest": "2026-08-07T00:15:27+00:00",
+   "n_entries": 78,
+   "n_adopted": 49,
+   "newest": "2026-08-07T01:36:42+00:00",
    "stale": false,
    "error": null
   },
@@ -74,7 +75,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 23,
-   "newest": "2026-08-06T21:56:16+00:00",
+   "newest": "2026-08-05T16:25:08+00:00",
    "stale": false,
    "error": null
   },
@@ -86,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-06T18:54:04+00:00",
+   "n_adopted": 62,
+   "newest": "2026-08-07T02:37:55+00:00",
    "stale": false,
    "error": null
   },
@@ -112,8 +113,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-08-06T23:37:00+00:00",
+   "n_adopted": 4,
+   "newest": "2026-08-07T01:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -124,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
+   "n_entries": 36,
    "n_adopted": 8,
-   "newest": "2026-08-06T13:50:42+00:00",
+   "newest": "2026-08-07T01:42:02+00:00",
    "stale": false,
    "error": null
   },
@@ -152,7 +153,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-08-06T22:51:35+00:00",
+   "newest": "2026-08-07T02:57:29+00:00",
    "stale": false,
    "error": null
   },
@@ -164,8 +165,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 1,
-   "newest": "2026-08-06T20:15:00+00:00",
+   "n_adopted": 0,
+   "newest": "2026-08-07T03:16:00+00:00",
    "stale": false,
    "error": null
   },
@@ -204,7 +205,7 @@
    "http": 200,
    "n_entries": 92,
    "n_adopted": 0,
-   "newest": "2026-08-07T00:05:51+00:00",
+   "newest": "2026-08-07T03:01:47+00:00",
    "stale": false,
    "error": null
   },
@@ -217,7 +218,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-06T22:39:46+00:00",
+   "newest": "2026-08-07T02:07:46+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-06T23:42:47+00:00",
+   "newest": "2026-08-07T02:53:19+00:00",
    "stale": false,
    "error": null
   },
@@ -285,31 +286,6 @@
    "sample_title": "Taiwan begins major military drills as Chinese pressure grows"
   },
   {
-   "domain": "sisaworld.kr",
-   "n_articles": 2,
-   "sample_title": "대만, 한광훈련 돌입 앞두고 중국군 압박 강화…전투기·군함 동시 출동"
-  },
-  {
-   "domain": "indiatoday.in",
-   "n_articles": 2,
-   "sample_title": "Taiwan starts 10-day Han Kuang drills to prepare for possible China invasion"
-  },
-  {
-   "domain": "unn.ua",
-   "n_articles": 2,
-   "sample_title": "Taiwan has begun its largest-ever military exercises amid the threat of an invas"
-  },
-  {
-   "domain": "ua.news",
-   "n_articles": 2,
-   "sample_title": "Taiwan has launched its largest military exercises amid the threat of a Chinese "
-  },
-  {
-   "domain": "abcnews.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan kicks off annual military drills to counter a potential Chinese attack"
-  },
-  {
    "domain": "tag24.com",
    "n_articles": 2,
    "sample_title": "Taiwan ramps up military drills as Chinese invasion threat grows"
@@ -320,6 +296,11 @@
    "sample_title": "Taiwan begins military drills amid China fears"
   },
   {
+   "domain": "indiatoday.in",
+   "n_articles": 2,
+   "sample_title": "Taiwan's Han Kuang drills shift to combat readiness amid China pressure"
+  },
+  {
    "domain": "ctinews.com",
    "n_articles": 2,
    "sample_title": "我最大規模軍演展開 解放軍台海陣形曝光了！"
@@ -328,6 +309,11 @@
    "domain": "hindustantimes.com",
    "n_articles": 2,
    "sample_title": "How China could storm Taiwan in minutes: New 1-minute PLA video feels uncomforta"
+  },
+  {
+   "domain": "sisaworld.kr",
+   "n_articles": 2,
+   "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
   },
   {
    "domain": "mirrordaily.news",
@@ -348,6 +334,21 @@
    "domain": "taiwandaily.net",
    "n_articles": 2,
    "sample_title": "新聞大破解-川普連環出招 病毒溯源、中東、台海三線開打 0731"
+  },
+  {
+   "domain": "smallwarsjournal.com",
+   "n_articles": 2,
+   "sample_title": "Resistance is (Not) Futile: Winning the War for the Narrative Against China abou"
+  },
+  {
+   "domain": "thedefensepost.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan to Test Civilian Factories for Wartime Defense Production"
+  },
+  {
+   "domain": "devdiscourse.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
   }
  ]
 }
