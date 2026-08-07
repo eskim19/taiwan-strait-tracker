@@ -1,7 +1,337 @@
 {
  "month": "2026-08",
- "n_events": 178,
+ "n_events": 184,
  "events": [
+  {
+   "id": "evt_20260805_cde7c3",
+   "headline": "대만 “현상 바꾸려는 건 중국”…섬 봉쇄 대응 실사격훈련",
+   "headline_source": "서울신문",
+   "headline_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yLWZYVldhVTc5OUx6ZGRuVnVWVE9GWjVaYjBBSkUzb2FTNHA4SS1JQlB2T3hGQXRLd2NfSGpWTzg3d3NUVTVOWExoX2FtV0dfSEJNMVE1b2F5dm4taHBrZlozVHlWcm9JSDJxUXdKU0JLbElBZnI4?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-08-05T07:33:32Z",
+   "last_seen": "2026-08-07T08:32:51Z",
+   "langs": [
+    "en",
+    "ko",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 5,
+    "n_unrated": 1,
+    "score": 88.6,
+    "n_independent": 4,
+    "n_articles": 5,
+    "n_domains": 5,
+    "blocs": [
+     "independent",
+     "prc_state",
+     "tw_state",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 4곳",
+     "최고 등급 주요 일간",
+     "3개 언어권에서 확인",
+     "중국·대만 양측 모두 보도",
+     "정부·군 공식 발표 인용",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "d7b41f04a409bb6b"
+    ],
+    "tw_west": [
+     "37bcc960335d17c7",
+     "e3346a892c3fefac",
+     "d0055dd19fc5d8dc",
+     "bac6d0f951f62cde"
+    ]
+   },
+   "articles": [
+    {
+     "id": "37bcc960335d17c7",
+     "title": "대만 “현상 바꾸려는 건 중국”…섬 봉쇄 대응 실사격훈련",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yLWZYVldhVTc5OUx6ZGRuVnVWVE9GWjVaYjBBSkUzb2FTNHA4SS1JQlB2T3hGQXRLd2NfSGpWTzg3d3NUVTVOWExoX2FtV0dfSEJNMVE1b2F5dm4taHBrZlozVHlWcm9JSDJxUXdKU0JLbElBZnI4?oc=5",
+     "published": "2026-08-05T07:33:32Z",
+     "lang": "ko",
+     "entities": [
+      "blockade",
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "서울신문",
+     "source_domain": "seoul.co.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "e3346a892c3fefac",
+     "title": "\"인터넷 끊길 때도 대비\"…대만, 中봉쇄 상정 총동원 훈련",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnpsMUFybTdkWW5wS0lQbjRUT0FmNUZoUEVzVmJYc2pVaTR4T01CUzRoOTBHU2hxSmhDY0JsRU91N2hqMGhKZnBlREdfckJ3SE9IMFFrWFRFRVRQMmtuemktU21uQk5mQW96VHNiVU00bDE0NEFWRXpGNDktSlc5SQ?oc=5",
+     "published": "2026-08-05T07:47:44Z",
+     "lang": "ko",
+     "entities": [
+      "blockade",
+      "rehearsal"
+     ],
+     "source_name": "edaily.co.kr",
+     "source_domain": "edaily.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "d0055dd19fc5d8dc",
+     "title": "楊永明專欄》紐時示警台海封鎖危機與避戰策略- 時論廣場- 言論",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9jWWYzYWgyS3pxdkp5M1NOV3YxRlQxbWZPZzNSV01sX0pwVEZwZ2ZPYm92UmhRYmhuMW5aa3NHWU5NeHVhOVE3NkZiRU5XYm1kLTdDTGxHQWl3eXlPUFY2aWlwOGxqeUE?oc=5",
+     "published": "2026-08-05T11:32:55Z",
+     "lang": "zh",
+     "entities": [
+      "blockade",
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "bac6d0f951f62cde",
+     "title": "Danjiang Bridge closed for 1st time for blockade drill",
+     "url": "https://focustaiwan.tw/politics/202608070006",
+     "published": "2026-08-07T04:04:32Z",
+     "lang": "en",
+     "entities": [
+      "blockade",
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "d7b41f04a409bb6b",
+     "title": "民进党当局封锁“台青e家” 国台办：锁不住台湾青年寻机遇求发展的心",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE16RE5QUjBRWmE5WU03MktaTjUyYnhweXBQcUVRY3ZvdTJiUEVtZE84R2oyY0RyM2JLdmpUOW9yNjY2VlZscC00a1FIbnFDSkpwcTFnM0xDel9nS3VNT2xiYkpDa2d5M2Rt?oc=5",
+     "published": "2026-08-07T08:32:51Z",
+     "lang": "zh",
+     "entities": [
+      "blockade",
+      "tao"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260807_4d6c03",
+   "headline": "澳菲防長嚴重關切南海局勢 強調台海和平穩定重要性",
+   "headline_source": "on.cc東網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlZFaHMzUDRLTkloS1g5ZHVKbG5IbzBkMDlQUWF1QWFISmxhUGdMZmJtNXNmQmJWOGRlb1R4cVppQ1FXV2s4N2ZjN25BdWF2RS1KSzNfWHZoRDhlMTZnNmxXTzZQZ3VCMzd0akpCLTBVVnRtckRfNklqT0pLcjVvYVZGQ1dwTmN1VHVv?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-07T08:14:24Z",
+   "last_seen": "2026-08-07T08:14:24Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f8a477569031ea2e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f8a477569031ea2e",
+     "title": "澳菲防長嚴重關切南海局勢 強調台海和平穩定重要性",
+     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlZFaHMzUDRLTkloS1g5ZHVKbG5IbzBkMDlQUWF1QWFISmxhUGdMZmJtNXNmQmJWOGRlb1R4cVppQ1FXV2s4N2ZjN25BdWF2RS1KSzNfWHZoRDhlMTZnNmxXTzZQZ3VCMzd0akpCLTBVVnRtckRfNklqT0pLcjVvYVZGQ1dwTmN1VHVv?oc=5",
+     "published": "2026-08-07T08:14:24Z",
+     "lang": "zh",
+     "entities": [
+      "south_china_sea",
+      "taiwan_strait"
+     ],
+     "source_name": "on.cc東網",
+     "source_domain": "hk.on.cc",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260807_acc224",
+   "headline": "Former Navy serviceman sentenced for leaking military information",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/society/202608070011",
+   "headline_lang": "en",
+   "first_seen": "2026-08-07T07:55:46Z",
+   "last_seen": "2026-08-07T07:55:46Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ceef32762a8bfc1d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ceef32762a8bfc1d",
+     "title": "Former Navy serviceman sentenced for leaking military information",
+     "url": "https://focustaiwan.tw/society/202608070011",
+     "published": "2026-08-07T07:55:46Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260807_f2097b",
+   "headline": "台湾学子福州重走科举路 共续两岸文脉情",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOFRabjZIdm1NTWdiUGNYd0UwQml6TnBLVVFWcHlBMS1lRkUxTDBKNFd3RldlU3J5TGJnVndValJacjNBNV9CR2xFTmhrWWNaQVBzT1dHYWlVR2cwVmVDVG1PWDRSdl9WNVNoTGR5TDE?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-07T07:42:08Z",
+   "last_seen": "2026-08-07T07:42:08Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "6b326ff08af8d025"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "6b326ff08af8d025",
+     "title": "台湾学子福州重走科举路 共续两岸文脉情",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBKOFRabjZIdm1NTWdiUGNYd0UwQml6TnBLVVFWcHlBMS1lRkUxTDBKNFd3RldlU3J5TGJnVndValJacjNBNV9CR2xFTmhrWWNaQVBzT1dHYWlVR2cwVmVDVG1PWDRSdl9WNVNoTGR5TDE?oc=5",
+     "published": "2026-08-07T07:42:08Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260807_de7fe8",
    "headline": "歐洲經濟恐扛不住台海危機衝擊 如何過上AI甜蜜生活？",
@@ -57,6 +387,65 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260807_3dad4e",
+   "headline": "Japan softens Taiwan Strait wording but keeps China threat focus",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5R2g5TVI2clBjZUhwM0ZBblhFVkd3SFd6TnM5d2FFY2J0OUxkRnFTRmlnaE1oQVpwSG9LdE4zeUozY25ZeXNpQ2xSODk4cnl6TkZMaUFZSVM?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-07T07:40:00Z",
+   "last_seen": "2026-08-07T07:40:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "cb81e52a02bbf07d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "cb81e52a02bbf07d",
+     "title": "Japan softens Taiwan Strait wording but keeps China threat focus",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFA5R2g5TVI2clBjZUhwM0ZBblhFVkd3SFd6TnM5d2FFY2J0OUxkRnFTRmlnaE1oQVpwSG9LdE4zeUozY25ZeXNpQ2xSODk4cnl6TkZMaUFZSVM?oc=5",
+     "published": "2026-08-07T07:40:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -123,12 +512,12 @@
    ]
   },
   {
-   "id": "evt_20260805_393331",
-   "headline": "Taiwan kicks off annual military drills to counter a potential Chinese attack",
-   "headline_source": "AP",
-   "headline_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWU5cVhEbVVrOGtvbHhZcTRwODY3T1lDYU5PUTI2ZUUyMFhnQXM0ZHFIUlBpdXNPaHRmZnUxVHNWU0VzczVoYVlzSVRpRUUxRDVhYUNlSFFINUNLUW1FWjkySUw4RWVHaDV3UDNLTVU3bFdYOFZhbzFoM0VBb05XWnhsWm5zUHY5RHpzMndzUGFSTGFNbFhIM3dINk5DRm8?oc=5",
+   "id": "evt_20260806_923185",
+   "headline": "Lai takes part in anti-decapitation drill during Han Kuang exercises",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202608060006",
    "headline_lang": "en",
-   "first_seen": "2026-08-05T03:05:00Z",
+   "first_seen": "2026-08-06T06:18:08Z",
    "last_seen": "2026-08-07T06:37:05Z",
    "langs": [
     "en",
@@ -137,404 +526,38 @@
    ],
    "cross_language": true,
    "credibility": {
-    "grade": "A",
-    "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 21,
-    "n_unrated": 11,
-    "score": 88.4,
-    "n_independent": 8,
-    "n_articles": 32,
-    "n_domains": 30,
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 3,
+    "n_unrated": 2,
+    "score": 38.2,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
     "blocs": [
-     "independent",
      "tw_state",
      "unknown"
     ],
-    "top_tier": "T1",
+    "top_tier": "T3",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 8곳",
-     "최고 등급 통신사·공영",
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
      "3개 언어권에서 확인",
-     "Straits Times 원고를 sekbernews.id·RTL Today·The Australian 가 전재 — 1곳으로 계산",
-     "AP 원고를 Plataforma Media·Daily Gate City 가 전재 — 1곳으로 계산",
-     "streamlinefeed.co.ke 원고를 dailypioneer.com 가 전재 — 1곳으로 계산",
-     "미분류 매체 11곳 추가 보도(교차검증 미산입)"
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)",
+     "대만 국영·정부 발표만 존재"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "22f9767fba52128f",
-     "8509e594b7cf3273",
-     "094af91179976a5d",
-     "74159ac03a568669",
-     "c8a0ff10f539e05f",
-     "0f68e11dc717e3a0",
-     "338c26b110dd3813",
-     "3e37a78489a065ba",
-     "9f2607d74dd4bca2",
-     "24e709c9ec4f5c3a",
-     "947fd39b27976b7f",
-     "2c3a01dece60be63",
-     "1b90920ec104643e",
-     "5722fada74b2874e",
-     "8b33a8329cb25557",
-     "501a2895b9fb50fd",
-     "6ca6984183fb51d4",
      "80acb0a0ed0414f0",
-     "c5b58134aaacde3e",
-     "18765051151ba2b2",
-     "2dfd38829728db6c",
-     "7ed8c7d90ceb8614",
-     "0873c16de73811e7",
-     "6573b78abbd576db",
-     "678058217aced23b",
-     "864e7a8e77493e84",
-     "e6ccef26acc68a7b",
-     "bf9cfe3a899dbd69",
-     "5f93a19a5b2941aa",
-     "2299925619e85d4e",
      "e68936cabaa6f1a8",
      "4a39db8ff28f527b"
     ]
    },
    "articles": [
-    {
-     "id": "22f9767fba52128f",
-     "title": "Taiwan begins military drills as China pressure grows",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnJYUm42cW5XekVlcGhSbFl2c2NlNUdqaHAyZ2NuM25XbGRiRWRKWndyd1lpNkx2djRCX0V4QUhPSHZpYjlyc0t6YnNnRFJzenhLeUoxa2FaOFljUlZpV0tySlE1NUs1TW5xX2NaVV9obW15OXJQbU9Wa0YzVzF5azJvb0FwazdzVnlFN0hNZGZoa2RRNkhXRkR1bUYxQQ?oc=5",
-     "published": "2026-08-05T03:05:00Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Straits Times",
-     "source_domain": "straitstimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "8509e594b7cf3273",
-     "title": "Taiwan Starts Major Han Kuang Military Drills Amid China Tensions",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBMbzhSbnlFQmh0S1BWUEdJUlB6MjA4WlpYTm5YQTl6d3Z5bThzcC1OX0JjN3lTc2lQVzJtQ0U1aUZMVkJPNE1QYUxBZkFTMzhQUUxFTVZKa01zUFlLaGUtaVRURFdkZkw5S2hkQm5GSW9Zdm1lUGx4NU9KMkZoODg?oc=5",
-     "published": "2026-08-05T03:42:22Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "sekbernews.id",
-     "source_domain": "sekbernews.id",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "094af91179976a5d",
-     "title": "'Han Kuang': Taiwan begins military drills as China pressure grows",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzBRQWNwN0NWWmpDYXFZMmRSSFhXNGpLdGtpVUdUaVR5WGVIY1MzTHB6WUZQUWxZd0dWN0NhaDdJNEV3Qjg2d1lIXzJna2Jfa1g3RWtqenVJZW1mblJNdll6VG1ROEgxLTA0dlNCbDlLQjRucV8zWl9LR2lfN3ZxU2ROQUVsbU9acjl0X0NyTUlHVWp4QWp0bGc5X1E?oc=5",
-     "published": "2026-08-05T03:43:38Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "RTL Today",
-     "source_domain": "today.rtl.lu",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "74159ac03a568669",
-     "title": "On constant alert! Taiwans military begins large-scale military exercises amid pressure from China",
-     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONEU3TDl1RzFXWFc3NUJMdjk5RTItbWxQUzR2Sk9nQnlYZ0h4UW9VWk1PQVZhZ0pKY3RISXNuOWYwU2hfd2NwZ2x1QXFpRFNBb2phZFFoSlRqUVRKY01iaGUwd2p3Y1VnN2RoajBJbHU5Y1JtcnpwaXl1bVRGb2d2LU0zUkVoSVJ1VmgwWDdUZDBBblg3UE1yUEZmMjdXQUxMYklJWW15ZkZwbFhOMWRaUDRQNEJEQWdPVGw0cmZ6cTJvT1RPSjc1S3NPR2NwNzVWWEJvUFhYbUtYbDZsZVRUUDVaa1c?oc=5",
-     "published": "2026-08-05T06:21:00Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "fakti.bg",
-     "source_domain": "fakti.bg",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "c8a0ff10f539e05f",
-     "title": "Taiwan begins major military drills as Chinese pressure grows",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUHhNNGRRU1ZJX2l6QWlVSWx4a2N5R0o5dU5oUllhLTZnbmJCYzJBQmZNWWNWQ2tmamJOUGpGQ3B2SHFzVTkzNW9rQzZtQjQ4cWlHbUlOc1NPWEJ2bWlzVjJHenZxVE9OOEpEQXB3akVRV1h4OVNCMWRfQldfcDZSb3g3dFd0MElGSzZaX0lrSjY5dG9pZDI0WmduRUExaldtMHpNWTNLczV1Vjc3Z0ZfOFlYU2JkSnkyRnV2N0UzVTJJelU2YjJ1bTZzNzhjU3J1Uk95TdIB2gFBVV95cUxPOUo1NTl0d1ZRR1ZHYWljMUlMX0c0SzRsLWFIQ2pFTmJvWEpDTkFDYkpoakFsN3Z1Tm9YM2xEVWowWi1hOFNtdVRYdXRydEdRNlJSUDlQVk5zSFlBNHZEVm1Ncy05WU5VV01vaVFWUjV1MFhQbThLNGtadDE2Nl9nazNROXk1NDVXbG8tMmR4T2NCek02MThiRFZCX25pMkFkT3E4UkkyaFRlcVRJYTRoVmk5M0JCT1RLdWZULWJ6NXpGVm0xb3RxVWFvdkpfQV8xLVIwOElrWDFDZw?oc=5",
-     "published": "2026-08-05T07:38:00Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "The Australian",
-     "source_domain": "theaustralian.com.au",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "0f68e11dc717e3a0",
-     "title": "Taiwan begins biggest military drills of the year amid China invasion fears",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1ZsSDVORHZBYk1jYWpFZloxcmxhX1NOc3BTWW1tN3pGcVhBVFItVXdCVGpIblk4UjR3aEdnSXN2cjNCek10dDVCVlhlQkFRVUFEa3VKVWdLcVhBRTQ0N1BLLU1fcXVYTmh4cFVKM1oyMW1IUnF4Zml3emx2ZWJWMkNhNy0xZVRUakhTNmQyaW1jMlFhNHVBcUpSWFdWZjQ0ak9KdTQxbnE5MDJrR05TcjhKdjU1SlhNU0dSQXJKeFM5YnQ3cndWcFlR0gHPAUFVX3lxTE9ZWjM0SVpHajVYYWdNdGYyOVh4MGp2a0ZEV2huWVR4Nk5fTDRPYW92RXgxSVhoTkpfWFFXbko2S1ZtYTZjTlBONzg3Yk92RlVBRU5ZYjNSdG40aWNaenJvMlRzWDdIRk1TVGdkR0RZLUJpc21ndzJZbDBzdEJON0c2akFaaVh5Y3hNUHpUY25FcHNWeVlSeUduVFhMZE5ic3dMd2s4a1hNeEl1eFV2Z3pHakI5NHVLR0dBUW50d3ZpU193eWkySVZFVDNjc1ozbw?oc=5",
-     "published": "2026-08-05T08:24:22Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Malay Mail",
-     "source_domain": "malaymail.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "338c26b110dd3813",
-     "title": "Reservists conduct rifle and mortar drills in Taipei",
-     "url": "https://focustaiwan.tw/politics/202608050017",
-     "published": "2026-08-05T11:32:30Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal",
-      "taipei"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "3e37a78489a065ba",
-     "title": "Taiwan ramps up military drills as Chinese invasion threat grows",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEhGU3Z3RkhkbGZRX3ROYnpGN2EwNjVIbTlLdE5oU0llVXhBRlVYSmxoSVZQNTRGbWNocFh1T1NWTFh4TDc5MXNrMzRtUDBQSmJSempiM2NtT2VacG9tLWJvaDZoc3RpczhCR0l5dVlFVlFmZ3ZlUnM2eXU4OVpET2RVekFXRFYxUFl0S0JER3hWV1NpNTM3WUs5QWNQWmdEV3oxdDAtbGljZkdqU0FLdDVEV0ZEUdIBuwFBVV95cUxPNFBoQlUtaEVHRDQ3NEthNU95Q3BHTV9INTVrOVoteWhkNmhXLWNodS1qVlNCN1kxeFhjbHBYVE44enVqRGdRUmNfaGZMQ1NIaUpON2pEcnBXTERCeTRWQ0JpTGpxSm54VklyLWhSUTh4Q0hCcDgwU1d2a2Fzd1ZFajN3c1ZKVk1tWUU2SDdnNENONTlPc2xoVkZEbzZaeWlCWnljdjRNS1lnNmtTaVVPaTNoMVA1RG54bVFv?oc=5",
-     "published": "2026-08-05T13:15:00Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "tag24.com",
-     "source_domain": "tag24.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "9f2607d74dd4bca2",
-     "title": "Taiwan starts drills amid China pressure",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWhTQnE0WGNERDR3V0xCbW41YXR6Nmtjd2FBbjJQMDdyUFJCOG5qUk84Q0JUejI5TUhTNWltbE1HNkFRcE9hSDNQWTUzNmdaaC13M1RiTlpQZU9SU3JvQVhkQUVvcTZxNFRaMmRPMXp2RDFrNTJsaW95QXAtQ1VfdVlMN2hNTlNaZHFQTTFXYmtjWW1aa01xdnJaVlkxc1pFSEFObzJFMGkxZ9IBrwFBVV95cUxPbkdlcUMwSzEzbnJCRTZ2LTNNR0lJS3BGZElmZ25KcUMzTjk3X3ZoU1lnVTdVeTRTNV9YOGxxNVFUSzk2Z0YxdFo0eDZPcHk4eHlBMVRPeEVaaG95T1BGVTRmZ0dDMG04OFN6NXFwOVZDLVFoVExoSlVIMjdxNzltSXczWlRNN25SWHNYN29fbXAtc1Y5UmpnQjBsd04ydlpPajY1bWtVLUJUMDhTZjN3?oc=5",
-     "published": "2026-08-05T16:28:29Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "The Manila Times",
-     "source_domain": "manilatimes.net",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "24e709c9ec4f5c3a",
-     "title": "Taiwan Launches Largest-ever Military Drills to Prepare for Invasion By China's Xi | Vantage",
-     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGNwamNKNkktNXpnUl9BWHpVX0dvZHlqMGE4TUE2eE9yMkotbFIxR3lueEtIZVNMSFRvdERXbFE5ZWl3UnpsMlF1UWptOGRSRHlHaVpFN1c2OGZVelJfR1EyVUo5OUZBTXZ4VVFmSGM4Qkc4UDdOWHloelJxT1liZHF3dXZZYXdvRy1tVnl0MFlaajhaM1hScGpYbjJacDdXa2wwZlJGTW1tZDMtZHFLQUxkTWUxbXpmdlJGbXN1eUMwaHNJa1packxHT3MzMnlXQjZ6bNIB1AFBVV95cUxPcGNwamNKNkktNXpnUl9BWHpVX0dvZHlqMGE4TUE2eE9yMkotbFIxR3lueEtIZVNMSFRvdERXbFE5ZWl3UnpsMlF1UWptOGRSRHlHaVpFN1c2OGZVelJfR1EyVUo5OUZBTXZ4VVFmSGM4Qkc4UDdOWHloelJxT1liZHF3dXZZYXdvRy1tVnl0MFlaajhaM1hScGpYbjJacDdXa2wwZlJGTW1tZDMtZHFLQUxkTWUxbXpmdlJGbXN1eUMwaHNJa1packxHT3MzMnlXQjZ6bA?oc=5",
-     "published": "2026-08-05T17:28:32Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Firstpost",
-     "source_domain": "firstpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "947fd39b27976b7f",
-     "title": "Taiwan: Military exercise with reservists and reporters",
-     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFNqb2N2THFWRXY2cElUSkFuZlpHaS00aVlOZGEwQ0pCaF91SXpTZk5vbnFfTDhVYjZMY2RWTFhoV2plRHBsV0x0RnB6MkNhckhsTjA0bFZDelhNaE1nR1F3cVh6Rl9ILVd1cWExeG0xejRIZjVKVnh3ZExTdFRaQk9JYnNSVG81Y1FadllJbi1HUQ?oc=5",
-     "published": "2026-08-05T21:10:13Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Table.Briefings",
-     "source_domain": "table.media",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "2c3a01dece60be63",
-     "title": "Soldiers participate in Taiwan's largest military drills as China pressure grows",
-     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOThiczBNeTU0aFo1MEpXVlYtOHpOeDVwSHdKRUx1Rm43dHpaeXZuS3RNTmRMOWdIMlBDcUMxZDVNTzJCM2VIMWhPWVJlcEFGcVdxQWZLN0RfeUVHZTl1TXFoZ3V6QTlaX2FBNV9nTXBnamgtQ0RXTEtiS1hmcWd0Qm9fQkJrVC1WcmZjMUQ4YXRXaUl5TlBPS0Z1cGNrandxOWtYT1BMcGxuQW9kTXFvb2N0QzRQSnhoRmM5MTVoT3U5NVFLM3dQa3NxX1JpYkt0YVg4YVV5eGxZVVd4V2NibA?oc=5",
-     "published": "2026-08-05T22:19:01Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "National Post",
-     "source_domain": "nationalpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "1b90920ec104643e",
-     "title": "Unprecedented Military Drills Kick Off in Taiwan; China Tightens Drone Export Controls",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0ZObGM1WXZfU2o3SmV0STRnZXl1ZjdqdDEyTkZhR2lzSmp1TjVxaEdxaWhDX3RUcUF5WHVwSjZSWWFBM1RDQmM4V1JxVTJxWnBVTENWMlV6ZnQ0aVp0T2lySFdZcWNvRVNfVlBiUnY2dVhBc0NMaXFOQ1NhYmJ5VkhwZl9tQ1ZkeXZBcFdZY3hjVklQSlU1SmZ3SzZjM0ZLRGktYmpqTGk5eGhHTzZ3aDNYdmFtV1VvUWFkdVlOcEdRODQ?oc=5",
-     "published": "2026-08-06T00:15:59Z",
-     "lang": "en",
-     "entities": [
-      "drone",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "mb.ntd.com",
-     "source_domain": "mb.ntd.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "5722fada74b2874e",
-     "title": "대만군 '한광훈련' 돌입…패트리어트 도심 출현",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taUxTcWlERV9fdEgxZm9QRWx5aTlEVXhKSl80M0pJTlVaNGdaZGhZWFg3bHBRNHdRcjBYTU94X1N5aEV2dkhVSDYydTVobDBOcUREWVhPQVFLZ29ZTTVJNdIBeEFVX3lxTE9NT3VfVVJnLUwzR2M4WEFIcXFtTldRYXY2SWZDMVI3T09GNmdWV0RHSkVTa2k5QVpqaDBUMFhadVJhNGxoMjAwT3E3Y2k4YklyTTJ5YjZlUVRwVnNWa3RUR1FJUGd5c1NBWUE0VVZHZ0Y1R1F6UzNIcw?oc=5",
-     "published": "2026-08-06T01:26:28Z",
-     "lang": "ko",
-     "entities": [
-      "han_kuang",
-      "rehearsal",
-      "roc_military"
-     ],
-     "source_name": "뉴시스",
-     "source_domain": "newsis.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "8b33a8329cb25557",
-     "title": "衝著漢光演習來！ 中共30機艦侵擾台海周邊國軍嚴密監控應處| 政治焦點",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQU9rTGRQWGpvQ1RRSUdFcVo4aHh3aEh6cUY3bWI3UGdkaW1rLUJUSU50WVV5TmFZdGoxSGVZbWpCaDhLOTAwNkstbk1fZWVpR0ZZekVweXh1Vzcw?oc=5",
-     "published": "2026-08-06T02:07:06Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "han_kuang",
-      "incursion",
-      "military_drill",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "太報 TaiSounds",
-     "source_domain": "taisounds.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "501a2895b9fb50fd",
-     "title": "解放軍《大型城市全域失能戰》曝光！中共恐以認知作戰佔領台北...國安人士：彰顯網路降速演習必要",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IQ2pyaEpVd2Z5NmxXNVgyRWhwMk9TcFVpR0VBa2VGOWJ3SVFvbjVLTk5EMHBfUzd5dy1uNXU5VHpaTUpmbFFLOVdXRXdWN1M2d1E?oc=5",
-     "published": "2026-08-06T03:02:41Z",
-     "lang": "zh",
-     "entities": [
-      "military_drill",
-      "pla",
-      "taipei"
-     ],
-     "source_name": "fountmedia.io",
-     "source_domain": "fountmedia.io",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "6ca6984183fb51d4",
-     "title": "Taiwan kicks off annual military drills to counter a potential Chinese attack",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWU5cVhEbVVrOGtvbHhZcTRwODY3T1lDYU5PUTI2ZUUyMFhnQXM0ZHFIUlBpdXNPaHRmZnUxVHNWU0VzczVoYVlzSVRpRUUxRDVhYUNlSFFINUNLUW1FWjkySUw4RWVHaDV3UDNLTVU3bFdYOFZhbzFoM0VBb05XWnhsWm5zUHY5RHpzMndzUGFSTGFNbFhIM3dINk5DRm8?oc=5",
-     "published": "2026-08-06T04:36:00Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "AP",
-     "source_domain": "apnews.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "80acb0a0ed0414f0",
      "title": "Lai takes part in anti-decapitation drill during Han Kuang exercises",
@@ -552,245 +575,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "c5b58134aaacde3e",
-     "title": "Taiwan Launches Massive Han Kuang Military Exercises to Simulate Defense Against Chinese Invasion",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNX2lBSkJsNmpDNmcyRkJYVzRYMk8xRks5RUJCN21VTzJMZEVtcnBrN21GY1hxazdSN2RKMWdVSjBwM19Uek5neFd2NFpNTXpYVDBoTUJkMEtjUGxRalRWMDJzOWRfY2p3a0JmaC11aVpxU0R6M215SVpvUEJrSGRIRm9pRXQ3aGdBMDVCMklTQQ?oc=5",
-     "published": "2026-08-06T08:40:06Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "streamlinefeed.co.ke",
-     "source_domain": "streamlinefeed.co.ke",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "18765051151ba2b2",
-     "title": "Taiwan Launches Han Kuang Military Drills to Simulate Chinese Invasion Response",
-     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLURwVnlJN2xNYlRoZHJZdTRGc2tKV0xKZjMtRkRyUU5ydnVrMXZqRjk2azd0clU3bzZjX0NsYW5kMzkzYzZ0elNEWlVXdVk5S3A0WFFOX1c1ZFkzYnRSamk3cFJneHdBLTZqWF93RkF0LU1tYXE1SS01VEhsT2hnNmo1VmlUTlFpRWFDN0pudkVFSlo5M29zT3JhcTlGd2Zqd0ZKLW5UN2J2ZGM1QjFWdU9iNjlyZjZoaUE?oc=5",
-     "published": "2026-08-06T09:34:51Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "dailypioneer.com",
-     "source_domain": "dailypioneer.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "2dfd38829728db6c",
-     "title": "Taiwan’s military drills suggest deeper alignment with the U.S.",
-     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmIwU0tRYWNLZ2x3SC1MNjFBcWMyOFJ4ekpGQ1VDX1kxbXlZN0hIU0ZHVWgzb3dTRnVNZjNmMW5ENW12OXFaMTJCQVA0THdrdG5vUTkzQVJVTVROQXNMMGVkM3NTcWZzY2RIX3RLb2JLUllrdmRrMkJOYmJoUmhIWmdZRXVxbTdhLXJTelUzbEdxbXNQNzBN?oc=5",
-     "published": "2026-08-06T09:41:00Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "The Independent",
-     "source_domain": "independent.co.uk",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "7ed8c7d90ceb8614",
-     "title": "Taiwan kicks off military drills to respond to potential China invasion",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHI3NHdhQXJRRW9YdWJCRUJkTnp3Z0tvdFdKZlJjQUlITkQwZlZaOTM4UGp3TVJVdkxXeEo4bUlOUHFOWWg3UmYzN1MwZktJY3NMOEdGaFBXci1hTE83WnNuVF9CdVM1emtscDFLQmVIek5SYW0xVnA2Q0FlUVFtX3ZKcUtGUUIyRERtclN3ZElwN2pTZHhpZnBB?oc=5",
-     "published": "2026-08-06T10:39:51Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Plataforma Media",
-     "source_domain": "plataformamedia.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "0873c16de73811e7",
-     "title": "Taiwan kicks off annual military drills to counter potential China attack",
-     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ1c0U0p5ZUYtWmpXcXZ1X05WUEVqU1RfbS1ZQWlEMzB3T2hfX0xkZ2ktX3FHSzFNX3ExRl9GT2xGN2VkOGFqZFZ6c1VlODBFaWJQTGdiNkQ5STFYaFpvVmRITGU3M3UzZjJsaW9FTWthVThGVnRHanNaYWxuWnhBeV84R2hrODlGUHBGYkppMmttRUoxdzBGYU15Nkpvc3h0d3JFSlh3OHVwbk9Ia2MydUtOSnNUb3RHNEhJMFFhTmYtbGFRU004RlJOeWwtQnNxRTY4ejI2dUhrRm5zWU02UU9SQjRhQ2hPMzZDVTE5eGU5Vkc4R3BEUg?oc=5",
-     "published": "2026-08-06T11:15:23Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Daily Gate City",
-     "source_domain": "mississippivalleypublishing.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "6573b78abbd576db",
-     "title": "President Lai boards coast guard vessel to observe coastal defense",
-     "url": "https://focustaiwan.tw/politics/202608060013",
-     "published": "2026-08-06T11:20:28Z",
-     "lang": "en",
-     "entities": [
-      "coast_guard",
-      "lai_chingte"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "678058217aced23b",
-     "title": "Taiwan begins military drills amid China fears",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBuaTZDZ3ZFZzhQaXFPeTQxSnkyQ1ZXVEVNQ3NHQTM0cFMydUFiNEZHVDZRb0ZzZDlvQ2hwQy1rY1NFTDV4NTh1NjFOUWl1M0kzekU0VDRHbEJnUVV5VFVZ0gFcQVVfeXFMTVk0RHh2YjhCYktuTU1OTWlGamxPMmt0eEk3cXFnY1pxZEFRaWFWQllSZWZDTnVBbFJlc2FsdVNVbVdHM3NFRUZkcTBHcDQxMkRJUXBMYXk3a0JnVUs?oc=5",
-     "published": "2026-08-06T14:52:33Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Modern Ghana",
-     "source_domain": "modernghana.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "864e7a8e77493e84",
-     "title": "Taiwan’s annual military drills focus on civilian resilience as ‘window’ for Chinese invasion closes",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV0FRbGFWTXV1eEZrMWtuNHpVM1FlQTJ0NDdST0hYdlRRQ0JHZXdvaHBmZWk4MC10TzVFZlQzVWNZS292ajBDMkh4bUhaN3pZblM5aEtZTGxyZTViSS10Q1c2ZkY3NDR6bmFkN05NUjcwTjJnLXdielI1dzBBaUlteUR0Y0VCOWFfS3EwQzA3YWpGamV6ekZUOVFUNGZnVHpLYjZ0dGRET3U0dzFJX0RfOURB?oc=5",
-     "published": "2026-08-06T17:49:10Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Washington Times",
-     "source_domain": "washingtontimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "미국 보수 성향",
-     "hedged": false
-    },
-    {
-     "id": "e6ccef26acc68a7b",
-     "title": "Taiwan launches annual Han Kuang military drill and cracks down on Chinese companies recruiting its tech talent",
-     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUTRmZ1RQRnhaanFCaGNNM1hGSjBMd0hZdC1fNkZKa2txUW4way1ubGhEd1NlQjhRQ2FSMkY2ZlZIeGJhM1FlakNuTWNUdnlsR3JLYmRITUswX0ltQ2lxSVZOejlYMzZNNHJrOVpwT2p4WmNVNVh6aTAyXzR6THpmelFZNHk3ODlNMXR4MlRncm9EQUxWdlhzWXRGSkdLVjR2aW5hclFsUmhRU0xYN3VUeVdLdnduZTE5aTlIMDR3X08xU3NzZFhsWkNiaDJIeGd3SWtCNU1nQTFPOXppY0VEbHRqQXVCWFdWd2JqOFZtV0VENE9Pck9Yak5YWUZ6NnFPNzJwd3NpOHZBd0pHQnBzb19FUQ?oc=5",
-     "published": "2026-08-07T00:03:57Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Le Monde",
-     "source_domain": "lemonde.fr",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "bf9cfe3a899dbd69",
-     "title": "Taiwan's Han Kuang drills shift to combat readiness amid China pressure",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQXd1SFhVZzBTVE1UR3BMcjl6UlBqdnZ6U2wxQVhOdm5UdnBJcUtBR0pLNi1wOUVfR3BEMk1HS0t2NlNNMElQNXNzSVQ5VWdUcUVrbW5HM3JoUXJNSUpEYk1qRGVPSFVNSDhScVpGQlNYVUZ0T2hFRDlhNmpVN2piWnlaa2dfNFN5LXlSQ3pEQ1lrWkJ3dnNqckl5V1NUTXhsMWlzTjZIRXl6Y25rZC1aVkE0T2NWOHBHcFhOdXFpTlZsNWtKMkMxNGUxVdIB0AFBVV95cUxNQnkwTHF2VnZDR2NhQk5YeG8tR2VkMndaUlJkeEpoU0hSdlV2NHUyZDBSaE9VT1JDdjNhOVZVYUxEVVRlaTdhUDJ3ZUxXWGZvaTVfcmZ4QUVvVGlQVWdETjVLdng2blZYQ0IwMHZUTklhdWRvQVoybllVNFNvcW56T3hzN015ZWF0c2YtUmg3V0Y2NlBZM21uT2hDMlowTU9RMW9nVFFlVUMwa1BDWXZOUmFoam1QZjF2VEVCcGJzcFhKeEVuVm9GbEJsT184YVUx?oc=5",
-     "published": "2026-08-07T01:10:32Z",
-     "lang": "en",
-     "entities": [
-      "han_kuang",
-      "rehearsal"
-     ],
-     "source_name": "indiatoday.in",
-     "source_domain": "indiatoday.in",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "5f93a19a5b2941aa",
-     "title": "대만 총통 라이칭더, 중국군 침공 대비 군사훈련 철저 점검",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eXVOdWdaTjRpWHhNUUNJby1tRkJ6a0xUd0VrZGxTY1lMa2ljSlhiNkJUWFZ5VkhmOURyMEhfLVowYkF3Um5hY1JQOGUxNlR5c0stTFpkT0hGaThjbEZlZFJJeG16VDk2?oc=5",
-     "published": "2026-08-07T03:41:57Z",
-     "lang": "ko",
-     "entities": [
-      "invasion",
-      "lai_chingte",
-      "military_drill",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "공감신문",
-     "source_domain": "gokorea.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "2299925619e85d4e",
-     "title": "DW News. . Bridges blocked. Internet slowed. Taiwan is carrying out ten days of military drills, preparing civilians and troops for a potential Chinese invasion. #dwnews",
-     "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPTWQtRGZDUW90YmFHSVNTRWZxa3JCWFV6WWZiRW13bUxIYUpWZ2VJY0x3alpFNkVEX0ZLcEZ1TFc0Q0wzYWNZMzUxcEdjZkxxZDdnb2NnOVdhYkxhQUozR2M5cWdDYzgwOWJldVdjOERBZUtWb0ViMEIxMXJab0txZkVwY21hTW0tdTFNcnkydDhOazl5MkcxbWNXbUkzb204MFNrM2hzNlJCZFg5aUxHWDNfMDJfR0lhOG43X3dwV0JFR1VvRWRRMElJcmlhdmlFYU8xOGFTMHhCdkVwZ3BfMUFR?oc=5",
-     "published": "2026-08-07T04:00:18Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "facebook.com",
-     "source_domain": "facebook.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     },
     {
@@ -1075,64 +859,93 @@
    ]
   },
   {
-   "id": "evt_20260805_cde7c3",
-   "headline": "대만 “현상 바꾸려는 건 중국”…섬 봉쇄 대응 실사격훈련",
-   "headline_source": "서울신문",
-   "headline_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yLWZYVldhVTc5OUx6ZGRuVnVWVE9GWjVaYjBBSkUzb2FTNHA4SS1JQlB2T3hGQXRLd2NfSGpWTzg3d3NUVTVOWExoX2FtV0dfSEJNMVE1b2F5dm4taHBrZlozVHlWcm9JSDJxUXdKU0JLbElBZnI4?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-08-05T07:33:32Z",
-   "last_seen": "2026-08-07T04:04:32Z",
+   "id": "evt_20260805_393331",
+   "headline": "Taiwan launches annual war games as pressure from China grows",
+   "headline_source": "France 24",
+   "headline_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkNnaW9mWUdwUVBGZ3BGa3NvTUR6cEFMUnIyNkwyU0pjMXNObC1nRE1YTE5fcnNDMDZRclRkNzlWWElzTGNwZWhsR3BtSERnLTVDS1dmQm9GVmRyRm1Fa09CRmZNaGlkUDQxSjZ6eFVpZHFGZDFLTUJWRF9WV1RlMkRWZEtNUVJ4Z2FNZ1pGRkFWWkRJWVY1bUpHNWN2OG9vWW50ektmLUU?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-05T03:05:00Z",
+   "last_seen": "2026-08-07T03:41:57Z",
    "langs": [
     "en",
-    "ko"
+    "ko",
+    "zh"
    ],
    "cross_language": true,
    "credibility": {
-    "grade": "B",
+    "grade": "A",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
-    "n_unrated": 1,
-    "score": 59.0,
-    "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 3,
+    "grade_label": "검증됨",
+    "n_originals": 21,
+    "n_unrated": 11,
+    "score": 88.4,
+    "n_independent": 8,
+    "n_articles": 32,
+    "n_domains": 30,
     "blocs": [
      "independent",
      "tw_state",
      "unknown"
     ],
-    "top_tier": "T2",
+    "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+     "독립 출처 8곳",
+     "최고 등급 통신사·공영",
+     "3개 언어권에서 확인",
+     "Straits Times 원고를 sekbernews.id·RTL Today·The Australian 가 전재 — 1곳으로 계산",
+     "AP 원고를 Plataforma Media·Daily Gate City 가 전재 — 1곳으로 계산",
+     "streamlinefeed.co.ke 원고를 dailypioneer.com 가 전재 — 1곳으로 계산",
+     "미분류 매체 11곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "37bcc960335d17c7",
-     "e3346a892c3fefac",
-     "bac6d0f951f62cde"
+     "22f9767fba52128f",
+     "69de7e0affbfe301",
+     "094af91179976a5d",
+     "74159ac03a568669",
+     "c8a0ff10f539e05f",
+     "0f68e11dc717e3a0",
+     "299c9b95fd4a226b",
+     "338c26b110dd3813",
+     "951fcf9eb0b71567",
+     "3e37a78489a065ba",
+     "24e709c9ec4f5c3a",
+     "947fd39b27976b7f",
+     "2c3a01dece60be63",
+     "1b90920ec104643e",
+     "5722fada74b2874e",
+     "8b33a8329cb25557",
+     "501a2895b9fb50fd",
+     "6ca6984183fb51d4",
+     "18765051151ba2b2",
+     "2dfd38829728db6c",
+     "7ed8c7d90ceb8614",
+     "0873c16de73811e7",
+     "6573b78abbd576db",
+     "908dd66fb0bfe0dc",
+     "864e7a8e77493e84",
+     "daf4861fe7f919dc",
+     "e6ccef26acc68a7b",
+     "bf9cfe3a899dbd69",
+     "5f93a19a5b2941aa"
     ]
    },
    "articles": [
     {
-     "id": "37bcc960335d17c7",
-     "title": "대만 “현상 바꾸려는 건 중국”…섬 봉쇄 대응 실사격훈련",
-     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE4yLWZYVldhVTc5OUx6ZGRuVnVWVE9GWjVaYjBBSkUzb2FTNHA4SS1JQlB2T3hGQXRLd2NfSGpWTzg3d3NUVTVOWExoX2FtV0dfSEJNMVE1b2F5dm4taHBrZlozVHlWcm9JSDJxUXdKU0JLbElBZnI4?oc=5",
-     "published": "2026-08-05T07:33:32Z",
-     "lang": "ko",
+     "id": "22f9767fba52128f",
+     "title": "Taiwan begins military drills as China pressure grows",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWnJYUm42cW5XekVlcGhSbFl2c2NlNUdqaHAyZ2NuM25XbGRiRWRKWndyd1lpNkx2djRCX0V4QUhPSHZpYjlyc0t6YnNnRFJzenhLeUoxa2FaOFljUlZpV0tySlE1NUs1TW5xX2NaVV9obW15OXJQbU9Wa0YzVzF5azJvb0FwazdzVnlFN0hNZGZoa2RRNkhXRkR1bUYxQQ?oc=5",
+     "published": "2026-08-05T03:05:00Z",
+     "lang": "en",
      "entities": [
-      "blockade",
-      "live_fire",
+      "military_drill",
       "rehearsal"
      ],
-     "source_name": "서울신문",
-     "source_domain": "seoul.co.kr",
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -1141,17 +954,36 @@
      "hedged": false
     },
     {
-     "id": "e3346a892c3fefac",
-     "title": "\"인터넷 끊길 때도 대비\"…대만, 中봉쇄 상정 총동원 훈련",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWnpsMUFybTdkWW5wS0lQbjRUT0FmNUZoUEVzVmJYc2pVaTR4T01CUzRoOTBHU2hxSmhDY0JsRU91N2hqMGhKZnBlREdfckJ3SE9IMFFrWFRFRVRQMmtuemktU21uQk5mQW96VHNiVU00bDE0NEFWRXpGNDktSlc5SQ?oc=5",
-     "published": "2026-08-05T07:47:44Z",
-     "lang": "ko",
+     "id": "69de7e0affbfe301",
+     "title": "Taiwan launches annual war games as pressure from China grows",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkNnaW9mWUdwUVBGZ3BGa3NvTUR6cEFMUnIyNkwyU0pjMXNObC1nRE1YTE5fcnNDMDZRclRkNzlWWElzTGNwZWhsR3BtSERnLTVDS1dmQm9GVmRyRm1Fa09CRmZNaGlkUDQxSjZ6eFVpZHFGZDFLTUJWRF9WV1RlMkRWZEtNUVJ4Z2FNZ1pGRkFWWkRJWVY1bUpHNWN2OG9vWW50ektmLUU?oc=5",
+     "published": "2026-08-05T03:35:19Z",
+     "lang": "en",
      "entities": [
-      "blockade",
+      "tabletop_wargame"
+     ],
+     "source_name": "France 24",
+     "source_domain": "france24.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "094af91179976a5d",
+     "title": "'Han Kuang': Taiwan begins military drills as China pressure grows",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObzBRQWNwN0NWWmpDYXFZMmRSSFhXNGpLdGtpVUdUaVR5WGVIY1MzTHB6WUZQUWxZd0dWN0NhaDdJNEV3Qjg2d1lIXzJna2Jfa1g3RWtqenVJZW1mblJNdll6VG1ROEgxLTA0dlNCbDlLQjRucV8zWl9LR2lfN3ZxU2ROQUVsbU9acjl0X0NyTUlHVWp4QWp0bGc5X1E?oc=5",
+     "published": "2026-08-05T03:43:38Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "military_drill",
       "rehearsal"
      ],
-     "source_name": "edaily.co.kr",
-     "source_domain": "edaily.co.kr",
+     "source_name": "RTL Today",
+     "source_domain": "today.rtl.lu",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -1160,14 +992,91 @@
      "hedged": false
     },
     {
-     "id": "bac6d0f951f62cde",
-     "title": "Danjiang Bridge closed for 1st time for blockade drill",
-     "url": "https://focustaiwan.tw/politics/202608070006",
-     "published": "2026-08-07T04:04:32Z",
+     "id": "74159ac03a568669",
+     "title": "On constant alert! Taiwans military begins large-scale military exercises amid pressure from China",
+     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxONEU3TDl1RzFXWFc3NUJMdjk5RTItbWxQUzR2Sk9nQnlYZ0h4UW9VWk1PQVZhZ0pKY3RISXNuOWYwU2hfd2NwZ2x1QXFpRFNBb2phZFFoSlRqUVRKY01iaGUwd2p3Y1VnN2RoajBJbHU5Y1JtcnpwaXl1bVRGb2d2LU0zUkVoSVJ1VmgwWDdUZDBBblg3UE1yUEZmMjdXQUxMYklJWW15ZkZwbFhOMWRaUDRQNEJEQWdPVGw0cmZ6cTJvT1RPSjc1S3NPR2NwNzVWWEJvUFhYbUtYbDZsZVRUUDVaa1c?oc=5",
+     "published": "2026-08-05T06:21:00Z",
      "lang": "en",
      "entities": [
-      "blockade",
+      "military_drill",
       "rehearsal"
+     ],
+     "source_name": "fakti.bg",
+     "source_domain": "fakti.bg",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "c8a0ff10f539e05f",
+     "title": "Taiwan begins major military drills as Chinese pressure grows",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUHhNNGRRU1ZJX2l6QWlVSWx4a2N5R0o5dU5oUllhLTZnbmJCYzJBQmZNWWNWQ2tmamJOUGpGQ3B2SHFzVTkzNW9rQzZtQjQ4cWlHbUlOc1NPWEJ2bWlzVjJHenZxVE9OOEpEQXB3akVRV1h4OVNCMWRfQldfcDZSb3g3dFd0MElGSzZaX0lrSjY5dG9pZDI0WmduRUExaldtMHpNWTNLczV1Vjc3Z0ZfOFlYU2JkSnkyRnV2N0UzVTJJelU2YjJ1bTZzNzhjU3J1Uk95TdIB2gFBVV95cUxPOUo1NTl0d1ZRR1ZHYWljMUlMX0c0SzRsLWFIQ2pFTmJvWEpDTkFDYkpoakFsN3Z1Tm9YM2xEVWowWi1hOFNtdVRYdXRydEdRNlJSUDlQVk5zSFlBNHZEVm1Ncy05WU5VV01vaVFWUjV1MFhQbThLNGtadDE2Nl9nazNROXk1NDVXbG8tMmR4T2NCek02MThiRFZCX25pMkFkT3E4UkkyaFRlcVRJYTRoVmk5M0JCT1RLdWZULWJ6NXpGVm0xb3RxVWFvdkpfQV8xLVIwOElrWDFDZw?oc=5",
+     "published": "2026-08-05T07:38:00Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "The Australian",
+     "source_domain": "theaustralian.com.au",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "0f68e11dc717e3a0",
+     "title": "Taiwan begins biggest military drills of the year amid China invasion fears",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWVozNElaR2o1WGFnTXRmMjlYeDBqdmtGRFdobllUeDZOX0w0T2FvdkV4MUlYaE5KX1hRV25KNktWbWE2Y05QTjc4N2JPdkZVQUVOWWIzUnRuNGljWnpybzJUc1g3SEZNU1RnZEdEWS1CaXNtZ3cyWWwwc3RCTjdHNmpBWmlYeWN4TVB6VGNuRXBzVnlZUnlHblRYTGROYnN3THdrOGtYTXhJdXhVdmd6R2pCOTR1S0dHQVFudHd2aVNfd3lpMklWRVQzY3NaM2_SAc8BQVVfeXFMT1laMzRJWkdqNVhhZ010ZjI5WHgwanZrRkRXaG5ZVHg2Tl9MNE9hb3ZFeDFJWGhOSl9YUVduSjZLVm1hNmNOUE43ODdiT3ZGVUFFTlliM1J0bjRpY1p6cm8yVHNYN0hGTVNUZ2RHRFktQmlzbWd3MllsMHN0Qk43RzZqQVppWHljeE1QelRjbkVwc1Z5WVJ5R25UWExkTmJzd0x3azhrWE14SXV4VXZnekdqQjk0dUtHR0FRbnR3dmlTX3d5aTJJVkVUM2NzWjNv?oc=5",
+     "published": "2026-08-05T08:23:58Z",
+     "lang": "en",
+     "entities": [
+      "invasion",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Malay Mail",
+     "source_domain": "malaymail.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "299c9b95fd4a226b",
+     "title": "Taiwan launches major military drills as pressure from China grows",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTGJyVVA1QWg0RnpPODhZMGIxN2lzTXlxMG4xNVliOEs1Q2ZoWlh5amtQS09OLWZFb3VfZkJMQTFRSVBwQW9MOXpnVXRLQ25mS3FRa3p0NXRTYXVvRXRSZGZWWVJfckhOUGJoYW1NMzBUX2xmb1JlSkh4WWZfVi12Z0UwaktSM3pkbVM3TzI2dEZralpJQ1F0cTBqNnBSUFVLb2xhODdGM1ZOQnpJVVE?oc=5",
+     "published": "2026-08-05T09:08:24Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Türkiye Today",
+     "source_domain": "turkiyetoday.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "338c26b110dd3813",
+     "title": "Reservists conduct rifle and mortar drills in Taipei",
+     "url": "https://focustaiwan.tw/politics/202608050017",
+     "published": "2026-08-05T11:32:30Z",
+     "lang": "en",
+     "entities": [
+      "rehearsal",
+      "taipei"
      ],
      "source_name": "中央社 CNA",
      "source_domain": "cna.com.tw",
@@ -1176,6 +1085,422 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "951fcf9eb0b71567",
+     "title": "Taiwan launches annual military drill to counter potential Chinese attack",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOdVV3X1pscHRqRVo0cm5oVGZlVXdaMTdYRXRsZEtqTHU4cTJveEVhSlV3TzRpbXpLay1MRTc1MDF0dGhrdmNucDlCcmY4Ym41NFJvT0J6QnRFdzNYUUZjbnI5TEZwZktNWk9sdkRha0I2cWtYOVNkLVlpX3VwcFVZb3d6N2V1R01veS1jUzhnV0psTm9JWGRKTF83c25EQQ?oc=5",
+     "published": "2026-08-05T12:43:00Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "The Independent",
+     "source_domain": "independent.co.uk",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "3e37a78489a065ba",
+     "title": "Taiwan ramps up military drills as Chinese invasion threat grows",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVEhGU3Z3RkhkbGZRX3ROYnpGN2EwNjVIbTlLdE5oU0llVXhBRlVYSmxoSVZQNTRGbWNocFh1T1NWTFh4TDc5MXNrMzRtUDBQSmJSempiM2NtT2VacG9tLWJvaDZoc3RpczhCR0l5dVlFVlFmZ3ZlUnM2eXU4OVpET2RVekFXRFYxUFl0S0JER3hWV1NpNTM3WUs5QWNQWmdEV3oxdDAtbGljZkdqU0FLdDVEV0ZEUdIBuwFBVV95cUxPNFBoQlUtaEVHRDQ3NEthNU95Q3BHTV9INTVrOVoteWhkNmhXLWNodS1qVlNCN1kxeFhjbHBYVE44enVqRGdRUmNfaGZMQ1NIaUpON2pEcnBXTERCeTRWQ0JpTGpxSm54VklyLWhSUTh4Q0hCcDgwU1d2a2Fzd1ZFajN3c1ZKVk1tWUU2SDdnNENONTlPc2xoVkZEbzZaeWlCWnljdjRNS1lnNmtTaVVPaTNoMVA1RG54bVFv?oc=5",
+     "published": "2026-08-05T13:15:00Z",
+     "lang": "en",
+     "entities": [
+      "invasion",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "tag24.com",
+     "source_domain": "tag24.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "24e709c9ec4f5c3a",
+     "title": "Taiwan Launches Largest-ever Military Drills to Prepare for Invasion By China's Xi | Vantage",
+     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPcGNwamNKNkktNXpnUl9BWHpVX0dvZHlqMGE4TUE2eE9yMkotbFIxR3lueEtIZVNMSFRvdERXbFE5ZWl3UnpsMlF1UWptOGRSRHlHaVpFN1c2OGZVelJfR1EyVUo5OUZBTXZ4VVFmSGM4Qkc4UDdOWHloelJxT1liZHF3dXZZYXdvRy1tVnl0MFlaajhaM1hScGpYbjJacDdXa2wwZlJGTW1tZDMtZHFLQUxkTWUxbXpmdlJGbXN1eUMwaHNJa1packxHT3MzMnlXQjZ6bNIB1AFBVV95cUxPcGNwamNKNkktNXpnUl9BWHpVX0dvZHlqMGE4TUE2eE9yMkotbFIxR3lueEtIZVNMSFRvdERXbFE5ZWl3UnpsMlF1UWptOGRSRHlHaVpFN1c2OGZVelJfR1EyVUo5OUZBTXZ4VVFmSGM4Qkc4UDdOWHloelJxT1liZHF3dXZZYXdvRy1tVnl0MFlaajhaM1hScGpYbjJacDdXa2wwZlJGTW1tZDMtZHFLQUxkTWUxbXpmdlJGbXN1eUMwaHNJa1packxHT3MzMnlXQjZ6bA?oc=5",
+     "published": "2026-08-05T17:28:32Z",
+     "lang": "en",
+     "entities": [
+      "invasion",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Firstpost",
+     "source_domain": "firstpost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "947fd39b27976b7f",
+     "title": "Taiwan: Military exercise with reservists and reporters",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVFNqb2N2THFWRXY2cElUSkFuZlpHaS00aVlOZGEwQ0pCaF91SXpTZk5vbnFfTDhVYjZMY2RWTFhoV2plRHBsV0x0RnB6MkNhckhsTjA0bFZDelhNaE1nR1F3cVh6Rl9ILVd1cWExeG0xejRIZjVKVnh3ZExTdFRaQk9JYnNSVG81Y1FadllJbi1HUQ?oc=5",
+     "published": "2026-08-05T21:10:13Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Table.Briefings",
+     "source_domain": "table.media",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "2c3a01dece60be63",
+     "title": "Soldiers participate in Taiwan's largest military drills as China pressure grows",
+     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOOThiczBNeTU0aFo1MEpXVlYtOHpOeDVwSHdKRUx1Rm43dHpaeXZuS3RNTmRMOWdIMlBDcUMxZDVNTzJCM2VIMWhPWVJlcEFGcVdxQWZLN0RfeUVHZTl1TXFoZ3V6QTlaX2FBNV9nTXBnamgtQ0RXTEtiS1hmcWd0Qm9fQkJrVC1WcmZjMUQ4YXRXaUl5TlBPS0Z1cGNrandxOWtYT1BMcGxuQW9kTXFvb2N0QzRQSnhoRmM5MTVoT3U5NVFLM3dQa3NxX1JpYkt0YVg4YVV5eGxZVVd4V2NibA?oc=5",
+     "published": "2026-08-05T22:19:01Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "National Post",
+     "source_domain": "nationalpost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "1b90920ec104643e",
+     "title": "Unprecedented Military Drills Kick Off in Taiwan; China Tightens Drone Export Controls",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPT0ZObGM1WXZfU2o3SmV0STRnZXl1ZjdqdDEyTkZhR2lzSmp1TjVxaEdxaWhDX3RUcUF5WHVwSjZSWWFBM1RDQmM4V1JxVTJxWnBVTENWMlV6ZnQ0aVp0T2lySFdZcWNvRVNfVlBiUnY2dVhBc0NMaXFOQ1NhYmJ5VkhwZl9tQ1ZkeXZBcFdZY3hjVklQSlU1SmZ3SzZjM0ZLRGktYmpqTGk5eGhHTzZ3aDNYdmFtV1VvUWFkdVlOcEdRODQ?oc=5",
+     "published": "2026-08-06T00:15:59Z",
+     "lang": "en",
+     "entities": [
+      "drone",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "mb.ntd.com",
+     "source_domain": "mb.ntd.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "5722fada74b2874e",
+     "title": "대만군 '한광훈련' 돌입…패트리어트 도심 출현",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0taUxTcWlERV9fdEgxZm9QRWx5aTlEVXhKSl80M0pJTlVaNGdaZGhZWFg3bHBRNHdRcjBYTU94X1N5aEV2dkhVSDYydTVobDBOcUREWVhPQVFLZ29ZTTVJNdIBeEFVX3lxTE9NT3VfVVJnLUwzR2M4WEFIcXFtTldRYXY2SWZDMVI3T09GNmdWV0RHSkVTa2k5QVpqaDBUMFhadVJhNGxoMjAwT3E3Y2k4YklyTTJ5YjZlUVRwVnNWa3RUR1FJUGd5c1NBWUE0VVZHZ0Y1R1F6UzNIcw?oc=5",
+     "published": "2026-08-06T01:26:28Z",
+     "lang": "ko",
+     "entities": [
+      "han_kuang",
+      "rehearsal",
+      "roc_military"
+     ],
+     "source_name": "뉴시스",
+     "source_domain": "newsis.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "8b33a8329cb25557",
+     "title": "衝著漢光演習來！ 中共30機艦侵擾台海周邊國軍嚴密監控應處| 政治焦點",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE4zQU9rTGRQWGpvQ1RRSUdFcVo4aHh3aEh6cUY3bWI3UGdkaW1rLUJUSU50WVV5TmFZdGoxSGVZbWpCaDhLOTAwNkstbk1fZWVpR0ZZekVweXh1Vzcw?oc=5",
+     "published": "2026-08-06T02:07:06Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "han_kuang",
+      "incursion",
+      "military_drill",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "太報 TaiSounds",
+     "source_domain": "taisounds.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "501a2895b9fb50fd",
+     "title": "解放軍《大型城市全域失能戰》曝光！中共恐以認知作戰佔領台北...國安人士：彰顯網路降速演習必要",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9IQ2pyaEpVd2Z5NmxXNVgyRWhwMk9TcFVpR0VBa2VGOWJ3SVFvbjVLTk5EMHBfUzd5dy1uNXU5VHpaTUpmbFFLOVdXRXdWN1M2d1E?oc=5",
+     "published": "2026-08-06T03:02:41Z",
+     "lang": "zh",
+     "entities": [
+      "military_drill",
+      "pla",
+      "taipei"
+     ],
+     "source_name": "放言Fount Media",
+     "source_domain": "fountmedia.io",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "6ca6984183fb51d4",
+     "title": "Taiwan kicks off annual military drills to counter a potential Chinese attack",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWU5cVhEbVVrOGtvbHhZcTRwODY3T1lDYU5PUTI2ZUUyMFhnQXM0ZHFIUlBpdXNPaHRmZnUxVHNWU0VzczVoYVlzSVRpRUUxRDVhYUNlSFFINUNLUW1FWjkySUw4RWVHaDV3UDNLTVU3bFdYOFZhbzFoM0VBb05XWnhsWm5zUHY5RHpzMndzUGFSTGFNbFhIM3dINk5DRm8?oc=5",
+     "published": "2026-08-06T04:36:00Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "AP",
+     "source_domain": "apnews.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "18765051151ba2b2",
+     "title": "Taiwan Launches Han Kuang Military Drills to Simulate Chinese Invasion Response",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNLURwVnlJN2xNYlRoZHJZdTRGc2tKV0xKZjMtRkRyUU5ydnVrMXZqRjk2azd0clU3bzZjX0NsYW5kMzkzYzZ0elNEWlVXdVk5S3A0WFFOX1c1ZFkzYnRSamk3cFJneHdBLTZqWF93RkF0LU1tYXE1SS01VEhsT2hnNmo1VmlUTlFpRWFDN0pudkVFSlo5M29zT3JhcTlGd2Zqd0ZKLW5UN2J2ZGM1QjFWdU9iNjlyZjZoaUE?oc=5",
+     "published": "2026-08-06T09:34:51Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "invasion",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Daily Pioneer",
+     "source_domain": "dailypioneer.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "2dfd38829728db6c",
+     "title": "Taiwan’s military drills suggest deeper alignment with the U.S.",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNcmIwU0tRYWNLZ2x3SC1MNjFBcWMyOFJ4ekpGQ1VDX1kxbXlZN0hIU0ZHVWgzb3dTRnVNZjNmMW5ENW12OXFaMTJCQVA0THdrdG5vUTkzQVJVTVROQXNMMGVkM3NTcWZzY2RIX3RLb2JLUllrdmRrMkJOYmJoUmhIWmdZRXVxbTdhLXJTelUzbEdxbXNQNzBN?oc=5",
+     "published": "2026-08-06T09:41:00Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "The Independent",
+     "source_domain": "independent.co.uk",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "7ed8c7d90ceb8614",
+     "title": "Taiwan kicks off military drills to respond to potential China invasion",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTHI3NHdhQXJRRW9YdWJCRUJkTnp3Z0tvdFdKZlJjQUlITkQwZlZaOTM4UGp3TVJVdkxXeEo4bUlOUHFOWWg3UmYzN1MwZktJY3NMOEdGaFBXci1hTE83WnNuVF9CdVM1emtscDFLQmVIek5SYW0xVnA2Q0FlUVFtX3ZKcUtGUUIyRERtclN3ZElwN2pTZHhpZnBB?oc=5",
+     "published": "2026-08-06T10:39:51Z",
+     "lang": "en",
+     "entities": [
+      "invasion",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Plataforma Media",
+     "source_domain": "plataformamedia.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "0873c16de73811e7",
+     "title": "Taiwan kicks off annual military drills to counter potential China attack",
+     "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPZ1c0U0p5ZUYtWmpXcXZ1X05WUEVqU1RfbS1ZQWlEMzB3T2hfX0xkZ2ktX3FHSzFNX3ExRl9GT2xGN2VkOGFqZFZ6c1VlODBFaWJQTGdiNkQ5STFYaFpvVmRITGU3M3UzZjJsaW9FTWthVThGVnRHanNaYWxuWnhBeV84R2hrODlGUHBGYkppMmttRUoxdzBGYU15Nkpvc3h0d3JFSlh3OHVwbk9Ia2MydUtOSnNUb3RHNEhJMFFhTmYtbGFRU004RlJOeWwtQnNxRTY4ejI2dUhrRm5zWU02UU9SQjRhQ2hPMzZDVTE5eGU5Vkc4R3BEUg?oc=5",
+     "published": "2026-08-06T11:15:23Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "mississippivalleypublishing.com",
+     "source_domain": "mississippivalleypublishing.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "6573b78abbd576db",
+     "title": "President Lai boards coast guard vessel to observe coastal defense",
+     "url": "https://focustaiwan.tw/politics/202608060013",
+     "published": "2026-08-06T11:20:28Z",
+     "lang": "en",
+     "entities": [
+      "coast_guard",
+      "lai_chingte"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "908dd66fb0bfe0dc",
+     "title": "Video Taiwan begins military drills amid China fears",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1SNXlkblJCMXpkU0Q2LUNlbURRZWdveTE5eTQ4MkNJd01jTWpWUFA2SDNZOEROLXFfaVlBd191QjRKMHpFVjdKU2NOZnY?oc=5",
+     "published": "2026-08-06T13:30:40Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "ABC News - Breaking News, Latest News and Videos",
+     "source_domain": "abcnews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "864e7a8e77493e84",
+     "title": "Taiwan’s annual military drills focus on civilian resilience as ‘window’ for Chinese invasion closes",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOV0FRbGFWTXV1eEZrMWtuNHpVM1FlQTJ0NDdST0hYdlRRQ0JHZXdvaHBmZWk4MC10TzVFZlQzVWNZS292ajBDMkh4bUhaN3pZblM5aEtZTGxyZTViSS10Q1c2ZkY3NDR6bmFkN05NUjcwTjJnLXdielI1dzBBaUlteUR0Y0VCOWFfS3EwQzA3YWpGamV6ekZUOVFUNGZnVHpLYjZ0dGRET3U0dzFJX0RfOURB?oc=5",
+     "published": "2026-08-06T17:49:10Z",
+     "lang": "en",
+     "entities": [
+      "invasion",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Washington Times",
+     "source_domain": "washingtontimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "미국 보수 성향",
+     "hedged": false
+    },
+    {
+     "id": "daf4861fe7f919dc",
+     "title": "Taiwan kicks off annual military drills to counter potential Chinese attack",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1TXBndmdNUzBUMmNnQzFfVm9jTkt6OXUtTG5POHhLSXRhMEZjRlhEdVFxTmFHUjZ2TXV4WF8xcnN3MHJ2VVpmZnRZNkFySEdrUDVMNm1GUUtHczFLaFZV0gFcQVVfeXFMUFhWMUo5M3ZSa3dQSGpFemVsSG5QOVBHTVhBZFJGTUpwVFRxa1FTU0ZPOHh6V1VfVUtzaHFwZmJBQ1E1MFNYeE5YZ2YzYnVINDdrenpwOUxfSXcwN0E?oc=5",
+     "published": "2026-08-06T18:08:54Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Modern Ghana",
+     "source_domain": "modernghana.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "e6ccef26acc68a7b",
+     "title": "Taiwan launches annual Han Kuang military drill and cracks down on Chinese companies recruiting its tech talent",
+     "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOUTRmZ1RQRnhaanFCaGNNM1hGSjBMd0hZdC1fNkZKa2txUW4way1ubGhEd1NlQjhRQ2FSMkY2ZlZIeGJhM1FlakNuTWNUdnlsR3JLYmRITUswX0ltQ2lxSVZOejlYMzZNNHJrOVpwT2p4WmNVNVh6aTAyXzR6THpmelFZNHk3ODlNMXR4MlRncm9EQUxWdlhzWXRGSkdLVjR2aW5hclFsUmhRU0xYN3VUeVdLdnduZTE5aTlIMDR3X08xU3NzZFhsWkNiaDJIeGd3SWtCNU1nQTFPOXppY0VEbHRqQXVCWFdWd2JqOFZtV0VENE9Pck9Yak5YWUZ6NnFPNzJwd3NpOHZBd0pHQnBzb19FUQ?oc=5",
+     "published": "2026-08-07T00:03:57Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Le Monde",
+     "source_domain": "lemonde.fr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "bf9cfe3a899dbd69",
+     "title": "Taiwan's Han Kuang drills shift to combat readiness amid China pressure",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQXd1SFhVZzBTVE1UR3BMcjl6UlBqdnZ6U2wxQVhOdm5UdnBJcUtBR0pLNi1wOUVfR3BEMk1HS0t2NlNNMElQNXNzSVQ5VWdUcUVrbW5HM3JoUXJNSUpEYk1qRGVPSFVNSDhScVpGQlNYVUZ0T2hFRDlhNmpVN2piWnlaa2dfNFN5LXlSQ3pEQ1lrWkJ3dnNqckl5V1NUTXhsMWlzTjZIRXl6Y25rZC1aVkE0T2NWOHBHcFhOdXFpTlZsNWtKMkMxNGUxVdIB0AFBVV95cUxNQnkwTHF2VnZDR2NhQk5YeG8tR2VkMndaUlJkeEpoU0hSdlV2NHUyZDBSaE9VT1JDdjNhOVZVYUxEVVRlaTdhUDJ3ZUxXWGZvaTVfcmZ4QUVvVGlQVWdETjVLdng2blZYQ0IwMHZUTklhdWRvQVoybllVNFNvcW56T3hzN015ZWF0c2YtUmg3V0Y2NlBZM21uT2hDMlowTU9RMW9nVFFlVUMwa1BDWXZOUmFoam1QZjF2VEVCcGJzcFhKeEVuVm9GbEJsT184YVUx?oc=5",
+     "published": "2026-08-07T01:10:32Z",
+     "lang": "en",
+     "entities": [
+      "han_kuang",
+      "rehearsal"
+     ],
+     "source_name": "India Today",
+     "source_domain": "indiatoday.in",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "5f93a19a5b2941aa",
+     "title": "대만 총통 라이칭더, 중국군 침공 대비 군사훈련 철저 점검",
+     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43eXVOdWdaTjRpWHhNUUNJby1tRkJ6a0xUd0VrZGxTY1lMa2ljSlhiNkJUWFZ5VkhmOURyMEhfLVowYkF3Um5hY1JQOGUxNlR5c0stTFpkT0hGaThjbEZlZFJJeG16VDk2?oc=5",
+     "published": "2026-08-07T03:41:57Z",
+     "lang": "ko",
+     "entities": [
+      "invasion",
+      "lai_chingte",
+      "military_drill",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "공감신문",
+     "source_domain": "gokorea.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -1382,9 +1707,9 @@
   },
   {
    "id": "evt_20260804_69814c",
-   "headline": "Taiwan launches annual war games as pressure from China grows",
-   "headline_source": "France 24",
-   "headline_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkNnaW9mWUdwUVBGZ3BGa3NvTUR6cEFMUnIyNkwyU0pjMXNObC1nRE1YTE5fcnNDMDZRclRkNzlWWElzTGNwZWhsR3BtSERnLTVDS1dmQm9GVmRyRm1Fa09CRmZNaGlkUDQxSjZ6eFVpZHFGZDFLTUJWRF9WV1RlMkRWZEtNUVJ4Z2FNZ1pGRkFWWkRJWVY1bUpHNWN2OG9vWW50ektmLUU?oc=5",
+   "headline": "Taiwan launches major war games to test command flexibility",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdDZTVDVpUk5LTEl1NmJueDZtSkNwUlllcm1rZmFNUnY4Ml9hb1MzUHRaQ1Z4N1pFUXhyQjJ1YmRaa3hNLThUMEFNOGVkS0RZbmxzZ3pWUDdlM2pSTnN1RGdpZGRvQjNwbzFEVnVRXy03WWNkVjRwV2sta0gyQnhIWWNXN2tHYUNETTdUSDFtTFAwbU5zQ0w0WDFXZktxaENEdmFtWWZiUQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-04T14:00:26Z",
    "last_seen": "2026-08-07T00:58:00Z",
@@ -1418,7 +1743,6 @@
     "prc": [],
     "tw_west": [
      "75e495ce945e17cb",
-     "69de7e0affbfe301",
      "64d6c0c5373167f8",
      "8c576aeab1bc6f71",
      "0a4a957756bed88b"
@@ -1443,24 +1767,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    },
-    {
-     "id": "69de7e0affbfe301",
-     "title": "Taiwan launches annual war games as pressure from China grows",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSkNnaW9mWUdwUVBGZ3BGa3NvTUR6cEFMUnIyNkwyU0pjMXNObC1nRE1YTE5fcnNDMDZRclRkNzlWWElzTGNwZWhsR3BtSERnLTVDS1dmQm9GVmRyRm1Fa09CRmZNaGlkUDQxSjZ6eFVpZHFGZDFLTUJWRF9WV1RlMkRWZEtNUVJ4Z2FNZ1pGRkFWWkRJWVY1bUpHNWN2OG9vWW50ektmLUU?oc=5",
-     "published": "2026-08-05T03:35:19Z",
-     "lang": "en",
-     "entities": [
-      "tabletop_wargame"
-     ],
-     "source_name": "France 24",
-     "source_domain": "france24.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     },
     {
@@ -1876,6 +2182,64 @@
    ]
   },
   {
+   "id": "evt_20260806_914ab5",
+   "headline": "China Adds 20 Japanese Companies to Export Control List Amid Taiwan Tensions",
+   "headline_source": "News On AIR",
+   "headline_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1c4UUp3M01qZDkyUHU5MzlWQll6THB6V09DNjlGdmZGbDRnOXV1VldBQUZKbUlyODhFWkFTRzV4WU14MWFVWUJTclBDSWg3bHdJa2d3N0Fja2l1UHRzVENxX2tSMFMycXN0U1JvcDhITlFIS0FEdnlLdVBHRFY3cEk5aHhDVG5SNW9tMDN0TlRybHFBa2ZkZGtwc3c3S256UHNfMw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-06T14:49:15Z",
+   "last_seen": "2026-08-06T14:49:15Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "802a70a4586f4ac3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "802a70a4586f4ac3",
+     "title": "China Adds 20 Japanese Companies to Export Control List Amid Taiwan Tensions",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1c4UUp3M01qZDkyUHU5MzlWQll6THB6V09DNjlGdmZGbDRnOXV1VldBQUZKbUlyODhFWkFTRzV4WU14MWFVWUJTclBDSWg3bHdJa2d3N0Fja2l1UHRzVENxX2tSMFMycXN0U1JvcDhITlFIS0FEdnlLdVBHRFY3cEk5aHhDVG5SNW9tMDN0TlRybHFBa2ZkZGtwc3c3S256UHNfMw?oc=5",
+     "published": "2026-08-06T14:49:15Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "News On AIR",
+     "source_domain": "newsonair.gov.in",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260806_f444d3",
    "headline": "川普難甩包袱58％美國人看壞中東局勢逾半憂台海開戰- 國際",
    "headline_source": "中國時報",
@@ -2058,7 +2422,7 @@
   {
    "id": "evt_20260806_2f785f",
    "headline": "密件曝光共軍欲癱瘓台北逼投降- 台灣時報焦點- 新聞",
-   "headline_source": "華人今日網",
+   "headline_source": "chinesedaily.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5HLUZGYmM5alZBWGtMUWJ3b2NWYjljMVJHbFdpcGgyYlVjVTRramI2ZXFuYzdGeXIxd2dISjRQSzVDbzVNZnRoczFrS3dBMTZ1ZWM5WTBEUTJabkFEUlpJX0ZmZkFBQQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-06T13:05:01Z",
@@ -2105,73 +2469,13 @@
       "pla",
       "taipei"
      ],
-     "source_name": "華人今日網",
+     "source_name": "chinesedaily.com",
      "source_domain": "chinesedaily.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260806_f2097b",
-   "headline": "台湾学子福州重走科举路 共续两岸文脉情",
-   "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VR25RdXBPR1VudEs0NnpsS044Qk50Ml9UcmpVTTJmV200ZEJwVVZIdzVsbmdCakVicGdIMFdwQlZOMV9FbDE4NWdhc3NuY0d6YjVWcS1jMEQ0bHJ4T05aRGVUNTF1cWpIblg3dGd3a1czdjlNZDRoZlpUakpLdw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-06T12:28:00Z",
-   "last_seen": "2026-08-06T12:28:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "6b326ff08af8d025"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "6b326ff08af8d025",
-     "title": "台湾学子福州重走科举路 共续两岸文脉情",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1VR25RdXBPR1VudEs0NnpsS044Qk50Ml9UcmpVTTJmV200ZEJwVVZIdzVsbmdCakVicGdIMFdwQlZOMV9FbDE4NWdhc3NuY0d6YjVWcS1jMEQ0bHJ4T05aRGVUNTF1cWpIblg3dGd3a1czdjlNZDRoZlpUakpLdw?oc=5",
-     "published": "2026-08-06T12:28:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中國新聞網",
-     "source_domain": "chinanews.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 통신사",
      "hedged": false
     }
    ]
@@ -3861,6 +4165,66 @@
    ]
   },
   {
+   "id": "evt_20260805_ba43c1",
+   "headline": "Taiwan starts drills amid China pressure",
+   "headline_source": "The Manila Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWhTQnE0WGNERDR3V0xCbW41YXR6Nmtjd2FBbjJQMDdyUFJCOG5qUk84Q0JUejI5TUhTNWltbE1HNkFRcE9hSDNQWTUzNmdaaC13M1RiTlpQZU9SU3JvQVhkQUVvcTZxNFRaMmRPMXp2RDFrNTJsaW95QXAtQ1VfdVlMN2hNTlNaZHFQTTFXYmtjWW1aa01xdnJaVlkxc1pFSEFObzJFMGkxZ9IBrwFBVV95cUxPbkdlcUMwSzEzbnJCRTZ2LTNNR0lJS3BGZElmZ25KcUMzTjk3X3ZoU1lnVTdVeTRTNV9YOGxxNVFUSzk2Z0YxdFo0eDZPcHk4eHlBMVRPeEVaaG95T1BGVTRmZ0dDMG04OFN6NXFwOVZDLVFoVExoSlVIMjdxNzltSXczWlRNN25SWHNYN29fbXAtc1Y5UmpnQjBsd04ydlpPajY1bWtVLUJUMDhTZjN3?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-05T16:28:29Z",
+   "last_seen": "2026-08-05T16:28:29Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9f2607d74dd4bca2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9f2607d74dd4bca2",
+     "title": "Taiwan starts drills amid China pressure",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZWhTQnE0WGNERDR3V0xCbW41YXR6Nmtjd2FBbjJQMDdyUFJCOG5qUk84Q0JUejI5TUhTNWltbE1HNkFRcE9hSDNQWTUzNmdaaC13M1RiTlpQZU9SU3JvQVhkQUVvcTZxNFRaMmRPMXp2RDFrNTJsaW95QXAtQ1VfdVlMN2hNTlNaZHFQTTFXYmtjWW1aa01xdnJaVlkxc1pFSEFObzJFMGkxZ9IBrwFBVV95cUxPbkdlcUMwSzEzbnJCRTZ2LTNNR0lJS3BGZElmZ25KcUMzTjk3X3ZoU1lnVTdVeTRTNV9YOGxxNVFUSzk2Z0YxdFo0eDZPcHk4eHlBMVRPeEVaaG95T1BGVTRmZ0dDMG04OFN6NXFwOVZDLVFoVExoSlVIMjdxNzltSXczWlRNN25SWHNYN29fbXAtc1Y5UmpnQjBsd04ydlpPajY1bWtVLUJUMDhTZjN3?oc=5",
+     "published": "2026-08-05T16:28:29Z",
+     "lang": "en",
+     "entities": [
+      "rehearsal"
+     ],
+     "source_name": "The Manila Times",
+     "source_domain": "manilatimes.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260805_f4b95e",
    "headline": "顧民生保障生活 拼和平台海穩定 張善政科技掛帥 李四川工程見長",
    "headline_source": "United News Ph",
@@ -5097,7 +5461,7 @@
   {
    "id": "evt_20260805_06fc73",
    "headline": "中日對峙升溫 日本防衛白皮書點名台海、北京反擊「炒作中國威脅」",
-   "headline_source": "fountmedia.io",
+   "headline_source": "放言Fount Media",
    "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HOXMxdnRXMlZHMFZYTi1laXY2SUd6WmdoVU9PcWg0SlNyelJLQ216TlVIc3o3VXhzTXdXQ3lpNjVJVFQ2SUdweDhtdmNWUHc2T0E?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-05T08:47:09Z",
@@ -5144,7 +5508,7 @@
       "beijing",
       "taiwan_strait"
      ],
-     "source_name": "fountmedia.io",
+     "source_name": "放言Fount Media",
      "source_domain": "fountmedia.io",
      "tier": "T5",
      "tier_label": "미분류",
@@ -11562,13 +11926,13 @@
    ]
   },
   {
-   "id": "evt_20260801_ec0a0f",
+   "id": "evt_20260801_d4f22a",
    "headline": "中共17機艦船台海周邊活動 國軍嚴密監控應處",
    "headline_source": "聯合報",
    "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB0REp3bnZ5RWNSY3ZiUU4yUEZUbU1xanRJWkFJTldGb2dsUTJIZWE5ZGRSMVowblNXalZSRnBGTnhhYlllZ3M2Z2djTGliX0ZtTHhCdkNpcU5lZ9IBX0FVX3lxTE5DdFlZdGFVUGVSZEQ2d3hzMzRfZlBsQ2w4MWhNR291V20zN3ZVYW1Nd0dNTEppYVFFaTZIR1lJU2NwakZJanAyakRoRC1QRDRQbUwzWWs4WVREenVORmMw?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-01T02:54:37Z",
-   "last_seen": "2026-08-01T03:00:17Z",
+   "last_seen": "2026-08-01T02:54:37Z",
    "langs": [
     "zh"
    ],
@@ -11579,27 +11943,24 @@
     "grade_label": "단일 출처",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 25.9,
+    "score": 25.8,
     "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "tw_state"
+     "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "聯合報 원고를 中央廣播電臺 가 전재 — 1곳으로 계산"
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "c253b3981c93708a",
-     "75de48b15684372e"
+     "c253b3981c93708a"
     ]
    },
    "articles": [
@@ -11621,26 +11982,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "75de48b15684372e",
-     "title": "中共17機艦船台海周邊活動國軍嚴密監控應處-新聞",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1yWWJFajNYVDlUeVRQc09EN05vTUJrRzh5NHlPb3ZtRzBYaGJLTzU5a2lyTmNYVnEzNjVRZm5MSmZlZEVqQUc1QWlVSGthZFVyNl9BM3c0SQ?oc=5",
-     "published": "2026-08-01T03:00:17Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "中央廣播電臺",
-     "source_domain": "rti.org.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]

@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-07T07:44:11Z",
+ "updated": "2026-08-07T10:12:56Z",
  "checked": "2026-08-07",
- "duration_sec": 34.0,
+ "duration_sec": 33.4,
  "rolling_days": 14,
- "n_events": 359,
- "n_articles": 435,
+ "n_events": 365,
+ "n_articles": 444,
  "grades": {
-  "D": 195,
-  "A": 3,
-  "C": 136,
-  "B": 25
+  "B": 25,
+  "D": 200,
+  "C": 137,
+  "A": 3
  },
- "cross_language_events": 3,
+ "cross_language_events": 4,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 23,
-  "T2": 151,
-  "T3": 81,
+  "T2": 154,
+  "T3": 82,
   "T4": 18,
-  "T5": 138,
+  "T5": 139,
   "TA": 8
  },
  "t1_domains": [
@@ -48,8 +48,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
-   "newest": "2026-08-04T12:21:56+00:00",
+   "n_adopted": 21,
+   "newest": "2026-08-07T07:40:00+00:00",
    "stale": false,
    "error": null
   },
@@ -60,7 +60,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 74,
+   "n_entries": 73,
    "n_adopted": 46,
    "newest": "2026-08-07T06:21:06+00:00",
    "stale": false,
@@ -87,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-07T07:40:31+00:00",
+   "n_adopted": 58,
+   "newest": "2026-08-07T09:25:19+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
+   "n_adopted": 13,
    "newest": "2026-08-06T13:42:00+00:00",
    "stale": false,
    "error": null
@@ -113,8 +113,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-08-07T07:17:28+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-07T08:38:44+00:00",
    "stale": false,
    "error": null
   },
@@ -125,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 41,
-   "n_adopted": 10,
-   "newest": "2026-08-07T04:58:37+00:00",
+   "n_entries": 49,
+   "n_adopted": 11,
+   "newest": "2026-08-07T09:45:59+00:00",
    "stale": false,
    "error": null
   },
@@ -153,7 +153,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-08-07T07:06:09+00:00",
+   "newest": "2026-08-07T10:01:43+00:00",
    "stale": false,
    "error": null
   },
@@ -166,7 +166,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-07T07:30:00+00:00",
+   "newest": "2026-08-07T08:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -203,9 +203,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 86,
+   "n_entries": 91,
    "n_adopted": 0,
-   "newest": "2026-08-07T07:37:39+00:00",
+   "newest": "2026-08-07T09:50:01+00:00",
    "stale": false,
    "error": null
   },
@@ -218,7 +218,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-08-07T06:46:34+00:00",
+   "newest": "2026-08-07T09:21:52+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-07T06:29:40+00:00",
+   "newest": "2026-08-07T09:13:48+00:00",
    "stale": false,
    "error": null
   },
@@ -281,14 +281,19 @@
    "sample_title": "建軍節看共軍高層大洗牌兩國防部長同判死緩百名將領消失52％遭波及- 兩岸"
   },
   {
+   "domain": "sisaworld.kr",
+   "n_articles": 3,
+   "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
+  },
+  {
    "domain": "theaustralian.com.au",
    "n_articles": 3,
    "sample_title": "Taiwan begins major military drills as Chinese pressure grows"
   },
   {
-   "domain": "sisaworld.kr",
-   "n_articles": 3,
-   "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
+   "domain": "hk.on.cc",
+   "n_articles": 2,
+   "sample_title": "澳菲防長嚴重關切南海局勢 強調台海和平穩定重要性"
   },
   {
    "domain": "tag24.com",
@@ -344,11 +349,6 @@
    "domain": "thedefensepost.com",
    "n_articles": 2,
    "sample_title": "Taiwan to Test Civilian Factories for Wartime Defense Production"
-  },
-  {
-   "domain": "devdiscourse.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan's Strategic Shift: Civilian Factories to Military Powerhouses"
   }
  ]
 }
