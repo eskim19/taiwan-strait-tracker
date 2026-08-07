@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-07T16:10:33Z",
+ "updated": "2026-08-07T19:18:07Z",
  "checked": "2026-08-07",
- "duration_sec": 33.3,
+ "duration_sec": 36.2,
  "rolling_days": 14,
- "n_events": 384,
- "n_articles": 464,
+ "n_events": 391,
+ "n_articles": 470,
  "grades": {
+  "C": 150,
   "B": 27,
-  "D": 209,
-  "C": 145,
+  "D": 211,
   "A": 3
  },
  "cross_language_events": 4,
@@ -19,12 +19,12 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 23,
-  "T2": 161,
-  "T3": 90,
+  "T1": 24,
+  "T2": 166,
+  "T3": 91,
   "T4": 19,
   "T5": 140,
-  "TA": 8
+  "TA": 9
  },
  "t1_domains": [
   "aljazeera.com",
@@ -34,6 +34,7 @@
   "bloomberg.com",
   "dw.com",
   "france24.com",
+  "nhk.or.jp",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr",
@@ -60,9 +61,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 63,
-   "n_adopted": 40,
-   "newest": "2026-08-07T14:04:24+00:00",
+   "n_entries": 68,
+   "n_adopted": 44,
+   "newest": "2026-08-07T17:03:45+00:00",
    "stale": false,
    "error": null
   },
@@ -74,8 +75,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 29,
-   "newest": "2026-08-07T05:57:00+00:00",
+   "n_adopted": 30,
+   "newest": "2026-08-07T15:55:00+00:00",
    "stale": false,
    "error": null
   },
@@ -87,7 +88,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 58,
+   "n_adopted": 57,
    "newest": "2026-08-07T14:49:40+00:00",
    "stale": false,
    "error": null
@@ -100,8 +101,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-08-07T11:40:11+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-07T12:56:00+00:00",
    "stale": false,
    "error": null
   },
@@ -113,7 +114,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 17,
    "newest": "2026-08-07T14:12:00+00:00",
    "stale": false,
    "error": null
@@ -125,8 +126,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
-   "n_adopted": 12,
+   "n_entries": 40,
+   "n_adopted": 7,
    "newest": "2026-08-07T12:48:19+00:00",
    "stale": false,
    "error": null
@@ -138,9 +139,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
-   "n_adopted": 2,
-   "newest": "2026-08-07T00:00:00+00:00",
+   "n_entries": 44,
+   "n_adopted": 1,
+   "newest": "2026-08-08T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -218,7 +219,7 @@
    "http": 200,
    "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-08-07T15:51:16+00:00",
+   "newest": "2026-08-07T17:42:54+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +232,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-07T15:10:22+00:00",
+   "newest": "2026-08-07T18:54:55+00:00",
    "stale": false,
    "error": null
   },
@@ -240,20 +241,20 @@
    "name": "Global Taiwan Institute",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 2,
    "newest": "2026-07-30T17:53:04+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   }
  ],
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
-   "sample_title": "共軍戰備警巡擾台 顧立雄稱「早有應處方案」：不會中斷漢光演習 | 鏡新聞"
+   "n_articles": 17,
+   "sample_title": "習近平清洗解放軍反而替台灣解除最大威脅？《地緣密碼－文薰戰情室》解析共軍軍權危機與真實戰力| Newtalk"
   },
   {
    "domain": "upmedia.mg",
@@ -296,6 +297,11 @@
    "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
   },
   {
+   "domain": "hindustantimes.com",
+   "n_articles": 3,
+   "sample_title": "China’s landing route to Taipei blocked? Taiwan turns Danjiang bridge into a for"
+  },
+  {
    "domain": "dailypioneer.com",
    "n_articles": 2,
    "sample_title": "Taiwan Launches Han Kuang Military Drills to Simulate Chinese Invasion Response"
@@ -319,11 +325,6 @@
    "domain": "ctinews.com",
    "n_articles": 2,
    "sample_title": "我最大規模軍演展開 解放軍台海陣形曝光了！"
-  },
-  {
-   "domain": "hindustantimes.com",
-   "n_articles": 2,
-   "sample_title": "How China could storm Taiwan in minutes: New 1-minute PLA video feels uncomforta"
   },
   {
    "domain": "mirrordaily.news",
