@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-09T13:17:47Z",
+ "updated": "2026-08-09T15:48:55Z",
  "checked": "2026-08-09",
- "duration_sec": 34.2,
+ "duration_sec": 38.3,
  "rolling_days": 14,
- "n_events": 443,
- "n_articles": 534,
+ "n_events": 446,
+ "n_articles": 539,
  "grades": {
+  "D": 241,
   "C": 167,
-  "D": 238,
   "B": 36,
   "A": 2
  },
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 28,
+  "T1": 27,
   "T2": 191,
   "T3": 94,
   "T4": 26,
-  "T5": 165,
+  "T5": 169,
   "TA": 9
  },
  "t1_domains": [
@@ -34,7 +34,6 @@
   "bloomberg.com",
   "dw.com",
   "france24.com",
-  "nhk.or.jp",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr",
@@ -61,9 +60,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 64,
-   "n_adopted": 46,
-   "newest": "2026-08-09T10:28:33+00:00",
+   "n_entries": 65,
+   "n_adopted": 48,
+   "newest": "2026-08-09T15:22:07+00:00",
    "stale": false,
    "error": null
   },
@@ -75,7 +74,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 29,
+   "n_adopted": 28,
    "newest": "2026-08-09T02:00:00+00:00",
    "stale": false,
    "error": null
@@ -88,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
-   "newest": "2026-08-09T11:50:32+00:00",
+   "n_adopted": 68,
+   "newest": "2026-08-09T14:33:00+00:00",
    "stale": false,
    "error": null
   },
@@ -102,7 +101,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 15,
-   "newest": "2026-08-09T12:58:43+00:00",
+   "newest": "2026-08-09T14:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -126,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
+   "n_entries": 47,
    "n_adopted": 7,
-   "newest": "2026-08-09T09:51:01+00:00",
+   "newest": "2026-08-09T11:48:07+00:00",
    "stale": false,
    "error": null
   },
@@ -154,7 +153,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-09T12:30:12+00:00",
+   "newest": "2026-08-09T14:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -166,7 +165,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 1,
+   "n_adopted": 0,
    "newest": "2026-08-09T11:03:00+00:00",
    "stale": false,
    "error": null
@@ -201,14 +200,14 @@
    "id": "yonhap_en",
    "name": "연합뉴스 영문",
    "critical": false,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 87,
+   "status": "error",
+   "health": "error",
+   "http": null,
+   "n_entries": 0,
    "n_adopted": 0,
-   "newest": "2026-08-09T11:11:04+00:00",
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "ConnectTimeout: HTTPSConnectionPool(host='en.yna.co.kr', port=443): Max retries exceeded with url: /RSS/news.xml (Caused by ConnectTimeoutError(<HTTPSConnection(host='en.yna.co.kr', port=443) at 0x…>,"
   },
   {
    "id": "bbc_asia",
@@ -232,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-09T13:15:54+00:00",
+   "newest": "2026-08-09T15:20:18+00:00",
    "stale": false,
    "error": null
   },
@@ -253,8 +252,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 24,
-   "sample_title": "自由觀點》漢光演習前推小琉球 拉大台海防禦縱深 | 自由電子報"
+   "n_articles": 25,
+   "sample_title": "討論牆 | 中共強行管制台海船舶「錄音曝光」！陸委會嗆：極其可笑"
   },
   {
    "domain": "i-meihua.com",
@@ -272,6 +271,11 @@
    "sample_title": "Taiwan Military Drills Explained: Why Lai Ching-te is Overseeing Coastal Strike "
   },
   {
+   "domain": "ctinews.com",
+   "n_articles": 4,
+   "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
+  },
+  {
    "domain": "fountmedia.io",
    "n_articles": 4,
    "sample_title": "中日對峙升溫 日本防衛白皮書點名台海、北京反擊「炒作中國威脅」"
@@ -280,11 +284,6 @@
    "domain": "ctee.com.tw",
    "n_articles": 4,
    "sample_title": "建軍節看共軍高層大洗牌兩國防部長同判死緩百名將領消失52％遭波及- 兩岸"
-  },
-  {
-   "domain": "ctinews.com",
-   "n_articles": 3,
-   "sample_title": "攻伊狂燒彈！美軍武器庫存告急 紐時：協防台海恐現戰力缺口"
   },
   {
    "domain": "devdiscourse.com",
@@ -307,14 +306,19 @@
    "sample_title": "China’s landing route to Taipei blocked? Taiwan turns Danjiang bridge into a for"
   },
   {
+   "domain": "indiatoday.in",
+   "n_articles": 2,
+   "sample_title": "Taiwan's Han Kuang drills shift to combat readiness amid China pressure"
+  },
+  {
    "domain": "m.economictimes.com",
    "n_articles": 2,
    "sample_title": "Taiwan plans 16% defence spending hike for 2027"
   },
   {
-   "domain": "indiatoday.in",
+   "domain": "modernghana.com",
    "n_articles": 2,
-   "sample_title": "Taiwan's Han Kuang drills shift to combat readiness amid China pressure"
+   "sample_title": "Taiwan kicks off annual military drills to counter potential Chinese attack"
   },
   {
    "domain": "firstpost.com",
@@ -345,11 +349,6 @@
    "domain": "theaustralian.com.au",
    "n_articles": 2,
    "sample_title": "Taiwan admits US is secretly training its troops"
-  },
-  {
-   "domain": "mirrordaily.news",
-   "n_articles": 2,
-   "sample_title": "解放軍新片再秀「南海肌肉」 台灣東方海域成中共關鍵戰場"
   }
  ]
 }
