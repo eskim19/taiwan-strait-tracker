@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-10T19:19:27Z",
+ "updated": "2026-08-10T22:00:36Z",
  "checked": "2026-08-10",
- "duration_sec": 32.0,
+ "duration_sec": 35.2,
  "rolling_days": 14,
- "n_events": 460,
- "n_articles": 554,
+ "n_events": 459,
+ "n_articles": 553,
  "grades": {
-  "C": 169,
-  "D": 247,
+  "C": 170,
   "A": 3,
-  "B": 41
+  "D": 248,
+  "B": 38
  },
- "cross_language_events": 7,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 36,
+  "T1": 35,
   "T2": 188,
   "T3": 90,
   "T4": 22,
-  "T5": 188,
+  "T5": 189,
   "TA": 8
  },
  "t1_domains": [
@@ -50,7 +50,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 29,
+   "n_adopted": 28,
    "newest": "2026-08-10T14:53:41+00:00",
    "stale": false,
    "error": null
@@ -64,7 +64,7 @@
    "http": 200,
    "n_entries": 90,
    "n_adopted": 71,
-   "newest": "2026-08-10T18:02:45+00:00",
+   "newest": "2026-08-10T19:34:14+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +76,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
+   "n_adopted": 28,
    "newest": "2026-08-10T07:56:12+00:00",
    "stale": false,
    "error": null
@@ -89,7 +89,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
+   "n_adopted": 66,
    "newest": "2026-08-10T17:44:47+00:00",
    "stale": false,
    "error": null
@@ -155,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-10T16:09:01+00:00",
+   "newest": "2026-08-10T21:54:42+00:00",
    "stale": false,
    "error": null
   },
@@ -205,9 +205,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 95,
+   "n_entries": 96,
    "n_adopted": 0,
-   "newest": "2026-08-10T18:39:50+00:00",
+   "newest": "2026-08-10T21:14:31+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-10T18:51:02+00:00",
+   "newest": "2026-08-10T21:48:23+00:00",
    "stale": false,
    "error": null
   },
@@ -298,6 +298,11 @@
    "sample_title": "建軍節看共軍高層大洗牌兩國防部長同判死緩百名將領消失52％遭波及- 兩岸"
   },
   {
+   "domain": "wionews.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan Conducts NBC Decontamination Drill | Han Kuang Exercises Simulate Chemica"
+  },
+  {
    "domain": "firstpost.com",
    "n_articles": 3,
    "sample_title": "Why Taiwan is spending over T$1 trillion on defence to counter China"
@@ -313,9 +318,9 @@
    "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
   },
   {
-   "domain": "wionews.com",
+   "domain": "gazettengr.com",
    "n_articles": 2,
-   "sample_title": "Taiwan Conducts NBC Decontamination Drill | Han Kuang Exercises Simulate Chemica"
+   "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
   },
   {
    "domain": "m.economictimes.com",
@@ -346,11 +351,6 @@
    "domain": "interestingengineering.com",
    "n_articles": 2,
    "sample_title": "China’s missiles that can damage aircraft carriers could pose threat to US in Ta"
-  },
-  {
-   "domain": "modernghana.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan kicks off annual military drills to counter potential Chinese attack"
   }
  ]
 }
