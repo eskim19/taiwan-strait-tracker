@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-10T08:06:34Z",
+ "updated": "2026-08-10T10:38:02Z",
  "checked": "2026-08-10",
- "duration_sec": 33.4,
+ "duration_sec": 33.8,
  "rolling_days": 14,
- "n_events": 453,
- "n_articles": 544,
+ "n_events": 457,
+ "n_articles": 550,
  "grades": {
+  "D": 247,
+  "B": 41,
   "A": 3,
-  "C": 167,
-  "B": 37,
-  "D": 246
+  "C": 166
  },
- "cross_language_events": 6,
+ "cross_language_events": 8,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -21,9 +21,9 @@
  "tier_articles": {
   "T1": 34,
   "T2": 190,
-  "T3": 94,
+  "T3": 92,
   "T4": 25,
-  "T5": 174,
+  "T5": 176,
   "TA": 8
  },
  "t1_domains": [
@@ -49,7 +49,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 30,
+   "n_adopted": 25,
    "newest": "2026-08-09T04:54:35+00:00",
    "stale": false,
    "error": null
@@ -61,9 +61,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 81,
-   "n_adopted": 64,
-   "newest": "2026-08-10T07:30:00+00:00",
+   "n_entries": 79,
+   "n_adopted": 61,
+   "newest": "2026-08-10T08:51:00+00:00",
    "stale": false,
    "error": null
   },
@@ -88,8 +88,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 67,
-   "newest": "2026-08-10T07:44:45+00:00",
+   "n_adopted": 71,
+   "newest": "2026-08-10T10:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -102,7 +102,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 12,
-   "newest": "2026-08-10T02:50:06+00:00",
+   "newest": "2026-08-10T04:36:00+00:00",
    "stale": false,
    "error": null
   },
@@ -114,8 +114,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-08-10T07:11:10+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-10T10:28:29+00:00",
    "stale": false,
    "error": null
   },
@@ -126,9 +126,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
+   "n_entries": 37,
    "n_adopted": 4,
-   "newest": "2026-08-10T06:50:53+00:00",
+   "newest": "2026-08-10T08:10:01+00:00",
    "stale": false,
    "error": null
   },
@@ -154,7 +154,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-10T06:03:18+00:00",
+   "newest": "2026-08-10T10:02:48+00:00",
    "stale": false,
    "error": null
   },
@@ -162,14 +162,14 @@
    "id": "japantimes",
    "name": "Japan Times",
    "critical": false,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 30,
+   "status": "error",
+   "health": "error",
+   "http": 404,
+   "n_entries": 0,
    "n_adopted": 0,
-   "newest": "2026-08-10T08:04:00+00:00",
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 404"
   },
   {
    "id": "tsm",
@@ -206,7 +206,7 @@
    "http": 200,
    "n_entries": 96,
    "n_adopted": 0,
-   "newest": "2026-08-10T07:56:35+00:00",
+   "newest": "2026-08-10T09:39:34+00:00",
    "stale": false,
    "error": null
   },
@@ -217,9 +217,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 16,
+   "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-10T07:23:54+00:00",
+   "newest": "2026-08-10T09:51:07+00:00",
    "stale": false,
    "error": null
   },
@@ -232,7 +232,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-10T07:10:32+00:00",
+   "newest": "2026-08-10T10:15:02+00:00",
    "stale": false,
    "error": null
   },
@@ -258,13 +258,8 @@
   },
   {
    "domain": "upmedia.mg",
-   "n_articles": 7,
-   "sample_title": "2027真正改變台海戰略平衡的是AI"
-  },
-  {
-   "domain": "ibtimes.sg",
-   "n_articles": 6,
-   "sample_title": "Taiwan To Raise Defense Budget 16% In 2027"
+   "n_articles": 8,
+   "sample_title": "中國不樂見北韓與俄羅斯交好 專家：擔憂間接加劇台海局勢"
   },
   {
    "domain": "i-meihua.com",
@@ -277,14 +272,19 @@
    "sample_title": "Taiwan War Games: Coastal Drill Simulates Defense against Chinese Assault"
   },
   {
+   "domain": "ctinews.com",
+   "n_articles": 5,
+   "sample_title": "不只擊沉航母！陸「鷹擊-20」瞄準牽制美軍 台海戰場關鍵武器"
+  },
+  {
+   "domain": "ibtimes.sg",
+   "n_articles": 5,
+   "sample_title": "Taiwan To Raise Defense Budget 16% In 2027"
+  },
+  {
    "domain": "hindustantimes.com",
    "n_articles": 4,
    "sample_title": "Taiwan Military Conducts Live-Fire Exercise Amid Growing Concerns Over China Thr"
-  },
-  {
-   "domain": "ctinews.com",
-   "n_articles": 4,
-   "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
   },
   {
    "domain": "fountmedia.io",
@@ -327,11 +327,6 @@
    "sample_title": "Taiwan's Defense Budget Surges 16%, Exceeds NT$1 Trillion for the First Time"
   },
   {
-   "domain": "modernghana.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan begins military drills amid China fears"
-  },
-  {
    "domain": "news.ttv.com.tw",
    "n_articles": 2,
    "sample_title": "中共假借颱風「交管」台海 陸委會：顧好自己的災情"
@@ -342,14 +337,19 @@
    "sample_title": "台海恐有重大變局？「最帥靈媒」開示了：這些事已應驗"
   },
   {
-   "domain": "sisaworld.kr",
+   "domain": "hk.on.cc",
    "n_articles": 2,
-   "sample_title": "대만, 한광훈련 돌입 앞두고 중국군 압박 강화…전투기·군함 동시 출동"
+   "sample_title": "澳菲防長嚴重關切南海局勢 強調台海和平穩定重要性"
   },
   {
-   "domain": "indiatoday.in",
+   "domain": "chinesedaily.com",
    "n_articles": 2,
-   "sample_title": "Taiwan's Han Kuang drills shift to combat readiness amid China pressure"
+   "sample_title": "密件流出共軍欲癱瘓台北逼投降- 台灣時報焦點- 新聞"
+  },
+  {
+   "domain": "sisaworld.kr",
+   "n_articles": 2,
+   "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
   }
  ]
 }
