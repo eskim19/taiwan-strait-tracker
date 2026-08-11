@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-11T10:13:20Z",
+ "updated": "2026-08-11T13:44:57Z",
  "checked": "2026-08-11",
- "duration_sec": 30.5,
+ "duration_sec": 35.6,
  "rolling_days": 14,
- "n_events": 458,
- "n_articles": 552,
+ "n_events": 455,
+ "n_articles": 550,
  "grades": {
-  "D": 247,
-  "C": 167,
   "A": 3,
-  "B": 41
+  "D": 245,
+  "C": 165,
+  "B": 42
  },
- "cross_language_events": 5,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 35,
-  "T2": 189,
-  "T3": 93,
-  "T4": 20,
-  "T5": 184,
+  "T2": 186,
+  "T3": 96,
+  "T4": 22,
+  "T5": 182,
   "TA": 8
  },
  "t1_domains": [
@@ -35,7 +35,6 @@
   "dw.com",
   "france24.com",
   "kyodonews.net",
-  "nhk.or.jp",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr",
@@ -51,7 +50,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 28,
-   "newest": "2026-08-11T07:04:00+00:00",
+   "newest": "2026-08-11T11:07:00+00:00",
    "stale": false,
    "error": null
   },
@@ -64,7 +63,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 75,
-   "newest": "2026-08-11T10:00:04+00:00",
+   "newest": "2026-08-11T13:07:59+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +75,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 29,
+   "n_adopted": 27,
    "newest": "2026-08-10T07:56:12+00:00",
    "stale": false,
    "error": null
@@ -89,8 +88,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 67,
-   "newest": "2026-08-11T09:44:27+00:00",
+   "n_adopted": 68,
+   "newest": "2026-08-11T13:25:02+00:00",
    "stale": false,
    "error": null
   },
@@ -103,7 +102,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 12,
-   "newest": "2026-08-11T09:52:27+00:00",
+   "newest": "2026-08-11T13:35:03+00:00",
    "stale": false,
    "error": null
   },
@@ -116,7 +115,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 16,
-   "newest": "2026-08-11T07:15:04+00:00",
+   "newest": "2026-08-11T12:36:23+00:00",
    "stale": false,
    "error": null
   },
@@ -127,9 +126,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 41,
-   "n_adopted": 4,
-   "newest": "2026-08-11T08:28:08+00:00",
+   "n_entries": 53,
+   "n_adopted": 6,
+   "newest": "2026-08-11T12:39:37+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +154,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-11T10:00:22+00:00",
+   "newest": "2026-08-11T13:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -168,7 +167,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-11T09:32:00+00:00",
+   "newest": "2026-08-11T12:27:00+00:00",
    "stale": false,
    "error": null
   },
@@ -205,9 +204,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 86,
+   "n_entries": 89,
    "n_adopted": 0,
-   "newest": "2026-08-11T09:44:26+00:00",
+   "newest": "2026-08-11T13:31:07+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +232,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-11T09:52:01+00:00",
+   "newest": "2026-08-11T13:10:49+00:00",
    "stale": false,
    "error": null
   },
@@ -254,8 +253,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 21,
-   "sample_title": "緊守共軍攻台北潛在路線！ 憲兵颱風夜搭捷運增援 | EBC 東森新聞"
+   "n_articles": 22,
+   "sample_title": "中共解放軍與印尼軍艦即將在台灣以東軍演 印尼派新銳主力作戰艦用意不明 | 太報"
   },
   {
    "domain": "i-meihua.com",
@@ -268,11 +267,6 @@
    "sample_title": "中國不樂見北韓與俄羅斯交好 專家：擔憂間接加劇台海局勢"
   },
   {
-   "domain": "ibtimes.sg",
-   "n_articles": 5,
-   "sample_title": "Taiwan To Raise Defense Budget 16% In 2027"
-  },
-  {
    "domain": "ctinews.com",
    "n_articles": 5,
    "sample_title": "不只擊沉航母！陸「鷹擊-20」瞄準牽制美軍 台海戰場關鍵武器"
@@ -281,6 +275,11 @@
    "domain": "hindustantimes.com",
    "n_articles": 4,
    "sample_title": "Taiwan Military Conducts Live-Fire Exercise Amid Growing Concerns Over China Thr"
+  },
+  {
+   "domain": "ibtimes.sg",
+   "n_articles": 4,
+   "sample_title": "Taiwan To Raise Defense Budget 16% In 2027"
   },
   {
    "domain": "ctee.com.tw",
