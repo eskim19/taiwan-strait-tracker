@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-11T13:44:57Z",
+ "updated": "2026-08-11T16:12:31Z",
  "checked": "2026-08-11",
- "duration_sec": 35.6,
+ "duration_sec": 32.4,
  "rolling_days": 14,
- "n_events": 455,
- "n_articles": 550,
+ "n_events": 460,
+ "n_articles": 555,
  "grades": {
-  "A": 3,
-  "D": 245,
-  "C": 165,
+  "D": 248,
+  "A": 4,
+  "C": 166,
   "B": 42
  },
- "cross_language_events": 6,
+ "cross_language_events": 7,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 35,
-  "T2": 186,
-  "T3": 96,
+  "T2": 184,
+  "T3": 99,
   "T4": 22,
-  "T5": 182,
+  "T5": 186,
   "TA": 8
  },
  "t1_domains": [
@@ -49,7 +49,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
+   "n_adopted": 30,
    "newest": "2026-08-11T11:07:00+00:00",
    "stale": false,
    "error": null
@@ -61,8 +61,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 75,
+   "n_entries": 99,
+   "n_adopted": 76,
    "newest": "2026-08-11T13:07:59+00:00",
    "stale": false,
    "error": null
@@ -88,8 +88,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-08-11T13:25:02+00:00",
+   "n_adopted": 67,
+   "newest": "2026-08-11T15:48:39+00:00",
    "stale": false,
    "error": null
   },
@@ -101,8 +101,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-08-11T13:35:03+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-11T14:28:35+00:00",
    "stale": false,
    "error": null
   },
@@ -114,8 +114,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-08-11T12:36:23+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-11T14:07:00+00:00",
    "stale": false,
    "error": null
   },
@@ -126,9 +126,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 53,
+   "n_entries": 54,
    "n_adopted": 6,
-   "newest": "2026-08-11T12:39:37+00:00",
+   "newest": "2026-08-11T13:05:40+00:00",
    "stale": false,
    "error": null
   },
@@ -154,7 +154,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-11T13:00:10+00:00",
+   "newest": "2026-08-11T15:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -204,9 +204,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 89,
+   "n_entries": 90,
    "n_adopted": 0,
-   "newest": "2026-08-11T13:31:07+00:00",
+   "newest": "2026-08-11T14:12:53+00:00",
    "stale": false,
    "error": null
   },
@@ -219,7 +219,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-11T07:55:22+00:00",
+   "newest": "2026-08-11T15:11:54+00:00",
    "stale": false,
    "error": null
   },
@@ -232,7 +232,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-11T13:10:49+00:00",
+   "newest": "2026-08-11T15:50:51+00:00",
    "stale": false,
    "error": null
   },
@@ -253,7 +253,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 22,
+   "n_articles": 23,
    "sample_title": "中共解放軍與印尼軍艦即將在台灣以東軍演 印尼派新銳主力作戰艦用意不明 | 太報"
   },
   {
@@ -322,6 +322,11 @@
    "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
   },
   {
+   "domain": "hk.crntt.com",
+   "n_articles": 2,
+   "sample_title": "孫冰岩：美方克制對台軍事支持台海才能穩定"
+  },
+  {
    "domain": "worldjournal.com",
    "n_articles": 2,
    "sample_title": "兩岸若開戰共軍首波打這裡 外媒：一天內恐喪失作戰能力"
@@ -345,11 +350,6 @@
    "domain": "foxnews.com",
    "n_articles": 2,
    "sample_title": "Taiwan launches massive war games to prepare for potential Chinese invasion"
-  },
-  {
-   "domain": "asiae.co.kr",
-   "n_articles": 2,
-   "sample_title": "Taiwan's Defense Budget Surges 16%, Exceeds NT$1 Trillion for the First Time"
   }
  ]
 }
