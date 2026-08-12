@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-12T19:29:02Z",
+ "updated": "2026-08-12T22:05:12Z",
  "checked": "2026-08-12",
- "duration_sec": 34.5,
+ "duration_sec": 35.3,
  "rolling_days": 14,
- "n_events": 472,
- "n_articles": 581,
+ "n_events": 473,
+ "n_articles": 583,
  "grades": {
   "A": 5,
-  "D": 252,
+  "D": 254,
   "B": 38,
-  "C": 177
+  "C": 176
  },
  "cross_language_events": 6,
  "tension_error": null,
@@ -19,12 +19,12 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 32,
-  "T2": 197,
-  "T3": 96,
+  "T1": 33,
+  "T2": 198,
+  "T3": 97,
   "T4": 17,
   "T5": 200,
-  "TA": 8
+  "TA": 7
  },
  "t1_domains": [
   "abc.net.au",
@@ -63,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 76,
-   "newest": "2026-08-12T19:10:47+00:00",
+   "n_adopted": 78,
+   "newest": "2026-08-12T15:46:00+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +76,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 25,
    "newest": "2026-08-12T07:08:51+00:00",
    "stale": false,
    "error": null
@@ -90,7 +90,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 61,
-   "newest": "2026-08-12T16:38:26+00:00",
+   "newest": "2026-08-12T21:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-12T16:11:47+00:00",
+   "newest": "2026-08-12T22:00:15+00:00",
    "stale": false,
    "error": null
   },
@@ -207,7 +207,7 @@
    "http": 200,
    "n_entries": 95,
    "n_adopted": 0,
-   "newest": "2026-08-12T15:37:51+00:00",
+   "newest": "2026-08-12T21:55:34+00:00",
    "stale": false,
    "error": null
   },
@@ -220,7 +220,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-12T12:10:45+00:00",
+   "newest": "2026-08-12T19:56:41+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-12T19:21:11+00:00",
+   "newest": "2026-08-12T21:50:27+00:00",
    "stale": false,
    "error": null
   },
@@ -271,6 +271,11 @@
    "domain": "devdiscourse.com",
    "n_articles": 4,
    "sample_title": "Tensions Rise: Taiwan Denounces Chinese-Indonesian Naval Drills"
+  },
+  {
+   "domain": "modernghana.com",
+   "n_articles": 4,
+   "sample_title": "Taiwan’s military runs drills for potential China invasion #shorts"
   },
   {
    "domain": "hindustantimes.com",
@@ -311,11 +316,6 @@
    "domain": "foxnews.com",
    "n_articles": 3,
    "sample_title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns lon"
-  },
-  {
-   "domain": "modernghana.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan’s military runs drills for potential China invasion #shorts"
   },
   {
    "domain": "mnews.tw",
