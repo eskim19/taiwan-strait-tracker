@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-12T10:28:22Z",
+ "updated": "2026-08-12T13:50:24Z",
  "checked": "2026-08-12",
- "duration_sec": 33.3,
+ "duration_sec": 34.3,
  "rolling_days": 14,
- "n_events": 465,
- "n_articles": 563,
+ "n_events": 469,
+ "n_articles": 576,
  "grades": {
-  "D": 251,
-  "C": 168,
+  "D": 249,
+  "C": 177,
   "A": 5,
-  "B": 41
+  "B": 38
  },
- "cross_language_events": 6,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -19,14 +19,15 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 34,
-  "T2": 188,
-  "T3": 93,
+  "T1": 35,
+  "T2": 194,
+  "T3": 99,
   "T4": 17,
   "T5": 195,
-  "TA": 7
+  "TA": 8
  },
  "t1_domains": [
+  "abc.net.au",
   "aljazeera.com",
   "aninews.in",
   "apnews.com",
@@ -62,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 75,
-   "newest": "2026-08-12T09:42:49+00:00",
+   "n_adopted": 76,
+   "newest": "2026-08-12T12:11:00+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +77,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 26,
-   "newest": "2026-08-12T02:38:00+00:00",
+   "newest": "2026-08-12T07:08:51+00:00",
    "stale": false,
    "error": null
   },
@@ -88,8 +89,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-08-12T10:23:46+00:00",
+   "n_adopted": 58,
+   "newest": "2026-08-12T13:29:14+00:00",
    "stale": false,
    "error": null
   },
@@ -101,8 +102,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-12T02:00:39+00:00",
+   "n_adopted": 16,
+   "newest": "2026-08-12T12:55:00+00:00",
    "stale": false,
    "error": null
   },
@@ -114,8 +115,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-08-12T09:44:00+00:00",
+   "n_adopted": 3,
+   "newest": "2026-08-12T13:21:19+00:00",
    "stale": false,
    "error": null
   },
@@ -126,9 +127,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 55,
-   "n_adopted": 7,
-   "newest": "2026-08-12T08:10:30+00:00",
+   "n_entries": 67,
+   "n_adopted": 11,
+   "newest": "2026-08-12T12:51:01+00:00",
    "stale": false,
    "error": null
   },
@@ -154,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-12T10:01:47+00:00",
+   "newest": "2026-08-12T12:30:10+00:00",
    "stale": false,
    "error": null
   },
@@ -167,7 +168,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-12T10:01:00+00:00",
+   "newest": "2026-08-12T13:28:00+00:00",
    "stale": false,
    "error": null
   },
@@ -206,7 +207,7 @@
    "http": 200,
    "n_entries": 95,
    "n_adopted": 0,
-   "newest": "2026-08-12T10:06:00+00:00",
+   "newest": "2026-08-12T10:52:01+00:00",
    "stale": false,
    "error": null
   },
@@ -219,7 +220,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-12T05:40:51+00:00",
+   "newest": "2026-08-12T12:10:45+00:00",
    "stale": false,
    "error": null
   },
@@ -232,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-12T09:26:45+00:00",
+   "newest": "2026-08-12T13:29:29+00:00",
    "stale": false,
    "error": null
   },
@@ -241,19 +242,19 @@
    "name": "Global Taiwan Institute",
    "critical": false,
    "status": "ok",
-   "health": "stale",
+   "health": "ok",
    "http": 200,
    "n_entries": 10,
-   "n_adopted": 2,
-   "newest": "2026-07-30T17:53:04+00:00",
-   "stale": true,
+   "n_adopted": 3,
+   "newest": "2026-08-12T12:54:57+00:00",
+   "stale": false,
    "error": null
   }
  ],
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 25,
+   "n_articles": 22,
    "sample_title": "中國想贏又不想開戰！美前大使揭北京或祭「灰色地帶3新招」擴權攔台海船隻 | 上報"
   },
   {
@@ -263,18 +264,18 @@
   },
   {
    "domain": "upmedia.mg",
-   "n_articles": 7,
+   "n_articles": 6,
    "sample_title": "中國想贏又不想開戰！美前大使揭北京或祭「灰色地帶3新招」擴權攔台海船隻"
-  },
-  {
-   "domain": "devdiscourse.com",
-   "n_articles": 4,
-   "sample_title": "Tensions Rise: Taiwan Denounces Chinese-Indonesian Naval Drills"
   },
   {
    "domain": "hindustantimes.com",
    "n_articles": 4,
    "sample_title": "Taiwan Military Conducts Live-Fire Exercise Amid Growing Concerns Over China Thr"
+  },
+  {
+   "domain": "devdiscourse.com",
+   "n_articles": 4,
+   "sample_title": "Tensions Rise: Taiwan Denounces Chinese-Indonesian Naval Drills"
   },
   {
    "domain": "firstpost.com",
@@ -292,14 +293,24 @@
    "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
   },
   {
-   "domain": "foxnews.com",
-   "n_articles": 3,
-   "sample_title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns lon"
-  },
-  {
    "domain": "wionews.com",
    "n_articles": 3,
    "sample_title": "Taiwan Conducts NBC Decontamination Drill | Han Kuang Exercises Simulate Chemica"
+  },
+  {
+   "domain": "theaustralian.com.au",
+   "n_articles": 3,
+   "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
+  },
+  {
+   "domain": "stratnewsglobal.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan Condemns China-Indonesia Naval Drill Off Its East Coast"
+  },
+  {
+   "domain": "foxnews.com",
+   "n_articles": 3,
+   "sample_title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns lon"
   },
   {
    "domain": "modernghana.com",
@@ -322,6 +333,11 @@
    "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
   },
   {
+   "domain": "gazettengr.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
+  },
+  {
    "domain": "crntt.com",
    "n_articles": 2,
    "sample_title": "京台共研會：台海主動權轉移成焦點"
@@ -335,21 +351,6 @@
    "domain": "ndtv.com",
    "n_articles": 2,
    "sample_title": "Video | China-Taiwan War Games | Taiwan Army Deploys Tanks, Artillery to East Co"
-  },
-  {
-   "domain": "stratnewsglobal.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Tests Internet Blackout During War Games"
-  },
-  {
-   "domain": "outlookindia.com",
-   "n_articles": 2,
-   "sample_title": "'A Threat To Stability': Taiwan Fumes As China, Indonesia Plan Drills On Its Doo"
-  },
-  {
-   "domain": "gazettengr.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
   }
  ]
 }
