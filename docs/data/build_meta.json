@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-12T16:11:22Z",
+ "updated": "2026-08-12T19:29:02Z",
  "checked": "2026-08-12",
- "duration_sec": 35.9,
+ "duration_sec": 34.5,
  "rolling_days": 14,
  "n_events": 472,
- "n_articles": 583,
+ "n_articles": 581,
  "grades": {
+  "A": 5,
   "D": 252,
-  "A": 6,
-  "C": 176,
-  "B": 38
+  "B": 38,
+  "C": 177
  },
  "cross_language_events": 6,
  "tension_error": null,
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 34,
-  "T2": 195,
-  "T3": 100,
+  "T1": 32,
+  "T2": 197,
+  "T3": 96,
   "T4": 17,
-  "T5": 198,
+  "T5": 200,
   "TA": 8
  },
  "t1_domains": [
@@ -63,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 77,
-   "newest": "2026-08-12T14:17:03+00:00",
+   "n_adopted": 76,
+   "newest": "2026-08-12T19:10:47+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +76,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 25,
+   "n_adopted": 26,
    "newest": "2026-08-12T07:08:51+00:00",
    "stale": false,
    "error": null
@@ -89,8 +89,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
-   "newest": "2026-08-12T16:00:00+00:00",
+   "n_adopted": 61,
+   "newest": "2026-08-12T16:38:26+00:00",
    "stale": false,
    "error": null
   },
@@ -102,7 +102,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
+   "n_adopted": 14,
    "newest": "2026-08-12T15:31:00+00:00",
    "stale": false,
    "error": null
@@ -127,8 +127,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 68,
-   "n_adopted": 12,
+   "n_entries": 49,
+   "n_adopted": 9,
    "newest": "2026-08-12T13:57:04+00:00",
    "stale": false,
    "error": null
@@ -140,9 +140,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 0,
-   "newest": "2026-08-12T00:00:00+00:00",
+   "n_entries": 52,
+   "n_adopted": 1,
+   "newest": "2026-08-13T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-12T15:00:12+00:00",
+   "newest": "2026-08-12T16:11:47+00:00",
    "stale": false,
    "error": null
   },
@@ -168,7 +168,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-12T13:28:00+00:00",
+   "newest": "2026-08-12T17:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-12T15:40:24+00:00",
+   "newest": "2026-08-12T19:21:11+00:00",
    "stale": false,
    "error": null
   },
@@ -293,14 +293,19 @@
    "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
   },
   {
+   "domain": "stratnewsglobal.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan Condemns China-Indonesia Naval Drill Off Its East Coast"
+  },
+  {
    "domain": "theaustralian.com.au",
    "n_articles": 3,
    "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
   },
   {
-   "domain": "stratnewsglobal.com",
+   "domain": "hk.crntt.com",
    "n_articles": 3,
-   "sample_title": "Taiwan Condemns China-Indonesia Naval Drill Off Its East Coast"
+   "sample_title": "京台共研會：台海主動權轉移成焦點"
   },
   {
    "domain": "foxnews.com",
@@ -333,24 +338,19 @@
    "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
   },
   {
-   "domain": "crntt.com",
+   "domain": "wionews.com",
    "n_articles": 2,
-   "sample_title": "京台共研會：台海主動權轉移成焦點"
+   "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
+  },
+  {
+   "domain": "gmanetwork.com",
+   "n_articles": 2,
+   "sample_title": "Indonesia says navy drill with China that angered Taiwan is routine"
   },
   {
    "domain": "anewz.tv",
    "n_articles": 2,
    "sample_title": "Taiwan accuses China of trying to assert control through planned naval drill"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 2,
-   "sample_title": "Why Is Taiwan Calling China’s Planned Naval Drill with Indonesia Dangerous?"
-  },
-  {
-   "domain": "ndtv.com",
-   "n_articles": 2,
-   "sample_title": "Video | China-Taiwan War Games | Taiwan Army Deploys Tanks, Artillery to East Co"
   }
  ]
 }
