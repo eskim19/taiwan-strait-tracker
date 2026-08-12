@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-12T02:47:30Z",
+ "updated": "2026-08-12T05:05:02Z",
  "checked": "2026-08-12",
- "duration_sec": 38.7,
+ "duration_sec": 32.9,
  "rolling_days": 14,
- "n_events": 464,
- "n_articles": 561,
+ "n_events": 465,
+ "n_articles": 566,
  "grades": {
-  "C": 171,
-  "B": 41,
-  "D": 248,
-  "A": 4
+  "D": 250,
+  "B": 40,
+  "C": 170,
+  "A": 5
  },
- "cross_language_events": 7,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -19,12 +19,12 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 33,
-  "T2": 189,
-  "T3": 98,
-  "T4": 16,
-  "T5": 189,
-  "TA": 8
+  "T1": 35,
+  "T2": 190,
+  "T3": 97,
+  "T4": 17,
+  "T5": 192,
+  "TA": 7
  },
  "t1_domains": [
   "aljazeera.com",
@@ -63,7 +63,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 78,
-   "newest": "2026-08-12T01:51:00+00:00",
+   "newest": "2026-08-12T04:22:26+00:00",
    "stale": false,
    "error": null
   },
@@ -75,8 +75,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
-   "newest": "2026-08-12T02:17:02+00:00",
+   "n_adopted": 27,
+   "newest": "2026-08-12T02:38:00+00:00",
    "stale": false,
    "error": null
   },
@@ -88,8 +88,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-08-12T02:21:53+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-12T04:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -114,8 +114,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-08-12T00:10:00+00:00",
+   "n_adopted": 4,
+   "newest": "2026-08-12T02:03:27+00:00",
    "stale": false,
    "error": null
   },
@@ -154,7 +154,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-12T01:00:08+00:00",
+   "newest": "2026-08-12T04:30:06+00:00",
    "stale": false,
    "error": null
   },
@@ -167,7 +167,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-12T02:44:00+00:00",
+   "newest": "2026-08-12T04:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -204,9 +204,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 94,
+   "n_entries": 93,
    "n_adopted": 0,
-   "newest": "2026-08-12T02:31:34+00:00",
+   "newest": "2026-08-12T05:00:02+00:00",
    "stale": false,
    "error": null
   },
@@ -232,7 +232,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-12T02:29:30+00:00",
+   "newest": "2026-08-12T04:15:51+00:00",
    "stale": false,
    "error": null
   },
@@ -253,18 +253,23 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 23,
+   "n_articles": 24,
    "sample_title": "魔神仔遇上台海活屍危機！2026桃園電影節週末登場 片單驚見超狂創意 | TVBS"
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 7,
-   "sample_title": "日兩船借颱風進台海 張競才示警「留意動向」 大陸海警全程跟監"
+   "n_articles": 8,
+   "sample_title": "台海一線「東海飛龍」曝光！解放軍特戰部隊實彈真人對抗 低空傘降、水下滲透全上陣"
   },
   {
    "domain": "upmedia.mg",
-   "n_articles": 6,
-   "sample_title": "中國不樂見北韓與俄羅斯交好 專家：擔憂間接加劇台海局勢"
+   "n_articles": 7,
+   "sample_title": "中國想贏又不想開戰！美前大使揭北京或祭「灰色地帶3新招」擴權攔台海船隻"
+  },
+  {
+   "domain": "devdiscourse.com",
+   "n_articles": 5,
+   "sample_title": "Tensions Rise: Taiwan Denounces Chinese-Indonesian Naval Drills"
   },
   {
    "domain": "ctee.com.tw",
@@ -277,14 +282,14 @@
    "sample_title": "不只擊沉航母！陸「鷹擊-20」瞄準牽制美軍 台海戰場關鍵武器"
   },
   {
-   "domain": "devdiscourse.com",
-   "n_articles": 4,
-   "sample_title": "Tensions Rise: Taiwan Denounces Chinese-Indonesian Naval Drills"
-  },
-  {
    "domain": "hindustantimes.com",
    "n_articles": 4,
    "sample_title": "Taiwan Military Conducts Live-Fire Exercise Amid Growing Concerns Over China Thr"
+  },
+  {
+   "domain": "ibtimes.sg",
+   "n_articles": 4,
+   "sample_title": "Taiwan To Raise Defense Budget 16% In 2027"
   },
   {
    "domain": "wionews.com",
@@ -317,14 +322,14 @@
    "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
   },
   {
-   "domain": "ibtimes.sg",
-   "n_articles": 3,
-   "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
-  },
-  {
    "domain": "fountmedia.io",
    "n_articles": 3,
    "sample_title": "中日對峙升溫 日本防衛白皮書點名台海、北京反擊「炒作中國威脅」"
+  },
+  {
+   "domain": "newindianexpress.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan condemns China's plan for navy drill with Indonesia off island's east"
   },
   {
    "domain": "gazettengr.com",
@@ -340,11 +345,6 @@
    "domain": "worldjournal.com",
    "n_articles": 2,
    "sample_title": "兩岸若開戰共軍首波打這裡 外媒：一天內恐喪失作戰能力"
-  },
-  {
-   "domain": "ntd.com",
-   "n_articles": 2,
-   "sample_title": "Rare US Travel Warning for China; Taiwan Drills for Nuclear, Biological, and Che"
   },
   {
    "domain": "ndtv.com",
