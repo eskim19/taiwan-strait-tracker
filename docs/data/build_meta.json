@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-13T02:49:38Z",
+ "updated": "2026-08-13T05:08:29Z",
  "checked": "2026-08-13",
- "duration_sec": 33.6,
+ "duration_sec": 36.0,
  "rolling_days": 14,
- "n_events": 475,
- "n_articles": 586,
+ "n_events": 483,
+ "n_articles": 599,
  "grades": {
-  "D": 255,
-  "C": 176,
-  "B": 38,
-  "A": 6
+  "C": 178,
+  "D": 257,
+  "B": 44,
+  "A": 4
  },
  "cross_language_events": 5,
  "tension_error": null,
@@ -20,8 +20,8 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 33,
-  "T2": 200,
-  "T3": 95,
+  "T2": 201,
+  "T3": 98,
   "T4": 17,
   "T5": 202,
   "TA": 7
@@ -30,7 +30,6 @@
   "abc.net.au",
   "aljazeera.com",
   "aninews.in",
-  "apnews.com",
   "bbc.com",
   "bloomberg.com",
   "dw.com",
@@ -63,8 +62,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 75,
-   "newest": "2026-08-13T00:45:00+00:00",
+   "n_adopted": 78,
+   "newest": "2026-08-13T03:47:22+00:00",
    "stale": false,
    "error": null
   },
@@ -76,8 +75,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 24,
-   "newest": "2026-08-12T22:57:07+00:00",
+   "n_adopted": 25,
+   "newest": "2026-08-13T00:46:18+00:00",
    "stale": false,
    "error": null
   },
@@ -90,7 +89,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 58,
-   "newest": "2026-08-13T02:37:39+00:00",
+   "newest": "2026-08-13T04:48:07+00:00",
    "stale": false,
    "error": null
   },
@@ -102,8 +101,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-12T15:31:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-12T16:16:00+00:00",
    "stale": false,
    "error": null
   },
@@ -116,7 +115,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 2,
-   "newest": "2026-08-13T02:40:23+00:00",
+   "newest": "2026-08-13T02:11:31+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +154,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-13T02:00:10+00:00",
+   "newest": "2026-08-13T04:24:37+00:00",
    "stale": false,
    "error": null
   },
@@ -168,7 +167,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-13T02:42:00+00:00",
+   "newest": "2026-08-13T04:38:00+00:00",
    "stale": false,
    "error": null
   },
@@ -194,7 +193,7 @@
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-08-08T11:00:44+00:00",
+   "newest": "2026-08-13T05:02:28+00:00",
    "stale": false,
    "error": null
   },
@@ -205,9 +204,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 89,
+   "n_entries": 93,
    "n_adopted": 0,
-   "newest": "2026-08-13T02:39:57+00:00",
+   "newest": "2026-08-13T05:00:04+00:00",
    "stale": false,
    "error": null
   },
@@ -220,7 +219,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-12T19:56:41+00:00",
+   "newest": "2026-08-13T04:50:16+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +232,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-13T02:42:24+00:00",
+   "newest": "2026-08-13T05:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -254,13 +253,18 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 22,
+   "n_articles": 20,
    "sample_title": "中國想贏又不想開戰！美前大使揭北京或祭「灰色地帶3新招」擴權攔台海船隻 | 上報"
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 9,
+   "n_articles": 10,
    "sample_title": "台積電成台海「能源軟肋」！華府兵推揭北京未開戰先施壓 恐用能源、礦產分化美盟友"
+  },
+  {
+   "domain": "devdiscourse.com",
+   "n_articles": 6,
+   "sample_title": "Taiwan Showcases Maritime Defense Prowess Amid Chinese Pressure"
   },
   {
    "domain": "upmedia.mg",
@@ -268,19 +272,14 @@
    "sample_title": "中國想贏又不想開戰！美前大使揭北京或祭「灰色地帶3新招」擴權攔台海船隻"
   },
   {
-   "domain": "devdiscourse.com",
+   "domain": "ctee.com.tw",
    "n_articles": 5,
-   "sample_title": "Taiwan's Tactical Drill Amid Rising Maritime Tensions"
+   "sample_title": "三棲尖刀如何煉成？揭秘共軍「東海飛龍」驚人訓練內幕- 兩岸"
   },
   {
    "domain": "foxnews.com",
    "n_articles": 4,
-   "sample_title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns lon"
-  },
-  {
-   "domain": "modernghana.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan’s military runs drills for potential China invasion #shorts"
+   "sample_title": "Taiwan launches massive war games to prepare for potential Chinese invasion"
   },
   {
    "domain": "hindustantimes.com",
@@ -288,14 +287,14 @@
    "sample_title": "Taiwan Military Conducts Live-Fire Exercise Amid Growing Concerns Over China Thr"
   },
   {
+   "domain": "modernghana.com",
+   "n_articles": 4,
+   "sample_title": "Taiwan’s military runs drills for potential China invasion #shorts"
+  },
+  {
    "domain": "firstpost.com",
    "n_articles": 4,
    "sample_title": "China-Indonesia naval drill near Taiwan highlights Asean’s difficult balancing a"
-  },
-  {
-   "domain": "ctee.com.tw",
-   "n_articles": 4,
-   "sample_title": "三棲尖刀如何煉成？揭秘共軍「東海飛龍」驚人訓練內幕- 兩岸"
   },
   {
    "domain": "ctinews.com",
@@ -333,14 +332,9 @@
    "sample_title": "Video | China-Taiwan War Games | Taiwan Army Deploys Tanks, Artillery to East Co"
   },
   {
-   "domain": "stratnewsglobal.com",
+   "domain": "wionews.com",
    "n_articles": 2,
-   "sample_title": "Taiwan Condemns China-Indonesia Naval Drill Off Its East Coast"
-  },
-  {
-   "domain": "gmanetwork.com",
-   "n_articles": 2,
-   "sample_title": "Indonesia says navy drill with China that angered Taiwan is routine"
+   "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
   },
   {
    "domain": "gazettengr.com",
@@ -348,9 +342,14 @@
    "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
   },
   {
-   "domain": "wionews.com",
+   "domain": "gmanetwork.com",
    "n_articles": 2,
-   "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
+   "sample_title": "Indonesia says navy drill with China that angered Taiwan is routine"
+  },
+  {
+   "domain": "anewz.tv",
+   "n_articles": 2,
+   "sample_title": "Taiwan accuses China of trying to assert control through planned naval drill"
   }
  ]
 }
