@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-13T07:55:57Z",
+ "updated": "2026-08-13T10:30:14Z",
  "checked": "2026-08-13",
- "duration_sec": 33.1,
+ "duration_sec": 35.2,
  "rolling_days": 14,
  "n_events": 483,
- "n_articles": 607,
+ "n_articles": 596,
  "grades": {
-  "D": 255,
-  "B": 44,
-  "A": 6,
-  "C": 178
+  "D": 257,
+  "C": 178,
+  "B": 43,
+  "A": 5
  },
- "cross_language_events": 7,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -19,17 +19,18 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 38,
-  "T2": 202,
+  "T1": 37,
+  "T2": 205,
   "T3": 99,
   "T4": 18,
-  "T5": 201,
+  "T5": 203,
   "TA": 7
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
   "aninews.in",
+  "apnews.com",
   "bbc.com",
   "bloomberg.com",
   "dw.com",
@@ -62,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 76,
-   "newest": "2026-08-13T07:05:12+00:00",
+   "n_adopted": 75,
+   "newest": "2026-08-13T09:44:55+00:00",
    "stale": false,
    "error": null
   },
@@ -89,7 +90,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 57,
-   "newest": "2026-08-13T07:44:53+00:00",
+   "newest": "2026-08-13T08:30:17+00:00",
    "stale": false,
    "error": null
   },
@@ -102,7 +103,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-08-13T06:37:17+00:00",
+   "newest": "2026-08-13T09:22:35+00:00",
    "stale": false,
    "error": null
   },
@@ -115,7 +116,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 1,
-   "newest": "2026-08-13T05:12:00+00:00",
+   "newest": "2026-08-13T08:35:18+00:00",
    "stale": false,
    "error": null
   },
@@ -126,9 +127,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 58,
+   "n_entries": 62,
    "n_adopted": 11,
-   "newest": "2026-08-13T06:36:45+00:00",
+   "newest": "2026-08-13T09:27:56+00:00",
    "stale": false,
    "error": null
   },
@@ -154,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-13T06:10:54+00:00",
+   "newest": "2026-08-13T10:22:23+00:00",
    "stale": false,
    "error": null
   },
@@ -167,7 +168,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-13T07:45:00+00:00",
+   "newest": "2026-08-13T09:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -204,9 +205,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 87,
+   "n_entries": 90,
    "n_adopted": 0,
-   "newest": "2026-08-13T07:38:20+00:00",
+   "newest": "2026-08-13T09:15:58+00:00",
    "stale": false,
    "error": null
   },
@@ -219,7 +220,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-13T06:21:31+00:00",
+   "newest": "2026-08-13T09:54:03+00:00",
    "stale": false,
    "error": null
   },
@@ -232,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-13T07:41:12+00:00",
+   "newest": "2026-08-13T09:51:30+00:00",
    "stale": false,
    "error": null
   },
@@ -263,18 +264,13 @@
   },
   {
    "domain": "devdiscourse.com",
-   "n_articles": 7,
+   "n_articles": 6,
    "sample_title": "Taiwan Showcases Maritime Defense Prowess Amid Chinese Pressure"
   },
   {
    "domain": "upmedia.mg",
    "n_articles": 6,
    "sample_title": "俄羅斯疑助中國潛艦「變安靜」！前美少將：台海水下戰美軍恐優勢盡失"
-  },
-  {
-   "domain": "hindustantimes.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan Military Conducts Live-Fire Exercise Amid Growing Concerns Over China Thr"
   },
   {
    "domain": "firstpost.com",
@@ -297,19 +293,24 @@
    "sample_title": "Russia is helping China close gap with US forces amid Taiwan tensions, warns lon"
   },
   {
-   "domain": "theaustralian.com.au",
-   "n_articles": 3,
-   "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
-  },
-  {
    "domain": "hk.crntt.com",
    "n_articles": 3,
    "sample_title": "京台共研會：台海主動權轉移成焦點"
   },
   {
+   "domain": "theaustralian.com.au",
+   "n_articles": 3,
+   "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 3,
    "sample_title": "AIT發文「韌性台灣」 桃機反機降幻象捍領空2／漢光登場三階段操演 模擬共軍侵襲、幻象2000緊急升空"
+  },
+  {
+   "domain": "hindustantimes.com",
+   "n_articles": 3,
+   "sample_title": "China’s landing route to Taipei blocked? Taiwan turns Danjiang bridge into a for"
   },
   {
    "domain": "sisaworld.kr",
@@ -322,9 +323,14 @@
    "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
   },
   {
-   "domain": "ndtv.com",
+   "domain": "m.economictimes.com",
    "n_articles": 2,
-   "sample_title": "Video | China-Taiwan War Games | Taiwan Army Deploys Tanks, Artillery to East Co"
+   "sample_title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual wa"
+  },
+  {
+   "domain": "gazettengr.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
   },
   {
    "domain": "wionews.com",
@@ -332,9 +338,9 @@
    "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
   },
   {
-   "domain": "gazettengr.com",
+   "domain": "latestly.com",
    "n_articles": 2,
-   "sample_title": "Taiwan simulated military drills, disrupted internet for potential China invasio"
+   "sample_title": "World News | Taiwan Detects Heightened Chinese Military Activity Around Territor"
   },
   {
    "domain": "gmanetwork.com",
@@ -345,11 +351,6 @@
    "domain": "anewz.tv",
    "n_articles": 2,
    "sample_title": "Taiwan accuses China of trying to assert control through planned naval drill"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 2,
-   "sample_title": "Why Is Taiwan Calling China’s Planned Naval Drill with Indonesia Dangerous?"
   }
  ]
 }
