@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-14T13:46:00Z",
+ "updated": "2026-08-14T16:07:37Z",
  "checked": "2026-08-14",
  "duration_sec": 35.0,
  "rolling_days": 14,
- "n_events": 488,
- "n_articles": 621,
+ "n_events": 491,
+ "n_articles": 624,
  "grades": {
+  "D": 261,
   "A": 6,
   "B": 41,
-  "C": 181,
-  "D": 260
+  "C": 183
  },
  "cross_language_events": 7,
  "tension_error": null,
@@ -20,7 +20,7 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 34,
-  "T2": 210,
+  "T2": 211,
   "T3": 108,
   "T4": 16,
   "T5": 202,
@@ -51,7 +51,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 22,
+   "n_adopted": 24,
    "newest": "2026-08-14T08:30:00+00:00",
    "stale": false,
    "error": null
@@ -64,8 +64,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 70,
-   "newest": "2026-08-14T12:44:17+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-14T13:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -90,8 +90,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-14T13:06:05+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-14T15:15:49+00:00",
    "stale": false,
    "error": null
   },
@@ -116,7 +116,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
+   "n_adopted": 8,
    "newest": "2026-08-14T12:55:02+00:00",
    "stale": false,
    "error": null
@@ -155,8 +155,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-14T12:09:00+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-14T14:00:08+00:00",
    "stale": false,
    "error": null
   },
@@ -178,12 +178,12 @@
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 2,
    "newest": "2026-08-06T15:06:06+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   },
   {
@@ -206,9 +206,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-14T11:59:45+00:00",
+   "newest": "2026-08-14T15:02:12+00:00",
    "stale": false,
    "error": null
   },
@@ -234,7 +234,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-14T13:07:19+00:00",
+   "newest": "2026-08-14T15:43:15+00:00",
    "stale": false,
    "error": null
   },
@@ -255,7 +255,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 21,
+   "n_articles": 22,
    "sample_title": "駐台使節參與城鎮韌性演習 總統：國際社會非常關心台海和平穩定 | 自由電子報"
   },
   {
