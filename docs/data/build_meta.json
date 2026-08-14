@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-14T07:53:19Z",
+ "updated": "2026-08-14T10:18:45Z",
  "checked": "2026-08-14",
- "duration_sec": 33.7,
+ "duration_sec": 34.9,
  "rolling_days": 14,
- "n_events": 491,
- "n_articles": 607,
+ "n_events": 490,
+ "n_articles": 616,
  "grades": {
-  "D": 260,
-  "C": 185,
-  "A": 5,
-  "B": 41
+  "D": 259,
+  "A": 6,
+  "B": 41,
+  "C": 184
  },
- "cross_language_events": 6,
+ "cross_language_events": 9,
  "tension_error": null,
  "archive_months": [
   "2026-07",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 34,
-  "T2": 210,
-  "T3": 97,
+  "T2": 211,
+  "T3": 101,
   "T4": 18,
-  "T5": 205,
+  "T5": 201,
   "TA": 5
  },
  "t1_domains": [
@@ -33,7 +33,6 @@
   "apnews.com",
   "bbc.com",
   "bloomberg.com",
-  "dw.com",
   "france24.com",
   "kyodonews.net",
   "nhk.or.jp",
@@ -51,8 +50,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 21,
-   "newest": "2026-08-13T07:32:02+00:00",
+   "n_adopted": 22,
+   "newest": "2026-08-14T08:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -64,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 74,
-   "newest": "2026-08-13T23:45:12+00:00",
+   "n_adopted": 70,
+   "newest": "2026-08-14T09:57:46+00:00",
    "stale": false,
    "error": null
   },
@@ -77,8 +76,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 23,
-   "newest": "2026-08-13T08:36:00+00:00",
+   "n_adopted": 25,
+   "newest": "2026-08-14T06:26:00+00:00",
    "stale": false,
    "error": null
   },
@@ -91,7 +90,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-08-14T07:33:00+00:00",
+   "newest": "2026-08-14T08:34:56+00:00",
    "stale": false,
    "error": null
   },
@@ -103,7 +102,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 11,
    "newest": "2026-08-14T01:20:42+00:00",
    "stale": false,
    "error": null
@@ -116,7 +115,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
+   "n_adopted": 8,
    "newest": "2026-08-14T07:11:00+00:00",
    "stale": false,
    "error": null
@@ -128,9 +127,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 11,
-   "newest": "2026-08-14T04:08:43+00:00",
+   "n_entries": 59,
+   "n_adopted": 14,
+   "newest": "2026-08-14T08:18:08+00:00",
    "stale": false,
    "error": null
   },
@@ -156,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-14T06:44:58+00:00",
+   "newest": "2026-08-14T09:22:03+00:00",
    "stale": false,
    "error": null
   },
@@ -169,7 +168,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-14T06:31:00+00:00",
+   "newest": "2026-08-14T09:26:00+00:00",
    "stale": false,
    "error": null
   },
@@ -195,7 +194,7 @@
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-08-14T03:17:54+00:00",
+   "newest": "2026-08-14T08:22:58+00:00",
    "stale": false,
    "error": null
   },
@@ -206,9 +205,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 95,
+   "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-08-14T07:38:34+00:00",
+   "newest": "2026-08-14T09:28:25+00:00",
    "stale": false,
    "error": null
   },
@@ -221,7 +220,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-14T07:00:56+00:00",
+   "newest": "2026-08-14T08:17:23+00:00",
    "stale": false,
    "error": null
   },
@@ -234,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-14T07:11:26+00:00",
+   "newest": "2026-08-14T09:35:06+00:00",
    "stale": false,
    "error": null
   },
@@ -255,18 +254,18 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 22,
+   "n_articles": 21,
    "sample_title": "駐台使節參與城鎮韌性演習 總統：國際社會非常關心台海和平穩定 | 自由電子報"
+  },
+  {
+   "domain": "devdiscourse.com",
+   "n_articles": 8,
+   "sample_title": "China Slams Taiwan's Military Drills as Provocative Stunt"
   },
   {
    "domain": "i-meihua.com",
    "n_articles": 8,
    "sample_title": "台積電成台海「能源軟肋」！華府兵推揭北京未開戰先施壓 恐用能源、礦產分化美盟友"
-  },
-  {
-   "domain": "devdiscourse.com",
-   "n_articles": 7,
-   "sample_title": "Taiwan Showcases Maritime Defense Prowess Amid Chinese Pressure"
   },
   {
    "domain": "upmedia.mg",
@@ -292,6 +291,11 @@
    "domain": "ctinews.com",
    "n_articles": 4,
    "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
+  },
+  {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 3,
+   "sample_title": "China Criticizes Taiwan War Games as Military Tensions Rise"
   },
   {
    "domain": "mirrordaily.news",
@@ -336,7 +340,7 @@
   {
    "domain": "m.economictimes.com",
    "n_articles": 2,
-   "sample_title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual wa"
+   "sample_title": "Taiwan Military drills simulate Chinese attack with missiles,special forces ambu"
   },
   {
    "domain": "wionews.com",
@@ -347,11 +351,6 @@
    "domain": "manilatimes.net",
    "n_articles": 2,
    "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
-  },
-  {
-   "domain": "foxbusiness.com",
-   "n_articles": 2,
-   "sample_title": "Steve Yates analyzes China's military calculus on Taiwan"
   }
  ]
 }
