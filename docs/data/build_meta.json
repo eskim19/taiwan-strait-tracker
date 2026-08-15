@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-15T01:51:55Z",
+ "updated": "2026-08-15T03:56:32Z",
  "checked": "2026-08-15",
- "duration_sec": 32.8,
+ "duration_sec": 34.9,
  "rolling_days": 14,
- "n_events": 494,
- "n_articles": 623,
+ "n_events": 491,
+ "n_articles": 621,
  "grades": {
-  "C": 185,
   "B": 40,
-  "D": 263,
-  "A": 6
+  "C": 182,
+  "A": 6,
+  "D": 263
  },
- "cross_language_events": 5,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-08"
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 32,
-  "T2": 211,
-  "T3": 107,
-  "T4": 15,
-  "T5": 207,
+  "T2": 210,
+  "T3": 104,
+  "T4": 17,
+  "T5": 205,
   "TA": 5
  },
  "t1_domains": [
@@ -63,7 +63,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
+   "n_adopted": 63,
    "newest": "2026-08-14T21:11:17+00:00",
    "stale": false,
    "error": null
@@ -89,8 +89,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-08-15T01:36:31+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-15T02:21:00+00:00",
    "stale": false,
    "error": null
   },
@@ -115,7 +115,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
+   "n_adopted": 7,
    "newest": "2026-08-15T01:09:37+00:00",
    "stale": false,
    "error": null
@@ -127,9 +127,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
+   "n_entries": 48,
    "n_adopted": 10,
-   "newest": "2026-08-14T13:25:41+00:00",
+   "newest": "2026-08-15T02:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-14T23:30:06+00:00",
+   "newest": "2026-08-15T03:00:08+00:00",
    "stale": false,
    "error": null
   },
@@ -168,7 +168,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-15T01:38:00+00:00",
+   "newest": "2026-08-15T02:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -205,9 +205,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 102,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-08-15T01:43:49+00:00",
+   "newest": "2026-08-15T02:42:34+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-15T01:36:04+00:00",
+   "newest": "2026-08-15T03:04:20+00:00",
    "stale": false,
    "error": null
   },
@@ -308,6 +308,11 @@
    "sample_title": "Taiwan stages defence drills as China ends naval exercises with Indonesia"
   },
   {
+   "domain": "fountmedia.io",
+   "n_articles": 3,
+   "sample_title": "解放軍擾台架次創3年新低！被問是否與川習北京峰會有關 中國國防部：何時行動自有安排"
+  },
+  {
    "domain": "theaustralian.com.au",
    "n_articles": 3,
    "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
@@ -346,11 +351,6 @@
    "domain": "cdns.com.tw",
    "n_articles": 2,
    "sample_title": "若台海衝突 菲總統：不介入"
-  },
-  {
-   "domain": "news.jtbc.co.kr",
-   "n_articles": 2,
-   "sample_title": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들가"
   }
  ]
 }
