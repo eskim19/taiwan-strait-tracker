@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-15T09:43:18Z",
+ "updated": "2026-08-15T13:00:43Z",
  "checked": "2026-08-15",
- "duration_sec": 33.6,
+ "duration_sec": 34.4,
  "rolling_days": 14,
- "n_events": 487,
- "n_articles": 621,
+ "n_events": 492,
+ "n_articles": 626,
  "grades": {
-  "B": 42,
-  "A": 6,
+  "D": 264,
+  "B": 43,
   "C": 179,
-  "D": 260
+  "A": 6
  },
  "cross_language_events": 8,
  "tension_error": null,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 35,
-  "T2": 206,
+  "T2": 207,
   "T3": 105,
-  "T4": 16,
-  "T5": 204,
+  "T4": 17,
+  "T5": 206,
   "TA": 5
  },
  "t1_domains": [
@@ -63,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 66,
-   "newest": "2026-08-15T04:47:44+00:00",
+   "n_adopted": 64,
+   "newest": "2026-08-15T12:48:41+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +76,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
+   "n_adopted": 21,
    "newest": "2026-08-14T06:26:00+00:00",
    "stale": false,
    "error": null
@@ -90,7 +90,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 61,
-   "newest": "2026-08-15T09:07:00+00:00",
+   "newest": "2026-08-15T12:40:45+00:00",
    "stale": false,
    "error": null
   },
@@ -103,7 +103,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 11,
-   "newest": "2026-08-14T16:10:00+00:00",
+   "newest": "2026-08-15T02:25:00+00:00",
    "stale": false,
    "error": null
   },
@@ -116,7 +116,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-08-15T08:42:00+00:00",
+   "newest": "2026-08-15T11:44:44+00:00",
    "stale": false,
    "error": null
   },
@@ -127,9 +127,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
+   "n_entries": 61,
    "n_adopted": 10,
-   "newest": "2026-08-15T06:51:18+00:00",
+   "newest": "2026-08-15T11:43:37+00:00",
    "stale": false,
    "error": null
   },
@@ -154,8 +154,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-15T06:00:48+00:00",
+   "n_adopted": 0,
+   "newest": "2026-08-15T12:30:06+00:00",
    "stale": false,
    "error": null
   },
@@ -207,7 +207,7 @@
    "http": 200,
    "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-15T08:59:54+00:00",
+   "newest": "2026-08-15T11:11:35+00:00",
    "stale": false,
    "error": null
   },
@@ -218,9 +218,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 19,
+   "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-08-15T09:29:31+00:00",
+   "newest": "2026-08-15T12:31:55+00:00",
    "stale": false,
    "error": null
   },
@@ -232,8 +232,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 25,
-   "n_adopted": 0,
-   "newest": "2026-08-15T08:50:56+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-15T12:14:30+00:00",
    "stale": false,
    "error": null
   },
@@ -338,6 +338,11 @@
    "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
   },
   {
+   "domain": "i-cable.com",
+   "n_articles": 2,
+   "sample_title": "小馬可斯指無意成為區內交戰國 若爆台海戰爭不會讓美軍從菲「攻擊」"
+  },
+  {
    "domain": "wionews.com",
    "n_articles": 2,
    "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
@@ -346,11 +351,6 @@
    "domain": "manilatimes.net",
    "n_articles": 2,
    "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
-  },
-  {
-   "domain": "cdns.com.tw",
-   "n_articles": 2,
-   "sample_title": "若台海衝突 菲總統：不介入"
   }
  ]
 }
