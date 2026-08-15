@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-15T18:49:54Z",
+ "updated": "2026-08-15T21:36:47Z",
  "checked": "2026-08-15",
- "duration_sec": 32.8,
+ "duration_sec": 34.4,
  "rolling_days": 14,
  "n_events": 496,
- "n_articles": 619,
+ "n_articles": 628,
  "grades": {
-  "C": 186,
+  "A": 6,
+  "C": 184,
   "D": 264,
-  "A": 5,
-  "B": 41
+  "B": 42
  },
- "cross_language_events": 5,
+ "cross_language_events": 7,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 35,
-  "T2": 210,
+  "T1": 34,
+  "T2": 212,
   "T3": 99,
-  "T4": 17,
-  "T5": 207,
+  "T4": 16,
+  "T5": 210,
   "TA": 5
  },
  "t1_domains": [
@@ -63,7 +63,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
+   "n_adopted": 65,
    "newest": "2026-08-15T12:48:41+00:00",
    "stale": false,
    "error": null
@@ -89,8 +89,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-08-15T13:57:12+00:00",
+   "n_adopted": 64,
+   "newest": "2026-08-15T20:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -103,7 +103,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 10,
-   "newest": "2026-08-14T16:10:00+00:00",
+   "newest": "2026-08-15T02:36:57+00:00",
    "stale": false,
    "error": null
   },
@@ -207,7 +207,7 @@
    "http": 200,
    "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-08-15T11:11:35+00:00",
+   "newest": "2026-08-15T19:25:02+00:00",
    "stale": false,
    "error": null
   },
@@ -220,7 +220,7 @@
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-08-15T14:40:15+00:00",
+   "newest": "2026-08-15T20:00:15+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-15T18:11:12+00:00",
+   "newest": "2026-08-15T20:55:29+00:00",
    "stale": false,
    "error": null
   },
@@ -264,7 +264,7 @@
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 6,
+   "n_articles": 7,
    "sample_title": "對槓漢光演習？15架共機越台海中線 解放軍18機、11艦3公務船齊聚台海多方向活動"
   },
   {
@@ -295,12 +295,7 @@
   {
    "domain": "m.economictimes.com",
    "n_articles": 3,
-   "sample_title": "Taiwan Military drills simulate Chinese attack with missiles,special forces ambu"
-  },
-  {
-   "domain": "manilatimes.net",
-   "n_articles": 3,
-   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
+   "sample_title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual wa"
   },
   {
    "domain": "mirrordaily.news",
@@ -336,6 +331,11 @@
    "domain": "ibtimes.sg",
    "n_articles": 3,
    "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
+  },
+  {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 2,
+   "sample_title": "China Criticizes Taiwan War Games as Military Tensions Rise"
   },
   {
    "domain": "i-cable.com",
