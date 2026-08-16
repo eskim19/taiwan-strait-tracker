@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-16T18:48:56Z",
+ "updated": "2026-08-16T21:36:17Z",
  "checked": "2026-08-16",
- "duration_sec": 32.3,
+ "duration_sec": 32.2,
  "rolling_days": 14,
- "n_events": 497,
+ "n_events": 498,
  "n_articles": 617,
  "grades": {
-  "C": 187,
+  "C": 190,
   "B": 41,
-  "D": 262,
+  "D": 260,
   "A": 7
  },
  "cross_language_events": 7,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 32,
-  "T2": 215,
-  "T3": 88,
+  "T2": 217,
+  "T3": 87,
   "T4": 14,
-  "T5": 215,
+  "T5": 213,
   "TA": 5
  },
  "t1_domains": [
@@ -48,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
+   "n_adopted": 27,
    "newest": "2026-08-16T07:27:07+00:00",
    "stale": false,
    "error": null
@@ -61,7 +61,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 66,
+   "n_adopted": 67,
    "newest": "2026-08-16T17:35:12+00:00",
    "stale": false,
    "error": null
@@ -74,7 +74,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
+   "n_adopted": 21,
    "newest": "2026-08-16T02:14:25+00:00",
    "stale": false,
    "error": null
@@ -216,9 +216,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 21,
+   "n_entries": 22,
    "n_adopted": 0,
-   "newest": "2026-08-16T12:37:21+00:00",
+   "newest": "2026-08-16T21:27:42+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-16T17:46:21+00:00",
+   "newest": "2026-08-16T21:03:53+00:00",
    "stale": false,
    "error": null
   },
