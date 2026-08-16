@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-16T04:01:49Z",
+ "updated": "2026-08-16T07:01:51Z",
  "checked": "2026-08-16",
- "duration_sec": 31.5,
+ "duration_sec": 36.5,
  "rolling_days": 14,
- "n_events": 500,
- "n_articles": 630,
+ "n_events": 495,
+ "n_articles": 628,
  "grades": {
-  "C": 185,
-  "D": 268,
-  "B": 42,
-  "A": 5
+  "C": 183,
+  "D": 264,
+  "A": 5,
+  "B": 43
  },
- "cross_language_events": 7,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-08"
@@ -19,17 +19,15 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 33,
-  "T2": 212,
-  "T3": 98,
-  "T4": 16,
+  "T2": 211,
+  "T3": 95,
+  "T4": 15,
   "T5": 210,
   "TA": 5
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
-  "aninews.in",
-  "apnews.com",
   "bbc.com",
   "bloomberg.com",
   "dw.com",
@@ -50,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 25,
    "newest": "2026-08-14T18:04:39+00:00",
    "stale": false,
    "error": null
@@ -63,8 +61,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-08-16T01:42:00+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-16T06:54:48+00:00",
    "stale": false,
    "error": null
   },
@@ -76,7 +74,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 22,
+   "n_adopted": 20,
    "newest": "2026-08-16T02:14:25+00:00",
    "stale": false,
    "error": null
@@ -89,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
-   "newest": "2026-08-16T02:35:00+00:00",
+   "n_adopted": 64,
+   "newest": "2026-08-16T06:37:30+00:00",
    "stale": false,
    "error": null
   },
@@ -116,7 +114,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 6,
-   "newest": "2026-08-16T03:18:19+00:00",
+   "newest": "2026-08-16T05:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +153,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-16T04:00:10+00:00",
+   "newest": "2026-08-16T06:00:20+00:00",
    "stale": false,
    "error": null
   },
@@ -168,7 +166,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-16T02:37:00+00:00",
+   "newest": "2026-08-16T05:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -207,7 +205,7 @@
    "http": 200,
    "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-16T02:50:59+00:00",
+   "newest": "2026-08-16T06:00:01+00:00",
    "stale": false,
    "error": null
   },
@@ -220,7 +218,7 @@
    "http": 200,
    "n_entries": 21,
    "n_adopted": 0,
-   "newest": "2026-08-15T21:49:12+00:00",
+   "newest": "2026-08-16T04:13:32+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-16T03:47:43+00:00",
+   "newest": "2026-08-16T06:40:50+00:00",
    "stale": false,
    "error": null
   },
@@ -264,7 +262,7 @@
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 7,
+   "n_articles": 6,
    "sample_title": "對槓漢光演習？15架共機越台海中線 解放軍18機、11艦3公務船齊聚台海多方向活動"
   },
   {
@@ -283,14 +281,19 @@
    "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
   },
   {
-   "domain": "mnews.tw",
+   "domain": "ctinews.com",
    "n_articles": 4,
-   "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
+   "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
   },
   {
    "domain": "foxnews.com",
    "n_articles": 4,
    "sample_title": "China's Taiwan threat: Military buildup exposed"
+  },
+  {
+   "domain": "mnews.tw",
+   "n_articles": 3,
+   "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
   },
   {
    "domain": "interestingengineering.com",
@@ -301,6 +304,11 @@
    "domain": "m.economictimes.com",
    "n_articles": 3,
    "sample_title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual wa"
+  },
+  {
+   "domain": "manilatimes.net",
+   "n_articles": 3,
+   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
   },
   {
    "domain": "mirrordaily.news",
@@ -323,11 +331,6 @@
    "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
   },
   {
-   "domain": "ctinews.com",
-   "n_articles": 3,
-   "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
-  },
-  {
    "domain": "sisaworld.kr",
    "n_articles": 3,
    "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
@@ -346,11 +349,6 @@
    "domain": "i-cable.com",
    "n_articles": 2,
    "sample_title": "小馬可斯指無意成為區內交戰國 若爆台海戰爭不會讓美軍從菲「攻擊」"
-  },
-  {
-   "domain": "wionews.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
   }
  ]
 }
