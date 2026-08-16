@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-16T01:59:18Z",
+ "updated": "2026-08-16T04:01:49Z",
  "checked": "2026-08-16",
- "duration_sec": 33.2,
+ "duration_sec": 31.5,
  "rolling_days": 14,
- "n_events": 496,
- "n_articles": 628,
+ "n_events": 500,
+ "n_articles": 630,
  "grades": {
-  "D": 265,
-  "A": 5,
-  "C": 184,
-  "B": 42
+  "C": 185,
+  "D": 268,
+  "B": 42,
+  "A": 5
  },
  "cross_language_events": 7,
  "tension_error": null,
@@ -18,10 +18,10 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 34,
+  "T1": 33,
   "T2": 212,
   "T3": 98,
-  "T4": 17,
+  "T4": 16,
   "T5": 210,
   "TA": 5
  },
@@ -50,7 +50,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
+   "n_adopted": 26,
    "newest": "2026-08-14T18:04:39+00:00",
    "stale": false,
    "error": null
@@ -63,8 +63,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
-   "newest": "2026-08-15T14:00:07+00:00",
+   "n_adopted": 62,
+   "newest": "2026-08-16T01:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -76,8 +76,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 21,
-   "newest": "2026-08-14T06:26:00+00:00",
+   "n_adopted": 22,
+   "newest": "2026-08-16T02:14:25+00:00",
    "stale": false,
    "error": null
   },
@@ -90,7 +90,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 65,
-   "newest": "2026-08-16T01:52:30+00:00",
+   "newest": "2026-08-16T02:35:00+00:00",
    "stale": false,
    "error": null
   },
@@ -115,8 +115,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
-   "newest": "2026-08-16T00:20:00+00:00",
+   "n_adopted": 6,
+   "newest": "2026-08-16T03:18:19+00:00",
    "stale": false,
    "error": null
   },
@@ -155,7 +155,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-15T22:00:10+00:00",
+   "newest": "2026-08-16T04:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -168,7 +168,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-16T01:09:00+00:00",
+   "newest": "2026-08-16T02:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -205,9 +205,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-16T01:21:04+00:00",
+   "newest": "2026-08-16T02:50:59+00:00",
    "stale": false,
    "error": null
   },
@@ -233,7 +233,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-16T01:43:57+00:00",
+   "newest": "2026-08-16T03:47:43+00:00",
    "stale": false,
    "error": null
   },
@@ -293,19 +293,14 @@
    "sample_title": "China's Taiwan threat: Military buildup exposed"
   },
   {
-   "domain": "ctinews.com",
-   "n_articles": 4,
-   "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
+   "domain": "interestingengineering.com",
+   "n_articles": 3,
+   "sample_title": "New drone technology exposes weaknesses in Taiwan’s air defenses"
   },
   {
    "domain": "m.economictimes.com",
    "n_articles": 3,
    "sample_title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual wa"
-  },
-  {
-   "domain": "manilatimes.net",
-   "n_articles": 3,
-   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
   },
   {
    "domain": "mirrordaily.news",
@@ -326,6 +321,11 @@
    "domain": "theaustralian.com.au",
    "n_articles": 3,
    "sample_title": "‘A bonanza’: Is China using Indonesia over Taiwan naval drills?"
+  },
+  {
+   "domain": "ctinews.com",
+   "n_articles": 3,
+   "sample_title": "CNN：美軍改裝19艘「巡弋飛彈核潛艦」 劍指台海第一島鏈防線"
   },
   {
    "domain": "sisaworld.kr",
