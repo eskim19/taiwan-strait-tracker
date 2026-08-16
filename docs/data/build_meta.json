@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-16T15:37:51Z",
+ "updated": "2026-08-16T18:48:56Z",
  "checked": "2026-08-16",
- "duration_sec": 34.8,
+ "duration_sec": 32.3,
  "rolling_days": 14,
- "n_events": 499,
- "n_articles": 637,
+ "n_events": 497,
+ "n_articles": 617,
  "grades": {
-  "B": 45,
-  "C": 186,
-  "D": 263,
-  "A": 5
+  "C": 187,
+  "B": 41,
+  "D": 262,
+  "A": 7
  },
  "cross_language_events": 7,
  "tension_error": null,
@@ -18,9 +18,9 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 33,
+  "T1": 32,
   "T2": 215,
-  "T3": 95,
+  "T3": 88,
   "T4": 14,
   "T5": 215,
   "TA": 5
@@ -48,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
+   "n_adopted": 28,
    "newest": "2026-08-16T07:27:07+00:00",
    "stale": false,
    "error": null
@@ -61,8 +61,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 67,
-   "newest": "2026-08-16T11:35:12+00:00",
+   "n_adopted": 66,
+   "newest": "2026-08-16T17:35:12+00:00",
    "stale": false,
    "error": null
   },
@@ -87,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-08-16T13:11:00+00:00",
+   "n_adopted": 63,
+   "newest": "2026-08-16T15:37:11+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
+   "n_adopted": 8,
    "newest": "2026-08-16T11:17:33+00:00",
    "stale": false,
    "error": null
@@ -113,7 +113,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
+   "n_adopted": 5,
    "newest": "2026-08-16T12:56:00+00:00",
    "stale": false,
    "error": null
@@ -125,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 6,
-   "newest": "2026-08-16T11:36:28+00:00",
+   "n_entries": 26,
+   "n_adopted": 0,
+   "newest": "2026-08-16T13:42:32+00:00",
    "stale": false,
    "error": null
   },
@@ -138,9 +138,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 44,
-   "n_adopted": 0,
-   "newest": "2026-08-16T00:00:00+00:00",
+   "n_entries": 46,
+   "n_adopted": 2,
+   "newest": "2026-08-17T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-16T14:55:51+00:00",
+   "newest": "2026-08-16T17:46:21+00:00",
    "stale": false,
    "error": null
   },
@@ -252,7 +252,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 22,
+   "n_articles": 21,
    "sample_title": "美韓軍演首提「第一島鏈」 駐韓美軍戰力恐延伸台海 | Newtalk"
   },
   {
@@ -268,12 +268,12 @@
   {
    "domain": "i-meihua.com",
    "n_articles": 6,
-   "sample_title": "對槓漢光演習？15架共機越台海中線 解放軍18機、11艦3公務船齊聚台海多方向活動"
+   "sample_title": "台積電成台海「能源軟肋」！華府兵推揭北京未開戰先施壓 恐用能源、礦產分化美盟友"
   },
   {
-   "domain": "fountmedia.io",
+   "domain": "foxnews.com",
    "n_articles": 5,
-   "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
+   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
    "domain": "hk.crntt.com",
@@ -291,9 +291,14 @@
    "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
   },
   {
-   "domain": "foxnews.com",
+   "domain": "fountmedia.io",
    "n_articles": 4,
-   "sample_title": "China's Taiwan threat: Military buildup exposed"
+   "sample_title": "中朝俄「不結盟的聯手」正在成形！日本如芒刺在背、南韓押注和談美國換打法，台灣不能只盯台海"
+  },
+  {
+   "domain": "manilatimes.net",
+   "n_articles": 3,
+   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
   },
   {
    "domain": "interestingengineering.com",
@@ -306,9 +311,9 @@
    "sample_title": "Taiwan simulates repelling Chinese assault, to slow mobile internet in annual wa"
   },
   {
-   "domain": "manilatimes.net",
+   "domain": "moderndiplomacy.eu",
    "n_articles": 3,
-   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
+   "sample_title": "China Criticizes Taiwan War Games as Military Tensions Rise"
   },
   {
    "domain": "mirrordaily.news",
@@ -339,11 +344,6 @@
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 2,
-   "sample_title": "China Criticizes Taiwan War Games as Military Tensions Rise"
   },
   {
    "domain": "i-cable.com",
