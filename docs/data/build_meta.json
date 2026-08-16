@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-16T09:44:08Z",
+ "updated": "2026-08-16T13:03:06Z",
  "checked": "2026-08-16",
- "duration_sec": 34.0,
+ "duration_sec": 36.6,
  "rolling_days": 14,
  "n_events": 498,
- "n_articles": 636,
+ "n_articles": 633,
  "grades": {
-  "D": 264,
-  "C": 185,
-  "A": 6,
-  "B": 43
+  "C": 187,
+  "D": 263,
+  "B": 44,
+  "A": 4
  },
  "cross_language_events": 6,
  "tension_error": null,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 33,
-  "T2": 213,
-  "T3": 96,
-  "T4": 15,
-  "T5": 211,
+  "T1": 32,
+  "T2": 214,
+  "T3": 94,
+  "T4": 14,
+  "T5": 213,
   "TA": 5
  },
  "t1_domains": [
@@ -48,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
+   "n_adopted": 26,
    "newest": "2026-08-16T07:27:07+00:00",
    "stale": false,
    "error": null
@@ -61,8 +61,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-08-16T06:54:48+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-16T11:35:12+00:00",
    "stale": false,
    "error": null
   },
@@ -88,7 +88,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-08-16T09:03:00+00:00",
+   "newest": "2026-08-16T12:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -101,7 +101,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 10,
-   "newest": "2026-08-16T09:24:31+00:00",
+   "newest": "2026-08-16T11:17:33+00:00",
    "stale": false,
    "error": null
   },
@@ -113,8 +113,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
-   "newest": "2026-08-16T09:05:37+00:00",
+   "n_adopted": 6,
+   "newest": "2026-08-16T11:25:00+00:00",
    "stale": false,
    "error": null
   },
@@ -125,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
+   "n_entries": 51,
    "n_adopted": 6,
-   "newest": "2026-08-16T08:40:12+00:00",
+   "newest": "2026-08-16T11:36:28+00:00",
    "stale": false,
    "error": null
   },
@@ -153,7 +153,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-08-16T08:00:12+00:00",
+   "newest": "2026-08-16T13:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -166,7 +166,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-16T07:43:00+00:00",
+   "newest": "2026-08-16T10:48:00+00:00",
    "stale": false,
    "error": null
   },
@@ -205,7 +205,7 @@
    "http": 200,
    "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-16T09:09:52+00:00",
+   "newest": "2026-08-16T12:56:40+00:00",
    "stale": false,
    "error": null
   },
@@ -218,7 +218,7 @@
    "http": 200,
    "n_entries": 21,
    "n_adopted": 0,
-   "newest": "2026-08-16T08:23:38+00:00",
+   "newest": "2026-08-16T12:37:21+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-16T09:03:05+00:00",
+   "newest": "2026-08-16T12:35:31+00:00",
    "stale": false,
    "error": null
   },
@@ -261,14 +261,19 @@
    "sample_title": "China Slams Taiwan's Military Drills as Provocative Stunt"
   },
   {
-   "domain": "i-meihua.com",
-   "n_articles": 6,
-   "sample_title": "台積電成台海「能源軟肋」！華府兵推揭北京未開戰先施壓 恐用能源、礦產分化美盟友"
+   "domain": "upmedia.mg",
+   "n_articles": 7,
+   "sample_title": "西太最後1艘美航艦撤了！華盛頓號赴中東救火 台海恐成中國「秀肌肉」舞台"
   },
   {
-   "domain": "upmedia.mg",
+   "domain": "i-meihua.com",
    "n_articles": 6,
-   "sample_title": "俄羅斯疑助中國潛艦「變安靜」 前美少將：台海水下戰美軍恐優勢盡失"
+   "sample_title": "對槓漢光演習？15架共機越台海中線 解放軍18機、11艦3公務船齊聚台海多方向活動"
+  },
+  {
+   "domain": "fountmedia.io",
+   "n_articles": 5,
+   "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
   },
   {
    "domain": "hk.crntt.com",
@@ -281,11 +286,6 @@
    "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
   },
   {
-   "domain": "fountmedia.io",
-   "n_articles": 4,
-   "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
-  },
-  {
    "domain": "ctinews.com",
    "n_articles": 4,
    "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
@@ -294,11 +294,6 @@
    "domain": "foxnews.com",
    "n_articles": 4,
    "sample_title": "China's Taiwan threat: Military buildup exposed"
-  },
-  {
-   "domain": "mnews.tw",
-   "n_articles": 3,
-   "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
   },
   {
    "domain": "interestingengineering.com",
@@ -339,6 +334,11 @@
    "domain": "ibtimes.sg",
    "n_articles": 3,
    "sample_title": "Taiwan Deploys US-Made Abrams Tanks in Largest War Drills Yet Amid China Threat"
+  },
+  {
+   "domain": "mnews.tw",
+   "n_articles": 2,
+   "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
   },
   {
    "domain": "moderndiplomacy.eu",
