@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-18T09:50:54Z",
+ "updated": "2026-08-18T13:10:33Z",
  "checked": "2026-08-18",
- "duration_sec": 33.0,
+ "duration_sec": 35.9,
  "rolling_days": 14,
- "n_events": 495,
- "n_articles": 620,
+ "n_events": 496,
+ "n_articles": 623,
  "grades": {
+  "D": 260,
   "C": 187,
-  "D": 256,
-  "B": 46,
+  "B": 43,
   "A": 6
  },
- "cross_language_events": 7,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 33,
-  "T2": 213,
-  "T3": 88,
+  "T1": 30,
+  "T2": 211,
+  "T3": 90,
   "T4": 14,
-  "T5": 212,
+  "T5": 219,
   "TA": 4
  },
  "t1_domains": [
@@ -48,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 25,
    "newest": "2026-08-17T09:10:42+00:00",
    "stale": false,
    "error": null
@@ -60,9 +60,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 95,
-   "n_adopted": 68,
-   "newest": "2026-08-18T04:12:06+00:00",
+   "n_entries": 100,
+   "n_adopted": 70,
+   "newest": "2026-08-18T08:59:00+00:00",
    "stale": false,
    "error": null
   },
@@ -74,7 +74,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
+   "n_adopted": 16,
    "newest": "2026-08-17T01:03:00+00:00",
    "stale": false,
    "error": null
@@ -87,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-08-18T08:43:11+00:00",
+   "n_adopted": 66,
+   "newest": "2026-08-18T10:32:52+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
+   "n_adopted": 8,
    "newest": "2026-08-17T15:00:00+00:00",
    "stale": false,
    "error": null
@@ -113,8 +113,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-08-18T07:49:20+00:00",
+   "n_adopted": 7,
+   "newest": "2026-08-18T12:24:00+00:00",
    "stale": false,
    "error": null
   },
@@ -125,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 1,
-   "newest": "2026-08-18T07:39:35+00:00",
+   "n_entries": 55,
+   "n_adopted": 2,
+   "newest": "2026-08-18T11:48:58+00:00",
    "stale": false,
    "error": null
   },
@@ -152,8 +152,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-18T09:12:49+00:00",
+   "n_adopted": 3,
+   "newest": "2026-08-18T13:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -166,7 +166,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-18T09:07:00+00:00",
+   "newest": "2026-08-18T11:51:00+00:00",
    "stale": false,
    "error": null
   },
@@ -205,7 +205,7 @@
    "http": 200,
    "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-18T09:30:26+00:00",
+   "newest": "2026-08-18T11:36:11+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-18T09:15:03+00:00",
+   "newest": "2026-08-18T12:47:41+00:00",
    "stale": false,
    "error": null
   },
@@ -252,7 +252,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
+   "n_articles": 19,
    "sample_title": "中共假借「聯合戰備警巡」之名來亂 18架次擾台含13架逾越中線 | 鏡週刊"
   },
   {
@@ -276,6 +276,11 @@
    "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
+   "domain": "ctinews.com",
+   "n_articles": 5,
+   "sample_title": "漢光42號演習落幕！共軍23機艦船擾台 全程盯場"
+  },
+  {
    "domain": "hk.crntt.com",
    "n_articles": 5,
    "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
@@ -291,9 +296,9 @@
    "sample_title": "Taiwan detects one Chinese military aircraft, 16 ships around island"
   },
   {
-   "domain": "ctinews.com",
+   "domain": "anewz.tv",
    "n_articles": 4,
-   "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
+   "sample_title": "Taiwan’s $31 billion defence bet: Can it keep the peace?"
   },
   {
    "domain": "moderndiplomacy.eu",
@@ -306,9 +311,9 @@
    "sample_title": "New drone technology exposes weaknesses in Taiwan’s air defenses"
   },
   {
-   "domain": "anewz.tv",
+   "domain": "manilatimes.net",
    "n_articles": 3,
-   "sample_title": "Taiwan stages defence drills as China ends naval exercises with Indonesia"
+   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
   },
   {
    "domain": "i-meihua.com",
@@ -339,11 +344,6 @@
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
-  },
-  {
-   "domain": "plataformamedia.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan wrapped up its Han Kuang exercises with a first-ever Navy-Coast Guard dri"
   },
   {
    "domain": "i-cable.com",
