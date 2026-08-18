@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-18T15:48:38Z",
+ "updated": "2026-08-18T18:58:28Z",
  "checked": "2026-08-18",
- "duration_sec": 32.1,
+ "duration_sec": 32.5,
  "rolling_days": 14,
- "n_events": 494,
- "n_articles": 621,
+ "n_events": 493,
+ "n_articles": 622,
  "grades": {
-  "D": 259,
-  "C": 186,
-  "B": 43,
+  "C": 187,
+  "D": 255,
+  "B": 45,
   "A": 6
  },
  "cross_language_events": 7,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 30,
-  "T2": 214,
+  "T1": 31,
+  "T2": 217,
   "T3": 89,
   "T4": 14,
-  "T5": 214,
+  "T5": 212,
   "TA": 4
  },
  "t1_domains": [
@@ -48,8 +48,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 25,
-   "newest": "2026-08-17T09:10:42+00:00",
+   "n_adopted": 26,
+   "newest": "2026-08-18T16:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -60,9 +60,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 93,
-   "n_adopted": 65,
-   "newest": "2026-08-18T08:59:00+00:00",
+   "n_entries": 97,
+   "n_adopted": 67,
+   "newest": "2026-08-18T11:04:21+00:00",
    "stale": false,
    "error": null
   },
@@ -87,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 66,
-   "newest": "2026-08-18T13:42:08+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-18T16:09:40+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
+   "n_adopted": 10,
    "newest": "2026-08-18T14:22:00+00:00",
    "stale": false,
    "error": null
@@ -113,7 +113,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
+   "n_adopted": 7,
    "newest": "2026-08-18T14:12:00+00:00",
    "stale": false,
    "error": null
@@ -125,7 +125,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 56,
+   "n_entries": 44,
    "n_adopted": 2,
    "newest": "2026-08-18T13:26:02+00:00",
    "stale": false,
@@ -138,9 +138,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
+   "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-08-18T00:00:00+00:00",
+   "newest": "2026-08-19T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -152,8 +152,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 3,
-   "newest": "2026-08-18T13:10:18+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-18T17:07:20+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-18T15:14:17+00:00",
+   "newest": "2026-08-18T18:33:11+00:00",
    "stale": false,
    "error": null
   },
@@ -257,7 +257,7 @@
   },
   {
    "domain": "devdiscourse.com",
-   "n_articles": 10,
+   "n_articles": 9,
    "sample_title": "Rising Tensions: Chinese Military Activity Escalates Near Taiwan"
   },
   {
@@ -286,6 +286,11 @@
    "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
   },
   {
+   "domain": "m.economictimes.com",
+   "n_articles": 4,
+   "sample_title": "Taiwan detects one Chinese military aircraft, 16 ships around island"
+  },
+  {
    "domain": "anewz.tv",
    "n_articles": 4,
    "sample_title": "Taiwan’s $31 billion defence bet: Can it keep the peace?"
@@ -294,11 +299,6 @@
    "domain": "ctinews.com",
    "n_articles": 4,
    "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
-  },
-  {
-   "domain": "m.economictimes.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan detects one Chinese military aircraft, 16 ships around island"
   },
   {
    "domain": "moderndiplomacy.eu",
