@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-18T18:58:28Z",
+ "updated": "2026-08-18T21:41:03Z",
  "checked": "2026-08-18",
- "duration_sec": 32.5,
+ "duration_sec": 33.8,
  "rolling_days": 14,
- "n_events": 493,
- "n_articles": 622,
+ "n_events": 494,
+ "n_articles": 625,
  "grades": {
+  "D": 256,
   "C": 187,
-  "D": 255,
   "B": 45,
   "A": 6
  },
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 31,
+  "T1": 32,
   "T2": 217,
-  "T3": 89,
+  "T3": 92,
   "T4": 14,
-  "T5": 212,
+  "T5": 211,
   "TA": 4
  },
  "t1_domains": [
@@ -60,7 +60,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 97,
+   "n_entries": 96,
    "n_adopted": 67,
    "newest": "2026-08-18T11:04:21+00:00",
    "stale": false,
@@ -74,7 +74,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
+   "n_adopted": 16,
    "newest": "2026-08-18T00:05:00+00:00",
    "stale": false,
    "error": null
@@ -87,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
-   "newest": "2026-08-18T16:09:40+00:00",
+   "n_adopted": 66,
+   "newest": "2026-08-18T20:18:42+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 11,
    "newest": "2026-08-18T14:22:00+00:00",
    "stale": false,
    "error": null
@@ -113,8 +113,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
-   "newest": "2026-08-18T14:12:00+00:00",
+   "n_adopted": 8,
+   "newest": "2026-08-18T13:41:40+00:00",
    "stale": false,
    "error": null
   },
@@ -153,7 +153,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-18T17:07:20+00:00",
+   "newest": "2026-08-18T21:14:36+00:00",
    "stale": false,
    "error": null
   },
@@ -216,9 +216,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-08-18T07:17:07+00:00",
+   "newest": "2026-08-18T16:00:30+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-18T18:33:11+00:00",
+   "newest": "2026-08-18T21:26:47+00:00",
    "stale": false,
    "error": null
   },
@@ -267,8 +267,8 @@
   },
   {
    "domain": "fountmedia.io",
-   "n_articles": 5,
-   "sample_title": "漢光落幕共軍活動沒停！8共艦、7公務船持續台海周邊 3架共機進入北部東部空域"
+   "n_articles": 6,
+   "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
   },
   {
    "domain": "foxnews.com",
@@ -286,11 +286,6 @@
    "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
   },
   {
-   "domain": "m.economictimes.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan detects one Chinese military aircraft, 16 ships around island"
-  },
-  {
    "domain": "anewz.tv",
    "n_articles": 4,
    "sample_title": "Taiwan’s $31 billion defence bet: Can it keep the peace?"
@@ -299,6 +294,11 @@
    "domain": "ctinews.com",
    "n_articles": 4,
    "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
+  },
+  {
+   "domain": "m.economictimes.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan detects one Chinese military aircraft, 16 ships around island"
   },
   {
    "domain": "moderndiplomacy.eu",
@@ -318,7 +318,7 @@
   {
    "domain": "sisaworld.kr",
    "n_articles": 3,
-   "sample_title": "라이칭더 대만 총통, 중국 침공 대비 ‘한광훈련’ 직접 참관…북·중·남부 전역서 실전형 훈련 진행"
+   "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
   },
   {
    "domain": "ntd.com",
@@ -341,14 +341,14 @@
    "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
   },
   {
-   "domain": "plataformamedia.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan wrapped up its Han Kuang exercises with a first-ever Navy-Coast Guard dri"
-  },
-  {
    "domain": "i-cable.com",
    "n_articles": 2,
    "sample_title": "小馬可斯指無意成為區內交戰國 若爆台海戰爭不會讓美軍從菲「攻擊」"
+  },
+  {
+   "domain": "wionews.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
   }
  ]
 }
