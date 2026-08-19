@@ -1,33 +1,34 @@
 {
- "updated": "2026-08-19T04:01:09Z",
+ "updated": "2026-08-19T07:07:36Z",
  "checked": "2026-08-19",
- "duration_sec": 36.2,
+ "duration_sec": 32.9,
  "rolling_days": 14,
- "n_events": 496,
- "n_articles": 626,
+ "n_events": 500,
+ "n_articles": 631,
  "grades": {
   "C": 188,
-  "D": 259,
-  "B": 43,
+  "D": 262,
+  "B": 44,
   "A": 6
  },
- "cross_language_events": 7,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 30,
-  "T2": 219,
-  "T3": 92,
+  "T1": 32,
+  "T2": 216,
+  "T3": 99,
   "T4": 14,
-  "T5": 211,
+  "T5": 209,
   "TA": 4
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
+  "aninews.in",
   "bbc.com",
   "bloomberg.com",
   "dw.com",
@@ -47,7 +48,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 24,
+   "n_adopted": 26,
    "newest": "2026-08-18T16:00:00+00:00",
    "stale": false,
    "error": null
@@ -60,8 +61,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-08-19T02:31:00+00:00",
+   "n_adopted": 67,
+   "newest": "2026-08-19T06:48:00+00:00",
    "stale": false,
    "error": null
   },
@@ -73,7 +74,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 19,
+   "n_adopted": 18,
    "newest": "2026-08-19T01:30:53+00:00",
    "stale": false,
    "error": null
@@ -86,8 +87,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 66,
-   "newest": "2026-08-19T02:26:00+00:00",
+   "n_adopted": 64,
+   "newest": "2026-08-19T06:25:58+00:00",
    "stale": false,
    "error": null
   },
@@ -99,8 +100,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-08-18T14:22:00+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-19T05:34:00+00:00",
    "stale": false,
    "error": null
   },
@@ -112,8 +113,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-08-19T02:59:00+00:00",
+   "n_adopted": 11,
+   "newest": "2026-08-19T05:33:15+00:00",
    "stale": false,
    "error": null
   },
@@ -124,9 +125,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 44,
+   "n_entries": 49,
    "n_adopted": 2,
-   "newest": "2026-08-18T13:26:02+00:00",
+   "newest": "2026-08-19T04:10:31+00:00",
    "stale": false,
    "error": null
   },
@@ -151,8 +152,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-08-19T02:09:53+00:00",
+   "n_adopted": 1,
+   "newest": "2026-08-19T06:35:37+00:00",
    "stale": false,
    "error": null
   },
@@ -165,7 +166,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-19T03:48:00+00:00",
+   "newest": "2026-08-19T06:53:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,9 +203,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 96,
    "n_adopted": 0,
-   "newest": "2026-08-19T03:37:12+00:00",
+   "newest": "2026-08-19T07:01:14+00:00",
    "stale": false,
    "error": null
   },
@@ -217,7 +218,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-19T03:26:27+00:00",
+   "newest": "2026-08-19T05:53:53+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +231,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-19T03:44:44+00:00",
+   "newest": "2026-08-19T06:27:30+00:00",
    "stale": false,
    "error": null
   },
@@ -305,14 +306,14 @@
    "sample_title": "New drone technology exposes weaknesses in Taiwan’s air defenses"
   },
   {
-   "domain": "i-meihua.com",
-   "n_articles": 3,
-   "sample_title": "日兩船借颱風進台海 張競才示警「留意動向」 大陸海警全程跟監"
-  },
-  {
    "domain": "sisaworld.kr",
    "n_articles": 3,
    "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
+  },
+  {
+   "domain": "mshale.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Launches Largest-ever Military Drills To Prepare For Invasion By China's "
   },
   {
    "domain": "m.economictimes.com",
@@ -323,11 +324,6 @@
    "domain": "ntd.com",
    "n_articles": 2,
    "sample_title": "Taiwan: Record Defense Spending; China's Economy Slows in July"
-  },
-  {
-   "domain": "mshale.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Launches Largest-ever Military Drills To Prepare For Invasion By China's "
   },
   {
    "domain": "gvm.com.tw",
@@ -348,6 +344,11 @@
    "domain": "wionews.com",
    "n_articles": 2,
    "sample_title": "Taiwan Begins Han Kuang Military Drills to Prepare for Potential Chinese Attack"
+  },
+  {
+   "domain": "plataformamedia.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan simulates air raids and digital blackouts in extensive military exercises"
   }
  ]
 }
