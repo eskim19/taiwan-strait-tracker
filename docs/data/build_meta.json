@@ -1,32 +1,31 @@
 {
- "updated": "2026-08-19T09:51:17Z",
+ "updated": "2026-08-19T13:11:26Z",
  "checked": "2026-08-19",
- "duration_sec": 33.0,
+ "duration_sec": 32.3,
  "rolling_days": 14,
- "n_events": 495,
- "n_articles": 627,
+ "n_events": 489,
+ "n_articles": 613,
  "grades": {
-  "D": 259,
-  "C": 188,
-  "B": 42,
+  "C": 186,
+  "B": 43,
+  "D": 254,
   "A": 6
  },
- "cross_language_events": 6,
+ "cross_language_events": 7,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 31,
+  "T1": 30,
   "T2": 214,
   "T3": 98,
-  "T4": 14,
-  "T5": 207,
+  "T4": 13,
+  "T5": 203,
   "TA": 4
  },
  "t1_domains": [
-  "abc.net.au",
   "aljazeera.com",
   "aninews.in",
   "bbc.com",
@@ -61,8 +60,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-08-19T08:41:01+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-19T10:18:58+00:00",
    "stale": false,
    "error": null
   },
@@ -87,8 +86,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-19T07:43:07+00:00",
+   "n_adopted": 63,
+   "newest": "2026-08-19T12:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -100,8 +99,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-08-19T09:29:16+00:00",
+   "n_adopted": 16,
+   "newest": "2026-08-19T12:08:00+00:00",
    "stale": false,
    "error": null
   },
@@ -114,7 +113,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-08-19T07:28:00+00:00",
+   "newest": "2026-08-19T09:52:38+00:00",
    "stale": false,
    "error": null
   },
@@ -125,9 +124,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 2,
-   "newest": "2026-08-19T04:10:31+00:00",
+   "n_entries": 65,
+   "n_adopted": 4,
+   "newest": "2026-08-19T11:45:15+00:00",
    "stale": false,
    "error": null
   },
@@ -152,8 +151,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-19T09:11:24+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-19T12:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -161,14 +160,14 @@
    "id": "japantimes",
    "name": "Japan Times",
    "critical": false,
-   "status": "error",
-   "health": "error",
-   "http": 404,
-   "n_entries": 0,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 30,
    "n_adopted": 0,
-   "newest": null,
+   "newest": "2026-08-19T11:11:00+00:00",
    "stale": false,
-   "error": "HTTP 404"
+   "error": null
   },
   {
    "id": "tsm",
@@ -203,9 +202,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-19T09:03:13+00:00",
+   "newest": "2026-08-19T12:24:13+00:00",
    "stale": false,
    "error": null
   },
@@ -231,7 +230,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-19T09:34:38+00:00",
+   "newest": "2026-08-19T12:38:22+00:00",
    "stale": false,
    "error": null
   },
@@ -252,7 +251,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
+   "n_articles": 17,
    "sample_title": "中共假借「聯合戰備警巡」之名來亂 18架次擾台含13架逾越中線 | 鏡週刊"
   },
   {
@@ -262,18 +261,18 @@
   },
   {
    "domain": "upmedia.mg",
-   "n_articles": 9,
+   "n_articles": 8,
    "sample_title": "美軍因應台海衝突攔截彈庫存不足10% 智庫獻計：開戰就炸解放軍飛彈基地"
-  },
-  {
-   "domain": "foxnews.com",
-   "n_articles": 5,
-   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
    "domain": "fountmedia.io",
    "n_articles": 5,
    "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
+  },
+  {
+   "domain": "foxnews.com",
+   "n_articles": 5,
+   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
    "domain": "hk.crntt.com",
@@ -286,14 +285,14 @@
    "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
   },
   {
-   "domain": "ctinews.com",
-   "n_articles": 4,
-   "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
-  },
-  {
    "domain": "anewz.tv",
    "n_articles": 4,
    "sample_title": "Taiwan’s $31 billion defence bet: Can it keep the peace?"
+  },
+  {
+   "domain": "ctinews.com",
+   "n_articles": 4,
+   "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
   },
   {
    "domain": "moderndiplomacy.eu",
@@ -331,6 +330,11 @@
    "sample_title": "網傳台海將開戰？各國駐台機構最新「避難包」揭密，這樣備最安心"
   },
   {
+   "domain": "manilatimes.net",
+   "n_articles": 2,
+   "sample_title": "Taiwan’s military drills suggest deeper alignment with US"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "菲總統遵「一中政策」 台海衝突不許從菲律賓發動攻擊"
@@ -344,11 +348,6 @@
    "domain": "thesun.co.uk",
    "n_articles": 2,
    "sample_title": "Why Xi's invasion of Taiwan would fail and mark China’s biggest ever mistake"
-  },
-  {
-   "domain": "plataformamedia.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan simulates air raids and digital blackouts in extensive military exercises"
   }
  ]
 }
