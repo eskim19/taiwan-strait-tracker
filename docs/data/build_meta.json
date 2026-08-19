@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-19T18:55:23Z",
+ "updated": "2026-08-19T21:43:28Z",
  "checked": "2026-08-19",
- "duration_sec": 33.1,
+ "duration_sec": 34.5,
  "rolling_days": 14,
  "n_events": 487,
- "n_articles": 608,
+ "n_articles": 605,
  "grades": {
-  "C": 188,
-  "D": 250,
+  "C": 187,
+  "D": 251,
   "B": 43,
   "A": 6
  },
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 29,
-  "T2": 215,
-  "T3": 98,
+  "T1": 30,
+  "T2": 216,
+  "T3": 96,
   "T4": 13,
-  "T5": 199,
+  "T5": 197,
   "TA": 4
  },
  "t1_domains": [
@@ -60,8 +60,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-08-19T10:18:58+00:00",
+   "n_adopted": 61,
+   "newest": "2026-08-19T14:43:50+00:00",
    "stale": false,
    "error": null
   },
@@ -73,7 +73,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
+   "n_adopted": 17,
    "newest": "2026-08-19T01:30:53+00:00",
    "stale": false,
    "error": null
@@ -86,7 +86,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
+   "n_adopted": 63,
    "newest": "2026-08-19T15:30:30+00:00",
    "stale": false,
    "error": null
@@ -99,8 +99,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-08-19T14:18:21+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-19T15:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -112,7 +112,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 14,
    "newest": "2026-08-19T15:51:56+00:00",
    "stale": false,
    "error": null
@@ -152,7 +152,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-19T14:00:14+00:00",
+   "newest": "2026-08-19T21:32:37+00:00",
    "stale": false,
    "error": null
   },
@@ -174,12 +174,12 @@
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
    "status": "ok",
-   "health": "stale",
+   "health": "ok",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 1,
-   "newest": "2026-08-06T15:06:06+00:00",
-   "stale": true,
+   "newest": "2026-08-19T19:22:17+00:00",
+   "stale": false,
    "error": null
   },
   {
@@ -204,7 +204,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-19T18:40:56+00:00",
+   "newest": "2026-08-19T20:48:49+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +230,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-19T18:21:37+00:00",
+   "newest": "2026-08-19T21:22:17+00:00",
    "stale": false,
    "error": null
   },
@@ -251,7 +251,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 16,
+   "n_articles": 17,
    "sample_title": "中共假借「聯合戰備警巡」之名來亂 18架次擾台含13架逾越中線 | 鏡週刊"
   },
   {
