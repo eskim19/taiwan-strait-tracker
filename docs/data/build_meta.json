@@ -1,33 +1,32 @@
 {
- "updated": "2026-08-19T21:43:28Z",
- "checked": "2026-08-19",
- "duration_sec": 34.5,
+ "updated": "2026-08-20T01:53:32Z",
+ "checked": "2026-08-20",
+ "duration_sec": 36.9,
  "rolling_days": 14,
- "n_events": 487,
- "n_articles": 605,
+ "n_events": 486,
+ "n_articles": 598,
  "grades": {
-  "C": 187,
-  "D": 251,
-  "B": 43,
-  "A": 6
+  "D": 256,
+  "C": 183,
+  "B": 42,
+  "A": 5
  },
- "cross_language_events": 7,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 30,
-  "T2": 216,
+  "T1": 28,
+  "T2": 209,
   "T3": 96,
   "T4": 13,
-  "T5": 197,
+  "T5": 201,
   "TA": 4
  },
  "t1_domains": [
   "aljazeera.com",
-  "aninews.in",
   "bbc.com",
   "bloomberg.com",
   "dw.com",
@@ -47,7 +46,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
+   "n_adopted": 29,
    "newest": "2026-08-19T09:29:16+00:00",
    "stale": false,
    "error": null
@@ -60,8 +59,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-19T14:43:50+00:00",
+   "n_adopted": 65,
+   "newest": "2026-08-20T00:34:58+00:00",
    "stale": false,
    "error": null
   },
@@ -87,7 +86,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 63,
-   "newest": "2026-08-19T15:30:30+00:00",
+   "newest": "2026-08-20T01:47:44+00:00",
    "stale": false,
    "error": null
   },
@@ -99,8 +98,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-19T15:04:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-20T01:27:33+00:00",
    "stale": false,
    "error": null
   },
@@ -152,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-19T21:32:37+00:00",
+   "newest": "2026-08-20T01:30:07+00:00",
    "stale": false,
    "error": null
   },
@@ -165,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-19T16:55:00+00:00",
+   "newest": "2026-08-20T01:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 104,
    "n_adopted": 0,
-   "newest": "2026-08-19T20:48:49+00:00",
+   "newest": "2026-08-20T01:34:02+00:00",
    "stale": false,
    "error": null
   },
@@ -215,9 +214,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-08-19T17:39:49+00:00",
+   "newest": "2026-08-20T00:48:57+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-19T21:22:17+00:00",
+   "newest": "2026-08-20T00:34:13+00:00",
    "stale": false,
    "error": null
   },
@@ -251,8 +250,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 17,
-   "sample_title": "中共假借「聯合戰備警巡」之名來亂 18架次擾台含13架逾越中線 | 鏡週刊"
+   "n_articles": 18,
+   "sample_title": "兄長年挺台她卻答不出！葛蘭姆胞妹辯論被問台海國安竟稱「非我專長」 | 上報"
   },
   {
    "domain": "devdiscourse.com",
@@ -285,14 +284,24 @@
    "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
   },
   {
+   "domain": "ctinews.com",
+   "n_articles": 4,
+   "sample_title": "威脅台海？陸西沙「羚羊礁」首期造島完工 料成南海最大軍事基地"
+  },
+  {
    "domain": "anewz.tv",
    "n_articles": 4,
    "sample_title": "Taiwan’s $31 billion defence bet: Can it keep the peace?"
   },
   {
-   "domain": "ctinews.com",
-   "n_articles": 4,
-   "sample_title": "漢光42號演習甫落幕 解放軍隨即發動「聯合戰備警巡」騷擾台海"
+   "domain": "i-meihua.com",
+   "n_articles": 3,
+   "sample_title": "【北京傳真】《給阿嬤的情書》桃園電影節掀熱潮 《看台海》：影迷喊話「為何不能全台上映」"
+  },
+  {
+   "domain": "m.economictimes.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan records heightened Chinese military activity around its territory"
   },
   {
    "domain": "moderndiplomacy.eu",
@@ -305,24 +314,14 @@
    "sample_title": "New drone technology exposes weaknesses in Taiwan’s air defenses"
   },
   {
-   "domain": "sisaworld.kr",
-   "n_articles": 3,
-   "sample_title": "대만, 중국군 압박 속 ‘한광훈련’ 돌입…실전형 대응·드론 전술·예비군 2만 명 총동원"
-  },
-  {
-   "domain": "worldjournal.com",
-   "n_articles": 2,
-   "sample_title": "2027台海危機？蘇起揭兩岸情勢3緊繃 洪奇昌談台灣社會2迷思"
-  },
-  {
    "domain": "mshale.com",
    "n_articles": 2,
    "sample_title": "Taiwan Launches Largest-ever Military Drills To Prepare For Invasion By China's "
   },
   {
-   "domain": "m.economictimes.com",
+   "domain": "worldjournal.com",
    "n_articles": 2,
-   "sample_title": "Taiwan detects one Chinese military aircraft, 16 ships around island"
+   "sample_title": "2027台海危機？蘇起揭兩岸情勢3緊繃 洪奇昌談台灣社會2迷思"
   },
   {
    "domain": "ntd.com",
