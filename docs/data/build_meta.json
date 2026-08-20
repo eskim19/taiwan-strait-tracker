@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-20T19:02:08Z",
+ "updated": "2026-08-20T21:45:36Z",
  "checked": "2026-08-20",
- "duration_sec": 33.0,
+ "duration_sec": 30.7,
  "rolling_days": 14,
- "n_events": 490,
- "n_articles": 583,
+ "n_events": 491,
+ "n_articles": 581,
  "grades": {
-  "B": 40,
+  "B": 38,
+  "C": 179,
   "A": 5,
-  "D": 267,
-  "C": 178
+  "D": 269
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 26,
-  "T2": 201,
+  "T2": 199,
   "T3": 104,
   "T4": 13,
-  "T5": 191,
+  "T5": 193,
   "TA": 3
  },
  "t1_domains": [
@@ -59,9 +59,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 68,
-   "n_adopted": 39,
-   "newest": "2026-08-20T18:11:15+00:00",
+   "n_entries": 67,
+   "n_adopted": 38,
+   "newest": "2026-08-20T17:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -86,8 +86,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-08-20T11:41:00+00:00",
+   "n_adopted": 67,
+   "newest": "2026-08-20T19:01:21+00:00",
    "stale": false,
    "error": null
   },
@@ -100,7 +100,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 15,
-   "newest": "2026-08-20T13:20:00+00:00",
+   "newest": "2026-08-20T16:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -113,7 +113,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 16,
-   "newest": "2026-08-20T13:59:00+00:00",
+   "newest": "2026-08-20T20:54:42+00:00",
    "stale": false,
    "error": null
   },
@@ -151,8 +151,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 3,
-   "newest": "2026-08-20T18:53:37+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-20T21:30:05+00:00",
    "stale": false,
    "error": null
   },
@@ -204,7 +204,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-20T14:40:48+00:00",
+   "newest": "2026-08-20T21:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -217,7 +217,7 @@
    "http": 200,
    "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-08-20T10:32:31+00:00",
+   "newest": "2026-08-20T20:40:17+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +230,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-20T18:22:58+00:00",
+   "newest": "2026-08-20T21:18:10+00:00",
    "stale": false,
    "error": null
   },
