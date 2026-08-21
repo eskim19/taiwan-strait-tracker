@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-21T13:13:07Z",
+ "updated": "2026-08-21T15:50:28Z",
  "checked": "2026-08-21",
- "duration_sec": 36.6,
+ "duration_sec": 33.9,
  "rolling_days": 14,
- "n_events": 492,
- "n_articles": 579,
+ "n_events": 485,
+ "n_articles": 570,
  "grades": {
-  "C": 183,
-  "D": 268,
-  "B": 37,
+  "D": 267,
+  "C": 179,
+  "B": 35,
   "A": 4
  },
  "cross_language_events": 2,
@@ -19,11 +19,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 25,
-  "T2": 201,
-  "T3": 109,
+  "T2": 194,
+  "T3": 108,
   "T4": 15,
   "T5": 183,
-  "TA": 3
+  "TA": 4
  },
  "t1_domains": [
   "aljazeera.com",
@@ -45,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 23,
-   "newest": "2026-08-20T15:52:28+00:00",
+   "n_adopted": 24,
+   "newest": "2026-08-21T14:10:02+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 69,
-   "n_adopted": 38,
-   "newest": "2026-08-21T08:58:41+00:00",
+   "n_entries": 67,
+   "n_adopted": 36,
+   "newest": "2026-08-21T14:10:02+00:00",
    "stale": false,
    "error": null
   },
@@ -84,7 +84,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 71,
+   "n_adopted": 70,
    "newest": "2026-08-21T12:24:57+00:00",
    "stale": false,
    "error": null
@@ -98,7 +98,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 16,
-   "newest": "2026-08-21T02:17:57+00:00",
+   "newest": "2026-08-21T14:50:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-08-21T11:52:03+00:00",
+   "n_adopted": 12,
+   "newest": "2026-08-21T15:01:46+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 61,
+   "n_entries": 66,
    "n_adopted": 3,
-   "newest": "2026-08-21T11:49:37+00:00",
+   "newest": "2026-08-21T13:12:49+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-21T12:30:06+00:00",
+   "newest": "2026-08-21T15:00:05+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 104,
+   "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-21T10:00:00+00:00",
+   "newest": "2026-08-21T14:01:04+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-21T13:04:32+00:00",
+   "newest": "2026-08-21T15:31:33+00:00",
    "stale": false,
    "error": null
   },
@@ -313,6 +313,11 @@
    "sample_title": "Taiwan stages defence drills as China ends naval exercises with Indonesia"
   },
   {
+   "domain": "mnews.tw",
+   "n_articles": 2,
+   "sample_title": "被問台海問題當機！ 葛蘭姆胞妹竟脫口認不懂國家安全"
+  },
+  {
    "domain": "freemalaysiatoday.com",
    "n_articles": 2,
    "sample_title": "Taiwan proposes boosting 2027 defence spending by 18%"
@@ -341,11 +346,6 @@
    "domain": "worldjournal.com",
    "n_articles": 2,
    "sample_title": "2027台海危機？蘇起揭兩岸情勢3緊繃 洪奇昌談台灣社會2迷思"
-  },
-  {
-   "domain": "ntd.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan: Record Defense Spending; China's Economy Slows in July"
   }
  ]
 }
