@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-21T18:58:25Z",
+ "updated": "2026-08-21T21:42:08Z",
  "checked": "2026-08-21",
- "duration_sec": 33.7,
+ "duration_sec": 35.6,
  "rolling_days": 14,
  "n_events": 484,
- "n_articles": 569,
+ "n_articles": 566,
  "grades": {
-  "D": 268,
   "C": 178,
+  "D": 268,
   "A": 4,
   "B": 34
  },
@@ -20,9 +20,9 @@
  "tier_articles": {
   "T1": 25,
   "T2": 194,
-  "T3": 108,
-  "T4": 16,
-  "T5": 180,
+  "T3": 105,
+  "T4": 15,
+  "T5": 181,
   "TA": 3
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 25,
+   "n_adopted": 24,
    "newest": "2026-08-21T14:10:02+00:00",
    "stale": false,
    "error": null
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
-   "n_adopted": 35,
-   "newest": "2026-08-21T18:17:37+00:00",
+   "n_entries": 73,
+   "n_adopted": 38,
+   "newest": "2026-08-21T19:32:26+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 19,
+   "n_adopted": 18,
    "newest": "2026-08-20T07:14:00+00:00",
    "stale": false,
    "error": null
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-08-21T18:08:23+00:00",
+   "n_adopted": 14,
+   "newest": "2026-08-21T19:51:08+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-21T15:00:05+00:00",
+   "newest": "2026-08-21T21:39:53+00:00",
    "stale": false,
    "error": null
   },
@@ -202,7 +202,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-21T18:40:10+00:00",
+   "newest": "2026-08-21T19:29:32+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-21T18:40:21+00:00",
+   "newest": "2026-08-21T21:23:35+00:00",
    "stale": false,
    "error": null
   },
@@ -328,6 +328,11 @@
    "sample_title": "Taiwan conflict could put 178-K Pinoys at risk"
   },
   {
+   "domain": "m.economictimes.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan proposes record USD 35B defence budget for 2027 as China's military press"
+  },
+  {
    "domain": "informat.ro",
    "n_articles": 2,
    "sample_title": "Taiwan proposes record allocations for defense, amid growing military and politi"
@@ -341,11 +346,6 @@
    "domain": "worldjournal.com",
    "n_articles": 2,
    "sample_title": "2027台海危機？蘇起揭兩岸情勢3緊繃 洪奇昌談台灣社會2迷思"
-  },
-  {
-   "domain": "ntd.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan: Record Defense Spending; China's Economy Slows in July"
   }
  ]
 }
