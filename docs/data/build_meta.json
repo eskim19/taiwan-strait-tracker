@@ -1,36 +1,34 @@
 {
- "updated": "2026-08-21T04:03:40Z",
+ "updated": "2026-08-21T07:09:41Z",
  "checked": "2026-08-21",
- "duration_sec": 34.9,
+ "duration_sec": 35.5,
  "rolling_days": 14,
- "n_events": 497,
- "n_articles": 591,
+ "n_events": 492,
+ "n_articles": 583,
  "grades": {
+  "D": 269,
   "C": 182,
-  "D": 272,
-  "B": 38,
-  "A": 5
+  "B": 37,
+  "A": 4
  },
- "cross_language_events": 3,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 26,
-  "T2": 203,
+  "T1": 24,
+  "T2": 201,
   "T3": 109,
   "T4": 14,
-  "T5": 192,
+  "T5": 190,
   "TA": 3
  },
  "t1_domains": [
   "aljazeera.com",
   "apnews.com",
-  "bbc.com",
   "bloomberg.com",
-  "dw.com",
   "kyodonews.net",
   "nhk.or.jp",
   "pts.org.tw",
@@ -59,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 70,
-   "n_adopted": 40,
-   "newest": "2026-08-21T00:56:15+00:00",
+   "n_entries": 73,
+   "n_adopted": 41,
+   "newest": "2026-08-21T06:08:00+00:00",
    "stale": false,
    "error": null
   },
@@ -86,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-08-21T03:42:10+00:00",
+   "n_adopted": 67,
+   "newest": "2026-08-21T06:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -99,7 +97,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 15,
    "newest": "2026-08-21T02:17:57+00:00",
    "stale": false,
    "error": null
@@ -112,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-08-21T03:10:20+00:00",
+   "n_adopted": 15,
+   "newest": "2026-08-21T07:01:45+00:00",
    "stale": false,
    "error": null
   },
@@ -124,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
+   "n_entries": 48,
    "n_adopted": 3,
-   "newest": "2026-08-21T02:19:49+00:00",
+   "newest": "2026-08-21T06:24:04+00:00",
    "stale": false,
    "error": null
   },
@@ -152,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-21T03:00:09+00:00",
+   "newest": "2026-08-21T06:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -164,8 +162,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 2,
-   "newest": "2026-08-21T03:56:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-08-21T07:08:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-08-21T03:31:36+00:00",
+   "newest": "2026-08-21T06:56:36+00:00",
    "stale": false,
    "error": null
   },
@@ -217,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-21T02:59:46+00:00",
+   "newest": "2026-08-21T05:47:32+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-21T03:50:15+00:00",
+   "newest": "2026-08-21T06:56:19+00:00",
    "stale": false,
    "error": null
   },
@@ -251,7 +249,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
+   "n_articles": 17,
    "sample_title": "中共假借「聯合戰備警巡」之名來亂 18架次擾台含13架逾越中線 | 鏡週刊"
   },
   {
@@ -263,11 +261,6 @@
    "domain": "upmedia.mg",
    "n_articles": 9,
    "sample_title": "兄長年挺台她卻答不出 葛蘭姆胞妹辯論被問台海國安竟稱「非我專長」"
-  },
-  {
-   "domain": "firstpost.com",
-   "n_articles": 6,
-   "sample_title": "Taiwan proposes record USD $35 billion defence budget as China military pressure"
   },
   {
    "domain": "fountmedia.io",
@@ -283,6 +276,16 @@
    "domain": "hk.crntt.com",
    "n_articles": 5,
    "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
+  },
+  {
+   "domain": "firstpost.com",
+   "n_articles": 5,
+   "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
+  },
+  {
+   "domain": "i-meihua.com",
+   "n_articles": 3,
+   "sample_title": "美售台海馬士火箭數量大砍 7218枚降至4320枚 總價仍逼近1600億"
   },
   {
    "domain": "m.economictimes.com",
@@ -343,11 +346,6 @@
    "domain": "gvm.com.tw",
    "n_articles": 2,
    "sample_title": "網傳台海將開戰，美國即將撤離太平洋上航母！台灣會有事？"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 2,
-   "sample_title": "Taiwan Raises Defence Spending Above $31 Billion as China Pressure Grows"
   }
  ]
 }
