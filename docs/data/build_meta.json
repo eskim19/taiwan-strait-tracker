@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-20T21:45:36Z",
- "checked": "2026-08-20",
- "duration_sec": 30.7,
+ "updated": "2026-08-21T01:59:17Z",
+ "checked": "2026-08-21",
+ "duration_sec": 35.4,
  "rolling_days": 14,
- "n_events": 491,
- "n_articles": 581,
+ "n_events": 492,
+ "n_articles": 587,
  "grades": {
-  "B": 38,
-  "C": 179,
-  "A": 5,
-  "D": 269
+  "C": 177,
+  "D": 271,
+  "B": 39,
+  "A": 5
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -20,9 +20,9 @@
  "tier_articles": {
   "T1": 26,
   "T2": 199,
-  "T3": 104,
-  "T4": 13,
-  "T5": 193,
+  "T3": 107,
+  "T4": 14,
+  "T5": 195,
   "TA": 3
  },
  "t1_domains": [
@@ -59,9 +59,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
-   "n_adopted": 38,
-   "newest": "2026-08-20T17:32:00+00:00",
+   "n_entries": 72,
+   "n_adopted": 42,
+   "newest": "2026-08-21T00:56:15+00:00",
    "stale": false,
    "error": null
   },
@@ -87,7 +87,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 67,
-   "newest": "2026-08-20T19:01:21+00:00",
+   "newest": "2026-08-21T01:25:00+00:00",
    "stale": false,
    "error": null
   },
@@ -99,8 +99,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-08-20T16:45:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-21T01:08:33+00:00",
    "stale": false,
    "error": null
   },
@@ -112,8 +112,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-08-20T20:54:42+00:00",
+   "n_adopted": 18,
+   "newest": "2026-08-21T01:29:45+00:00",
    "stale": false,
    "error": null
   },
@@ -124,9 +124,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 40,
+   "n_entries": 41,
    "n_adopted": 3,
-   "newest": "2026-08-20T13:36:27+00:00",
+   "newest": "2026-08-21T01:05:44+00:00",
    "stale": false,
    "error": null
   },
@@ -152,7 +152,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-20T21:30:05+00:00",
+   "newest": "2026-08-21T01:30:06+00:00",
    "stale": false,
    "error": null
   },
@@ -165,7 +165,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-20T12:46:00+00:00",
+   "newest": "2026-08-21T01:50:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,9 +202,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 104,
    "n_adopted": 0,
-   "newest": "2026-08-20T21:00:10+00:00",
+   "newest": "2026-08-21T01:37:58+00:00",
    "stale": false,
    "error": null
   },
@@ -215,9 +215,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 18,
+   "n_entries": 19,
    "n_adopted": 0,
-   "newest": "2026-08-20T20:40:17+00:00",
+   "newest": "2026-08-20T22:43:42+00:00",
    "stale": false,
    "error": null
   },
@@ -230,7 +230,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-20T21:18:10+00:00",
+   "newest": "2026-08-21T01:38:37+00:00",
    "stale": false,
    "error": null
   },
@@ -265,6 +265,11 @@
    "sample_title": "兄長年挺台她卻答不出 葛蘭姆胞妹辯論被問台海國安竟稱「非我專長」"
   },
   {
+   "domain": "firstpost.com",
+   "n_articles": 6,
+   "sample_title": "Taiwan proposes record USD $35 billion defence budget as China military pressure"
+  },
+  {
    "domain": "fountmedia.io",
    "n_articles": 5,
    "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
@@ -280,9 +285,9 @@
    "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
   },
   {
-   "domain": "firstpost.com",
-   "n_articles": 5,
-   "sample_title": "Taiwan cuts mobile internet speeds during defence drill amid rising tensions wit"
+   "domain": "m.economictimes.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan proposes record USD 35B defence budget for 2027 as China's military press"
   },
   {
    "domain": "ctinews.com",
@@ -328,11 +333,6 @@
    "domain": "worldjournal.com",
    "n_articles": 2,
    "sample_title": "2027台海危機？蘇起揭兩岸情勢3緊繃 洪奇昌談台灣社會2迷思"
-  },
-  {
-   "domain": "m.economictimes.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan records heightened Chinese military activity around its territory"
   },
   {
    "domain": "ntd.com",
