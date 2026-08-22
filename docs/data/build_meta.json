@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-22T09:44:31Z",
+ "updated": "2026-08-22T13:02:54Z",
  "checked": "2026-08-22",
- "duration_sec": 33.0,
+ "duration_sec": 30.1,
  "rolling_days": 14,
- "n_events": 499,
- "n_articles": 583,
+ "n_events": 495,
+ "n_articles": 581,
  "grades": {
-  "C": 183,
-  "B": 34,
-  "D": 279,
+  "D": 280,
+  "B": 33,
+  "C": 179,
   "A": 3
  },
- "cross_language_events": 2,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 25,
-  "T2": 200,
-  "T3": 106,
+  "T1": 23,
+  "T2": 196,
+  "T3": 108,
   "T4": 16,
-  "T5": 194,
+  "T5": 195,
   "TA": 3
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 32,
+   "n_adopted": 30,
    "newest": "2026-08-22T09:01:00+00:00",
    "stale": false,
    "error": null
@@ -58,7 +58,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 79,
-   "n_adopted": 41,
+   "n_adopted": 42,
    "newest": "2026-08-22T07:52:30+00:00",
    "stale": false,
    "error": null
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 72,
-   "newest": "2026-08-22T09:35:00+00:00",
+   "n_adopted": 74,
+   "newest": "2026-08-22T11:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,7 +97,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
+   "n_adopted": 16,
    "newest": "2026-08-22T05:40:00+00:00",
    "stale": false,
    "error": null
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
-   "newest": "2026-08-22T07:26:07+00:00",
+   "n_adopted": 9,
+   "newest": "2026-08-22T12:07:15+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 41,
-   "n_adopted": 2,
-   "newest": "2026-08-21T13:12:49+00:00",
+   "n_entries": 52,
+   "n_adopted": 3,
+   "newest": "2026-08-22T09:42:37+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-22T09:31:25+00:00",
+   "newest": "2026-08-22T12:00:05+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-21T22:26:25+00:00",
+   "newest": "2026-08-22T10:01:18+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-22T09:14:09+00:00",
+   "newest": "2026-08-22T12:51:55+00:00",
    "stale": false,
    "error": null
   },
@@ -249,7 +249,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 16,
+   "n_articles": 15,
    "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
@@ -268,6 +268,11 @@
    "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
   },
   {
+   "domain": "mnews.tw",
+   "n_articles": 4,
+   "sample_title": "美軍機再度飛越台海 專家：向中送出維持台海和平訊號"
+  },
+  {
    "domain": "firstpost.com",
    "n_articles": 4,
    "sample_title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump"
@@ -283,9 +288,9 @@
    "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
-   "domain": "mnews.tw",
+   "domain": "outlookindia.com",
    "n_articles": 3,
-   "sample_title": "美軍機飛越台海捍衛自由航行 中媒：全程跟監"
+   "sample_title": "US Navy P-8A Aircraft Flies Through Taiwan Strait, China Monitors Transit"
   },
   {
    "domain": "informat.ro",
@@ -341,11 +346,6 @@
    "domain": "cmoney.tw",
    "n_articles": 2,
    "sample_title": "中共科研船再现踪小琉球 台海巡舰艇全程监控(图)"
-  },
-  {
-   "domain": "tribune.net.ph",
-   "n_articles": 2,
-   "sample_title": "Taiwan conflict could put 178-K Pinoys at risk"
   }
  ]
 }
