@@ -1,6 +1,705 @@
 {
- "updated": "2026-08-22T03:58:25Z",
+ "updated": "2026-08-22T07:01:31Z",
  "events": [
+  {
+   "id": "evt_20260822_37f7e3",
+   "headline": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-22T01:02:32Z",
+   "last_seen": "2026-08-22T06:41:32Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 32.8,
+    "n_independent": 1,
+    "n_articles": 4,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영",
+     "Reuters 원고를 Straits Times·Taiwan News·Firstpost 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f7d0d107ec18c4bd",
+     "9b0cf2d3c0e844b8",
+     "06df80210601b1d9",
+     "8face908e4196450"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f7d0d107ec18c4bd",
+     "title": "US Navy aircraft transits Taiwan Strait ahead of Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlFDTDFDdk1jcDNZNlZuVW9zQm4zLWY5MGpUQzR4UVBHcDFFbVRqY3ZzbldUYjNXMS00bjNWVXNycEZfQVIwVjFZMkJ4Nmh6bENJX0tpbEJ6ak5sZDBxLVRhRVBBTjFBZ0tqYWtNOVI3REdZWjNocnRVRVBQWXNVRHI2cXQzRDlSMXA0TXFlSlowa1pKX1dQWHZhek5rTUtVWUNBNW05d3lPbmUxaldsTHJMM2d1Zw?oc=5",
+     "published": "2026-08-22T01:02:32Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "9b0cf2d3c0e844b8",
+     "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+     "published": "2026-08-22T02:09:43Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "06df80210601b1d9",
+     "title": "US Navy patrol aircraft transits Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdnVsbFI5NWxRTUJCLWtlem90czFrWjFrMTgtM2M3Sk5mYVZDSEVBSkx5WWFUM3V6MlZlQl9jUmVQZEZsU1Axa2J0eTlSX2lOTGZUeg?oc=5",
+     "published": "2026-08-22T02:57:50Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "8face908e4196450",
+     "title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0RpSU40M1pSaExrNzktOEdWRTFWa1ZYTnBNZDdvR3l1aWgxeUtydHZiNlhVVE1RaWJZRmpWaDFNdDQxWUpXMGF1LXA1WTRyaGhuVHU5VTREOWdyOFFPNTRoazdKWXFfTGc4d3RTQ1ZQRm1SemZwVVQ4bFlBVWJrcjdUTUhzSTJ1blZEaFV3REZsSDdJX1FFYVlDcmlQZkVMUEV3SkVTTnB4NUEwR3pUSU15Y2tLRVg0dF9rcnp30gHDAUFVX3lxTE5QTWRWYXNxNTNjRExOdi05dTRCS1ZKdGZBbExFZlhBbTdDV0tWdVowQUk0R0V5a28zaXJGbC0tVHhnX3pOd1B3SFVid21KZkJtTGR2U3hBMGdCaVhURHNEc2hQU2FNcGVwVUZRZTVoYUpId1AwUjlKWUdYRi1jZXhUTGFhQ1otWGpBVkZPYVpOano5bURGbGdJb1VpNE9zOGNPOVFQb2tmUFNmN3pYaGR4dE53Q1BpN2VnNTZnYXNxOWlGcw?oc=5",
+     "published": "2026-08-22T06:41:32Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Firstpost",
+     "source_domain": "firstpost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_70a966",
+   "headline": "美軍P-8A台海「L形」繞飛宣示自由航行共軍喊驅離| 國際",
+   "headline_source": "新頭殼",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZHd0M19Sbnh5d1VEeXdRMkJxeWRVaFFGTURrbFRWSDUwbE9FR1JOd3R3VS1hS1ZHM01yMElCaklZcnhQMkZmbW51WFp5b0YzQzg4aDJsUUJ2REk?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T05:32:46Z",
+   "last_seen": "2026-08-22T05:32:46Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8c39386cc5decb7a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8c39386cc5decb7a",
+     "title": "美軍P-8A台海「L形」繞飛宣示自由航行共軍喊驅離| 國際",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZHd0M19Sbnh5d1VEeXdRMkJxeWRVaFFGTURrbFRWSDUwbE9FR1JOd3R3VS1hS1ZHM01yMElCaklZcnhQMkZmbW51WFp5b0YzQzg4aDJsUUJ2REk?oc=5",
+     "published": "2026-08-22T05:32:46Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_00cb32",
+   "headline": "美軍P-8A「海神」巡邏機飛越台海 中方全程跟監警戒",
+   "headline_source": "香港01",
+   "headline_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQWnVfZWg1UmhXcFpHbmZKcnQ4QzVIUUtyNzVybWM3MUpSNlk0TE5odHNtSXp5US0wQVAyRFZQRmtoSjN4Um5TYlFFRWZTcE9pb1hsWC1OSDg1Sm5oTC1hYjExT3l6dnlaU1ZoZEk5eGtqUFFYTnE3WUowRkF4ck5YU2JBdHpFbHZkMmVWdkJ0STBUVGRUMkM5dmtjZ1RjbDNqWWlFaFJqejBJRzJ4RXpmc3V2MXZTQW9sdWNyQTY3dktHdTBqUkJVMG1BQkJCbW1GUXhWMl9qOERXT3B4aUVWZlBXUXhuX2doYzBwTVZnVExUZURIdWFUYjBSMjhhOWdwbVVqODA5RFVUandxSzBBcWpmV3RTS0wyUTNMY01UbWVwd3hoZ09PcktmSTR2dnJBUzNQajZ6OWN3alVBSlVGVnJ1UTR0Q3pRYUFhSk1PYUtXcHBYZTk5dGxGV01hNUFfSjg0?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T01:52:04Z",
+   "last_seen": "2026-08-22T05:21:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.6,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "香港01 원고를 大紀元 Epoch Times 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ffefaf43568e2b82",
+     "858b1e313015e6b7"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ffefaf43568e2b82",
+     "title": "美軍P-8A「海神」巡邏機飛越台海 中方全程跟監警戒",
+     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQWnVfZWg1UmhXcFpHbmZKcnQ4QzVIUUtyNzVybWM3MUpSNlk0TE5odHNtSXp5US0wQVAyRFZQRmtoSjN4Um5TYlFFRWZTcE9pb1hsWC1OSDg1Sm5oTC1hYjExT3l6dnlaU1ZoZEk5eGtqUFFYTnE3WUowRkF4ck5YU2JBdHpFbHZkMmVWdkJ0STBUVGRUMkM5dmtjZ1RjbDNqWWlFaFJqejBJRzJ4RXpmc3V2MXZTQW9sdWNyQTY3dktHdTBqUkJVMG1BQkJCbW1GUXhWMl9qOERXT3B4aUVWZlBXUXhuX2doYzBwTVZnVExUZURIdWFUYjBSMjhhOWdwbVVqODA5RFVUandxSzBBcWpmV3RTS0wyUTNMY01UbWVwd3hoZ09PcktmSTR2dnJBUzNQajZ6OWN3alVBSlVGVnJ1UTR0Q3pRYUFhSk1PYUtXcHBYZTk5dGxGV01hNUFfSjg0?oc=5",
+     "published": "2026-08-22T01:52:04Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "香港01",
+     "source_domain": "hk01.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재",
+     "hedged": false
+    },
+    {
+     "id": "858b1e313015e6b7",
+     "title": "川習會前 美軍P-8A「海神」巡邏機飛越台海",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMRG05M29JaFlsQTlXc0k1NWNkeV9KZ3RUT0NfYU9zMVl4a2xvVkZFQlJSbHBRVlNKQVd1ZlBVNWVhUVZNbi1CNFlmZ2JSX1R3dzh3LWtGUUxSSzMwY2ZDS9IBZkFVX3lxTE5vUmd4TzV2V2IyWG8ydzhmbERxV2VrcWxqMUZwME5mNUR5ek1UWXZId3JNcDEtX2IyMEpvc2JyZ0hoOHlGZ25nUkNndjlxLXVTaUF0SVZNbGVrOHhUczNCTWJoLTRpUQ?oc=5",
+     "published": "2026-08-22T05:21:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_adc839",
+   "headline": "American planes are flying over the Taiwan Strait, confirming the commitment of the USA",
+   "headline_source": "Informat.ro",
+   "headline_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVJKZXVVcDBXeHlVODFtTWhWNER0b3lGVGY3Y0lmYVdxZVViNW8tOVN3eUxsY1p2aTJBOHBPV3lYWXV2SG1GbncwSTdZMHNjampUeGJnUi1zN1dwOUZGYmxLNHc1TUo3dkNBQk9pLTVWWjJGYXNRdEJYVUZ6UkllemVNVXk4b2d0WlM3VjFnbDc4UzBNVnQxYnNjOFpfbEEwRm5mWGhvWUlfSURNVlhtcUFac3hQSTc3SUM4TzlNWHVzYzU1SndoYUJ3?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-22T05:19:35Z",
+   "last_seen": "2026-08-22T05:19:35Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1f528f415d619496"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1f528f415d619496",
+     "title": "American planes are flying over the Taiwan Strait, confirming the commitment of the USA",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQMVJKZXVVcDBXeHlVODFtTWhWNER0b3lGVGY3Y0lmYVdxZVViNW8tOVN3eUxsY1p2aTJBOHBPV3lYWXV2SG1GbncwSTdZMHNjampUeGJnUi1zN1dwOUZGYmxLNHc1TUo3dkNBQk9pLTVWWjJGYXNRdEJYVUZ6UkllemVNVXk4b2d0WlM3VjFnbDc4UzBNVnQxYnNjOFpfbEEwRm5mWGhvWUlfSURNVlhtcUFac3hQSTc3SUM4TzlNWHVzYzU1SndoYUJ3?oc=5",
+     "published": "2026-08-22T05:19:35Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Informat.ro",
+     "source_domain": "informat.ro",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260820_ebfc50",
+   "headline": "F-16 BLK70抵台不只添戰機 AESA雷達與Link 16強化台海空戰",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS0RnN215MF9qMDdQNUZHYTB1N29aTzJ0OEc5a2x5ZjF4Qi1LMDQ5NkFoUnh2RmJ2WGsybTJPaUgxU0RsNXZNaW9tQVl6Mi1YYnF6SDZ2di1FaUVhTmYweA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-20T08:04:10Z",
+   "last_seen": "2026-08-22T05:09:00Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 0,
+    "score": 58.3,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "tw_state"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "08840997974003b0",
+     "f0a5c64c823260a0",
+     "be7ffd3c919d80a4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "08840997974003b0",
+     "title": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
+     "url": "https://focustaiwan.tw/politics/202608200011",
+     "published": "2026-08-20T08:04:10Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "f0a5c64c823260a0",
+     "title": "70% in Taiwan view Chinese coast guard patrols as 'ill will': MAC poll",
+     "url": "https://focustaiwan.tw/politics/202608200016",
+     "published": "2026-08-20T13:36:27Z",
+     "lang": "en",
+     "entities": [
+      "coast_guard"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "be7ffd3c919d80a4",
+     "title": "F-16 BLK70抵台不只添戰機 AESA雷達與Link 16強化台海空戰",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS0RnN215MF9qMDdQNUZHYTB1N29aTzJ0OEc5a2x5ZjF4Qi1LMDQ5NkFoUnh2RmJ2WGsybTJPaUgxU0RsNXZNaW9tQVl6Mi1YYnF6SDZ2di1FaUVhTmYweA?oc=5",
+     "published": "2026-08-22T05:09:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_5bf965",
+   "headline": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持「統一大業」",
+   "headline_source": "蕃新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5dXlXUTBMZnN6cXJNUm5zMVdnZVJONDJNRm9TdDhpTnlCUjd4Q3B5VUVVSDJJQ0g0amRDVWVDMFdPY2JoODFlODVNN01Nc2tzd1E?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T04:38:00Z",
+   "last_seen": "2026-08-22T04:38:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "7f393118438bc0aa"
+    ]
+   },
+   "articles": [
+    {
+     "id": "7f393118438bc0aa",
+     "title": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持「統一大業」",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA5dXlXUTBMZnN6cXJNUm5zMVdnZVJONDJNRm9TdDhpTnlCUjd4Q3B5VUVVSDJJQ0g0amRDVWVDMFdPY2JoODFlODVNN01Nc2tzd1E?oc=5",
+     "published": "2026-08-22T04:38:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "reunification",
+      "wang_yi"
+     ],
+     "source_name": "蕃新聞",
+     "source_domain": "n.yam.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260820_f2e1d9",
+   "headline": "Taiwan proposes boosting 2027 defence spending 18% to a record high",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhITHJrak1JYzUzNnhrb1lqUVVRY1J0NWJ1VExDVGptcDJYNTZhYnlhS3ZJbEFtejZYdlFHbVhpRzNDaTVWOEZvb0xJNXNneG1rZllid1FlQVR6dkgyZEJnMGFIcmZDV1picjdfMVZiTXJsZVNuX25nVEttNUxfVUc1WkxmQTRxUUtxdEdJTnZzaHFYM1pFd2p6OWh6LWdkQXJtSXNmQjNLbUdlTEk2Q2xmVG9KNHc?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-20T04:49:30Z",
+   "last_seen": "2026-08-22T04:08:21Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 1,
+    "score": 66.1,
+    "n_independent": 2,
+    "n_articles": 6,
+    "n_domains": 6,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 통신사·공영",
+     "2개 언어권에서 확인",
+     "Reuters 원고를 Free Malaysia Today·Newsmax 가 전재 — 1곳으로 계산",
+     "International Business Times, Singapore Edition 원고를 dailycaller.com 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "bb63e23c5482bf60",
+     "73fb9684fde9bebb",
+     "43c48d3b8121de68",
+     "b6636ba68873a3c0",
+     "471d3a4b609a08d2",
+     "b696b49514cc4661"
+    ]
+   },
+   "articles": [
+    {
+     "id": "bb63e23c5482bf60",
+     "title": "Taiwan proposes boosting 2027 defence spending by 18%",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1piX3ZNMFdNLVRwRU9FZ18tUDBPSEN5OVg3aW1kNkhyRXdCWkJCcXBOejJNNVktLUFVNng2Y0h2bjdjZDZRRk4xcEFGTUx5cUYzRk1kRWNNSVpmNzJoQ1ZtSkpFUXJ0dVUwMng1d1lJS2dSM0tJQ2hGRDVCV0NFV3pDV2FhQ25PUzgyTUN0VWRoSklmdG1IakxuNlZsY2RQcVo3WmVEZzNLdmlsQWc?oc=5",
+     "published": "2026-08-20T04:49:30Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Free Malaysia Today",
+     "source_domain": "freemalaysiatoday.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "73fb9684fde9bebb",
+     "title": "Taiwan proposes boosting 2027 defence spending 18% to a record high",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhITHJrak1JYzUzNnhrb1lqUVVRY1J0NWJ1VExDVGptcDJYNTZhYnlhS3ZJbEFtejZYdlFHbVhpRzNDaTVWOEZvb0xJNXNneG1rZllid1FlQVR6dkgyZEJnMGFIcmZDV1picjdfMVZiTXJsZVNuX25nVEttNUxfVUc1WkxmQTRxUUtxdEdJTnZzaHFYM1pFd2p6OWh6LWdkQXJtSXNmQjNLbUdlTEk2Q2xmVG9KNHc?oc=5",
+     "published": "2026-08-20T05:33:28Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "43c48d3b8121de68",
+     "title": "Taiwan Raises Defense Budget 18% to Record $31.4 Billion as China Threat Grows",
+     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEx2bXM1RFE5X1h5bXlVNWJ6dTFudlRDaTNoTENkX0ZNdHpjY2J5eEJ4UjNZTEpDLUJpRWpYR20xcjNvVTVWbVc2cnN1Z2hpa3A0RWt2U2gwNDRKU3VxaWtiQzNUU3VBZHpzU0Nsb2JRWDZsTGNmc1RJVEJoYkQ2bTdQZGEzdzFzaGFMOXZsbGRucjg3X3A0WHNKaXZBNHNp?oc=5",
+     "published": "2026-08-20T17:08:24Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "International Business Times, Singapore Edition",
+     "source_domain": "ibtimes.sg",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b6636ba68873a3c0",
+     "title": "Taiwan Unveils Record Defense Budget As China Threat Grows",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEl2SjZqQUZudkU5MEdYbEdlbUJKV0pYUy1DR1AxNS1IU0JZTVNaLUU5Qk9zcUY4WEpOOV9Nc1JNblZmbTdJZU5lMlp5by1Dbnlrc09OZ3ZzaGJFU2tsczdiRnAzdVZxWjUySVNvcGtGdklCVmRNUXZOb0tzNm9SaFB6VVRSajlMSXVQdGZn?oc=5",
+     "published": "2026-08-20T17:32:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "dailycaller.com",
+     "source_domain": "dailycaller.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "471d3a4b609a08d2",
+     "title": "Taiwan Proposes Boosting 2027 Defense Spending to a Record High",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXFaOTBJT0FUNExYeVEzUlZTZHNxR3RKYzZncUtzZWhJbVA1bEFILTZzWk5QVGJzYXY1WlYxQWhzZzNCWkRKeE5YdzZuUnl0RVJabEVvSjZ4ektBSUVzQlQzN3hDS0IzSmRaMGFmMWtjTzJXQWVDcGZwc3U3SUNIU2JHOGE?oc=5",
+     "published": "2026-08-20T23:34:22Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Newsmax",
+     "source_domain": "newsmax.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b696b49514cc4661",
+     "title": "中共18機艦船台海周邊活動 國軍嚴密監控應處",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9RM0xoN0h6dXBvZDBJd2l2WEQ0QnBrY0ItQ0xJTkdMY19rUTZZejVFc2FVTUZaWERVUU44NG50TUFrNDVTUEcybHhRT2F2SEtoblRrX3VrcVVUcmtfdlVqd2xfbjdkTDZrWnRFOG10dTQ3WkFsUGJB0gFfQVVfeXFMUGkxUWc2X0oxX1VCUHVPaHJJdEZ0azVnZWx0ZTRDMHo4QkZ0NWFPUzA0VG52YjZoa29RWWc3bjBZSHREakVUNFgtVWxzWUdBQUJOaWx3Qms1UlpsTjEzOHM?oc=5",
+     "published": "2026-08-22T04:08:21Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_0f7a43",
+   "headline": "美政界大失言WSJ籲正視台海重要性- 台灣話題- 新聞",
+   "headline_source": "華人今日網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CcHRlZEdOVllQUjR0N3IwTzFOYkVoczE2azMzeXEybElmc0VzeUotcklhZ2RlSVd5LWEtb2M3X2ZfTnQzdzFIM05sZGRBQ25mR3pvN0h6NXdpeFl2bU9ZYkdWa1hOUQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T04:02:44Z",
+   "last_seen": "2026-08-22T04:02:44Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1d3e37d8b5c215b0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1d3e37d8b5c215b0",
+     "title": "美政界大失言WSJ籲正視台海重要性- 台灣話題- 新聞",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9CcHRlZEdOVllQUjR0N3IwTzFOYkVoczE2azMzeXEybElmc0VzeUotcklhZ2RlSVd5LWEtb2M3X2ZfTnQzdzFIM05sZGRBQ25mR3pvN0h6NXdpeFl2bU9ZYkdWa1hOUQ?oc=5",
+     "published": "2026-08-22T04:02:44Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "華人今日網",
+     "source_domain": "chinesedaily.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260822_48ef41",
    "headline": "中國要跳腳了！美軍機飛越台海上空 第七艦隊「一句話」嗆爆北京",
@@ -64,13 +763,75 @@
    ]
   },
   {
-   "id": "evt_20260822_93ba08",
+   "id": "evt_20260822_76a6a2",
+   "headline": "快新聞／中國要跳腳了！美軍機飛越台海上空 第七艦隊「一句話」嗆爆北京",
+   "headline_source": "民視新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94ektlcmFVWGNDR0VxRUJtVmF1aTc4dzBmQzY2RTAyLWsxYkk3US1ncURtNzZzOTBienZpT0N4TzBySk1oZ3d0U2xSVExQeHJVa3VOOTFid3Y2YXk1RWV6Qw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T03:55:11Z",
+   "last_seen": "2026-08-22T03:55:11Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "72be4580db13587d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "72be4580db13587d",
+     "title": "快新聞／中國要跳腳了！美軍機飛越台海上空 第七艦隊「一句話」嗆爆北京",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94ektlcmFVWGNDR0VxRUJtVmF1aTc4dzBmQzY2RTAyLWsxYkk3US1ncURtNzZzOTBienZpT0N4TzBySk1oZ3d0U2xSVExQeHJVa3VOOTFid3Y2YXk1RWV6Qw?oc=5",
+     "published": "2026-08-22T03:55:11Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "beijing",
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_31ae50",
    "headline": "Taiwan detects surge in Chinese military activity around its territory",
    "headline_source": "ANI",
    "headline_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNUdyT0taQXh1QmwyYWVYWjE3WDc4eXJrUldfNHIzSmFwQmQyaW0xaWxaR3JTMTZ6dmJHNDNfRHAzSTlFWXlwWFlON3d6X3F5TXl2M1NQUGhkQ2tCdnJOMUVrUWc5M0VqQW1IQzBNWV9NLUdFYktIRkpFZzhzNVJGN1kwZEFZNGFwRDRMeXlhQ1NnNkdxWGpLTGVJUVZCRTdqbnNDR2luNGdSbjl1Z3lqaVhrWjVKTk1vRnczN0xMbTg?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-22T03:37:00Z",
-   "last_seen": "2026-08-22T03:37:00Z",
+   "last_seen": "2026-08-22T03:48:20Z",
    "langs": [
     "en"
    ],
@@ -81,24 +842,27 @@
     "grade_label": "개연적",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 29.3,
+    "score": 29.6,
     "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
-     "independent"
+     "independent",
+     "unknown"
     ],
     "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 통신사·공영"
+     "최고 등급 통신사·공영",
+     "ANI 원고를 LatestLY 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "344723400f4a43bd"
+     "344723400f4a43bd",
+     "2a5530b38fa70b4e"
     ]
    },
    "articles": [
@@ -115,6 +879,22 @@
      "tier_label": "통신사·공영",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "2a5530b38fa70b4e",
+     "title": "World News | Taiwan Detects Surge in Chinese Military Activity Around Its Territory",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZzdiYml4U0JJVmNzRGYtb1lYVnZwY1o2YUNBcFEzYncwMGxHMWdDY3BHS0J3dDY5c0xQdnMzTzJYaTBCY2pnWW14aUNiS0E5eVdHcGNoLXo2ZmNES0U1M01tZTA5RWdYWjNBaVU4ekgwemtReWpHenFrWlFmX2FNRmZxUE5oZkNmNGFFV2dPMF8tczQxWFhDcURWR2FjaTgzRDJMd0F1SFVFMHlNNmY5MDNDdE1QSXVBdTlpMWkwWkRxS05SRkRGMlFmVdIB0AFBVV95cUxNdUVIOWlrMTlCSTJsYlNSMkhSYUJEbHVldU1GdHpmV1kwb1F4M1RzaGNmUm1QMkZPbzVUc0pSQlZtR2lza2E1NVIwcjgyY1hPYXk3S3ZVZHFySEJKemV3elNzeVZPQmJXTUlSMmEtYkNUT3RST2lOaU9HZjEtYUxva3VoclJvbWIyNWxXS1NGaDhYbkpKdVV6c2g2V1Riclg3OXBGNzZUakdONnkxSU4zbWpwUVZOeGhuRTBYQnJwdVFocnJYcXFfWmlwWkN2UW0x?oc=5",
+     "published": "2026-08-22T03:48:20Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "LatestLY",
+     "source_domain": "latestly.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
@@ -507,6 +1287,67 @@
    ]
   },
   {
+   "id": "evt_20260822_74ff50",
+   "headline": "美軍P-8A巡邏機飛越台海！解放軍全程監控 「局勢盡在掌控中」",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ERnQyQ0E0U2w2SnQ1azNsSjg1cnoxeVl4MkFlRU1aemZGVVBWektjY0VMUmdLTnNkbXNsaVJIeUZYdzdYWHY3MG4xZjJhNEs0QlB3dDlvbFlXb01SQmktNWUwaVpFaWsxTENxY1pn?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T02:47:29Z",
+   "last_seen": "2026-08-22T02:47:29Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a22285040a3a5361"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a22285040a3a5361",
+     "title": "美軍P-8A巡邏機飛越台海！解放軍全程監控 「局勢盡在掌控中」",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5ERnQyQ0E0U2w2SnQ1azNsSjg1cnoxeVl4MkFlRU1aemZGVVBWektjY0VMUmdLTnNkbXNsaVJIeUZYdzdYWHY3MG4xZjJhNEs0QlB3dDlvbFlXb01SQmktNWUwaVpFaWsxTENxY1pn?oc=5",
+     "published": "2026-08-22T02:47:29Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260822_07e5bf",
    "headline": "泉州南安：成功故里扬帆处 两岸同心圆梦时",
    "headline_source": "CCTV 中央電視台",
@@ -630,7 +1471,7 @@
    "id": "evt_20260822_f0fa70",
    "headline": "川習會在即 美軍機「突飛越台海」 第七艦隊罕見發聲",
    "headline_source": "壹蘋新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzhMTEFVbkdwcmJ3R2VIUUx2aHFZbFIxR0pIeHhneEhEalRTWkNqLXc4eHYySjRwM3BBSXVnNEw3N24tbEN3VEZRTUpGODBneHRRaGN2S1BGRTRNYS11Q3plRHoyZXEzMlpxV2I2cU1xVE1Pa2hSelVHbV83Z1Q0TGp3WmJYbnhPQXc?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaWtQb29UYTliU0o0UlVNdDJKZUVpLTZMLURmbkliSnU3VWhiNGxqVzFkc0pmYVU1UHoxRUczR0hGZmxRRGd3WGl1dEtyVURhNXIyYUc0QldOdFZPTnBLOU9HbE1xQm9ZLVNPQ3Jrb0VZWHQtYzN6TnFEeEtJUQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-22T02:26:00Z",
    "last_seen": "2026-08-22T02:26:00Z",
@@ -669,7 +1510,7 @@
     {
      "id": "df82e6f86871d431",
      "title": "川習會在即 美軍機「突飛越台海」 第七艦隊罕見發聲",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZzhMTEFVbkdwcmJ3R2VIUUx2aHFZbFIxR0pIeHhneEhEalRTWkNqLXc4eHYySjRwM3BBSXVnNEw3N24tbEN3VEZRTUpGODBneHRRaGN2S1BGRTRNYS11Q3plRHoyZXEzMlpxV2I2cU1xVE1Pa2hSelVHbV83Z1Q0TGp3WmJYbnhPQXc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5jaWtQb29UYTliU0o0UlVNdDJKZUVpLTZMLURmbkliSnU3VWhiNGxqVzFkc0pmYVU1UHoxRUczR0hGZmxRRGd3WGl1dEtyVURhNXIyYUc0QldOdFZPTnBLOU9HbE1xQm9ZLVNPQ3Jrb0VZWHQtYzN6TnFEeEtJUQ?oc=5",
      "published": "2026-08-22T02:26:00Z",
      "lang": "zh",
      "entities": [
@@ -865,209 +1706,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260822_37f7e3",
-   "headline": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-22T00:43:00Z",
-   "last_seen": "2026-08-22T01:57:54Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 30.8,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "Reuters 원고를 Taiwan News 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9b0cf2d3c0e844b8",
-     "06df80210601b1d9"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9b0cf2d3c0e844b8",
-     "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
-     "published": "2026-08-22T00:43:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "06df80210601b1d9",
-     "title": "US Navy patrol aircraft transits Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9fczhVZjlJQ3QwN055UkFvZjNXZFRaUi1UVkViY3VkcmNtVVBjd0RiUFZzM1dIamttaDVSVi1MalEzVG4td01xa1A0a2lMMXpDSGNnT1MzR04?oc=5",
-     "published": "2026-08-22T01:57:54Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "us_military"
-     ],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260822_e1a961",
-   "headline": "【快訊】美軍P-8A巡邏機飛越台海 第7艦隊：承諾印太自由航行 | 太報",
-   "headline_source": "LINE TODAY",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43M0VvMWF3TTNGdExmaHFxN0p0eGM0aHZtYnU1dHc1TUJFc0k2dE8yN254ZDNUUGdwbGhiV1kxSHdCZXhheDV4V1RrQXVrS2NNY0laTzZR?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-22T01:53:22Z",
-   "last_seen": "2026-08-22T01:53:22Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "a015b9e5a806b4a3"
-    ]
-   },
-   "articles": [
-    {
-     "id": "a015b9e5a806b4a3",
-     "title": "【快訊】美軍P-8A巡邏機飛越台海 第7艦隊：承諾印太自由航行 | 太報",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43M0VvMWF3TTNGdExmaHFxN0p0eGM0aHZtYnU1dHc1TUJFc0k2dE8yN254ZDNUUGdwbGhiV1kxSHdCZXhheDV4V1RrQXVrS2NNY0laTzZR?oc=5",
-     "published": "2026-08-22T01:53:22Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "us_military"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260822_e1a031",
-   "headline": "美軍P-8A「海神」巡邏機飛越台海 中方全程跟監警戒",
-   "headline_source": "香港01",
-   "headline_url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQWnVfZWg1UmhXcFpHbmZKcnQ4QzVIUUtyNzVybWM3MUpSNlk0TE5odHNtSXp5US0wQVAyRFZQRmtoSjN4Um5TYlFFRWZTcE9pb1hsWC1OSDg1Sm5oTC1hYjExT3l6dnlaU1ZoZEk5eGtqUFFYTnE3WUowRkF4ck5YU2JBdHpFbHZkMmVWdkJ0STBUVGRUMkM5dmtjZ1RjbDNqWWlFaFJqejBJRzJ4RXpmc3V2MXZTQW9sdWNyQTY3dktHdTBqUkJVMG1BQkJCbW1GUXhWMl9qOERXT3B4aUVWZlBXUXhuX2doYzBwTVZnVExUZURIdWFUYjBSMjhhOWdwbVVqODA5RFVUandxSzBBcWpmV3RTS0wyUTNMY01UbWVwd3hoZ09PcktmSTR2dnJBUzNQajZ6OWN3alVBSlVGVnJ1UTR0Q3pRYUFhSk1PYUtXcHBYZTk5dGxGV01hNUFfSjg0?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-22T01:52:04Z",
-   "last_seen": "2026-08-22T01:52:04Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ffefaf43568e2b82"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ffefaf43568e2b82",
-     "title": "美軍P-8A「海神」巡邏機飛越台海 中方全程跟監警戒",
-     "url": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxQWnVfZWg1UmhXcFpHbmZKcnQ4QzVIUUtyNzVybWM3MUpSNlk0TE5odHNtSXp5US0wQVAyRFZQRmtoSjN4Um5TYlFFRWZTcE9pb1hsWC1OSDg1Sm5oTC1hYjExT3l6dnlaU1ZoZEk5eGtqUFFYTnE3WUowRkF4ck5YU2JBdHpFbHZkMmVWdkJ0STBUVGRUMkM5dmtjZ1RjbDNqWWlFaFJqejBJRzJ4RXpmc3V2MXZTQW9sdWNyQTY3dktHdTBqUkJVMG1BQkJCbW1GUXhWMl9qOERXT3B4aUVWZlBXUXhuX2doYzBwTVZnVExUZURIdWFUYjBSMjhhOWdwbVVqODA5RFVUandxSzBBcWpmV3RTS0wyUTNMY01UbWVwd3hoZ09PcktmSTR2dnJBUzNQajZ6OWN3alVBSlVGVnJ1UTR0Q3pRYUFhSk1PYUtXcHBYZTk5dGxGV01hNUFfSjg0?oc=5",
-     "published": "2026-08-22T01:52:04Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "us_military"
-     ],
-     "source_name": "香港01",
-     "source_domain": "hk01.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재",
      "hedged": false
     }
    ]
@@ -1452,6 +2090,67 @@
      ],
      "source_name": "Devdiscourse",
      "source_domain": "devdiscourse.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_e1a961",
+   "headline": "【快訊】美軍P-8A巡邏機飛越台海 第7艦隊：承諾印太自由航行 | 太報",
+   "headline_source": "LINE TODAY",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43M0VvMWF3TTNGdExmaHFxN0p0eGM0aHZtYnU1dHc1TUJFc0k2dE8yN254ZDNUUGdwbGhiV1kxSHdCZXhheDV4V1RrQXVrS2NNY0laTzZR?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T01:01:24Z",
+   "last_seen": "2026-08-22T01:01:24Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a015b9e5a806b4a3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a015b9e5a806b4a3",
+     "title": "【快訊】美軍P-8A巡邏機飛越台海 第7艦隊：承諾印太自由航行 | 太報",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE43M0VvMWF3TTNGdExmaHFxN0p0eGM0aHZtYnU1dHc1TUJFc0k2dE8yN254ZDNUUGdwbGhiV1kxSHdCZXhheDV4V1RrQXVrS2NNY0laTzZR?oc=5",
+     "published": "2026-08-22T01:01:24Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "LINE TODAY",
+     "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -2685,6 +3384,68 @@
    ]
   },
   {
+   "id": "evt_20260821_62ab3a",
+   "headline": "中共科研船再现踪小琉球 台海巡舰艇全程监控(图)",
+   "headline_source": "CMoney",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RUkFfU0JCTUxRa3lDX2E0c0dZZjBNazg1bGlFUnJDQkFPOFduc3lLLVZaaVpvdUlSOFU4WTlNckQ1NlhKM2wzMlVnNEtCT0QydmZHVWVKNzM?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-21T06:31:15Z",
+   "last_seen": "2026-08-21T06:31:15Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a6fde32ecf418c12"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a6fde32ecf418c12",
+     "title": "中共科研船再现踪小琉球 台海巡舰艇全程监控(图)",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5RUkFfU0JCTUxRa3lDX2E0c0dZZjBNazg1bGlFUnJDQkFPOFduc3lLLVZaaVpvdUlSOFU4WTlNckQ1NlhKM2wzMlVnNEtCT0QydmZHVWVKNzM?oc=5",
+     "published": "2026-08-21T06:31:15Z",
+     "lang": "zh",
+     "entities": [
+      "coast_guard",
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "CMoney",
+     "source_domain": "cmoney.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260821_9a4c9c",
    "headline": "U.S. reshapes Asia security, cuts Korea drills and pushes Taiwan defense surge - CHOSUNBIZ",
    "headline_source": "조선일보",
@@ -3705,159 +4466,6 @@
    ]
   },
   {
-   "id": "evt_20260818_f2e1d9",
-   "headline": "Taiwan proposes boosting 2027 defence spending 18% to a record high",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhITHJrak1JYzUzNnhrb1lqUVVRY1J0NWJ1VExDVGptcDJYNTZhYnlhS3ZJbEFtejZYdlFHbVhpRzNDaTVWOEZvb0xJNXNneG1rZllid1FlQVR6dkgyZEJnMGFIcmZDV1picjdfMVZiTXJsZVNuX25nVEttNUxfVUc1WkxmQTRxUUtxdEdJTnZzaHFYM1pFd2p6OWh6LWdkQXJtSXNmQjNLbUdlTEk2Q2xmVG9KNHc?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-18T05:35:44Z",
-   "last_seen": "2026-08-20T23:34:22Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
-    "n_unrated": 1,
-    "score": 66.7,
-    "n_independent": 2,
-    "n_articles": 6,
-    "n_domains": 6,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 통신사·공영",
-     "2개 언어권에서 확인",
-     "Reuters 원고를 Free Malaysia Today·Newsmax 가 전재 — 1곳으로 계산",
-     "International Business Times, Singapore Edition 원고를 dailycaller.com 가 전재 — 1곳으로 계산",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "f0d1f5770499e8f0",
-     "bb63e23c5482bf60",
-     "73fb9684fde9bebb",
-     "43c48d3b8121de68",
-     "b6636ba68873a3c0",
-     "471d3a4b609a08d2"
-    ]
-   },
-   "articles": [
-    {
-     "id": "f0d1f5770499e8f0",
-     "title": "共艦滯留台海早有目的 18架共機上午配合「聯合戰備警巡」擾台",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3TDIxSW52c1BNUWJ3N1JnbWNnRUZJMzNELXg1TmNCazNJSzRZck16SFlNQWZTSnBVemN4TW9CeUp2ZFVrWnI2RTJfZ0NkS2Z6eWNxVUFiNk9RT2E3eDRQdzBaSnVMWEtHV01CUWFn?oc=5",
-     "published": "2026-08-18T05:35:44Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "taiwan_strait",
-      "warship"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "bb63e23c5482bf60",
-     "title": "Taiwan proposes boosting 2027 defence spending by 18%",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPU1piX3ZNMFdNLVRwRU9FZ18tUDBPSEN5OVg3aW1kNkhyRXdCWkJCcXBOejJNNVktLUFVNng2Y0h2bjdjZDZRRk4xcEFGTUx5cUYzRk1kRWNNSVpmNzJoQ1ZtSkpFUXJ0dVUwMng1d1lJS2dSM0tJQ2hGRDVCV0NFV3pDV2FhQ25PUzgyTUN0VWRoSklmdG1IakxuNlZsY2RQcVo3WmVEZzNLdmlsQWc?oc=5",
-     "published": "2026-08-20T04:49:30Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Free Malaysia Today",
-     "source_domain": "freemalaysiatoday.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "73fb9684fde9bebb",
-     "title": "Taiwan proposes boosting 2027 defence spending 18% to a record high",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkhITHJrak1JYzUzNnhrb1lqUVVRY1J0NWJ1VExDVGptcDJYNTZhYnlhS3ZJbEFtejZYdlFHbVhpRzNDaTVWOEZvb0xJNXNneG1rZllid1FlQVR6dkgyZEJnMGFIcmZDV1picjdfMVZiTXJsZVNuX25nVEttNUxfVUc1WkxmQTRxUUtxdEdJTnZzaHFYM1pFd2p6OWh6LWdkQXJtSXNmQjNLbUdlTEk2Q2xmVG9KNHc?oc=5",
-     "published": "2026-08-20T05:33:28Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "43c48d3b8121de68",
-     "title": "Taiwan Raises Defense Budget 18% to Record $31.4 Billion as China Threat Grows",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeEx2bXM1RFE5X1h5bXlVNWJ6dTFudlRDaTNoTENkX0ZNdHpjY2J5eEJ4UjNZTEpDLUJpRWpYR20xcjNvVTVWbVc2cnN1Z2hpa3A0RWt2U2gwNDRKU3VxaWtiQzNUU3VBZHpzU0Nsb2JRWDZsTGNmc1RJVEJoYkQ2bTdQZGEzdzFzaGFMOXZsbGRucjg3X3A0WHNKaXZBNHNp?oc=5",
-     "published": "2026-08-20T17:08:24Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "International Business Times, Singapore Edition",
-     "source_domain": "ibtimes.sg",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "b6636ba68873a3c0",
-     "title": "Taiwan Unveils Record Defense Budget As China Threat Grows",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZEl2SjZqQUZudkU5MEdYbEdlbUJKV0pYUy1DR1AxNS1IU0JZTVNaLUU5Qk9zcUY4WEpOOV9Nc1JNblZmbTdJZU5lMlp5by1Dbnlrc09OZ3ZzaGJFU2tsczdiRnAzdVZxWjUySVNvcGtGdklCVmRNUXZOb0tzNm9SaFB6VVRSajlMSXVQdGZn?oc=5",
-     "published": "2026-08-20T17:32:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "dailycaller.com",
-     "source_domain": "dailycaller.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "471d3a4b609a08d2",
-     "title": "Taiwan Proposes Boosting 2027 Defense Spending to a Record High",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXFaOTBJT0FUNExYeVEzUlZTZHNxR3RKYzZncUtzZWhJbVA1bEFILTZzWk5QVGJzYXY1WlYxQWhzZzNCWkRKeE5YdzZuUnl0RVJabEVvSjZ4ektBSUVzQlQzN3hDS0IzSmRaMGFmMWtjTzJXQWVDcGZwc3U3SUNIU2JHOGE?oc=5",
-     "published": "2026-08-20T23:34:22Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Newsmax",
-     "source_domain": "newsmax.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260820_10d7ee",
    "headline": "央視曝東部戰區「東海飛龍」 直面台軍五支特戰精銳 演訓全方位對標台海實戰",
    "headline_source": "巴士的報",
@@ -4381,87 +4989,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260820_ebfc50",
-   "headline": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://focustaiwan.tw/politics/202608200011",
-   "headline_lang": "en",
-   "first_seen": "2026-08-20T08:04:10Z",
-   "last_seen": "2026-08-20T13:36:27Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 51.4,
-    "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 2,
-    "blocs": [
-     "prc_state",
-     "tw_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 관영·정부",
-     "2개 언어권에서 확인",
-     "중국·대만 양측 모두 보도",
-     "香港中國通訊社 원고를 香港中國通訊社 가 전재 — 1곳으로 계산",
-     "중국 관영·대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "08840997974003b0",
-     "f0a5c64c823260a0"
-    ]
-   },
-   "articles": [
-    {
-     "id": "08840997974003b0",
-     "title": "Cabinet approves 2027 budget proposal, defense spending at 3.01% of GDP",
-     "url": "https://focustaiwan.tw/politics/202608200011",
-     "published": "2026-08-20T08:04:10Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "f0a5c64c823260a0",
-     "title": "70% in Taiwan view Chinese coast guard patrols as 'ill will': MAC poll",
-     "url": "https://focustaiwan.tw/politics/202608200016",
-     "published": "2026-08-20T13:36:27Z",
-     "lang": "en",
-     "entities": [
-      "coast_guard"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -5180,6 +5707,90 @@
    ]
   },
   {
+   "id": "evt_20260820_5dee22",
+   "headline": "대만 \"중국 해경선들, 최전방 진먼 해역 또 진입\"",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2TnFIOWdmVmVRZDMtLW1tenl1WUpVOXZHd01PSTZBQVZ4X1NIOEZ5ZksxeWJWb3V2M2lKRmRsdk55T2FxQy1iSjZuVDNHNHNFNmlMUGNwcWMwbmPSAWBBVV95cUxQeW1lSERQQ19TZk1PTnVLOGxGalh3U0FrbWpiV3hKYWFYZG9HeVR6cUtrSjRERWlSaFJ0WFg0SXNicTNPbWdueWtFZWpTME1wdXN6dWRxLVBnWl9RSEVfNFA?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-08-20T06:15:11Z",
+   "last_seen": "2026-08-20T07:13:00Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 30.5,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영",
+     "연합뉴스 원고를 연합뉴스TV 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5fcbf2b45623dbcd",
+     "9e70d58bc71eed6e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5fcbf2b45623dbcd",
+     "title": "대만 \"중국 해경선들, 최전방 진먼 해역 또 진입\"",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2TnFIOWdmVmVRZDMtLW1tenl1WUpVOXZHd01PSTZBQVZ4X1NIOEZ5ZksxeWJWb3V2M2lKRmRsdk55T2FxQy1iSjZuVDNHNHNFNmlMUGNwcWMwbmPSAWBBVV95cUxQeW1lSERQQ19TZk1PTnVLOGxGalh3U0FrbWpiV3hKYWFYZG9HeVR6cUtrSjRERWlSaFJ0WFg0SXNicTNPbWdueWtFZWpTME1wdXN6dWRxLVBnWl9RSEVfNFA?oc=5",
+     "published": "2026-08-20T06:15:11Z",
+     "lang": "ko",
+     "entities": [
+      "coast_guard",
+      "incursion",
+      "kinmen"
+     ],
+     "source_name": "연합뉴스",
+     "source_domain": "yna.co.kr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "9e70d58bc71eed6e",
+     "title": "대만 \"중국 해경선, 최전방 진먼 해역 또 진입\"",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9vU3huNmp3c1ppSk54Ykk2SjVqMm5uX3VpWUNIdlRKUUVGSHVtbi1MLVZrdWpJVk84MWJKVGF3UTFaNEh0bDFSYnNjQXpCb3ZaUk4zOXJ1R0pFcGlBZ2JCQ19fdGNqSUE?oc=5",
+     "published": "2026-08-20T07:13:00Z",
+     "lang": "ko",
+     "entities": [
+      "coast_guard",
+      "incursion",
+      "kinmen"
+     ],
+     "source_name": "연합뉴스TV",
+     "source_domain": "yonhapnewstv.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260820_4ac233",
    "headline": "北京盯上台灣東部海域？美智庫警告中共「灰色地帶」新戰術，意圖建立常態化管轄權| 國際中心| 新聞",
    "headline_source": "風傳媒",
@@ -5413,68 +6024,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260820_5dee22",
-   "headline": "대만 \"중국 해경선들, 최전방 진먼 해역 또 진입\"",
-   "headline_source": "연합뉴스 한민족센터",
-   "headline_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mQnZhQUpiMERDb3o0UDRpZUdyZlptUnRWMXZXejNXNGRrR091eXFndS1JRlBwQWo0SVZPLVoxODNWbXlZMmdhRjhXR1pRc1dQeHlvMlMyUXlFUzREX2ZLWWtuOEdMLUlIYlh5aWd5WEU5YkFH?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-08-20T06:15:11Z",
-   "last_seen": "2026-08-20T06:15:11Z",
-   "langs": [
-    "ko"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "5fcbf2b45623dbcd"
-    ]
-   },
-   "articles": [
-    {
-     "id": "5fcbf2b45623dbcd",
-     "title": "대만 \"중국 해경선들, 최전방 진먼 해역 또 진입\"",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mQnZhQUpiMERDb3o0UDRpZUdyZlptUnRWMXZXejNXNGRrR091eXFndS1JRlBwQWo0SVZPLVoxODNWbXlZMmdhRjhXR1pRc1dQeHlvMlMyUXlFUzREX2ZLWWtuOEdMLUlIYlh5aWd5WEU5YkFH?oc=5",
-     "published": "2026-08-20T06:15:11Z",
-     "lang": "ko",
-     "entities": [
-      "coast_guard",
-      "incursion",
-      "kinmen"
-     ],
-     "source_name": "연합뉴스 한민족센터",
-     "source_domain": "koreancenter.or.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -9260,6 +9809,68 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260818_b02028",
+   "headline": "共艦滯留台海早有目的 18架共機上午配合「聯合戰備警巡」擾台",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3TDIxSW52c1BNUWJ3N1JnbWNnRUZJMzNELXg1TmNCazNJSzRZck16SFlNQWZTSnBVemN4TW9CeUp2ZFVrWnI2RTJfZ0NkS2Z6eWNxVUFiNk9RT2E3eDRQdzBaSnVMWEtHV01CUWFn?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-18T05:35:44Z",
+   "last_seen": "2026-08-18T05:35:44Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f0d1f5770499e8f0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f0d1f5770499e8f0",
+     "title": "共艦滯留台海早有目的 18架共機上午配合「聯合戰備警巡」擾台",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB3TDIxSW52c1BNUWJ3N1JnbWNnRUZJMzNELXg1TmNCazNJSzRZck16SFlNQWZTSnBVemN4TW9CeUp2ZFVrWnI2RTJfZ0NkS2Z6eWNxVUFiNk9RT2E3eDRQdzBaSnVMWEtHV01CUWFn?oc=5",
+     "published": "2026-08-18T05:35:44Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -30286,689 +30897,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_253333",
-   "headline": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjIzWVZmYlV0bEl6Uk9kazZtSmgyVGF5Yk9IOVFaNUc1YWJ4d0VRbTdZYXJsaTFEQ21tLWw4cl9XaXB6dWd5MW9mUDJPanlFWWdkSHJRNkViRnlDUWVodDlSRlB2eGFETm10clBIYm5PUW1xV3BUUEhJR3h1dHZzWjZJMnFPUnUtVFB0UjhpU0Jmck42Ul8wR3NCRU1vd1Y0OUo4U0loM29Jd1hSX2YxN1pyU3d3N09RM3pHeg?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-08T07:00:00Z",
-   "last_seen": "2026-08-08T07:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.3,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "eea2e461faafe5a7"
-    ]
-   },
-   "articles": [
-    {
-     "id": "eea2e461faafe5a7",
-     "title": "Taipei says China's traffic control order for Taiwan Strait during typhoon is 'ridiculous'",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOWjIzWVZmYlV0bEl6Uk9kazZtSmgyVGF5Yk9IOVFaNUc1YWJ4d0VRbTdZYXJsaTFEQ21tLWw4cl9XaXB6dWd5MW9mUDJPanlFWWdkSHJRNkViRnlDUWVodDlSRlB2eGFETm10clBIYm5PUW1xV3BUUEhJR3h1dHZzWjZJMnFPUnUtVFB0UjhpU0Jmck42Ul8wR3NCRU1vd1Y0OUo4U0loM29Jd1hSX2YxN1pyU3d3N09RM3pHeg?oc=5",
-     "published": "2026-08-08T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taipei",
-      "taiwan_strait"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_413e70",
-   "headline": "China’s Taiwan Strait traffic controls described as ‘utterly ridiculous’",
-   "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Dbk53Vk9RM3VDNTlDOG5WaHVLb1ZySjZRbXJsb00yUUYtMWNvSEVyd3I1YkpiUmI0ME53NEZ1RHVMU0x6bktmMThDZVJnVHJOQ0Uzeg?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-08T07:00:00Z",
-   "last_seen": "2026-08-08T07:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "Taiwan News 원고를 Firstpost 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3b04520fb6a7cf05",
-     "e8854651e9a5cd83"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3b04520fb6a7cf05",
-     "title": "'Utterly ridiculous': Taipei slams China's Taiwan Strait traffic controls amid Typhoon Dolphin",
-     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTDFhSENEY2NOTnduQzRtaWJ6VmwtZFNHYXVBZnJHdFdDTlFCems1YlJhY0xFdVBEVE9Zb01wZHZiMWNSN1h0RVIzR2ROdGl6S1VMczJ6Q2tsenpFbVNYWkVETjZUQ05jX1FHQ0p5NTk3WmI3YkNEa1dHa2djeUx1QUlYaWlJS0N3RkFObTQzc0lGVnlwVUloTlRsSld4aV9PRG8yYUQ5QU1HTmM3aWtIQ0g1b2dnbUh1VXRkbkZEcVJ1R0d4SUZVV3hLcGRPVnhiaEHSAdcBQVVfeXFMTy1qY052R0U3eXNfRHNQeVJqanM3TXd1cWplaXlyNmdxZ2FRVVhXaWtvTnJ5UjYxZms4TUk3UjlaM0VOaVdIem9FcGFaMXVUR3pydEpLWXlUTEY4S3NxRnJIWXlYS1pnMm9XYjlCWXVqYTZ0cUt2anJ0cDQ5V0ZkZDNmR0RCdFRRVF9WT1RxMi1QYkJEdEtPdFpUTnVZRGxfbUlVWjRzcmlySXhCeUpJNGNIcHNOd3lYa0ZId19feWRGTVdzZ0R3cXQ2WHJKcTdUdllnb25oa00?oc=5",
-     "published": "2026-08-08T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taipei",
-      "taiwan_strait"
-     ],
-     "source_name": "Firstpost",
-     "source_domain": "firstpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "e8854651e9a5cd83",
-     "title": "China’s Taiwan Strait traffic controls described as ‘utterly ridiculous’",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5Dbk53Vk9RM3VDNTlDOG5WaHVLb1ZySjZRbXJsb00yUUYtMWNvSEVyd3I1YkpiUmI0ME53NEZ1RHVMU0x6bktmMThDZVJnVHJOQ0Uzeg?oc=5",
-     "published": "2026-08-08T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_f56a9b",
-   "headline": "심야에 장갑차 탄 대만 총통…중국 ‘참수 작전’ 대비 훈련",
-   "headline_source": "한겨레",
-   "headline_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlN3o0blBDZ2JoZzMtQlpmZ3lLRG1IYm5tRmo5QVBzMlFJY05zLVJBU0VLUXR1NFBjVnp2RDRLSzgyT1BFSFlYZ3ZrRFNhbENMMC0zc3d6SzhoRFJfbHA4eVhWSm0taDdmQkZhNQ?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-08-08T07:00:00Z",
-   "last_seen": "2026-08-08T07:00:00Z",
-   "langs": [
-    "ko"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "498a76fa7dad1c59"
-    ]
-   },
-   "articles": [
-    {
-     "id": "498a76fa7dad1c59",
-     "title": "심야에 장갑차 탄 대만 총통…중국 ‘참수 작전’ 대비 훈련",
-     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBlN3o0blBDZ2JoZzMtQlpmZ3lLRG1IYm5tRmo5QVBzMlFJY05zLVJBU0VLUXR1NFBjVnp2RDRLSzgyT1BFSFlYZ3ZrRFNhbENMMC0zc3d6SzhoRFJfbHA4eVhWSm0taDdmQkZhNQ?oc=5",
-     "published": "2026-08-08T07:00:00Z",
-     "lang": "ko",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "한겨레",
-     "source_domain": "hani.co.kr",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_62a9a6",
-   "headline": "Over 100 civil groups from Taiwan join cross-Strait event in Beijing",
-   "headline_source": "CGTN",
-   "headline_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMl9BRnhrd1RnN2gxQ3B4anFRNjMwME1pVlRodFI3dm9RZVREYjRzNFpEUURiWG8xVXZFNm05TXBiRDdacmRPUW9mQlh3RkdMWXJuZVZncXNqR0lkdHJxbWdxTkVuWUpfZ1d5aUg1ZmlURjZRbTJzY3pkUFFYd2N2SEl0Qm9xQ2lhbHQtV3NYelAweUU2NVpMUW5XRnJkS2gyNjFMc2l6U1JjaGFWS2tFVTVhVHVhZDFXT0RkSlY3NXZvQ1k?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-08T07:00:00Z",
-   "last_seen": "2026-08-08T07:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "c940543ad64527e8"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "c940543ad64527e8",
-     "title": "Over 100 civil groups from Taiwan join cross-Strait event in Beijing",
-     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNMl9BRnhrd1RnN2gxQ3B4anFRNjMwME1pVlRodFI3dm9RZVREYjRzNFpEUURiWG8xVXZFNm05TXBiRDdacmRPUW9mQlh3RkdMWXJuZVZncXNqR0lkdHJxbWdxTkVuWUpfZ1d5aUg1ZmlURjZRbTJzY3pkUFFYd2N2SEl0Qm9xQ2lhbHQtV3NYelAweUU2NVpMUW5XRnJkS2gyNjFMc2l6U1JjaGFWS2tFVTVhVHVhZDFXT0RkSlY3NXZvQ1k?oc=5",
-     "published": "2026-08-08T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "beijing",
-      "taiwan_strait"
-     ],
-     "source_name": "CGTN",
-     "source_domain": "cgtn.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_b55804",
-   "headline": "Taiwan slams China’s Taiwan strait shipping controls as ‘ridiculous’",
-   "headline_source": "The Vibes",
-   "headline_url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanZ3RnZ3bXd5VnN4MHJkYkpCUVdURFlIT2dRLWE3WldIUldjbTd1V3R2dEJfN25mdjQxNVpsT3Zyb3F2bFhodEthMm9rcE82UjNrc3g1Uk1WMW1iVzZfYnpjTUxhcFNEaEMtcFNUYjVvM3lyTGQ5MEFfMUJHVllzQ2FPSjl3clo1M291aklPbVdCUzZnWnhVeEVhUjN3NEJYZFU1NlEzMUVWSnNKOVgyQmV3?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-08T07:00:00Z",
-   "last_seen": "2026-08-08T07:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "314fa4ced333efad"
-    ]
-   },
-   "articles": [
-    {
-     "id": "314fa4ced333efad",
-     "title": "Taiwan slams China’s Taiwan strait shipping controls as ‘ridiculous’",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQanZ3RnZ3bXd5VnN4MHJkYkpCUVdURFlIT2dRLWE3WldIUldjbTd1V3R2dEJfN25mdjQxNVpsT3Zyb3F2bFhodEthMm9rcE82UjNrc3g1Uk1WMW1iVzZfYnpjTUxhcFNEaEMtcFNUYjVvM3lyTGQ5MEFfMUJHVllzQ2FPSjl3clo1M291aklPbVdCUzZnWnhVeEVhUjN3NEJYZFU1NlEzMUVWSnNKOVgyQmV3?oc=5",
-     "published": "2026-08-08T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "The Vibes",
-     "source_domain": "thevibes.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_73a6e0",
-   "headline": "陸藉颱風「交管」台海船舶 王定宇批無知又無良：演一場無用政治大戲",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ORzBNUzNFZ0o0aDgySF9PdFhqMGh2SUlEWFN1YTA2cjBKQUlGRTJNOGR5b0I2NzFOTlRDaXdUN0ZBTnBzUndkWDJxeUZXbERn0gFWQVVfeXFMTU0zVnZ5MmVCOFlDTUtUVUliZDZZdDFONlBya0tnWElKa1VDY2xTZzdxY0Y5LUh1SUhlN3BQR2VlcTIyYnRPQkltOHc1THhTX3BuSEswcWc?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-08T06:10:58Z",
-   "last_seen": "2026-08-08T06:10:58Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 44.8,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "0a79ed681728ddd0"
-    ]
-   },
-   "articles": [
-    {
-     "id": "0a79ed681728ddd0",
-     "title": "陸藉颱風「交管」台海船舶 王定宇批無知又無良：演一場無用政治大戲",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ORzBNUzNFZ0o0aDgySF9PdFhqMGh2SUlEWFN1YTA2cjBKQUlGRTJNOGR5b0I2NzFOTlRDaXdUN0ZBTnBzUndkWDJxeUZXbERn0gFWQVVfeXFMTU0zVnZ5MmVCOFlDTUtUVUliZDZZdDFONlBya0tnWElKa1VDY2xTZzdxY0Y5LUh1SUhlN3BQR2VlcTIyYnRPQkltOHc1THhTX3BuSEswcWc?oc=5",
-     "published": "2026-08-08T06:10:58Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_cfbc69",
-   "headline": "中國藉白海豚颱風「對台海船舶進行管制」！陸委會列2點嗆爆：台灣事不勞中共費心",
-   "headline_source": "民視新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EN282Ump0MXQ2ckJCbHFsWXpZZ3hlM1ZCNmpMeEN6X3B5djVicUdWaGVRTXYxU1ZJOTJ4R3cyNkpFY2x5MVctR1JmRUpMdTFDRVE3dkVsVU5EbDZuZC1DOA?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-08T05:40:05Z",
-   "last_seen": "2026-08-08T05:40:05Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3b1520d17f470c6e"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3b1520d17f470c6e",
-     "title": "中國藉白海豚颱風「對台海船舶進行管制」！陸委會列2點嗆爆：台灣事不勞中共費心",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EN282Ump0MXQ2ckJCbHFsWXpZZ3hlM1ZCNmpMeEN6X3B5djVicUdWaGVRTXYxU1ZJOTJ4R3cyNkpFY2x5MVctR1JmRUpMdTFDRVE3dkVsVU5EbDZuZC1DOA?oc=5",
-     "published": "2026-08-08T05:40:05Z",
-     "lang": "zh",
-     "entities": [
-      "mac",
-      "taiwan_strait"
-     ],
-     "source_name": "民視新聞",
-     "source_domain": "ftvnews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_700eee",
-   "headline": "自衛隊飛彈打得到中國本土! ISW:解放軍阻卻日本介入台海施壓失敗 | Newtalk",
-   "headline_source": "LINE TODAY",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9idVRNY09QXzUtSWduenNzR3hxeHZOVkEtTGRyM0YxM3RHV1c3R1R2cW5YYWtHZmFrSHNXYmVyeEk2T2l5SHo0OVM4UFlEbl94cXVrT0VR?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-08T05:22:06Z",
-   "last_seen": "2026-08-08T05:22:06Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "37796de1930432b6"
-    ]
-   },
-   "articles": [
-    {
-     "id": "37796de1930432b6",
-     "title": "自衛隊飛彈打得到中國本土! ISW:解放軍阻卻日本介入台海施壓失敗 | Newtalk",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9idVRNY09QXzUtSWduenNzR3hxeHZOVkEtTGRyM0YxM3RHV1c3R1R2cW5YYWtHZmFrSHNXYmVyeEk2T2l5SHo0OVM4UFlEbl94cXVrT0VR?oc=5",
-     "published": "2026-08-08T05:22:06Z",
-     "lang": "zh",
-     "entities": [
-      "jsdf",
-      "missile",
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_c3ed76",
-   "headline": "台海封鎖計畫來了？驚傳中共突宣布「管制航經船舶」 政府火速回應",
-   "headline_source": "民視新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tRWsxMHlGMGRSNFV3MEVlUnhWVmZyN2FkYnYzMDBaSGRkSDFQclJ4eGw2YUw3MHVXQ2tXQjFtUDRhTHpDMEJ6Nk1KalJfbThZV245cHB6cXA0cmxCZmRCUQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-08T05:21:03Z",
-   "last_seen": "2026-08-08T05:21:03Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ecda4b6f5d131ece"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ecda4b6f5d131ece",
-     "title": "台海封鎖計畫來了？驚傳中共突宣布「管制航經船舶」 政府火速回應",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tRWsxMHlGMGRSNFV3MEVlUnhWVmZyN2FkYnYzMDBaSGRkSDFQclJ4eGw2YUw3MHVXQ2tXQjFtUDRhTHpDMEJ6Nk1KalJfbThZV245cHB6cXA0cmxCZmRCUQ?oc=5",
-     "published": "2026-08-08T05:21:03Z",
-     "lang": "zh",
-     "entities": [
-      "blockade",
-      "taiwan_strait"
-     ],
-     "source_name": "民視新聞",
-     "source_domain": "ftvnews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_5cef75",
-   "headline": "台海恐有重大變局？「最帥靈媒」開示了：這些事已應驗",
-   "headline_source": "壹蘋新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDM4MFpfVURhWkNGTEphYmNXQ2NLNTR4VzNVNWlSS0d0NXI1ZmlneGJrLTRmQUVvd3ZIdnpPUWZydjhMRVhuc1pkdmlMUnQ0SUs2LUZpWEFOTGw4c05nN01hZ2hlLWgtWjdUZFZ0Z21fdGxfU3hPaEY1T25sbGZsY0Fn?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-08T05:12:00Z",
-   "last_seen": "2026-08-08T05:12:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "23209decc2c80053"
-    ]
-   },
-   "articles": [
-    {
-     "id": "23209decc2c80053",
-     "title": "台海恐有重大變局？「最帥靈媒」開示了：這些事已應驗",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPdDM4MFpfVURhWkNGTEphYmNXQ2NLNTR4VzNVNWlSS0d0NXI1ZmlneGJrLTRmQUVvd3ZIdnpPUWZydjhMRVhuc1pkdmlMUnQ0SUs2LUZpWEFOTGw4c05nN01hZ2hlLWgtWjdUZFZ0Z21fdGxfU3hPaEY1T25sbGZsY0Fn?oc=5",
-     "published": "2026-08-08T05:12:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "壹蘋新聞網",
-     "source_domain": "news.nextapple.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260808_110f11",
-   "headline": "Beyond political divide: The enduring bonds across Taiwan Strait",
-   "headline_source": "CGTN",
-   "headline_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlBXR21zNXRkLUpxem4yZHlLbHRYLTNKWDk2VzNUT0hoVW1lRXpvTHhTdGlEdkY5T0JHeWlrR09lQ0o2X2dkODI4WFRXbUgzV19XcnluUGRqOHBFRXIzTEJsZGp2UW9sdG9XOUxib0c1S2JPeW90TVd5a0YybWxRcm41LWEtTmxGeHhmeTdpcDhGYVBmbEtieng3b3RfSFNBaVd2VHFnWUlwZUh1djJnWTNValgzQndqUFBjUA?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-08T04:31:49Z",
-   "last_seen": "2026-08-08T04:31:49Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "7bc37792a75a5795"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "7bc37792a75a5795",
-     "title": "Beyond political divide: The enduring bonds across Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQVlBXR21zNXRkLUpxem4yZHlLbHRYLTNKWDk2VzNUT0hoVW1lRXpvTHhTdGlEdkY5T0JHeWlrR09lQ0o2X2dkODI4WFRXbUgzV19XcnluUGRqOHBFRXIzTEJsZGp2UW9sdG9XOUxib0c1S2JPeW90TVd5a0YybWxRcm41LWEtTmxGeHhmeTdpcDhGYVBmbEtieng3b3RfSFNBaVd2VHFnWUlwZUh1djJnWTNValgzQndqUFBjUA?oc=5",
-     "published": "2026-08-08T04:31:49Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "CGTN",
-     "source_domain": "cgtn.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
      "hedged": false
     }
    ]
