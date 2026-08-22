@@ -1,15 +1,15 @@
 {
- "updated": "2026-08-21T21:42:08Z",
- "checked": "2026-08-21",
- "duration_sec": 35.6,
+ "updated": "2026-08-22T01:52:36Z",
+ "checked": "2026-08-22",
+ "duration_sec": 35.9,
  "rolling_days": 14,
- "n_events": 484,
- "n_articles": 566,
+ "n_events": 487,
+ "n_articles": 571,
  "grades": {
+  "D": 270,
   "C": 178,
-  "D": 268,
-  "A": 4,
-  "B": 34
+  "B": 35,
+  "A": 4
  },
  "cross_language_events": 1,
  "tension_error": null,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 25,
-  "T2": 194,
-  "T3": 105,
+  "T1": 26,
+  "T2": 195,
+  "T3": 106,
   "T4": 15,
-  "T5": 181,
+  "T5": 183,
   "TA": 3
  },
  "t1_domains": [
@@ -45,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 24,
-   "newest": "2026-08-21T14:10:02+00:00",
+   "n_adopted": 27,
+   "newest": "2026-08-22T01:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 73,
+   "n_entries": 71,
    "n_adopted": 38,
-   "newest": "2026-08-21T19:32:26+00:00",
+   "newest": "2026-08-22T00:53:51+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 71,
-   "newest": "2026-08-21T16:59:00+00:00",
+   "n_adopted": 68,
+   "newest": "2026-08-22T01:40:44+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-21T19:51:08+00:00",
+   "n_adopted": 12,
+   "newest": "2026-08-22T01:19:37+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-21T12:41:00+00:00",
+   "newest": "2026-08-22T01:41:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-21T19:29:32+00:00",
+   "newest": "2026-08-22T00:57:03+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-21T10:46:09+00:00",
+   "newest": "2026-08-21T22:26:25+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-21T21:23:35+00:00",
+   "newest": "2026-08-22T00:59:37+00:00",
    "stale": false,
    "error": null
   },
@@ -254,18 +254,13 @@
   },
   {
    "domain": "devdiscourse.com",
-   "n_articles": 9,
-   "sample_title": "Taiwan's Strategic Defense Surge: A Billion-Dollar Military Modernization"
+   "n_articles": 11,
+   "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
   },
   {
    "domain": "upmedia.mg",
-   "n_articles": 9,
+   "n_articles": 8,
    "sample_title": "兄長年挺台她卻答不出 葛蘭姆胞妹辯論被問台海國安竟稱「非我專長」"
-  },
-  {
-   "domain": "foxnews.com",
-   "n_articles": 5,
-   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
    "domain": "hk.crntt.com",
@@ -276,6 +271,11 @@
    "domain": "fountmedia.io",
    "n_articles": 4,
    "sample_title": "漢光落幕共軍活動沒停！8共艦、7公務船持續台海周邊 3架共機進入北部東部空域"
+  },
+  {
+   "domain": "foxnews.com",
+   "n_articles": 4,
+   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
    "domain": "firstpost.com",
