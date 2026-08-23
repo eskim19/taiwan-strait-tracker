@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-23T04:03:34Z",
+ "updated": "2026-08-23T07:03:30Z",
  "checked": "2026-08-23",
- "duration_sec": 35.4,
+ "duration_sec": 32.7,
  "rolling_days": 14,
- "n_events": 493,
- "n_articles": 577,
+ "n_events": 494,
+ "n_articles": 579,
  "grades": {
-  "C": 179,
-  "D": 280,
-  "B": 31,
+  "D": 282,
+  "C": 177,
+  "B": 32,
   "A": 3
  },
- "cross_language_events": 2,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-08"
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 23,
-  "T2": 195,
-  "T3": 108,
+  "T2": 193,
+  "T3": 110,
   "T4": 16,
-  "T5": 196,
+  "T5": 197,
   "TA": 3
  },
  "t1_domains": [
@@ -45,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 30,
-   "newest": "2026-08-22T19:14:32+00:00",
+   "n_adopted": 31,
+   "newest": "2026-08-23T05:33:15+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 74,
-   "n_adopted": 37,
-   "newest": "2026-08-22T11:46:00+00:00",
+   "n_entries": 69,
+   "n_adopted": 35,
+   "newest": "2026-08-23T06:31:09+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 72,
-   "newest": "2026-08-23T02:56:29+00:00",
+   "n_adopted": 74,
+   "newest": "2026-08-23T06:13:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,7 +97,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 15,
    "newest": "2026-08-22T08:59:00+00:00",
    "stale": false,
    "error": null
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-08-23T02:56:09+00:00",
+   "n_adopted": 13,
+   "newest": "2026-08-23T04:44:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,8 +149,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 3,
-   "newest": "2026-08-23T04:00:14+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-23T06:00:18+00:00",
    "stale": false,
    "error": null
   },
@@ -162,8 +162,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 0,
-   "newest": "2026-08-23T02:26:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-08-23T06:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 98,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-08-23T02:33:55+00:00",
+   "newest": "2026-08-23T06:00:59+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-23T03:42:22+00:00",
+   "newest": "2026-08-23T06:15:50+00:00",
    "stale": false,
    "error": null
   },
