@@ -1,15 +1,15 @@
 {
  "month": "2026-08",
- "n_events": 785,
+ "n_events": 787,
  "events": [
   {
-   "id": "evt_20260823_89eb0d",
+   "id": "evt_20260823_5c42ab",
    "headline": "環球時報海風｜美式「台海舊劇本」，該被淘汰了- 評論",
    "headline_source": "大公文匯網",
    "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTXpjRUp5THRkcENCNnhvUWlkeWI3dnRXRXlQbHdmUjlYcGU1QkFTS0VtekJGOHdVSVVtelV2LVF2bTIxS1pOSUFuX0lva09mRTdfNHF0NFVjSXpkaUZCVjVqNW9hWGxYZXA2T1AtR2o?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-08-23T15:29:53Z",
-   "last_seen": "2026-08-23T15:29:53Z",
+   "first_seen": "2026-08-23T09:32:53Z",
+   "last_seen": "2026-08-23T20:15:53Z",
    "langs": [
     "zh"
    ],
@@ -20,9 +20,9 @@
     "grade_label": "발표 단독",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 20.0,
+    "score": 24.5,
     "n_independent": 1,
-    "n_articles": 1,
+    "n_articles": 2,
     "n_domains": 1,
     "blocs": [
      "prc_state"
@@ -32,12 +32,14 @@
     "reasons": [
      "중국 관영 진영 단독 보도",
      "최고 등급 관영·정부",
+     "大公文匯網 원고를 大公文匯網 가 전재 — 1곳으로 계산",
      "중국 관영 발표만 존재"
     ]
    },
    "perspectives": {
     "prc": [
-     "a56765ebdc1ab2af"
+     "a56765ebdc1ab2af",
+     "615ca078e94ef5cc"
     ],
     "tw_west": []
    },
@@ -46,7 +48,7 @@
      "id": "a56765ebdc1ab2af",
      "title": "環球時報海風｜美式「台海舊劇本」，該被淘汰了- 評論",
      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTXpjRUp5THRkcENCNnhvUWlkeWI3dnRXRXlQbHdmUjlYcGU1QkFTS0VtekJGOHdVSVVtelV2LVF2bTIxS1pOSUFuX0lva09mRTdfNHF0NFVjSXpkaUZCVjVqNW9hWGxYZXA2T1AtR2o?oc=5",
-     "published": "2026-08-23T15:29:53Z",
+     "published": "2026-08-23T09:32:53Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait"
@@ -58,6 +60,144 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "홍콩 친중공 매체",
+     "hedged": false
+    },
+    {
+     "id": "615ca078e94ef5cc",
+     "title": "特 稿/美式「台海舊劇本」，該被淘汰了\\海 風",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Zbk8zLWpid3ZRakpiLTBSZlk2MDkzeHg5OWMyNTF3MW1HbTluYkxMZFk2R3pFT01MS3pvajdQa0VYSkZmb3N4QUpPcDlqczNNUmM4THh2SWg5Mkx6LVpSZXBFUEdndHZCUXpEMWJDUllPY1Jo?oc=5",
+     "published": "2026-08-23T20:15:53Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "大公文匯網",
+     "source_domain": "tkww.hk",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260823_d0de59",
+   "headline": "老軍艦守台海 國艦國造不能拖",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRTItN1R1azVqRmd1U0IxZTRqNVoxX1RZeFl0TmtDZkw4V0w5M1NobmtyUFVDRU1OS21GUFpEYmsxckZVR0VURlJrLU0tWUt0QUF4TFFwblI4TEN4cjhiWFVZelJRVFhISnBF?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-23T20:10:00Z",
+   "last_seen": "2026-08-23T20:10:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "bc37394d289696bb"
+    ]
+   },
+   "articles": [
+    {
+     "id": "bc37394d289696bb",
+     "title": "老軍艦守台海 國艦國造不能拖",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5PRTItN1R1azVqRmd1U0IxZTRqNVoxX1RZeFl0TmtDZkw4V0w5M1NobmtyUFVDRU1OS21GUFpEYmsxckZVR0VURlJrLU0tWUt0QUF4TFFwblI4TEN4cjhiWFVZelJRVFhISnBF?oc=5",
+     "published": "2026-08-23T20:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260823_53a6b1",
+   "headline": "Taiwan Court Sentences 2 Former Military Sergeants in China Spy Case",
+   "headline_source": "NTD News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZG1rMVJxN25nRUtub0lfN05vSE8yVWRwbWdRdTRraEpOV2V6SGhwWHRWQ0s3V3lBT0tyaUdrOFYwUUo3NFFkVnBxeGM4bHZSSkZpSDNpbGpTcVRyREZqS0xUSzZWSVQ2WS1QLVhaWVBHbmlaZGVReXhQbmRJN0hmWFJFUExLQXpPVHk1QWZTUjJYN01EcFExNGFVcWZGcXNfOHJZ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-23T20:05:40Z",
+   "last_seen": "2026-08-23T20:05:40Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "04dcde5c1b318ded"
+    ]
+   },
+   "articles": [
+    {
+     "id": "04dcde5c1b318ded",
+     "title": "Taiwan Court Sentences 2 Former Military Sergeants in China Spy Case",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZG1rMVJxN25nRUtub0lfN05vSE8yVWRwbWdRdTRraEpOV2V6SGhwWHRWQ0s3V3lBT0tyaUdrOFYwUUo3NFFkVnBxeGM4bHZSSkZpSDNpbGpTcVRyREZqS0xUSzZWSVQ2WS1QLVhaWVBHbmlaZGVReXhQbmRJN0hmWFJFUExLQXpPVHk1QWZTUjJYN01EcFExNGFVcWZGcXNfOHJZ?oc=5",
+     "published": "2026-08-23T20:05:40Z",
+     "lang": "en",
+     "entities": [
+      "espionage"
+     ],
+     "source_name": "NTD News",
+     "source_domain": "ntd.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -1375,7 +1515,7 @@
    "headline_source": "Reuters",
    "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-08-22T00:43:00Z",
+   "first_seen": "2026-08-22T01:02:32Z",
    "last_seen": "2026-08-22T19:14:32Z",
    "langs": [
     "en"
@@ -1406,9 +1546,9 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "9b0cf2d3c0e844b8",
      "f7d0d107ec18c4bd",
      "5b1497832a21ba48",
+     "9b0cf2d3c0e844b8",
      "06df80210601b1d9",
      "8face908e4196450",
      "a57066f1cfca3c8d",
@@ -1416,26 +1556,6 @@
     ]
    },
    "articles": [
-    {
-     "id": "9b0cf2d3c0e844b8",
-     "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
-     "published": "2026-08-22T00:43:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "f7d0d107ec18c4bd",
      "title": "US Navy aircraft transits Taiwan Strait ahead of Xi-Trump meeting",
@@ -1472,6 +1592,26 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "9b0cf2d3c0e844b8",
+     "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+     "published": "2026-08-22T02:09:43Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     },

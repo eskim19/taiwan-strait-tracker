@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-23T18:50:11Z",
+ "updated": "2026-08-23T21:38:01Z",
  "checked": "2026-08-23",
- "duration_sec": 31.1,
+ "duration_sec": 34.2,
  "rolling_days": 14,
- "n_events": 491,
+ "n_events": 490,
  "n_articles": 576,
  "grades": {
-  "D": 278,
-  "B": 33,
+  "D": 277,
   "C": 177,
+  "B": 33,
   "A": 3
  },
  "cross_language_events": 4,
@@ -20,9 +20,9 @@
  "tier_articles": {
   "T1": 23,
   "T2": 194,
-  "T3": 115,
+  "T3": 116,
   "T4": 14,
-  "T5": 192,
+  "T5": 191,
   "TA": 3
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 33,
+   "n_adopted": 35,
    "newest": "2026-08-23T16:00:00+00:00",
    "stale": false,
    "error": null
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 75,
-   "n_adopted": 39,
-   "newest": "2026-08-23T07:38:48+00:00",
+   "n_entries": 76,
+   "n_adopted": 38,
+   "newest": "2026-08-23T20:05:40+00:00",
    "stale": false,
    "error": null
   },
@@ -72,7 +72,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 20,
-   "newest": "2026-08-23T07:53:42+00:00",
+   "newest": "2026-08-23T07:55:00+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 69,
-   "newest": "2026-08-23T15:29:53+00:00",
+   "n_adopted": 71,
+   "newest": "2026-08-23T20:15:53+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-08-23T11:32:00+00:00",
+   "n_adopted": 6,
+   "newest": "2026-08-23T20:56:04+00:00",
    "stale": false,
    "error": null
   },
@@ -202,7 +202,7 @@
    "http": 200,
    "n_entries": 98,
    "n_adopted": 0,
-   "newest": "2026-08-23T14:02:06+00:00",
+   "newest": "2026-08-23T21:19:56+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-23T18:15:22+00:00",
+   "newest": "2026-08-23T21:34:53+00:00",
    "stale": false,
    "error": null
   },
@@ -283,9 +283,9 @@
    "sample_title": "漢光落幕共軍活動沒停！8共艦、7公務船持續台海周邊 3架共機進入北部東部空域"
   },
   {
-   "domain": "foxnews.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
+   "domain": "ntd.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan Court Sentences 2 Former Military Sergeants in China Spy Case"
   },
   {
    "domain": "outlookindia.com",
@@ -311,6 +311,11 @@
    "domain": "fakti.bg",
    "n_articles": 3,
    "sample_title": "China vs. Taiwan! The island further strengthens its self-defense capabilities ᐉ"
+  },
+  {
+   "domain": "foxnews.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
    "domain": "anewz.tv",
@@ -341,11 +346,6 @@
    "domain": "news.tvb.com",
    "n_articles": 2,
    "sample_title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒"
-  },
-  {
-   "domain": "freemalaysiatoday.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan proposes boosting 2027 defence spending by 18%"
   }
  ]
 }
