@@ -384,16 +384,16 @@
     "reasons": [
      "독립 출처 1곳",
      "최고 등급 통신사·공영",
-     "Reuters 원고를 Taiwan News·Firstpost·Türkiye Today 가 전재 — 1곳으로 계산"
+     "Reuters 원고를 Straits Times·Taiwan News·Firstpost 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
      "9b0cf2d3c0e844b8",
+     "f7d0d107ec18c4bd",
      "06df80210601b1d9",
      "8face908e4196450",
-     "f7d0d107ec18c4bd",
      "a57066f1cfca3c8d",
      "61b3aea73e2f50a2"
     ]
@@ -414,6 +414,26 @@
      "source_domain": "reuters.com",
      "tier": "T1",
      "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "f7d0d107ec18c4bd",
+     "title": "US Navy aircraft transits Taiwan Strait ahead of Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlFDTDFDdk1jcDNZNlZuVW9zQm4zLWY5MGpUQzR4UVBHcDFFbVRqY3ZzbldUYjNXMS00bjNWVXNycEZfQVIwVjFZMkJ4Nmh6bENJX0tpbEJ6ak5sZDBxLVRhRVBBTjFBZ0tqYWtNOVI3REdZWjNocnRVRVBQWXNVRHI2cXQzRDlSMXA0TXFlSlowa1pKX1dQWHZhek5rTUtVWUNBNW05d3lPbmUxaldsTHJMM2d1Zw?oc=5",
+     "published": "2026-08-22T01:02:32Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
@@ -451,26 +471,6 @@
      ],
      "source_name": "Firstpost",
      "source_domain": "firstpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "f7d0d107ec18c4bd",
-     "title": "US Navy aircraft transits Taiwan Strait ahead of Xi-Trump meeting",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdlcyeHRPZkRNTE5RSmxhNXRXZEpYMlZZelNmTzhQeEJpLUJ3endZXzktblBUeGl4dk1ZMFdBc3JUWHFCdWhLOEk2S05hRUt0M1BoS3phRXdIWTg2a0JSUEJrblROazRvanA5WVZ6SHIzN1RWNmFjOXlqczdPbFhjRFRQNDBYSEt3eGxoSTRDM2toSGxEZ1J4S0kxcE5OaHgzQ3N5aERDN2tpY0ZL?oc=5",
-     "published": "2026-08-22T08:01:19Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Türkiye Today",
-     "source_domain": "turkiyetoday.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -1178,11 +1178,11 @@
   },
   {
    "id": "evt_20260822_5701d4",
-   "headline": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒",
+   "headline": "環時︰解放軍昨日對飛越台海美軍反潛巡邏機全程跟監警戒",
    "headline_source": "TVB",
-   "headline_url": "https://news.google.com/rss/articles/CBMixwNBVV95cUxNZTY5aEVOWXFUR2U5RWZKeHNiNnFidXZ1anprRFpuN1FCcUE2aHpEenNYTEVHbzhUYm14X1lJTDhjYzNRVHVRNGVNM0N0S0VzZmFkYUo1VzBPZWJXU1pXbTlNTzEtQjRxOEVKTGMxMkJGOWw1MDlqcjFOcjlNWVE4NmdZWFBmS0lQVkx2cV9lMWJQOTJZY3QzZ2tFa1BsYUFHS1lEajRBTzRzNmFlbUtfbGlsb0MwRFdSYjJKMWRscUZIeFRVUVVMMG1uNXpWMzBNNHVla2haX2hpQ09YUVdOQ3hDQ1FzSlUweEFtQTE4TFNrbFFNaERDQ3VzdnNnZUxJLVduWnZiSFlkS0dLTkdlQ3hLUDh1bVdhbTZ3VFlNdTZzWU52WjlzaEY4QW1RcnNSZG9XbEJ6UmdiUHpEX3hvQlNvRkJzTmRpVnhvMXRGY0dvNTliYjRJeEx5dXlQaXJ5VTMwVUJYazlwVFFMYm9mOHIxUnM2d1dZdmprQUFJLS1YTWJMQ3BPUWdkc0hMVHoyTF96TXZZNWlQbXd0aVc4bGlQaUlKd1V4clBoY3ZGWDd5MlU3NEh4LV9EQzVsbTJTOXBuRDFXdw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQWG0yRklXcFRpWEowemFxOHBwdmdHaV9mOGJuSnB6cUVQOWJIaEJpdjM2TE53T0tCSFd0TDVKbUUzTUVMSWd3bDNEQW5EOWZmOTRIY0Y4eEFmSE1KWHhyV0xfSURiTWZqQjU2aE1UaDczTUgyWTkwcklVdVRnQVk3b01oSjBfUkJqajQ3VkJIbWxhQ3ZZdTBCWVNRSVlrUGxRb2ttZ2k3ZGI2MUNTSXJvdDZ3c09HQmF3ZW5mb3I5dlB2eXJzUFowUW9WTlBzRnR2cVBpamI4WEJGdm1ZWHpaMXBCRFkwektHMjRSZFo3OGc4Vmh3bk82ejR5SUlnVW5vZUowX1RWWjBmcldLYzgtaXVlU0xfUlNJZHdKdkdSWWRxMFdpcnlUSm9tVmgxblFZdlV1MUtYaHJzWWxvazJSUm9LWWpWVU41ZjdTOU04X3doN1hGZW0xZ3phYXdMVWZ2UjNQTlh6eDBneTlhYzBmNWV6bXpMSFVFT29rM2M1WQ?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-08-22T09:32:00Z",
+   "first_seen": "2026-08-22T04:26:00Z",
    "last_seen": "2026-08-22T09:32:00Z",
    "langs": [
     "zh"
@@ -1192,11 +1192,11 @@
     "grade": "D",
     "d_reason": "unrated",
     "grade_label": "출처 미확인",
-    "n_originals": 1,
+    "n_originals": 2,
     "n_unrated": 1,
-    "score": 2.1,
+    "score": 5.5,
     "n_independent": 0,
-    "n_articles": 1,
+    "n_articles": 2,
     "n_domains": 1,
     "blocs": [
      "unknown"
@@ -1212,10 +1212,31 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "52a78760c7c7165e",
      "26f1cb2b47214c43"
     ]
    },
    "articles": [
+    {
+     "id": "52a78760c7c7165e",
+     "title": "環時︰解放軍昨日對飛越台海美軍反潛巡邏機全程跟監警戒",
+     "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQWG0yRklXcFRpWEowemFxOHBwdmdHaV9mOGJuSnB6cUVQOWJIaEJpdjM2TE53T0tCSFd0TDVKbUUzTUVMSWd3bDNEQW5EOWZmOTRIY0Y4eEFmSE1KWHhyV0xfSURiTWZqQjU2aE1UaDczTUgyWTkwcklVdVRnQVk3b01oSjBfUkJqajQ3VkJIbWxhQ3ZZdTBCWVNRSVlrUGxRb2ttZ2k3ZGI2MUNTSXJvdDZ3c09HQmF3ZW5mb3I5dlB2eXJzUFowUW9WTlBzRnR2cVBpamI4WEJGdm1ZWHpaMXBCRFkwektHMjRSZFo3OGc4Vmh3bk82ejR5SUlnVW5vZUowX1RWWjBmcldLYzgtaXVlU0xfUlNJZHdKdkdSWWRxMFdpcnlUSm9tVmgxblFZdlV1MUtYaHJzWWxvazJSUm9LWWpWVU41ZjdTOU04X3doN1hGZW0xZ3phYXdMVWZ2UjNQTlh6eDBneTlhYzBmNWV6bXpMSFVFT29rM2M1WQ?oc=5",
+     "published": "2026-08-22T04:26:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "TVB",
+     "source_domain": "news.tvb.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "26f1cb2b47214c43",
      "title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒",
@@ -4753,6 +4774,63 @@
    ]
   },
   {
+   "id": "evt_20260821_54d4cd",
+   "headline": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
+   "headline_source": "Wall Street Journal",
+   "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-21T07:00:00Z",
+   "last_seen": "2026-08-21T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "af49caa80cfa512d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "af49caa80cfa512d",
+     "title": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z?oc=5",
+     "published": "2026-08-21T07:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Wall Street Journal",
+     "source_domain": "wsj.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260821_7679b5",
    "headline": "台湾首辆“张雪机车”遭台当局查扣，张雪：查一台送一台，送到统一为止",
    "headline_source": "中國新聞網",
@@ -5236,10 +5314,10 @@
    "id": "evt_20260821_623de2",
    "headline": "中共7軍艦6公務船台海周邊活動 國軍嚴密監控應處",
    "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zaTRyS25FQ3VTQS1CRDFoNF9rVkRrUDNmWGNnc0NxTmt4ZFZqNFdKWmt4bDFZTXUwR2FYMFp0Y0Z3aTZidXAxN3Z1N1RDU0FEZVpfU2d0dW1NT2dkNzBz0gFfQVVfeXFMTTNpNHJLbkVDdVNBLUJEMWg0X2tWRGtQM2ZYY2dzQ3FOa3hkVmo0V0paa3hsMVlNdTBHYVgwWnRjRndpNmJ1cDE3dnU3VENTQURlWl9TZ3R1bU1PZ2Q3MHM?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYTZDM0ljWUtRWkJ3UkYwd0ZSdl9NYWttWUdRQjFtOXJPUVBaTTRRTGkyN3o2RU1zOHBuYXVqODlhc2hJRFVuREp4LWlud1hQTlkzN1hTSnVqQdIBX0FVX3lxTE0zaTRyS25FQ3VTQS1CRDFoNF9rVkRrUDNmWGNnc0NxTmt4ZFZqNFdKWmt4bDFZTXUwR2FYMFp0Y0Z3aTZidXAxN3Z1N1RDU0FEZVpfU2d0dW1NT2dkNzBz?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-08-21T02:37:05Z",
-   "last_seen": "2026-08-21T02:37:05Z",
+   "first_seen": "2026-08-21T02:38:59Z",
+   "last_seen": "2026-08-21T02:38:59Z",
    "langs": [
     "zh"
    ],
@@ -5274,8 +5352,8 @@
     {
      "id": "ffdbced95d772983",
      "title": "中共7軍艦6公務船台海周邊活動 國軍嚴密監控應處",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zaTRyS25FQ3VTQS1CRDFoNF9rVkRrUDNmWGNnc0NxTmt4ZFZqNFdKWmt4bDFZTXUwR2FYMFp0Y0Z3aTZidXAxN3Z1N1RDU0FEZVpfU2d0dW1NT2dkNzBz0gFfQVVfeXFMTTNpNHJLbkVDdVNBLUJEMWg0X2tWRGtQM2ZYY2dzQ3FOa3hkVmo0V0paa3hsMVlNdTBHYVgwWnRjRndpNmJ1cDE3dnU3VENTQURlWl9TZ3R1bU1PZ2Q3MHM?oc=5",
-     "published": "2026-08-21T02:37:05Z",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9IYTZDM0ljWUtRWkJ3UkYwd0ZSdl9NYWttWUdRQjFtOXJPUVBaTTRRTGkyN3o2RU1zOHBuYXVqODlhc2hJRFVuREp4LWlud1hQTlkzN1hTSnVqQdIBX0FVX3lxTE0zaTRyS25FQ3VTQS1CRDFoNF9rVkRrUDNmWGNnc0NxTmt4ZFZqNFdKWmt4bDFZTXUwR2FYMFp0Y0Z3aTZidXAxN3Z1N1RDU0FEZVpfU2d0dW1NT2dkNzBz?oc=5",
+     "published": "2026-08-21T02:38:59Z",
      "lang": "zh",
      "entities": [
       "roc_military",
@@ -6137,13 +6215,73 @@
    ]
   },
   {
+   "id": "evt_20260820_6423a5",
+   "headline": "全国台湾研究会副会长王卫星：统一战线绝非针对台湾的政治工具",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSzhySkkwVHZaTFlma3ExMVBVWFJuRG04R0RMQ1V2bWhjbjVxWVlfX1NaZUFIZDU2SW0wdjNoZHJKUHRzR0ZyTkNBdzFYdW5BaEhxWWpfb09laGM0YUJNd1BLdGphdVd3eFdpaHlkc2N0RktreS03MDhtRGE5QQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-20T13:59:00Z",
+   "last_seen": "2026-08-20T13:59:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "6fd8f2f0c8163650"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "6fd8f2f0c8163650",
+     "title": "全国台湾研究会副会长王卫星：统一战线绝非针对台湾的政治工具",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSzhySkkwVHZaTFlma3ExMVBVWFJuRG04R0RMQ1V2bWhjbjVxWVlfX1NaZUFIZDU2SW0wdjNoZHJKUHRzR0ZyTkNBdzFYdW5BaEhxWWpfb09laGM0YUJNd1BLdGphdVd3eFdpaHlkc2N0RktreS03MDhtRGE5QQ?oc=5",
+     "published": "2026-08-20T13:59:00Z",
+     "lang": "zh",
+     "entities": [
+      "reunification"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260820_e3f165",
    "headline": "Taiwan proposes a record $35B defense budget for 2027 as China’s military pressure grows",
    "headline_source": "AP",
    "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcndBSE1rQ05mNG5DckszY09xOEVrWWNsODZnUW91X0xOWFIxcUxVT2YwTXZOWHNqVEJhVnY2OWdMMEdKcnVWWjFIQkV5QjlwcmMwOGttOG5EY0ZpSTNWN1h4b0I3N0FQc045c2NTeTdWeHhkRGJ6d05wUW1CdmdRY2lmUUh3dHoxNGppMjkwczR0VEI4QzhMeHU4cw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-20T08:21:02Z",
-   "last_seen": "2026-08-20T14:30:56Z",
+   "last_seen": "2026-08-20T13:22:15Z",
    "langs": [
     "en"
    ],
@@ -6177,8 +6315,7 @@
      "0794bb28426e386b",
      "c5efaf1f443058be",
      "196b3066e1b31fe9",
-     "76e3130c68a546d1",
-     "3b7f8f5f887501d4"
+     "76e3130c68a546d1"
     ]
    },
    "articles": [
@@ -6262,82 +6399,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "3b7f8f5f887501d4",
-     "title": "Taiwan proposes record USD 35B defence budget for 2027 as China's military pressure grows",
-     "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQNUZKM2MwalpZSDhJTEhuV1NOQjF5QWRsVTBMUXczclNHejFWYkpjckZuei1qMWdhMGNKUnR2amdxN2J5Umh2c0pRU0xLZlJsT0g2Z3ZEeHg4WTlUT3ZocmkwWnppZjNueGNMQ00xQ1ctbl94RTViSVNCZFltQkhGajJVbS1VbUNOVzNYSUxkX19Za29ZdnhjbTBoTkJ1Y1ROSHkweHlsVmFaRkVZbkx4NER0YWtWbDBwczd2RlRYUF96QXhBYllmT1ZlTTNrSnBHVW8wOUhZLU9GVUxZNGV0YlQ4WWdFQVpyTDJZ0gHwAUFVX3lxTE9zd2NORWU4WmVZbTNHc3RiNlRjdnVueEhKcldWN2ViTkpmZU15MG5ZZzBFeHZXdXdVdmxVYnFsWDQxS0RJdExxQUZPdDNvWmVDNDJPMFljZ0tSNDNreTduVkx3N2V5MEU3S3pwQzlSbTV5Q0hZRGk2emE3M0hJNHBQcHJlSlJuaFlIa2dVOGdsTTBjb3dVLWQwd0lkYjYtem1oeEk0N2pTV0hMWENhczJtdE1yQjkxbkFzN19NVXhaOXdhYXNHOC1jVGR3eEtkQVVXanZFSEhzNWlOUEZ3VTZDT29kSV9WdFpTZ0JrNWYtUQ?oc=5",
-     "published": "2026-08-20T14:30:56Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "The Economic Times",
-     "source_domain": "m.economictimes.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260820_6423a5",
-   "headline": "全国台湾研究会副会长王卫星：统一战线绝非针对台湾的政治工具",
-   "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSzhySkkwVHZaTFlma3ExMVBVWFJuRG04R0RMQ1V2bWhjbjVxWVlfX1NaZUFIZDU2SW0wdjNoZHJKUHRzR0ZyTkNBdzFYdW5BaEhxWWpfb09laGM0YUJNd1BLdGphdVd3eFdpaHlkc2N0RktreS03MDhtRGE5QQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-20T13:59:00Z",
-   "last_seen": "2026-08-20T13:59:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "6fd8f2f0c8163650"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "6fd8f2f0c8163650",
-     "title": "全国台湾研究会副会长王卫星：统一战线绝非针对台湾的政治工具",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5MSzhySkkwVHZaTFlma3ExMVBVWFJuRG04R0RMQ1V2bWhjbjVxWVlfX1NaZUFIZDU2SW0wdjNoZHJKUHRzR0ZyTkNBdzFYdW5BaEhxWWpfb09laGM0YUJNd1BLdGphdVd3eFdpaHlkc2N0RktreS03MDhtRGE5QQ?oc=5",
-     "published": "2026-08-20T13:59:00Z",
-     "lang": "zh",
-     "entities": [
-      "reunification"
-     ],
-     "source_name": "中國新聞網",
-     "source_domain": "chinanews.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 통신사",
      "hedged": false
     }
    ]
@@ -7200,63 +7261,6 @@
    ]
   },
   {
-   "id": "evt_20260820_54d4cd",
-   "headline": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
-   "headline_source": "Wall Street Journal",
-   "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-20T06:56:00Z",
-   "last_seen": "2026-08-20T06:56:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "af49caa80cfa512d"
-    ]
-   },
-   "articles": [
-    {
-     "id": "af49caa80cfa512d",
-     "title": "Taiwan Floats Record Defense Budget, Sending Message to U.S. and China",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnZGZVYxR0ktenNic1hUeEpBVlB3bmZ1eGN2eGl0VFZELXU1ck5OSlVhR0g1N1pYZ2c3ZTV4alNUbUlCSlY1Q1Rmd0liZTdHLXpnRUt5UkViT1NDaXNBcFdfajVDMzJ2SGVsUi1IVHctT3JMZ2ltOENrZkdxOTdNdTJlU0gyNzJzTmxVVHphZVFtVnpCa1lDdGxoVExQNG03azRKcGR6NmFQMlMyMC1Z?oc=5",
-     "published": "2026-08-20T06:56:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Wall Street Journal",
-     "source_domain": "wsj.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260820_580c1b",
    "headline": "专家：流行文艺作品为两岸文化交流注入新活力",
    "headline_source": "中國新聞網",
@@ -7317,12 +7321,12 @@
    ]
   },
   {
-   "id": "evt_20260820_ffc47a",
-   "headline": "台湾前“深绿”媒体人彭文正表态：不惜代价推动两岸和平统一",
+   "id": "evt_20260820_d28d92",
+   "headline": "台湾前“深绿”媒体人彭文正：我会不惜代价推动两岸和平统一",
    "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ra2VjT1paVHJhSlBrbnh4TnpCTkh0dENxbV9LVGFJdTlPU0xTYi1oVURVMjZRZENqQTdmVE42eUJ0RTNmRWllUDVTX2ZRYUhWRjg0MF9uVnBVVEU2NnVUNnk5ekFJdXJG?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0N1N6d3hfTEhCeXZycmVVN043YjVBdjhlT01XNVJCdXZ3ZHJVUFdxLUVCenhzbW8tYmtJNlNLelNidXVCbllHUElZNWtVeG9wdElXeDdwQXdEOU9TYWdpRzRoOE1iYW9RaGZfaUsxUXJZdDVJUEE?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-08-20T06:31:16Z",
+   "first_seen": "2026-08-20T06:29:00Z",
    "last_seen": "2026-08-20T06:31:16Z",
    "langs": [
     "zh"
@@ -7336,7 +7340,7 @@
     "n_unrated": 0,
     "score": 20.0,
     "n_independent": 1,
-    "n_articles": 1,
+    "n_articles": 2,
     "n_domains": 1,
     "blocs": [
      "prc_state"
@@ -7346,16 +7350,37 @@
     "reasons": [
      "중국 관영 진영 단독 보도",
      "최고 등급 관영·정부",
+     "中國新聞網 원고를 中國新聞網 가 전재 — 1곳으로 계산",
      "중국 관영 발표만 존재"
     ]
    },
    "perspectives": {
     "prc": [
+     "13a2061fbee66870",
      "ec7053f2d93e059e"
     ],
     "tw_west": []
    },
    "articles": [
+    {
+     "id": "13a2061fbee66870",
+     "title": "台湾前“深绿”媒体人彭文正：我会不惜代价推动两岸和平统一",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB0N1N6d3hfTEhCeXZycmVVN043YjVBdjhlT01XNVJCdXZ3ZHJVUFdxLUVCenhzbW8tYmtJNlNLelNidXVCbllHUElZNWtVeG9wdElXeDdwQXdEOU9TYWdpRzRoOE1iYW9RaGZfaUsxUXJZdDVJUEE?oc=5",
+     "published": "2026-08-20T06:29:00Z",
+     "lang": "zh",
+     "entities": [
+      "reunification",
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    },
     {
      "id": "ec7053f2d93e059e",
      "title": "台湾前“深绿”媒体人彭文正表态：不惜代价推动两岸和平统一",
@@ -17798,6 +17823,67 @@
    ]
   },
   {
+   "id": "evt_20260814_49048b",
+   "headline": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들어가",
+   "headline_source": "JTBC",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52cEl0UUFUWV9QdDBPYXpVWGRWUE9zbS1YOW9lSm1WRUMxWXdUbmJ2MlJfUk1RMTJST3hudHNZUXZWeFg3QmxmSGdnc2hCNmI1UmZYdA?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-08-14T07:00:00Z",
+   "last_seen": "2026-08-14T07:00:00Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3d31a09b620e61e3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3d31a09b620e61e3",
+     "title": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들어가",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52cEl0UUFUWV9QdDBPYXpVWGRWUE9zbS1YOW9lSm1WRUMxWXdUbmJ2MlJfUk1RMTJST3hudHNZUXZWeFg3QmxmSGdnc2hCNmI1UmZYdA?oc=5",
+     "published": "2026-08-14T07:00:00Z",
+     "lang": "ko",
+     "entities": [
+      "invasion",
+      "rehearsal"
+     ],
+     "source_name": "JTBC",
+     "source_domain": "news.jtbc.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260814_75d4fe",
    "headline": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들가",
    "headline_source": "JTBC",
@@ -17840,67 +17926,6 @@
     {
      "id": "a000396f41c88510",
      "title": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들가",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52cEl0UUFUWV9QdDBPYXpVWGRWUE9zbS1YOW9lSm1WRUMxWXdUbmJ2MlJfUk1RMTJST3hudHNZUXZWeFg3QmxmSGdnc2hCNmI1UmZYdA?oc=5",
-     "published": "2026-08-14T06:26:00Z",
-     "lang": "ko",
-     "entities": [
-      "invasion",
-      "rehearsal"
-     ],
-     "source_name": "JTBC",
-     "source_domain": "news.jtbc.co.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260814_49048b",
-   "headline": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들어가",
-   "headline_source": "JTBC",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52cEl0UUFUWV9QdDBPYXpVWGRWUE9zbS1YOW9lSm1WRUMxWXdUbmJ2MlJfUk1RMTJST3hudHNZUXZWeFg3QmxmSGdnc2hCNmI1UmZYdA?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-08-14T06:26:00Z",
-   "last_seen": "2026-08-14T06:26:00Z",
-   "langs": [
-    "ko"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3d31a09b620e61e3"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3d31a09b620e61e3",
-     "title": "‘중국 침공대비 훈련’하던 대만 관할 해역에 진짜 중국 들어가",
      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE52cEl0UUFUWV9QdDBPYXpVWGRWUE9zbS1YOW9lSm1WRUMxWXdUbmJ2MlJfUk1RMTJST3hudHNZUXZWeFg3QmxmSGdnc2hCNmI1UmZYdA?oc=5",
      "published": "2026-08-14T06:26:00Z",
      "lang": "ko",
