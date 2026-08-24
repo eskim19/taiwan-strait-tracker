@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-24T01:59:33Z",
+ "updated": "2026-08-24T04:08:01Z",
  "checked": "2026-08-24",
- "duration_sec": 34.5,
+ "duration_sec": 35.1,
  "rolling_days": 14,
- "n_events": 488,
- "n_articles": 576,
+ "n_events": 489,
+ "n_articles": 577,
  "grades": {
-  "C": 173,
-  "D": 276,
-  "B": 36,
+  "D": 277,
+  "B": 35,
+  "C": 174,
   "A": 3
  },
- "cross_language_events": 4,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 24,
+  "T1": 25,
   "T2": 192,
-  "T3": 115,
+  "T3": 116,
   "T4": 14,
-  "T5": 191,
+  "T5": 189,
   "TA": 3
  },
  "t1_domains": [
@@ -47,7 +47,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 35,
-   "newest": "2026-08-23T18:11:08+00:00",
+   "newest": "2026-08-24T02:16:55+00:00",
    "stale": false,
    "error": null
   },
@@ -58,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 75,
-   "n_adopted": 40,
-   "newest": "2026-08-23T22:11:19+00:00",
+   "n_entries": 78,
+   "n_adopted": 42,
+   "newest": "2026-08-24T03:18:00+00:00",
    "stale": false,
    "error": null
   },
@@ -72,7 +72,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
+   "n_adopted": 19,
    "newest": "2026-08-24T00:40:28+00:00",
    "stale": false,
    "error": null
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 66,
-   "newest": "2026-08-24T01:53:02+00:00",
+   "n_adopted": 64,
+   "newest": "2026-08-24T04:04:12+00:00",
    "stale": false,
    "error": null
   },
@@ -99,7 +99,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 15,
-   "newest": "2026-08-23T14:31:00+00:00",
+   "newest": "2026-08-23T13:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -112,7 +112,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 4,
-   "newest": "2026-08-24T00:28:00+00:00",
+   "newest": "2026-08-24T03:06:26+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 25,
+   "n_entries": 27,
    "n_adopted": 2,
-   "newest": "2026-08-24T01:06:54+00:00",
+   "newest": "2026-08-24T02:36:59+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-24T01:30:06+00:00",
+   "newest": "2026-08-24T04:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-24T01:44:00+00:00",
+   "newest": "2026-08-24T03:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 98,
+   "n_entries": 96,
    "n_adopted": 0,
-   "newest": "2026-08-24T01:30:19+00:00",
+   "newest": "2026-08-24T03:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +216,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-24T01:23:19+00:00",
+   "newest": "2026-08-24T04:06:54+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-24T00:30:00+00:00",
+   "newest": "2026-08-24T02:55:39+00:00",
    "stale": false,
    "error": null
   },
@@ -254,14 +254,14 @@
    "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
+   "domain": "upmedia.mg",
+   "n_articles": 9,
+   "sample_title": "美參議員候選人不懂台海竟引發這麼大政治反應"
+  },
+  {
    "domain": "devdiscourse.com",
    "n_articles": 9,
    "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
-  },
-  {
-   "domain": "upmedia.mg",
-   "n_articles": 8,
-   "sample_title": "兄長年挺台她卻答不出 葛蘭姆胞妹辯論被問台海國安竟稱「非我專長」"
   },
   {
    "domain": "hk.crntt.com",
@@ -319,11 +319,6 @@
    "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
-   "domain": "anewz.tv",
-   "n_articles": 3,
-   "sample_title": "Taiwan stages defence drills as China ends naval exercises with Indonesia"
-  },
-  {
    "domain": "ctinews.com",
    "n_articles": 2,
    "sample_title": "颱風前兆？TD24十級狂風直撲台海 船隻掀起生死浪"
@@ -347,6 +342,11 @@
    "domain": "news.tvb.com",
    "n_articles": 2,
    "sample_title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒"
+  },
+  {
+   "domain": "freemalaysiatoday.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan proposes boosting 2027 defence spending by 18%"
   }
  ]
 }
