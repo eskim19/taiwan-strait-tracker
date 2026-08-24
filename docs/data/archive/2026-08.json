@@ -1,6 +1,6 @@
 {
  "month": "2026-08",
- "n_events": 808,
+ "n_events": 809,
  "events": [
   {
    "id": "evt_20260824_276572",
@@ -530,8 +530,8 @@
    "headline_source": "Business Insider",
    "headline_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenpZT0stWUtjNElXQlJ4NTdGU0Zwcjh0Nm9FMGR0TGRGa2ZKMDUwbTlPVVRHZmE4SWpWbVpnNmRPZTMyTHFXekhLQUV0ZWh2Z3k0NVhSRjlRNUtYQVp6clRjR3k4VDNBN2VwbDFYMWFOSGtlSUw3bXlMaS1ETEdRdmtXLTAtVnhKZDVabGV0QlJfanRhYnYwM2pfUHZjQmI5ODBBT01kZlpHTk4yWVE?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-08-24T04:59:00Z",
-   "last_seen": "2026-08-24T04:59:00Z",
+   "first_seen": "2026-08-24T04:59:47Z",
+   "last_seen": "2026-08-24T04:59:47Z",
    "langs": [
     "en"
    ],
@@ -568,7 +568,7 @@
      "id": "fdf7d6229e1964b6",
      "title": "Taiwan's troops are training to fight China in ordinary neighborhoods as people go about their days",
      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNenpZT0stWUtjNElXQlJ4NTdGU0Zwcjh0Nm9FMGR0TGRGa2ZKMDUwbTlPVVRHZmE4SWpWbVpnNmRPZTMyTHFXekhLQUV0ZWh2Z3k0NVhSRjlRNUtYQVp6clRjR3k4VDNBN2VwbDFYMWFOSGtlSUw3bXlMaS1ETEdRdmtXLTAtVnhKZDVabGV0QlJfanRhYnYwM2pfUHZjQmI5ODBBT01kZlpHTk4yWVE?oc=5",
-     "published": "2026-08-24T04:59:00Z",
+     "published": "2026-08-24T04:59:47Z",
      "lang": "en",
      "entities": [],
      "source_name": "Business Insider",
@@ -1537,6 +1537,86 @@
    ]
   },
   {
+   "id": "evt_20260823_5c42ab",
+   "headline": "特 稿/美式「台海舊劇本」，該被淘汰了\\海 風",
+   "headline_source": "大公文匯網",
+   "headline_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Zbk8zLWpid3ZRakpiLTBSZlk2MDkzeHg5OWMyNTF3MW1HbTluYkxMZFk2R3pFT01MS3pvajdQa0VYSkZmb3N4QUpPcDlqczNNUmM4THh2SWg5Mkx6LVpSZXBFUEdndHZCUXpEMWJDUllPY1Jo?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-23T10:18:53Z",
+   "last_seen": "2026-08-23T15:32:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 23.4,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "大公文匯網 원고를 大公文匯網 가 전재 — 1곳으로 계산",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "615ca078e94ef5cc",
+     "a56765ebdc1ab2af"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "615ca078e94ef5cc",
+     "title": "特 稿/美式「台海舊劇本」，該被淘汰了\\海 風",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Zbk8zLWpid3ZRakpiLTBSZlk2MDkzeHg5OWMyNTF3MW1HbTluYkxMZFk2R3pFT01MS3pvajdQa0VYSkZmb3N4QUpPcDlqczNNUmM4THh2SWg5Mkx6LVpSZXBFUEdndHZCUXpEMWJDUllPY1Jo?oc=5",
+     "published": "2026-08-23T10:18:53Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "大公文匯網",
+     "source_domain": "tkww.hk",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체",
+     "hedged": false
+    },
+    {
+     "id": "a56765ebdc1ab2af",
+     "title": "環球時報海風｜美式「台海舊劇本」，該被淘汰了- 評論",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTXpjRUp5THRkcENCNnhvUWlkeWI3dnRXRXlQbHdmUjlYcGU1QkFTS0VtekJGOHdVSVVtelV2LVF2bTIxS1pOSUFuX0lva09mRTdfNHF0NFVjSXpkaUZCVjVqNW9hWGxYZXA2T1AtR2o?oc=5",
+     "published": "2026-08-23T15:32:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "大公文匯網",
+     "source_domain": "tkww.hk",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260823_bc8c25",
    "headline": "颱風前兆？TD24十級狂風直撲台海 船隻掀起生死浪",
    "headline_source": "中天新聞網",
@@ -1872,86 +1952,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260823_5c42ab",
-   "headline": "環球時報海風｜美式「台海舊劇本」，該被淘汰了- 評論",
-   "headline_source": "大公文匯網",
-   "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTXpjRUp5THRkcENCNnhvUWlkeWI3dnRXRXlQbHdmUjlYcGU1QkFTS0VtekJGOHdVSVVtelV2LVF2bTIxS1pOSUFuX0lva09mRTdfNHF0NFVjSXpkaUZCVjVqNW9hWGxYZXA2T1AtR2o?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-23T03:32:53Z",
-   "last_seen": "2026-08-23T10:18:53Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 23.8,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "大公文匯網 원고를 大公文匯網 가 전재 — 1곳으로 계산",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "a56765ebdc1ab2af",
-     "615ca078e94ef5cc"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "a56765ebdc1ab2af",
-     "title": "環球時報海風｜美式「台海舊劇本」，該被淘汰了- 評論",
-     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1qTXpjRUp5THRkcENCNnhvUWlkeWI3dnRXRXlQbHdmUjlYcGU1QkFTS0VtekJGOHdVSVVtelV2LVF2bTIxS1pOSUFuX0lva09mRTdfNHF0NFVjSXpkaUZCVjVqNW9hWGxYZXA2T1AtR2o?oc=5",
-     "published": "2026-08-23T03:32:53Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "大公文匯網",
-     "source_domain": "tkww.hk",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "홍콩 친중공 매체",
-     "hedged": false
-    },
-    {
-     "id": "615ca078e94ef5cc",
-     "title": "特 稿/美式「台海舊劇本」，該被淘汰了\\海 風",
-     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Zbk8zLWpid3ZRakpiLTBSZlk2MDkzeHg5OWMyNTF3MW1HbTluYkxMZFk2R3pFT01MS3pvajdQa0VYSkZmb3N4QUpPcDlqczNNUmM4THh2SWg5Mkx6LVpSZXBFUEdndHZCUXpEMWJDUllPY1Jo?oc=5",
-     "published": "2026-08-23T10:18:53Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "大公文匯網",
-     "source_domain": "tkww.hk",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "홍콩 친중공 매체",
      "hedged": false
     }
    ]
@@ -2929,7 +2929,7 @@
      "id": "8face908e4196450",
      "title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump",
      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0RpSU40M1pSaExrNzktOEdWRTFWa1ZYTnBNZDdvR3l1aWgxeUtydHZiNlhVVE1RaWJZRmpWaDFNdDQxWUpXMGF1LXA1WTRyaGhuVHU5VTREOWdyOFFPNTRoazdKWXFfTGc4d3RTQ1ZQRm1SemZwVVQ4bFlBVWJrcjdUTUhzSTJ1blZEaFV3REZsSDdJX1FFYVlDcmlQZkVMUEV3SkVTTnB4NUEwR3pUSU15Y2tLRVg0dF9rcnp30gHDAUFVX3lxTE5QTWRWYXNxNTNjRExOdi05dTRCS1ZKdGZBbExFZlhBbTdDV0tWdVowQUk0R0V5a28zaXJGbC0tVHhnX3pOd1B3SFVid21KZkJtTGR2U3hBMGdCaVhURHNEc2hQU2FNcGVwVUZRZTVoYUpId1AwUjlKWUdYRi1jZXhUTGFhQ1otWGpBVkZPYVpOano5bURGbGdJb1VpNE9zOGNPOVFQb2tmUFNmN3pYaGR4dE53Q1BpN2VnNTZnYXNxOWlGcw?oc=5",
-     "published": "2026-08-22T06:41:32Z",
+     "published": "2026-08-22T06:43:23Z",
      "lang": "en",
      "entities": [
       "taiwan_strait",
@@ -4579,6 +4579,7 @@
      "bb63e23c5482bf60",
      "43c48d3b8121de68",
      "b6636ba68873a3c0",
+     "471d3a4b609a08d2",
      "b696b49514cc4661",
      "c9a7723d93fa794a"
     ]
@@ -4641,6 +4642,22 @@
      "entities": [],
      "source_name": "dailycaller.com",
      "source_domain": "dailycaller.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "471d3a4b609a08d2",
+     "title": "Taiwan Proposes Boosting 2027 Defense Spending to a Record High",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdXFaOTBJT0FUNExYeVEzUlZTZHNxR3RKYzZncUtzZWhJbVA1bEFILTZzWk5QVGJzYXY1WlYxQWhzZzNCWkRKeE5YdzZuUnl0RVJabEVvSjZ4ektBSUVzQlQzN3hDS0IzSmRaMGFmMWtjTzJXQWVDcGZwc3U3SUNIU2JHOGE?oc=5",
+     "published": "2026-08-20T23:34:22Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Newsmax",
+     "source_domain": "newsmax.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -10349,6 +10366,63 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260820_d40e94",
+   "headline": "Taiwan tracks 14 Chinese ships, 7 military aircraft",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUjFoVXJuT21tQmttQmU4ZGR2blMwbVMxTFlDV0ZvMXlBUjU3LU5lTmZwYXhlMFYyR0NNWnVUalNMU3pXU0ZxN1Vab2ZvMnpzb3FjQQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-20T01:37:00Z",
+   "last_seen": "2026-08-20T01:37:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "bb09d92bf0bfb559"
+    ]
+   },
+   "articles": [
+    {
+     "id": "bb09d92bf0bfb559",
+     "title": "Taiwan tracks 14 Chinese ships, 7 military aircraft",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0xUjFoVXJuT21tQmttQmU4ZGR2blMwbVMxTFlDV0ZvMXlBUjU3LU5lTmZwYXhlMFYyR0NNWnVUalNMU3pXU0ZxN1Vab2ZvMnpzb3FjQQ?oc=5",
+     "published": "2026-08-20T01:37:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -16366,65 +16440,6 @@
    ]
   },
   {
-   "id": "evt_20260816_8ae4fe",
-   "headline": "自由開講》台海進入複合施壓時代",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZ3ZpSlR0SUZBQkpLdVNKeWd4QnlkX2UwYzlwbG5WS3V1UFg0ZU1FdjBFTEg2YXQ2ekJobTUzZDM0aWtmM3VNVUpTTzZlOTAzNHQtWDNTcVFIUG9NSzliQkZB?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-16T12:00:00Z",
-   "last_seen": "2026-08-16T12:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "1a1d830c6ad38471"
-    ]
-   },
-   "articles": [
-    {
-     "id": "1a1d830c6ad38471",
-     "title": "自由開講》台海進入複合施壓時代",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZ3ZpSlR0SUZBQkpLdVNKeWd4QnlkX2UwYzlwbG5WS3V1UFg0ZU1FdjBFTEg2YXQ2ekJobTUzZDM0aWtmM3VNVUpTTzZlOTAzNHQtWDNTcVFIUG9NSzliQkZB?oc=5",
-     "published": "2026-08-16T12:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260816_085360",
    "headline": "美韓軍演首提「第一島鏈」 駐韓美軍戰力恐延伸台海| 國際",
    "headline_source": "新頭殼",
@@ -17153,6 +17168,126 @@
    ]
   },
   {
+   "id": "evt_20260816_8ae4fe",
+   "headline": "自由開講》台海進入複合施壓時代",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZ3ZpSlR0SUZBQkpLdVNKeWd4QnlkX2UwYzlwbG5WS3V1UFg0ZU1FdjBFTEg2YXQ2ekJobTUzZDM0aWtmM3VNVUpTTzZlOTAzNHQtWDNTcVFIUG9NSzliQkZB?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-16T07:00:00Z",
+   "last_seen": "2026-08-16T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1a1d830c6ad38471"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1a1d830c6ad38471",
+     "title": "自由開講》台海進入複合施壓時代",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9XZ3ZpSlR0SUZBQkpLdVNKeWd4QnlkX2UwYzlwbG5WS3V1UFg0ZU1FdjBFTEg2YXQ2ekJobTUzZDM0aWtmM3VNVUpTTzZlOTAzNHQtWDNTcVFIUG9NSzliQkZB?oc=5",
+     "published": "2026-08-16T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260816_736cdf",
+   "headline": "“중국군 먼저 오면 어쩔 건가”…中 드론 못 잡는 대만 방어망의 민낯",
+   "headline_source": "헤럴드경제",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT1psR3EyeGwybjlCU29pY0FUV0k5Y1BwemE0YWhNcUpCb2VaZU1iZ1VwRklKcXowMURpOVhlUkVyeGRkWlI4RlpaNW5uWnNWeG9yaGZB?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-08-16T07:00:00Z",
+   "last_seen": "2026-08-16T07:00:00Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "99dd3f7914fdd4c8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "99dd3f7914fdd4c8",
+     "title": "“중국군 먼저 오면 어쩔 건가”…中 드론 못 잡는 대만 방어망의 민낯",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT1psR3EyeGwybjlCU29pY0FUV0k5Y1BwemE0YWhNcUpCb2VaZU1iZ1VwRklKcXowMURpOVhlUkVyeGRkWlI4RlpaNW5uWnNWeG9yaGZB?oc=5",
+     "published": "2026-08-16T07:00:00Z",
+     "lang": "ko",
+     "entities": [
+      "drone",
+      "pla"
+     ],
+     "source_name": "헤럴드경제",
+     "source_domain": "biz.heraldcorp.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260816_39a70c",
    "headline": "獨家》中共統戰部、國台辦劍指台灣軍用無人機預算- 政治",
    "headline_source": "自由時報",
@@ -17327,67 +17462,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260816_736cdf",
-   "headline": "“중국군 먼저 오면 어쩔 건가”…中 드론 못 잡는 대만 방어망의 민낯",
-   "headline_source": "헤럴드경제",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT1psR3EyeGwybjlCU29pY0FUV0k5Y1BwemE0YWhNcUpCb2VaZU1iZ1VwRklKcXowMURpOVhlUkVyeGRkWlI4RlpaNW5uWnNWeG9yaGZB?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-08-16T02:14:25Z",
-   "last_seen": "2026-08-16T02:14:25Z",
-   "langs": [
-    "ko"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "99dd3f7914fdd4c8"
-    ]
-   },
-   "articles": [
-    {
-     "id": "99dd3f7914fdd4c8",
-     "title": "“중국군 먼저 오면 어쩔 건가”…中 드론 못 잡는 대만 방어망의 민낯",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iT1psR3EyeGwybjlCU29pY0FUV0k5Y1BwemE0YWhNcUpCb2VaZU1iZ1VwRklKcXowMURpOVhlUkVyeGRkWlI4RlpaNW5uWnNWeG9yaGZB?oc=5",
-     "published": "2026-08-16T02:14:25Z",
-     "lang": "ko",
-     "entities": [
-      "drone",
-      "pla"
-     ],
-     "source_name": "헤럴드경제",
-     "source_domain": "biz.heraldcorp.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
