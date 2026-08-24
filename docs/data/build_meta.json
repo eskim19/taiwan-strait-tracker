@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-24T15:58:17Z",
+ "updated": "2026-08-24T19:01:51Z",
  "checked": "2026-08-24",
- "duration_sec": 35.7,
+ "duration_sec": 34.3,
  "rolling_days": 14,
- "n_events": 467,
- "n_articles": 550,
+ "n_events": 463,
+ "n_articles": 547,
  "grades": {
-  "C": 168,
-  "D": 265,
+  "D": 262,
+  "C": 167,
   "B": 32,
   "A": 2
  },
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 22,
-  "T2": 184,
+  "T2": 183,
   "T3": 113,
   "T4": 15,
-  "T5": 181,
+  "T5": 177,
   "TA": 3
  },
  "t1_domains": [
@@ -58,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 81,
-   "n_adopted": 43,
-   "newest": "2026-08-24T12:09:53+00:00",
+   "n_entries": 82,
+   "n_adopted": 44,
+   "newest": "2026-08-24T16:50:54+00:00",
    "stale": false,
    "error": null
   },
@@ -86,7 +86,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-08-24T13:59:35+00:00",
+   "newest": "2026-08-24T12:23:56+00:00",
    "stale": false,
    "error": null
   },
@@ -112,7 +112,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 4,
-   "newest": "2026-08-24T11:23:00+00:00",
+   "newest": "2026-08-24T15:57:28+00:00",
    "stale": false,
    "error": null
   },
@@ -123,8 +123,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 2,
+   "n_entries": 33,
+   "n_adopted": 1,
    "newest": "2026-08-24T13:48:51+00:00",
    "stale": false,
    "error": null
@@ -136,9 +136,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
+   "n_entries": 51,
    "n_adopted": 0,
-   "newest": "2026-08-24T00:00:00+00:00",
+   "newest": "2026-08-25T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-24T15:00:07+00:00",
+   "newest": "2026-08-24T18:03:57+00:00",
    "stale": false,
    "error": null
   },
@@ -203,7 +203,7 @@
    "http": 200,
    "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-08-24T15:39:48+00:00",
+   "newest": "2026-08-24T18:01:07+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-24T15:30:54+00:00",
+   "newest": "2026-08-24T18:46:09+00:00",
    "stale": false,
    "error": null
   },
@@ -314,6 +314,11 @@
    "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
   },
   {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
+  },
+  {
    "domain": "ctinews.com",
    "n_articles": 2,
    "sample_title": "颱風前兆？TD24十級狂風直撲台海 船隻掀起生死浪"
@@ -327,11 +332,6 @@
    "domain": "mobile01.com",
    "n_articles": 2,
    "sample_title": "退役陸軍上校賴岳謙：「日軍囂張，欠修理！」替共軍威脅轟炸日本。稱「台灣的軍隊，根本就是紙老虎"
-  },
-  {
-   "domain": "wionews.com",
-   "n_articles": 2,
-   "sample_title": "US Navy P-8A Flies Through Taiwan Strait Ahead Of Trump-Xi Meeting | China React"
   },
   {
    "domain": "news.tvb.com",
