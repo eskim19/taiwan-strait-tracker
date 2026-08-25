@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-25T13:13:43Z",
+ "updated": "2026-08-25T16:02:57Z",
  "checked": "2026-08-25",
- "duration_sec": 32.6,
+ "duration_sec": 33.0,
  "rolling_days": 14,
- "n_events": 445,
- "n_articles": 528,
+ "n_events": 448,
+ "n_articles": 526,
  "grades": {
-  "B": 31,
+  "D": 250,
+  "B": 32,
   "C": 164,
-  "D": 248,
   "A": 2
  },
  "cross_language_events": 2,
@@ -18,16 +18,17 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 19,
-  "T2": 178,
-  "T3": 103,
+  "T1": 21,
+  "T2": 177,
+  "T3": 104,
   "T4": 15,
-  "T5": 174,
+  "T5": 169,
   "TA": 3
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
+  "aninews.in",
   "apnews.com",
   "bloomberg.com",
   "nhk.or.jp",
@@ -45,7 +46,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 36,
+   "n_adopted": 37,
    "newest": "2026-08-25T04:52:37+00:00",
    "stale": false,
    "error": null
@@ -57,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 78,
-   "n_adopted": 42,
-   "newest": "2026-08-25T01:32:11+00:00",
+   "n_entries": 55,
+   "n_adopted": 31,
+   "newest": "2026-08-25T12:41:42+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-08-25T11:39:00+00:00",
+   "n_adopted": 59,
+   "newest": "2026-08-25T14:34:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +98,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-08-25T07:51:51+00:00",
+   "n_adopted": 16,
+   "newest": "2026-08-25T15:11:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +111,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-08-25T11:30:00+00:00",
+   "n_adopted": 8,
+   "newest": "2026-08-25T14:46:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 56,
+   "n_entries": 58,
    "n_adopted": 1,
-   "newest": "2026-08-25T11:09:05+00:00",
+   "newest": "2026-08-25T12:43:11+00:00",
    "stale": false,
    "error": null
   },
@@ -149,8 +150,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 4,
-   "newest": "2026-08-25T12:41:42+00:00",
+   "n_adopted": 3,
+   "newest": "2026-08-25T14:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-25T11:46:31+00:00",
+   "newest": "2026-08-25T15:54:34+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-25T12:30:45+00:00",
+   "newest": "2026-08-25T15:52:42+00:00",
    "stale": false,
    "error": null
   },
@@ -248,6 +249,11 @@
  ],
  "unrated_domains": [
   {
+   "domain": "upmedia.mg",
+   "n_articles": 9,
+   "sample_title": "路透：中國疑在西沙鴨公島建雷達站 支援台海戰時要地羚羊礁"
+  },
+  {
    "domain": "today.line.me",
    "n_articles": 9,
    "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
@@ -258,11 +264,6 @@
    "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
   },
   {
-   "domain": "upmedia.mg",
-   "n_articles": 8,
-   "sample_title": "美參議員候選人不懂台海竟引發這麼大政治反應"
-  },
-  {
    "domain": "mnews.tw",
    "n_articles": 4,
    "sample_title": "美軍機再度飛越台海 專家：向中送出維持台海和平訊號"
@@ -271,11 +272,6 @@
    "domain": "fountmedia.io",
    "n_articles": 4,
    "sample_title": "漢光落幕共軍活動沒停！8共艦、7公務船持續台海周邊 3架共機進入北部東部空域"
-  },
-  {
-   "domain": "hk.crntt.com",
-   "n_articles": 4,
-   "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
   },
   {
    "domain": "ctinews.com",
@@ -293,6 +289,11 @@
    "sample_title": "American planes are flying over the Taiwan Strait, confirming the commitment of "
   },
   {
+   "domain": "ctee.com.tw",
+   "n_articles": 3,
+   "sample_title": "習川會前美軍機飛越台海- 兩岸"
+  },
+  {
    "domain": "moderndiplomacy.eu",
    "n_articles": 3,
    "sample_title": "Is China Testing Taiwan’s Defences With a Research Ship Near Its Waters?"
@@ -306,6 +307,16 @@
    "domain": "foxnews.com",
    "n_articles": 3,
    "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
+  },
+  {
+   "domain": "hk.crntt.com",
+   "n_articles": 3,
+   "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
+  },
+  {
+   "domain": "i-meihua.com",
+   "n_articles": 2,
+   "sample_title": "F-16若對上殲-16才能真正檢驗戰力 台海周邊龐大機隊成焦點"
   },
   {
    "domain": "news.ssbcrack.com",
@@ -336,16 +347,6 @@
    "domain": "news.tvb.com",
    "n_articles": 2,
    "sample_title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 2,
-   "sample_title": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持「統一大業」"
-  },
-  {
-   "domain": "freemalaysiatoday.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan proposes boosting 2027 defence spending by 18%"
   }
  ]
 }
