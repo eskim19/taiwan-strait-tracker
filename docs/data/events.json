@@ -1,6 +1,86 @@
 {
- "updated": "2026-08-25T09:53:06Z",
+ "updated": "2026-08-25T13:13:43Z",
  "events": [
+  {
+   "id": "evt_20260823_50553c",
+   "headline": "Can Taiwan’s new F-16s level the playing field against the PLA’s J-20 stealth fighters?",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3365234/can-taiwans-new-f-16s-level-playing-field-against-plas-j-20-stealth-fighters?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-08-23T13:42:00Z",
+   "last_seen": "2026-08-25T12:41:42Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 47.4,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "prc_state"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "9d2eae9dd5e87cdc"
+    ],
+    "tw_west": [
+     "360aed2333b2fdc9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9d2eae9dd5e87cdc",
+     "title": "F-16Vs headed to Taiwan region; expert says incapable of shifting cross-Straits air power balance",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPX2czdnJsN2Z2ekhRVzVtRTkwaFFzcnU2MkVhS2lwazFDblJQMmFFV01GRjVNQXloVW1QdjRMWGowRnJKYzk2WUtrSWdxQndubUlVRkVoR1ltbHZGU05JZWVR?oc=5",
+     "published": "2026-08-23T13:42:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    },
+    {
+     "id": "360aed2333b2fdc9",
+     "title": "Can Taiwan’s new F-16s level the playing field against the PLA’s J-20 stealth fighters?",
+     "url": "https://www.scmp.com/news/china/military/article/3365234/can-taiwans-new-f-16s-level-playing-field-against-plas-j-20-stealth-fighters?utm_source=rss_feed",
+     "published": "2026-08-25T12:41:42Z",
+     "lang": "en",
+     "entities": [
+      "pla"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260825_c56c59",
    "headline": "川普恐與習近平談台海交易！美專家曝「兩步」盤算：盼一舉三得",
@@ -1325,6 +1405,67 @@
    ]
   },
   {
+   "id": "evt_20260824_007f9d",
+   "headline": "US Navy surveillance aircraft completes rare flight over Taiwan Strait",
+   "headline_source": "stripes.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX19ob2k5bEVDOHFyQ1ltU3lpWnViWjY4YjN2cTZUMkxKajBPX0QzelN4cXgyTHRfcmQ1X2NCZHJKa0dmcklsYkZNVFNvSWx5bFpvUmZZdmVyOC1ITi03eFQ2ejZIWGozMWZSRWVjRGdNam44bF9uYnBUZnF0am11T3FLTzlYODVxeDJ2dlNnTWU0cEFVUmYzNQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-24T06:47:41Z",
+   "last_seen": "2026-08-24T06:47:41Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d33b783f82f729ae"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d33b783f82f729ae",
+     "title": "US Navy surveillance aircraft completes rare flight over Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX19ob2k5bEVDOHFyQ1ltU3lpWnViWjY4YjN2cTZUMkxKajBPX0QzelN4cXgyTHRfcmQ1X2NCZHJKa0dmcklsYkZNVFNvSWx5bFpvUmZZdmVyOC1ITi03eFQ2ejZIWGozMWZSRWVjRGdNam44bF9uYnBUZnF0am11T3FLTzlYODVxeDJ2dlNnTWU0cEFVUmYzNQ?oc=5",
+     "published": "2026-08-24T06:47:41Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "stripes.com",
+     "source_domain": "stripes.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260823_6c5101",
    "headline": "823談台海局勢！鄭麗文籲賴清德「認九二共識」緩和兩岸局勢",
    "headline_source": "TVBS",
@@ -2438,149 +2579,6 @@
    ]
   },
   {
-   "id": "evt_20260822_a97420",
-   "headline": "F-16 BLK70抵台不只添戰機 AESA雷達與Link 16強化台海空戰",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS0RnN215MF9qMDdQNUZHYTB1N29aTzJ0OEc5a2x5ZjF4Qi1LMDQ5NkFoUnh2RmJ2WGsybTJPaUgxU0RsNXZNaW9tQVl6Mi1YYnF6SDZ2di1FaUVhTmYweA?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-22T05:09:00Z",
-   "last_seen": "2026-08-23T13:42:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 57.7,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "prc_state"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "9d2eae9dd5e87cdc"
-    ],
-    "tw_west": [
-     "be7ffd3c919d80a4"
-    ]
-   },
-   "articles": [
-    {
-     "id": "be7ffd3c919d80a4",
-     "title": "F-16 BLK70抵台不只添戰機 AESA雷達與Link 16強化台海空戰",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS0RnN215MF9qMDdQNUZHYTB1N29aTzJ0OEc5a2x5ZjF4Qi1LMDQ5NkFoUnh2RmJ2WGsybTJPaUgxU0RsNXZNaW9tQVl6Mi1YYnF6SDZ2di1FaUVhTmYweA?oc=5",
-     "published": "2026-08-22T05:09:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "9d2eae9dd5e87cdc",
-     "title": "F-16Vs headed to Taiwan region; expert says incapable of shifting cross-Straits air power balance",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPX2czdnJsN2Z2ekhRVzVtRTkwaFFzcnU2MkVhS2lwazFDblJQMmFFV01GRjVNQXloVW1QdjRMWGowRnJKYzk2WUtrSWdxQndubUlVRkVoR1ltbHZGU05JZWVR?oc=5",
-     "published": "2026-08-23T13:42:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260823_007f9d",
-   "headline": "US Navy surveillance aircraft completes rare flight over Taiwan Strait",
-   "headline_source": "stripes.com",
-   "headline_url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX19ob2k5bEVDOHFyQ1ltU3lpWnViWjY4YjN2cTZUMkxKajBPX0QzelN4cXgyTHRfcmQ1X2NCZHJKa0dmcklsYkZNVFNvSWx5bFpvUmZZdmVyOC1ITi03eFQ2ejZIWGozMWZSRWVjRGdNam44bF9uYnBUZnF0am11T3FLTzlYODVxeDJ2dlNnTWU0cEFVUmYzNQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-23T12:43:30Z",
-   "last_seen": "2026-08-23T12:43:30Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "d33b783f82f729ae"
-    ]
-   },
-   "articles": [
-    {
-     "id": "d33b783f82f729ae",
-     "title": "US Navy surveillance aircraft completes rare flight over Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPX19ob2k5bEVDOHFyQ1ltU3lpWnViWjY4YjN2cTZUMkxKajBPX0QzelN4cXgyTHRfcmQ1X2NCZHJKa0dmcklsYkZNVFNvSWx5bFpvUmZZdmVyOC1ITi03eFQ2ejZIWGozMWZSRWVjRGdNam44bF9uYnBUZnF0am11T3FLTzlYODVxeDJ2dlNnTWU0cEFVUmYzNQ?oc=5",
-     "published": "2026-08-23T12:43:30Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "us_military"
-     ],
-     "source_name": "stripes.com",
-     "source_domain": "stripes.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260823_0e44d0",
    "headline": "DPP pushes Taiwan region defense budget past $35b to record high, squeezing livelihoods",
    "headline_source": "CGTN",
@@ -3537,6 +3535,172 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_37f7e3",
+   "headline": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-22T00:43:00Z",
+   "last_seen": "2026-08-22T19:14:32Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 34.8,
+    "n_independent": 1,
+    "n_articles": 7,
+    "n_domains": 7,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영",
+     "Reuters 원고를 Straits Times·CTV News·Taiwan News 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9b0cf2d3c0e844b8",
+     "f7d0d107ec18c4bd",
+     "06df80210601b1d9",
+     "8face908e4196450",
+     "a57066f1cfca3c8d",
+     "61b3aea73e2f50a2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9b0cf2d3c0e844b8",
+     "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
+     "published": "2026-08-22T00:43:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "f7d0d107ec18c4bd",
+     "title": "US Navy aircraft transits Taiwan Strait ahead of Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlFDTDFDdk1jcDNZNlZuVW9zQm4zLWY5MGpUQzR4UVBHcDFFbVRqY3ZzbldUYjNXMS00bjNWVXNycEZfQVIwVjFZMkJ4Nmh6bENJX0tpbEJ6ak5sZDBxLVRhRVBBTjFBZ0tqYWtNOVI3REdZWjNocnRVRVBQWXNVRHI2cXQzRDlSMXA0TXFlSlowa1pKX1dQWHZhek5rTUtVWUNBNW05d3lPbmUxaldsTHJMM2d1Zw?oc=5",
+     "published": "2026-08-22T01:02:32Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "06df80210601b1d9",
+     "title": "US Navy patrol aircraft transits Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdnVsbFI5NWxRTUJCLWtlem90czFrWjFrMTgtM2M3Sk5mYVZDSEVBSkx5WWFUM3V6MlZlQl9jUmVQZEZsU1Axa2J0eTlSX2lOTGZUeg?oc=5",
+     "published": "2026-08-22T02:57:50Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "8face908e4196450",
+     "title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0RpSU40M1pSaExrNzktOEdWRTFWa1ZYTnBNZDdvR3l1aWgxeUtydHZiNlhVVE1RaWJZRmpWaDFNdDQxWUpXMGF1LXA1WTRyaGhuVHU5VTREOWdyOFFPNTRoazdKWXFfTGc4d3RTQ1ZQRm1SemZwVVQ4bFlBVWJrcjdUTUhzSTJ1blZEaFV3REZsSDdJX1FFYVlDcmlQZkVMUEV3SkVTTnB4NUEwR3pUSU15Y2tLRVg0dF9rcnp30gHDAUFVX3lxTE5QTWRWYXNxNTNjRExOdi05dTRCS1ZKdGZBbExFZlhBbTdDV0tWdVowQUk0R0V5a28zaXJGbC0tVHhnX3pOd1B3SFVid21KZkJtTGR2U3hBMGdCaVhURHNEc2hQU2FNcGVwVUZRZTVoYUpId1AwUjlKWUdYRi1jZXhUTGFhQ1otWGpBVkZPYVpOano5bURGbGdJb1VpNE9zOGNPOVFQb2tmUFNmN3pYaGR4dE53Q1BpN2VnNTZnYXNxOWlGcw?oc=5",
+     "published": "2026-08-22T06:43:23Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Firstpost",
+     "source_domain": "firstpost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "a57066f1cfca3c8d",
+     "title": "US Navy Aircraft Transits Taiwan Strait As US-China Talks Approach",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFhNUl9iZnZLU0gtdnpQUmtreDVQUnY3OXJGNjRkY3NyNU51WExMaFVGMlVlX0JQWkVRUFowQmlrRnkwa1NGaGk3SWMtN1gxc3JRbFJXRkNodV9wX0JMZUlENGNpT0JwZHFKTWZSaGtYY2dyZGdRc3ZtVFlOblRKRUhOUUd6RTV3M1l0aGtpeXgwU21LRlozSzVoSGw2OHpNbzRCOXNqVkVVbzhxSG40cg?oc=5",
+     "published": "2026-08-22T08:24:52Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "BusinessToday Malaysia",
+     "source_domain": "businesstoday.com.my",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "61b3aea73e2f50a2",
+     "title": "US Navy P-8A transits Taiwan Strait ahead of Xi-Trump meeting",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVjlDYnNVZk5zZDhJTjFqNVhqX2ZlQlVCMDg1bE9zNlVBbmtveXlvMG1yck1hU1dvWjZGdEtWc0VDQjk3cS1MLVlQVlYyb0ZpWDByb3VSNUpEeV9ELXZBNHJfWERnUU5fd0ZnemM0bmZyblU3T2gyaTREcWhwV3QwR2FIMF9RbnFMcUZNSHJmQ1YwUDF3VkNCSmZyZExtNUlrM3BKVGg1a0lSMXZZYUIybzBB?oc=5",
+     "published": "2026-08-22T19:14:32Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "scanx.trade",
+     "source_domain": "scanx.trade",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -4585,151 +4749,6 @@
    ]
   },
   {
-   "id": "evt_20260822_37f7e3",
-   "headline": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-22T00:43:00Z",
-   "last_seen": "2026-08-22T08:24:52Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 34.8,
-    "n_independent": 1,
-    "n_articles": 7,
-    "n_domains": 7,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "Reuters 원고를 Straits Times·CTV News·Taiwan News 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9b0cf2d3c0e844b8",
-     "f7d0d107ec18c4bd",
-     "06df80210601b1d9",
-     "8face908e4196450",
-     "a57066f1cfca3c8d"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9b0cf2d3c0e844b8",
-     "title": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
-     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
-     "published": "2026-08-22T00:43:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "f7d0d107ec18c4bd",
-     "title": "US Navy aircraft transits Taiwan Strait ahead of Xi-Trump meeting",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPWlFDTDFDdk1jcDNZNlZuVW9zQm4zLWY5MGpUQzR4UVBHcDFFbVRqY3ZzbldUYjNXMS00bjNWVXNycEZfQVIwVjFZMkJ4Nmh6bENJX0tpbEJ6ak5sZDBxLVRhRVBBTjFBZ0tqYWtNOVI3REdZWjNocnRVRVBQWXNVRHI2cXQzRDlSMXA0TXFlSlowa1pKX1dQWHZhek5rTUtVWUNBNW05d3lPbmUxaldsTHJMM2d1Zw?oc=5",
-     "published": "2026-08-22T01:02:32Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Straits Times",
-     "source_domain": "straitstimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "06df80210601b1d9",
-     "title": "US Navy patrol aircraft transits Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdnVsbFI5NWxRTUJCLWtlem90czFrWjFrMTgtM2M3Sk5mYVZDSEVBSkx5WWFUM3V6MlZlQl9jUmVQZEZsU1Axa2J0eTlSX2lOTGZUeg?oc=5",
-     "published": "2026-08-22T02:57:50Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "us_military"
-     ],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "8face908e4196450",
-     "title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ0RpSU40M1pSaExrNzktOEdWRTFWa1ZYTnBNZDdvR3l1aWgxeUtydHZiNlhVVE1RaWJZRmpWaDFNdDQxWUpXMGF1LXA1WTRyaGhuVHU5VTREOWdyOFFPNTRoazdKWXFfTGc4d3RTQ1ZQRm1SemZwVVQ4bFlBVWJrcjdUTUhzSTJ1blZEaFV3REZsSDdJX1FFYVlDcmlQZkVMUEV3SkVTTnB4NUEwR3pUSU15Y2tLRVg0dF9rcnp30gHDAUFVX3lxTE5QTWRWYXNxNTNjRExOdi05dTRCS1ZKdGZBbExFZlhBbTdDV0tWdVowQUk0R0V5a28zaXJGbC0tVHhnX3pOd1B3SFVid21KZkJtTGR2U3hBMGdCaVhURHNEc2hQU2FNcGVwVUZRZTVoYUpId1AwUjlKWUdYRi1jZXhUTGFhQ1otWGpBVkZPYVpOano5bURGbGdJb1VpNE9zOGNPOVFQb2tmUFNmN3pYaGR4dE53Q1BpN2VnNTZnYXNxOWlGcw?oc=5",
-     "published": "2026-08-22T06:43:23Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Firstpost",
-     "source_domain": "firstpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "a57066f1cfca3c8d",
-     "title": "US Navy Aircraft Transits Taiwan Strait As US-China Talks Approach",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNFhNUl9iZnZLU0gtdnpQUmtreDVQUnY3OXJGNjRkY3NyNU51WExMaFVGMlVlX0JQWkVRUFowQmlrRnkwa1NGaGk3SWMtN1gxc3JRbFJXRkNodV9wX0JMZUlENGNpT0JwZHFKTWZSaGtYY2dyZGdRc3ZtVFlOblRKRUhOUUd6RTV3M1l0aGtpeXgwU21LRlozSzVoSGw2OHpNbzRCOXNqVkVVbzhxSG40cg?oc=5",
-     "published": "2026-08-22T08:24:52Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "us_military"
-     ],
-     "source_name": "BusinessToday Malaysia",
-     "source_domain": "businesstoday.com.my",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260822_e883bc",
    "headline": "China and Indonesia Hold First-Ever 2+2 Talks, Plan Naval Drill East of Taiwan",
    "headline_source": "The Eastern Herald",
@@ -5085,6 +5104,65 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_de6c31",
+   "headline": "F-16 BLK70抵台不只添戰機 AESA雷達與Link 16強化台海空戰",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS0RnN215MF9qMDdQNUZHYTB1N29aTzJ0OEc5a2x5ZjF4Qi1LMDQ5NkFoUnh2RmJ2WGsybTJPaUgxU0RsNXZNaW9tQVl6Mi1YYnF6SDZ2di1FaUVhTmYweA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-22T05:09:00Z",
+   "last_seen": "2026-08-22T05:09:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "be7ffd3c919d80a4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "be7ffd3c919d80a4",
+     "title": "F-16 BLK70抵台不只添戰機 AESA雷達與Link 16強化台海空戰",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jS0RnN215MF9qMDdQNUZHYTB1N29aTzJ0OEc5a2x5ZjF4Qi1LMDQ5NkFoUnh2RmJ2WGsybTJPaUgxU0RsNXZNaW9tQVl6Mi1YYnF6SDZ2di1FaUVhTmYweA?oc=5",
+     "published": "2026-08-22T05:09:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
@@ -27620,628 +27698,6 @@
      ],
      "source_name": "中國評論新聞",
      "source_domain": "hk.crntt.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_61f23f",
-   "headline": "共軍稱8月中旬與印尼海軍演練 地點在台灣東部海域",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzhnZFpxdDI2SDZsSXhGRDlFT1E4bThpWTktWjJMejNfbEhwRXBkNlhKczkzNkNFS1ZhX3RvXzR1a2JLTENLcTNWajdEVFdSaWlDa1V6XzBWU1Y4bUFndFBqcjg2dldFVFFRbmcwbEZQVU1lTk8tUFBwU2ptaTVEVtIBX0FVX3lxTE5vc2JsdEExQU5MLUtGdklrSlpJak05Mm1nbXZrSGxVeG9pTmUzTElLdlhRT2lfSnQ1bDdtU2ZXRGJpb09nNDVyTkZhaHowZHVMbDJFWmRlMkRlRkx4ZDdj?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-11T12:22:38Z",
-   "last_seen": "2026-08-11T12:22:38Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "abb34f6f58d0d925"
-    ]
-   },
-   "articles": [
-    {
-     "id": "abb34f6f58d0d925",
-     "title": "共軍稱8月中旬與印尼海軍演練 地點在台灣東部海域",
-     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSzhnZFpxdDI2SDZsSXhGRDlFT1E4bThpWTktWjJMejNfbEhwRXBkNlhKczkzNkNFS1ZhX3RvXzR1a2JLTENLcTNWajdEVFdSaWlDa1V6XzBWU1Y4bUFndFBqcjg2dldFVFFRbmcwbEZQVU1lTk8tUFBwU2ptaTVEVtIBX0FVX3lxTE5vc2JsdEExQU5MLUtGdklrSlpJak05Mm1nbXZrSGxVeG9pTmUzTElLdlhRT2lfSnQ1bDdtU2ZXRGJpb09nNDVyTkZhaHowZHVMbDJFWmRlMkRlRkx4ZDdj?oc=5",
-     "published": "2026-08-11T12:22:38Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "plan_navy",
-      "rehearsal"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_d32ba6",
-   "headline": "中共藉口颱風管制台海 美國務院表態反對",
-   "headline_source": "新唐人 NTD",
-   "headline_url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOZlN0QWowU1dLRnkyNWxMNUVvZzJyQnJvT3Nwczk5VGVUSFFhRVM2ZmpEX3p1RGZndGtCcmo4djktZmlKLUZpSnNLd054RmN3WUhNM0xUY0dkWlo0SWlLTDJVT1o4OE9pdzBoczRrR3dnSXBoa1BEaFNSdEt2dDZFRFF4V2tYdmFxckhUTkd4RDJ0am5xQmlVY2FQRGVvQjRVdnFFN1NkN2ZpWFZoUFJqN1JtU3ZJSzZoX3o3cVRXLUVVR2RMZF91UVVVc2JqX1NjeUhITFhCU2F5YjhNcHRRcjFad1MtM0pzUUppTFQxNXFUWjJib0VHYU5jSnZBVlBCbVBkc3VWN0RxYmRJZ3U5b1p6U1Y3V3hpMEQ3Tldvam1oUG9IR0VKdnNvUTB0SENjeWJod2hxdFNzbWFvQk93MmFR?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-11T12:21:18Z",
-   "last_seen": "2026-08-11T12:21:18Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "partisan",
-    "grade_label": "성향 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 16.5,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T4",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 성향 매체"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "a9999ac50a2be4a3"
-    ]
-   },
-   "articles": [
-    {
-     "id": "a9999ac50a2be4a3",
-     "title": "中共藉口颱風管制台海 美國務院表態反對",
-     "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxOZlN0QWowU1dLRnkyNWxMNUVvZzJyQnJvT3Nwczk5VGVUSFFhRVM2ZmpEX3p1RGZndGtCcmo4djktZmlKLUZpSnNLd054RmN3WUhNM0xUY0dkWlo0SWlLTDJVT1o4OE9pdzBoczRrR3dnSXBoa1BEaFNSdEt2dDZFRFF4V2tYdmFxckhUTkd4RDJ0am5xQmlVY2FQRGVvQjRVdnFFN1NkN2ZpWFZoUFJqN1JtU3ZJSzZoX3o3cVRXLUVVR2RMZF91UVVVc2JqX1NjeUhITFhCU2F5YjhNcHRRcjFad1MtM0pzUUppTFQxNXFUWjJib0VHYU5jSnZBVlBCbVBkc3VWN0RxYmRJZ3U5b1p6U1Y3V3hpMEQ3Tldvam1oUG9IR0VKdnNvUTB0SENjeWJod2hxdFNzbWFvQk93MmFR?oc=5",
-     "published": "2026-08-11T12:21:18Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "新唐人 NTD",
-     "source_domain": "ntdtv.com.tw",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_bc411d",
-   "headline": "共軍稱8月中旬與印尼海軍演練地點在台灣東部海域| 兩岸",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fSmtGU3pCVnNtclZMSzlZTzV6a0FlMzBoZksyaHlyTEFudUVyZVdITnBVR2ZGblh2aFZOZEExZEY4ZjNmODFxd3R6NlpkM3AzbVlRVEpUTU5GYWNJSkE?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-11T12:12:00Z",
-   "last_seen": "2026-08-11T12:12:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "tw_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "89374cb44784bdea"
-    ]
-   },
-   "articles": [
-    {
-     "id": "89374cb44784bdea",
-     "title": "共軍稱8月中旬與印尼海軍演練地點在台灣東部海域| 兩岸",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1fSmtGU3pCVnNtclZMSzlZTzV6a0FlMzBoZksyaHlyTEFudUVyZVdITnBVR2ZGblh2aFZOZEExZEY4ZjNmODFxd3R6NlpkM3AzbVlRVEpUTU5GYWNJSkE?oc=5",
-     "published": "2026-08-11T12:12:00Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "plan_navy",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_3ecee4",
-   "headline": "自由開講》鳥海號艦射戰斧：台海方程式的改寫",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cXhwNGRBY2NublZBck5MZWJBYkZRQ0lleUZTOGYtRFR4QjlBZk9ma3RmSUk1Y2pmUTM3VVpkNkJFbHl1cHM5cDZMNTc1bUNtSFA3NzdFLW10TVlOVnpBOXR3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-11T12:00:00Z",
-   "last_seen": "2026-08-11T12:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9234797fbcc48fc2"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9234797fbcc48fc2",
-     "title": "自由開講》鳥海號艦射戰斧：台海方程式的改寫",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5cXhwNGRBY2NublZBck5MZWJBYkZRQ0lleUZTOGYtRFR4QjlBZk9ma3RmSUk1Y2pmUTM3VVpkNkJFbHl1cHM5cDZMNTc1bUNtSFA3NzdFLW10TVlOVnpBOXR3?oc=5",
-     "published": "2026-08-11T12:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_7fdaf7",
-   "headline": "China, Indonesia navies to hold drills in sensitive waters east of Taiwan",
-   "headline_source": "GMA Network",
-   "headline_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGdzX2FseXB1NTRPdDMwNE51RG9taldoc0Z3TjFjRGJVdWhOajlsYWN6WjlLbk12Z09XMFYxcTJESGZWaEVvUWdYWWg5T0Vwd3Z1c3pFQ0p3OXVkV0t1alBrTWZlX3pIdll4SzRsVF9wMFpOck5FTHVWUDBTdmlRM1RfZVd5bWtmZmtKclFIeTBqcmdhQlRNUjByb1dHaW82bnpkRmdGbk9MVUQ3bnU2dzNHNUNOcWI3aFRGYnFWNkZ6Y0dHUXh0aTFvbFBwc2tC0gHWAUFVX3lxTE1YdkNKakxhbjN4S2FuX3VUTExyV3hPNXhuVlJZNHVfTUQ5WUtuRGljcWtkVTl3VGh5d20tSTZneGYyN1lVYjFDaW9UN2Ffc2ZiVlJkenJ6aU9YQ2VGRFlhcWZaXzlEdjFpSnF3bE10X1JsZjFLSllPY09MTDV6QWxSdllZSG16R1FCeXJhaGVFdG9GRGw3a0xNVWFHQ1VqSEloSG5QamloazNWRnkxUVhTS3BZNU5lNWRKM2RiRHY1UHJ1NTVrTGhSWWx6OHZ5M0xsTmJmTEE?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-11T11:44:37Z",
-   "last_seen": "2026-08-11T11:44:37Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 23.7,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "prc_state",
-     "unknown"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b7a2baec78295ac9"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b7a2baec78295ac9",
-     "title": "China, Indonesia navies to hold drills in sensitive waters east of Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOcGdzX2FseXB1NTRPdDMwNE51RG9taldoc0Z3TjFjRGJVdWhOajlsYWN6WjlLbk12Z09XMFYxcTJESGZWaEVvUWdYWWg5T0Vwd3Z1c3pFQ0p3OXVkV0t1alBrTWZlX3pIdll4SzRsVF9wMFpOck5FTHVWUDBTdmlRM1RfZVd5bWtmZmtKclFIeTBqcmdhQlRNUjByb1dHaW82bnpkRmdGbk9MVUQ3bnU2dzNHNUNOcWI3aFRGYnFWNkZ6Y0dHUXh0aTFvbFBwc2tC0gHWAUFVX3lxTE1YdkNKakxhbjN4S2FuX3VUTExyV3hPNXhuVlJZNHVfTUQ5WUtuRGljcWtkVTl3VGh5d20tSTZneGYyN1lVYjFDaW9UN2Ffc2ZiVlJkenJ6aU9YQ2VGRFlhcWZaXzlEdjFpSnF3bE10X1JsZjFLSllPY09MTDV6QWxSdllZSG16R1FCeXJhaGVFdG9GRGw3a0xNVWFHQ1VqSEloSG5QamloazNWRnkxUVhTS3BZNU5lNWRKM2RiRHY1UHJ1NTVrTGhSWWx6OHZ5M0xsTmJmTEE?oc=5",
-     "published": "2026-08-11T11:44:37Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "GMA Network",
-     "source_domain": "gmanetwork.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_4ba7ce",
-   "headline": "China-Indonesia naval drill near Taiwan highlights Asean’s difficult balancing act",
-   "headline_source": "Firstpost",
-   "headline_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEc0YzNpck1MeHNUWUlXNjA0Vko2R05haHRLWjgzTjdzRUcxYWdWY01VV3cyZ3BpSVdkT3lLamppbDV3YVpfMjJ5NU83NTNnemdyQlR5dU4xQ2l2bjZtUWR3Z2tCOXJHOXh3dHdEbGdEYlRTZ1JJaXZxTTR6MXBhQ0M5RWNPUFdjMUxnOFB5QWhQUUhfa01NY0dlZ2xyMXBLcEE0NGtQR0QxWXVCOGt1WHFzRGJwRFNBQWRkODVqcXppbjlOUnfSAcsBQVVfeXFMUGZVRHBWekR4WWRUenVVdFBSOEpycDdOVlNRT2NiSjNuQ1h3TlVselVyRWxvYTFhVm43aDhsSXNIdlBFX3daQzBqek9VODhIWEp4LXJYalY2N3BNTE1DTWFfb29yZExjdHVvSnlVWm8wb2F1WjRlYnhzYVNvcmItN2Z1bHpHbGZyX2tYV2RyRWo1WXFDcURISk5HLWtnTTExRFhpUGh6VUNjNENmLWg5ZXdhZzNFZUJ5Tk12MGlzOV9Ya3BMTEw3V0x2cTQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-11T10:43:36Z",
-   "last_seen": "2026-08-11T10:43:36Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9c1b87582132b07c"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9c1b87582132b07c",
-     "title": "China-Indonesia naval drill near Taiwan highlights Asean’s difficult balancing act",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQdEc0YzNpck1MeHNUWUlXNjA0Vko2R05haHRLWjgzTjdzRUcxYWdWY01VV3cyZ3BpSVdkT3lLamppbDV3YVpfMjJ5NU83NTNnemdyQlR5dU4xQ2l2bjZtUWR3Z2tCOXJHOXh3dHdEbGdEYlRTZ1JJaXZxTTR6MXBhQ0M5RWNPUFdjMUxnOFB5QWhQUUhfa01NY0dlZ2xyMXBLcEE0NGtQR0QxWXVCOGt1WHFzRGJwRFNBQWRkODVqcXppbjlOUnfSAcsBQVVfeXFMUGZVRHBWekR4WWRUenVVdFBSOEpycDdOVlNRT2NiSjNuQ1h3TlVselVyRWxvYTFhVm43aDhsSXNIdlBFX3daQzBqek9VODhIWEp4LXJYalY2N3BNTE1DTWFfb29yZExjdHVvSnlVWm8wb2F1WjRlYnhzYVNvcmItN2Z1bHpHbGZyX2tYV2RyRWo1WXFDcURISk5HLWtnTTExRFhpUGh6VUNjNENmLWg5ZXdhZzNFZUJ5Tk12MGlzOV9Ya3BMTEw3V0x2cTQ?oc=5",
-     "published": "2026-08-11T10:43:36Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "Firstpost",
-     "source_domain": "firstpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_6c0359",
-   "headline": "中共解放軍與印尼軍艦即將在台灣以東軍演 印尼派新銳主力作戰艦用意不明 | 太報",
-   "headline_source": "LINE TODAY",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qa3Z4TnE5UFJRY0dXc1lBWUdJcTI3cmNWMDE3RFF5TFNGVHhUa0QyQUozYU1yOXRMTW9FTkNkTUZKMHFVMVQwQXE5a3lUTVVGT094Y3Z3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-11T10:40:34Z",
-   "last_seen": "2026-08-11T10:40:34Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "33c80e8846374079"
-    ]
-   },
-   "articles": [
-    {
-     "id": "33c80e8846374079",
-     "title": "中共解放軍與印尼軍艦即將在台灣以東軍演 印尼派新銳主力作戰艦用意不明 | 太報",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qa3Z4TnE5UFJRY0dXc1lBWUdJcTI3cmNWMDE3RFF5TFNGVHhUa0QyQUozYU1yOXRMTW9FTkNkTUZKMHFVMVQwQXE5a3lUTVVGT094Y3Z3?oc=5",
-     "published": "2026-08-11T10:40:34Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "warship"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_a00fcc",
-   "headline": "長崎矮化台灣討好中國！竟遭共軍嗆1句「附蕈狀雲照威脅」 | 民視新聞網",
-   "headline_source": "LINE TODAY",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84SURWVi1rLW1LUk9vcUlrUlRUNkVoSHlJeEd0ZjBYN25IazI4enU1dVpyaHZCc3JKRHhFZncwWUJNYzlyRWlLSENFdWZNZXE3Rk1rQ1Bn?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-11T10:25:33Z",
-   "last_seen": "2026-08-11T10:25:33Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "edec0526037ad01a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "edec0526037ad01a",
-     "title": "長崎矮化台灣討好中國！竟遭共軍嗆1句「附蕈狀雲照威脅」 | 民視新聞網",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84SURWVi1rLW1LUk9vcUlrUlRUNkVoSHlJeEd0ZjBYN25IazI4enU1dVpyaHZCc3JKRHhFZncwWUJNYzlyRWlLSENFdWZNZXE3Rk1rQ1Bn?oc=5",
-     "published": "2026-08-11T10:25:33Z",
-     "lang": "zh",
-     "entities": [
-      "pla"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_4c54be",
-   "headline": "Chinese, Indonesian navies to hold drills east of Taiwan Island",
-   "headline_source": "China Daily",
-   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGU0xKSmpJZzFuZlBHT3lWenlIUzdSX1ZIR0drSnNMOXFZbVhJdGxLcnBuX0UyQTNqLWdkM3N3VTh5d200QUxwU3ZDaktSakZmcTFadk9WczRrNC16RVQ1bHhIZkx2OV9USWdKOHpUdF9CdWp1VV8zMmJ6b2NzUQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-11T09:52:27Z",
-   "last_seen": "2026-08-11T10:20:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 20.7,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "71dcc00a9219af76",
-     "8e789b80f1039b2f"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "71dcc00a9219af76",
-     "title": "Chinese, Indonesian navies to hold drills east of Taiwan Island",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBGU0xKSmpJZzFuZlBHT3lWenlIUzdSX1ZIR0drSnNMOXFZbVhJdGxLcnBuX0UyQTNqLWdkM3N3VTh5d200QUxwU3ZDaktSakZmcTFadk9WczRrNC16RVQ1bHhIZkx2OV9USWdKOHpUdF9CdWp1VV8zMmJ6b2NzUQ?oc=5",
-     "published": "2026-08-11T09:52:27Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "China Daily",
-     "source_domain": "chinadaily.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 영문지",
-     "hedged": false
-    },
-    {
-     "id": "8e789b80f1039b2f",
-     "title": "China, Indonesia navies to hold navigation exercise east of Taiwan island in mid-August",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBOdW5ZcEYwaUpJOFBLcVNJbG1WNHIyVGp0SlU5Z1RNb2l1MzNrVnR5QmJlNm5kejdTTnkxQm1DOHZ1bENBemh6bzM5WGNrTlBUT1RxeWk3OVp0NXhidVJfVll3?oc=5",
-     "published": "2026-08-11T10:20:00Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260811_904e2b",
-   "headline": "Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense",
-   "headline_source": "Time Magazine",
-   "headline_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTNwSmliZzFwWDBXV1dUYmE3cjBnTVptYnp4R1RiTG5pUEF3RWMwbEVPRGpRNHdqeV90bl9fY3VSRWFrMDQwVjB1WFRHTTlFcEZRaHhpaF9Vb2VyTnhKUjNnYXdnb3FhVng2RWRRaFRXcUpFMlduU3p3S3NtOGtkc000OXNqajdRVWZnVQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-11T10:00:04Z",
-   "last_seen": "2026-08-11T10:00:04Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "1566738136d23361"
-    ]
-   },
-   "articles": [
-    {
-     "id": "1566738136d23361",
-     "title": "Taiwan’s Opposition Leader Says Talking to China Is the Island’s Best Defense",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWTNwSmliZzFwWDBXV1dUYmE3cjBnTVptYnp4R1RiTG5pUEF3RWMwbEVPRGpRNHdqeV90bl9fY3VSRWFrMDQwVjB1WFRHTTlFcEZRaHhpaF9Vb2VyTnhKUjNnYXdnb3FhVng2RWRRaFRXcUpFMlduU3p3S3NtOGtkc000OXNqajdRVWZnVQ?oc=5",
-     "published": "2026-08-11T10:00:04Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Time Magazine",
-     "source_domain": "time.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",

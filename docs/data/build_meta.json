@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-25T09:53:06Z",
+ "updated": "2026-08-25T13:13:43Z",
  "checked": "2026-08-25",
- "duration_sec": 33.4,
+ "duration_sec": 32.6,
  "rolling_days": 14,
- "n_events": 454,
- "n_articles": 539,
+ "n_events": 445,
+ "n_articles": 528,
  "grades": {
-  "C": 165,
-  "D": 256,
   "B": 31,
+  "C": 164,
+  "D": 248,
   "A": 2
  },
- "cross_language_events": 3,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-08"
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 19,
-  "T2": 179,
-  "T3": 106,
-  "T4": 16,
-  "T5": 178,
+  "T2": 178,
+  "T3": 103,
+  "T4": 15,
+  "T5": 174,
   "TA": 3
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 31,
+   "n_adopted": 36,
    "newest": "2026-08-25T04:52:37+00:00",
    "stale": false,
    "error": null
@@ -57,8 +57,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 79,
-   "n_adopted": 44,
+   "n_entries": 78,
+   "n_adopted": 42,
    "newest": "2026-08-25T01:32:11+00:00",
    "stale": false,
    "error": null
@@ -85,7 +85,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 61,
-   "newest": "2026-08-25T09:13:00+00:00",
+   "newest": "2026-08-25T11:39:00+00:00",
    "stale": false,
    "error": null
   },
@@ -97,7 +97,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 15,
    "newest": "2026-08-25T07:51:51+00:00",
    "stale": false,
    "error": null
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-08-25T08:17:53+00:00",
+   "n_adopted": 5,
+   "newest": "2026-08-25T11:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 48,
+   "n_entries": 56,
    "n_adopted": 1,
-   "newest": "2026-08-25T07:45:45+00:00",
+   "newest": "2026-08-25T11:09:05+00:00",
    "stale": false,
    "error": null
   },
@@ -149,8 +149,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 3,
-   "newest": "2026-08-25T09:35:15+00:00",
+   "n_adopted": 4,
+   "newest": "2026-08-25T12:41:42+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-25T09:08:00+00:00",
+   "newest": "2026-08-25T11:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-25T09:17:33+00:00",
+   "newest": "2026-08-25T11:46:31+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-25T09:34:25+00:00",
+   "newest": "2026-08-25T12:30:45+00:00",
    "stale": false,
    "error": null
   },
@@ -249,7 +249,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 11,
+   "n_articles": 9,
    "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
@@ -281,11 +281,6 @@
    "domain": "ctinews.com",
    "n_articles": 3,
    "sample_title": "把台海當成「偉大的航道」？「千陽號」走私1.2萬包日本菸遭破獲"
-  },
-  {
-   "domain": "firstpost.com",
-   "n_articles": 3,
-   "sample_title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump"
   },
   {
    "domain": "outlookindia.com",
@@ -326,6 +321,11 @@
    "domain": "taiwandaily.net",
    "n_articles": 2,
    "sample_title": "紅朝禁聞-美軍P-8A直過台海 中共軍機全越中線 0822"
+  },
+  {
+   "domain": "firstpost.com",
+   "n_articles": 2,
+   "sample_title": "US Navy aircraft transits the Taiwan Strait ahead of Xi's meeting with Trump"
   },
   {
    "domain": "mobile01.com",
