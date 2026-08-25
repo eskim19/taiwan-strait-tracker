@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-25T18:59:37Z",
+ "updated": "2026-08-25T21:46:11Z",
  "checked": "2026-08-25",
- "duration_sec": 33.9,
+ "duration_sec": 35.3,
  "rolling_days": 14,
- "n_events": 449,
- "n_articles": 531,
+ "n_events": 447,
+ "n_articles": 530,
  "grades": {
-  "C": 165,
-  "D": 251,
+  "C": 164,
+  "D": 250,
   "B": 31,
   "A": 2
  },
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 180,
+  "T2": 179,
   "T3": 103,
-  "T4": 16,
-  "T5": 176,
+  "T4": 17,
+  "T5": 174,
   "TA": 3
  },
  "t1_domains": [
@@ -45,8 +45,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 34,
+   "n_entries": 85,
+   "n_adopted": 26,
    "newest": "2026-08-25T04:52:37+00:00",
    "stale": false,
    "error": null
@@ -58,8 +58,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 81,
-   "n_adopted": 45,
+   "n_entries": 79,
+   "n_adopted": 43,
    "newest": "2026-08-25T17:40:49+00:00",
    "stale": false,
    "error": null
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
-   "newest": "2026-08-25T14:34:00+00:00",
+   "n_adopted": 58,
+   "newest": "2026-08-25T21:01:00+00:00",
    "stale": false,
    "error": null
   },
@@ -98,7 +98,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 19,
    "newest": "2026-08-25T17:31:00+00:00",
    "stale": false,
    "error": null
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-08-25T17:07:45+00:00",
+   "newest": "2026-08-25T21:30:06+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-25T11:42:00+00:00",
+   "newest": "2026-08-25T19:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -203,7 +203,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-08-25T17:46:02+00:00",
+   "newest": "2026-08-25T21:00:15+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-25T18:43:42+00:00",
+   "newest": "2026-08-25T21:16:43+00:00",
    "stale": false,
    "error": null
   },
@@ -304,11 +304,6 @@
    "sample_title": "China vs. Taiwan! The island further strengthens its self-defense capabilities ᐉ"
   },
   {
-   "domain": "foxnews.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan completes days of military exercises as fears of Chinese invasion grow"
-  },
-  {
    "domain": "hk.crntt.com",
    "n_articles": 3,
    "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
@@ -324,14 +319,19 @@
    "sample_title": "F-16若對上殲-16才能真正檢驗戰力 台海周邊龐大機隊成焦點"
   },
   {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
-  },
-  {
    "domain": "ntd.com",
    "n_articles": 2,
    "sample_title": "Taiwan Court Sentences 2 Former Military Sergeants in China Spy Case"
+  },
+  {
+   "domain": "dailycaller.com",
+   "n_articles": 2,
+   "sample_title": "US Navy Spy Plane Makes Rare Taiwan Strait Flight Ahead Of Xi White House Visit"
+  },
+  {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
   },
   {
    "domain": "taiwandaily.net",
