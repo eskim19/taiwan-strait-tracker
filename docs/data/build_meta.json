@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-26T04:04:56Z",
+ "updated": "2026-08-26T07:11:00Z",
  "checked": "2026-08-26",
- "duration_sec": 33.6,
+ "duration_sec": 31.9,
  "rolling_days": 14,
- "n_events": 448,
- "n_articles": 532,
+ "n_events": 440,
+ "n_articles": 522,
  "grades": {
-  "C": 160,
-  "D": 257,
-  "B": 29,
+  "D": 251,
+  "B": 28,
+  "C": 159,
   "A": 2
  },
  "cross_language_events": 2,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 19,
-  "T2": 174,
-  "T3": 111,
+  "T1": 20,
+  "T2": 170,
+  "T3": 112,
   "T4": 18,
-  "T5": 169,
+  "T5": 163,
   "TA": 4
  },
  "t1_domains": [
@@ -45,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 33,
-   "newest": "2026-08-25T04:52:37+00:00",
+   "n_adopted": 32,
+   "newest": "2026-08-25T15:07:45+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 80,
-   "n_adopted": 45,
-   "newest": "2026-08-25T20:42:27+00:00",
+   "n_entries": 77,
+   "n_adopted": 42,
+   "newest": "2026-08-26T04:43:02+00:00",
    "stale": false,
    "error": null
   },
@@ -72,7 +72,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 19,
-   "newest": "2026-08-26T03:05:38+00:00",
+   "newest": "2026-08-26T05:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 56,
-   "newest": "2026-08-26T03:31:16+00:00",
+   "n_adopted": 57,
+   "newest": "2026-08-26T04:58:41+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
-   "newest": "2026-08-26T02:53:19+00:00",
+   "n_adopted": 19,
+   "newest": "2026-08-26T05:59:36+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
+   "n_entries": 55,
    "n_adopted": 2,
-   "newest": "2026-08-26T02:27:39+00:00",
+   "newest": "2026-08-26T04:21:48+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-26T04:00:05+00:00",
+   "newest": "2026-08-26T04:39:33+00:00",
    "stale": false,
    "error": null
   },
@@ -162,8 +162,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 1,
-   "newest": "2026-08-26T03:34:00+00:00",
+   "n_adopted": 0,
+   "newest": "2026-08-26T06:57:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 95,
    "n_adopted": 0,
-   "newest": "2026-08-26T03:08:12+00:00",
+   "newest": "2026-08-26T06:58:48+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 16,
    "n_adopted": 0,
    "newest": "2026-08-26T03:33:59+00:00",
    "stale": false,
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-26T03:28:43+00:00",
+   "newest": "2026-08-26T06:31:58+00:00",
    "stale": false,
    "error": null
   },
@@ -249,18 +249,18 @@
  "unrated_domains": [
   {
    "domain": "upmedia.mg",
-   "n_articles": 9,
-   "sample_title": "路透：中國疑在西沙鴨公島建雷達站 支援台海戰時要地羚羊礁"
-  },
-  {
-   "domain": "today.line.me",
    "n_articles": 8,
-   "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
+   "sample_title": "路透：中國疑在西沙鴨公島建雷達站 支援台海戰時要地羚羊礁"
   },
   {
    "domain": "devdiscourse.com",
    "n_articles": 8,
    "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
+  },
+  {
+   "domain": "today.line.me",
+   "n_articles": 7,
+   "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
    "domain": "mnews.tw",
@@ -281,11 +281,6 @@
    "domain": "ctinews.com",
    "n_articles": 3,
    "sample_title": "把台海當成「偉大的航道」？「千陽號」走私1.2萬包日本菸遭破獲"
-  },
-  {
-   "domain": "outlookindia.com",
-   "n_articles": 3,
-   "sample_title": "US Navy P-8A Aircraft Flies Through Taiwan Strait, China Monitors Transit"
   },
   {
    "domain": "informat.ro",
@@ -346,6 +341,11 @@
    "domain": "news.tvb.com",
    "n_articles": 2,
    "sample_title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒"
+  },
+  {
+   "domain": "n.yam.com",
+   "n_articles": 2,
+   "sample_title": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持「統一大業」"
   }
  ]
 }
