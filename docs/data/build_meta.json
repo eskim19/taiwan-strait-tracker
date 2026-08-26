@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-26T07:11:00Z",
+ "updated": "2026-08-26T09:59:36Z",
  "checked": "2026-08-26",
- "duration_sec": 31.9,
+ "duration_sec": 36.3,
  "rolling_days": 14,
- "n_events": 440,
- "n_articles": 522,
+ "n_events": 438,
+ "n_articles": 520,
  "grades": {
-  "D": 251,
+  "D": 250,
+  "C": 158,
   "B": 28,
-  "C": 159,
   "A": 2
  },
  "cross_language_events": 2,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 170,
-  "T3": 112,
+  "T2": 168,
+  "T3": 113,
   "T4": 18,
-  "T5": 163,
+  "T5": 161,
   "TA": 4
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 32,
+   "n_adopted": 33,
    "newest": "2026-08-25T15:07:45+00:00",
    "stale": false,
    "error": null
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 77,
-   "n_adopted": 42,
-   "newest": "2026-08-26T04:43:02+00:00",
+   "n_entries": 74,
+   "n_adopted": 40,
+   "newest": "2026-08-26T09:47:06+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 19,
+   "n_adopted": 18,
    "newest": "2026-08-26T05:32:00+00:00",
    "stale": false,
    "error": null
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 57,
-   "newest": "2026-08-26T04:58:41+00:00",
+   "n_adopted": 54,
+   "newest": "2026-08-26T08:12:21+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 19,
-   "newest": "2026-08-26T05:59:36+00:00",
+   "n_adopted": 20,
+   "newest": "2026-08-26T09:20:47+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 55,
+   "n_entries": 63,
    "n_adopted": 2,
-   "newest": "2026-08-26T04:21:48+00:00",
+   "newest": "2026-08-26T08:44:09+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-08-26T04:39:33+00:00",
+   "newest": "2026-08-26T09:57:46+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-26T06:57:00+00:00",
+   "newest": "2026-08-26T09:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 95,
+   "n_entries": 94,
    "n_adopted": 0,
-   "newest": "2026-08-26T06:58:48+00:00",
+   "newest": "2026-08-26T08:56:34+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-08-26T03:33:59+00:00",
+   "newest": "2026-08-26T09:47:08+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-26T06:31:58+00:00",
+   "newest": "2026-08-26T09:36:08+00:00",
    "stale": false,
    "error": null
   },
@@ -273,9 +273,9 @@
    "sample_title": "漢光落幕共軍活動沒停！8共艦、7公務船持續台海周邊 3架共機進入北部東部空域"
   },
   {
-   "domain": "aol.ca",
+   "domain": "moderndiplomacy.eu",
    "n_articles": 3,
-   "sample_title": "Taiwan president oversees coastal strike drill during annual war games"
+   "sample_title": "Taiwan President Pushes $6.6 Billion Military Drone Bill Ahead of Crucial Vote"
   },
   {
    "domain": "ctinews.com",
@@ -293,11 +293,6 @@
    "sample_title": "習川會前美軍機飛越台海- 兩岸"
   },
   {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 3,
-   "sample_title": "Is China Testing Taiwan’s Defences With a Research Ship Near Its Waters?"
-  },
-  {
    "domain": "fakti.bg",
    "n_articles": 3,
    "sample_title": "China vs. Taiwan! The island further strengthens its self-defense capabilities ᐉ"
@@ -306,6 +301,16 @@
    "domain": "hk.crntt.com",
    "n_articles": 3,
    "sample_title": "小馬科斯：若台海打仗，不允許從菲發動攻擊"
+  },
+  {
+   "domain": "aol.ca",
+   "n_articles": 2,
+   "sample_title": "Taiwan 'throttles' mobile internet for first time during annual war games"
+  },
+  {
+   "domain": "businessinsider.com",
+   "n_articles": 2,
+   "sample_title": "So-called 'English teachers' at Taiwan's big war games are an open secret — US m"
   },
   {
    "domain": "fdd.org",
@@ -341,11 +346,6 @@
    "domain": "news.tvb.com",
    "n_articles": 2,
    "sample_title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 2,
-   "sample_title": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持「統一大業」"
   }
  ]
 }
