@@ -1,28 +1,28 @@
 {
- "updated": "2026-08-27T14:15:52Z",
- "checked": "2026-08-27",
- "duration_sec": 32.5,
+ "updated": "2026-08-28T00:26:30Z",
+ "checked": "2026-08-28",
+ "duration_sec": 31.6,
  "rolling_days": 14,
- "n_events": 412,
- "n_articles": 471,
+ "n_events": 413,
+ "n_articles": 470,
  "grades": {
-  "D": 230,
-  "C": 151,
+  "C": 148,
+  "D": 234,
   "B": 29,
   "A": 2
  },
- "cross_language_events": 1,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-08"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 21,
-  "T2": 160,
-  "T3": 103,
+  "T1": 22,
+  "T2": 154,
+  "T3": 105,
   "T4": 16,
-  "T5": 138,
+  "T5": 139,
   "TA": 3
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 37,
+   "n_adopted": 36,
    "newest": "2026-08-27T00:00:00+00:00",
    "stale": false,
    "error": null
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
-   "n_adopted": 33,
-   "newest": "2026-08-27T12:39:25+00:00",
+   "n_entries": 62,
+   "n_adopted": 35,
+   "newest": "2026-08-27T18:20:00+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 53,
-   "newest": "2026-08-27T14:10:20+00:00",
+   "n_adopted": 59,
+   "newest": "2026-08-27T20:24:13+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
-   "newest": "2026-08-27T13:24:13+00:00",
+   "n_adopted": 19,
+   "newest": "2026-08-27T14:46:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +110,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-08-27T07:23:00+00:00",
+   "n_adopted": 7,
+   "newest": "2026-08-27T22:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
-   "n_adopted": 4,
-   "newest": "2026-08-27T11:49:33+00:00",
+   "n_entries": 43,
+   "n_adopted": 5,
+   "newest": "2026-08-27T13:31:37+00:00",
    "stale": false,
    "error": null
   },
@@ -135,9 +135,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 56,
-   "n_adopted": 1,
-   "newest": "2026-08-27T00:00:00+00:00",
+   "n_entries": 47,
+   "n_adopted": 0,
+   "newest": "2026-08-28T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,8 +149,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-27T14:00:10+00:00",
+   "n_adopted": 0,
+   "newest": "2026-08-27T22:44:47+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-27T11:55:00+00:00",
+   "newest": "2026-08-27T22:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-27T10:35:39+00:00",
+   "newest": "2026-08-28T00:15:55+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-27T13:47:07+00:00",
+   "newest": "2026-08-28T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -258,6 +258,11 @@
    "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
+   "domain": "ctinews.com",
+   "n_articles": 4,
+   "sample_title": "中日破冰？日議員訪中會見中聯部副部長陸慷 台海、稀土成焦點"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 4,
    "sample_title": "美軍機再度飛越台海 專家：向中送出維持台海和平訊號"
@@ -268,9 +273,9 @@
    "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
   },
   {
-   "domain": "ctinews.com",
+   "domain": "aol.ca",
    "n_articles": 3,
-   "sample_title": "把台海當成「偉大的航道」？「千陽號」走私1.2萬包日本菸遭破獲"
+   "sample_title": "Taiwan's president evacuated in dramatic war drill as Chinese battleships circle"
   },
   {
    "domain": "informat.ro",
@@ -293,9 +298,14 @@
    "sample_title": "China vs. Taiwan! The island further strengthens its self-defense capabilities ᐉ"
   },
   {
-   "domain": "aol.ca",
+   "domain": "wionews.com",
    "n_articles": 2,
-   "sample_title": "Taiwan president oversees coastal strike drill during annual war games"
+   "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
+  },
+  {
+   "domain": "businessinsider.com",
+   "n_articles": 2,
+   "sample_title": "So-called 'English teachers' at Taiwan's big war games are an open secret — US m"
   },
   {
    "domain": "kinliu.hk",
@@ -336,16 +346,6 @@
    "domain": "news.tvb.com",
    "n_articles": 2,
    "sample_title": "習近平預計下月訪美前夕 據報解放軍對飛越台海美軍反潛機全程跟監警戒"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 2,
-   "sample_title": "從東協圍堵台灣+1 共軍剛跟印尼在台灣東部操演 王毅就要雅加達支持「統一大業」"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 2,
-   "sample_title": "Is China Testing Taiwan’s Defences With a Research Ship Near Its Waters?"
   }
  ]
 }
