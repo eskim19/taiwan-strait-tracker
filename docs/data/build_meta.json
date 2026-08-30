@@ -1,14 +1,14 @@
 {
- "updated": "2026-08-30T16:43:51Z",
+ "updated": "2026-08-30T21:09:35Z",
  "checked": "2026-08-30",
- "duration_sec": 58.6,
+ "duration_sec": 34.5,
  "rolling_days": 14,
- "n_events": 373,
- "n_articles": 417,
+ "n_events": 372,
+ "n_articles": 415,
  "grades": {
-  "C": 135,
-  "D": 214,
-  "B": 23,
+  "C": 134,
+  "D": 215,
+  "B": 22,
   "A": 1
  },
  "cross_language_events": 2,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 16,
-  "T2": 142,
+  "T1": 15,
+  "T2": 141,
   "T3": 97,
   "T4": 17,
-  "T5": 120,
+  "T5": 121,
   "TA": 2
  },
  "t1_domains": [
@@ -82,7 +82,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 48,
+   "n_adopted": 46,
    "newest": "2026-08-30T15:03:09+00:00",
    "stale": false,
    "error": null
@@ -96,7 +96,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 14,
-   "newest": "2026-08-30T12:03:12+00:00",
+   "newest": "2026-08-30T07:13:00+00:00",
    "stale": false,
    "error": null
   },
@@ -109,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 4,
-   "newest": "2026-08-30T15:50:00+00:00",
+   "newest": "2026-08-30T15:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +200,7 @@
    "http": 200,
    "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-08-30T13:49:29+00:00",
+   "newest": "2026-08-30T20:47:22+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +211,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 16,
+   "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-08-30T10:49:24+00:00",
+   "newest": "2026-08-30T16:48:13+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-30T16:09:16+00:00",
+   "newest": "2026-08-30T20:50:04+00:00",
    "stale": false,
    "error": null
   },
@@ -271,11 +271,6 @@
    "sample_title": "US Allies and the Taiwan Strait – Book Review"
   },
   {
-   "domain": "ntd.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan Approves $7.6 Billion Drone Defense Plan Amid Looming China Threat"
-  },
-  {
    "domain": "businessinsider.com",
    "n_articles": 3,
    "sample_title": "So-called 'English teachers' at Taiwan's big war games are an open secret — US m"
@@ -311,6 +306,11 @@
    "sample_title": "美國打伊朗耗彈太兇 官員曝補庫存要花數年、恐影響台海防衛"
   },
   {
+   "domain": "ntd.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Approves $7.6 Billion Drone Defense Plan Amid Looming China Threat"
+  },
+  {
    "domain": "streamlinefeed.co.ke",
    "n_articles": 2,
    "sample_title": "China Deploys Record 244 Ships Around Taiwan for Submarine Mapping"
@@ -341,9 +341,9 @@
    "sample_title": "Taiwan conflict could put 178-K Pinoys at risk"
   },
   {
-   "domain": "gvm.com.tw",
+   "domain": "fountmedia.io",
    "n_articles": 2,
-   "sample_title": "網傳台海將開戰，美國即將撤離太平洋上航母！台灣會有事？"
+   "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
   }
  ]
 }
