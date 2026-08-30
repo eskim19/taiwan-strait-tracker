@@ -1,13 +1,13 @@
 {
- "updated": "2026-08-30T21:09:35Z",
+ "updated": "2026-08-30T23:33:28Z",
  "checked": "2026-08-30",
- "duration_sec": 34.5,
+ "duration_sec": 101.8,
  "rolling_days": 14,
- "n_events": 372,
- "n_articles": 415,
+ "n_events": 371,
+ "n_articles": 414,
  "grades": {
   "C": 134,
-  "D": 215,
+  "D": 214,
   "B": 22,
   "A": 1
  },
@@ -22,7 +22,7 @@
   "T2": 141,
   "T3": 97,
   "T4": 17,
-  "T5": 121,
+  "T5": 120,
   "TA": 2
  },
  "t1_domains": [
@@ -39,79 +39,79 @@
    "id": "gn_en",
    "name": "Google News (영어)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 100,
-   "n_adopted": 28,
-   "newest": "2026-08-30T06:47:35+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 503,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 503"
   },
   {
    "id": "gn_en_mil",
    "name": "Google News (영어·군사)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 57,
-   "n_adopted": 31,
-   "newest": "2026-08-29T18:00:00+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 503,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 503"
   },
   {
    "id": "gn_ko",
    "name": "Google News (한국어)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-08-28T23:05:37+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 503,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 503"
   },
   {
    "id": "gn_zh",
    "name": "Google News (중국어 번체)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 100,
-   "n_adopted": 46,
-   "newest": "2026-08-30T15:03:09+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 503,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 503"
   },
   {
    "id": "gn_prc_state",
    "name": "Google News (중국 관영 감시)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-30T07:13:00+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 503,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 503"
   },
   {
    "id": "gn_prc_zh",
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-08-30T15:52:00+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 503,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 503"
   },
   {
    "id": "focustaiwan",
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-08-30T14:00:10+00:00",
+   "n_adopted": 2,
+   "newest": "2026-08-30T22:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-08-30T09:00:00+00:00",
+   "newest": "2026-08-30T22:07:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-30T20:47:22+00:00",
+   "newest": "2026-08-30T23:17:31+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-30T20:50:04+00:00",
+   "newest": "2026-08-30T23:08:01+00:00",
    "stale": false,
    "error": null
   },
@@ -254,11 +254,6 @@
    "domain": "ctinews.com",
    "n_articles": 4,
    "sample_title": "中日破冰？日議員訪中會見中聯部副部長陸慷 台海、稀土成焦點"
-  },
-  {
-   "domain": "today.line.me",
-   "n_articles": 4,
-   "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
    "domain": "devdiscourse.com",
@@ -299,6 +294,11 @@
    "domain": "ctee.com.tw",
    "n_articles": 3,
    "sample_title": "習川會前美軍機飛越台海- 兩岸"
+  },
+  {
+   "domain": "today.line.me",
+   "n_articles": 3,
+   "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
   },
   {
    "domain": "knews.com.tw",
