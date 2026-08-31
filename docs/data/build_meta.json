@@ -1,17 +1,17 @@
 {
- "updated": "2026-08-31T05:40:16Z",
+ "updated": "2026-08-31T13:56:37Z",
  "checked": "2026-08-31",
- "duration_sec": 35.3,
+ "duration_sec": 35.0,
  "rolling_days": 14,
  "n_events": 372,
- "n_articles": 416,
+ "n_articles": 412,
  "grades": {
-  "C": 136,
-  "D": 212,
-  "B": 23,
+  "D": 207,
+  "C": 140,
+  "B": 24,
   "A": 1
  },
- "cross_language_events": 1,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-08"
@@ -19,16 +19,17 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 16,
-  "T2": 146,
-  "T3": 97,
-  "T4": 17,
-  "T5": 119,
+  "T2": 148,
+  "T3": 96,
+  "T4": 18,
+  "T5": 114,
   "TA": 2
  },
  "t1_domains": [
   "abc.net.au",
   "aninews.in",
   "bloomberg.com",
+  "france24.com",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr",
@@ -43,8 +44,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
-   "newest": "2026-08-30T06:47:35+00:00",
+   "n_adopted": 27,
+   "newest": "2026-08-31T09:07:18+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 55,
+   "n_entries": 56,
    "n_adopted": 31,
-   "newest": "2026-08-31T04:26:29+00:00",
+   "newest": "2026-08-31T12:49:45+00:00",
    "stale": false,
    "error": null
   },
@@ -69,8 +70,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-08-31T04:45:00+00:00",
+   "n_adopted": 8,
+   "newest": "2026-08-31T06:48:08+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 50,
-   "newest": "2026-08-31T04:01:47+00:00",
+   "n_adopted": 53,
+   "newest": "2026-08-31T13:23:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-08-31T03:45:28+00:00",
+   "n_adopted": 12,
+   "newest": "2026-08-31T12:44:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-08-31T03:42:00+00:00",
+   "n_adopted": 4,
+   "newest": "2026-08-31T12:01:26+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 30,
-   "n_adopted": 1,
-   "newest": "2026-08-31T03:54:12+00:00",
+   "n_entries": 44,
+   "n_adopted": 2,
+   "newest": "2026-08-31T11:05:48+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-08-31T04:00:13+00:00",
+   "newest": "2026-08-31T13:07:39+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-08-31T05:30:00+00:00",
+   "newest": "2026-08-31T11:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 107,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-08-31T05:29:50+00:00",
+   "newest": "2026-08-31T11:39:31+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +212,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-08-31T03:03:51+00:00",
+   "newest": "2026-08-31T10:20:08+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-08-31T05:31:25+00:00",
+   "newest": "2026-08-31T13:03:40+00:00",
    "stale": false,
    "error": null
   },
@@ -246,11 +247,6 @@
  ],
  "unrated_domains": [
   {
-   "domain": "upmedia.mg",
-   "n_articles": 5,
-   "sample_title": "路透：中國疑在西沙鴨公島建雷達站 支援台海戰時要地羚羊礁"
-  },
-  {
    "domain": "ctinews.com",
    "n_articles": 4,
    "sample_title": "中日破冰？日議員訪中會見中聯部副部長陸慷 台海、稀土成焦點"
@@ -264,11 +260,6 @@
    "domain": "devdiscourse.com",
    "n_articles": 4,
    "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 3,
-   "sample_title": "US Allies and the Taiwan Strait – Book Review"
   },
   {
    "domain": "businessinsider.com",
@@ -286,19 +277,29 @@
    "sample_title": "Taiwan's president evacuated in dramatic war drill as Chinese battleships circle"
   },
   {
+   "domain": "upmedia.mg",
+   "n_articles": 3,
+   "sample_title": "路透：中國疑在西沙鴨公島建雷達站 支援台海戰時要地羚羊礁"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 3,
    "sample_title": "美軍機再度飛越台海 專家：向中送出維持台海和平訊號"
   },
   {
-   "domain": "informat.ro",
-   "n_articles": 3,
-   "sample_title": "American planes are flying over the Taiwan Strait, confirming the commitment of "
-  },
-  {
    "domain": "today.line.me",
    "n_articles": 3,
    "sample_title": "川習會預計9月登場前 美P-8A軍機飛越台海 | 路透社"
+  },
+  {
+   "domain": "i-meihua.com",
+   "n_articles": 2,
+   "sample_title": "115年中共軍力報告曝光！國防部警告：共軍持續「聯合封控」 台灣對外航道成目標"
+  },
+  {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 2,
+   "sample_title": "US Allies and the Taiwan Strait – Book Review"
   },
   {
    "domain": "knews.com.tw",
@@ -311,9 +312,9 @@
    "sample_title": "Taiwan Approves $7.6 Billion Drone Defense Plan Amid Looming China Threat"
   },
   {
-   "domain": "streamlinefeed.co.ke",
+   "domain": "dominotheory.com",
    "n_articles": 2,
-   "sample_title": "China Deploys Record 244 Ships Around Taiwan for Submarine Mapping"
+   "sample_title": "A Routine Naval Exercise Could Draw Indonesia Into China’s Taiwan Strategy"
   },
   {
    "domain": "fdd.org",
@@ -324,6 +325,11 @@
    "domain": "news.ssbcrack.com",
    "n_articles": 2,
    "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
+  },
+  {
+   "domain": "informat.ro",
+   "n_articles": 2,
+   "sample_title": "American planes are flying over the Taiwan Strait, confirming the commitment of "
   },
   {
    "domain": "n.yam.com",
@@ -339,11 +345,6 @@
    "domain": "tribune.net.ph",
    "n_articles": 2,
    "sample_title": "Taiwan conflict could put 178-K Pinoys at risk"
-  },
-  {
-   "domain": "fountmedia.io",
-   "n_articles": 2,
-   "sample_title": "漢光落幕後共軍兵力仍在台海！24小時11架共機、8艘共艦、2公務船 7架越過中線"
   }
  ]
 }
