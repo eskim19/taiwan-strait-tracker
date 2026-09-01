@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-01T18:34:47Z",
+ "updated": "2026-09-01T23:20:51Z",
  "checked": "2026-09-01",
- "duration_sec": 33.7,
+ "duration_sec": 34.0,
  "rolling_days": 14,
- "n_events": 378,
- "n_articles": 409,
+ "n_events": 381,
+ "n_articles": 418,
  "grades": {
-  "C": 144,
-  "D": 209,
-  "B": 25
+  "C": 142,
+  "D": 213,
+  "B": 26
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 16,
-  "T2": 151,
-  "T3": 88,
-  "T4": 19,
-  "T5": 119,
+  "T2": 154,
+  "T3": 87,
+  "T4": 20,
+  "T5": 124,
   "TA": 2
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
+   "n_adopted": 29,
    "newest": "2026-09-01T15:58:53+00:00",
    "stale": false,
    "error": null
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 29,
-   "newest": "2026-09-01T11:12:00+00:00",
+   "n_entries": 43,
+   "n_adopted": 25,
+   "newest": "2026-09-01T22:22:48+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 9,
    "newest": "2026-09-01T11:06:00+00:00",
    "stale": false,
    "error": null
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 57,
-   "newest": "2026-09-01T15:04:27+00:00",
+   "n_adopted": 55,
+   "newest": "2026-09-01T22:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -98,7 +98,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 14,
-   "newest": "2026-09-01T15:00:00+00:00",
+   "newest": "2026-09-01T16:57:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +110,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
+   "n_adopted": 11,
    "newest": "2026-09-01T16:13:01+00:00",
    "stale": false,
    "error": null
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-09-01T18:15:55+00:00",
+   "newest": "2026-09-01T22:30:49+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-01T17:00:00+00:00",
+   "newest": "2026-09-01T23:05:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,7 +202,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-09-01T16:51:04+00:00",
+   "newest": "2026-09-01T23:00:05+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-01T17:48:28+00:00",
+   "newest": "2026-09-01T22:44:28+00:00",
    "stale": false,
    "error": null
   },
@@ -249,8 +249,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 7,
-   "sample_title": "聯合國大會9/8開議外交部3點訴求：破壞台海現狀就是破壞聯合國憲章| 太報"
+   "n_articles": 8,
+   "sample_title": "因應中國跨國鎮壓、輿論戰聯合國大會我推案強調堅持維護台海和平穩定| 自由電子報"
   },
   {
    "domain": "ctinews.com",
@@ -328,6 +328,11 @@
    "sample_title": "115年中共軍力報告曝光！國防部警告：共軍持續「聯合封控」 台灣對外航道成目標"
   },
   {
+   "domain": "firstpost.com",
+   "n_articles": 2,
+   "sample_title": "Pacific leaders meet in Palau as drug crime rises, China-Taiwan tensions simmer"
+  },
+  {
    "domain": "moderndiplomacy.eu",
    "n_articles": 2,
    "sample_title": "US Allies and the Taiwan Strait – Book Review"
@@ -338,14 +343,9 @@
    "sample_title": "A Routine Naval Exercise Could Draw Indonesia Into China’s Taiwan Strategy"
   },
   {
-   "domain": "fdd.org",
+   "domain": "wionews.com",
    "n_articles": 2,
-   "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
-  },
-  {
-   "domain": "informat.ro",
-   "n_articles": 2,
-   "sample_title": "American planes are flying over the Taiwan Strait, confirming the commitment of "
+   "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
   }
  ]
 }
