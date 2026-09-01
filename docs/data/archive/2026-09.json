@@ -1,7 +1,244 @@
 {
  "month": "2026-09",
- "n_events": 23,
+ "n_events": 30,
  "events": [
+  {
+   "id": "evt_20260902_8c1a32",
+   "headline": "MND report flags PLA efforts to boost Taiwan landing capabilities",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863545",
+   "headline_lang": "en",
+   "first_seen": "2026-09-02T00:00:00Z",
+   "last_seen": "2026-09-02T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "600f846022334281"
+    ]
+   },
+   "articles": [
+    {
+     "id": "600f846022334281",
+     "title": "MND report flags PLA efforts to boost Taiwan landing capabilities",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/02/2003863545",
+     "published": "2026-09-02T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "pla"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_091490",
+   "headline": "China-Taiwan tensions cloud Pacific summit",
+   "headline_source": "Daily Tribune",
+   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVB2ams4aThoUUczUVBUeWNCVm1mbVg2a1ZWam1CaGIwUzJkWU5BU19FUGJnQVJJelBGYXRZX0tGb3g4TnVZdmlXUmZPNC1aak9PTS05cXBtM1I2a1lQOUVuZWhkZUtySWpkcXd3MWQycjk1bGgySmtOWTlLd3VOZ1NB?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-01T15:58:53Z",
+   "last_seen": "2026-09-01T15:58:53Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "6525332d9cfad48c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "6525332d9cfad48c",
+     "title": "China-Taiwan tensions cloud Pacific summit",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVB2ams4aThoUUczUVBUeWNCVm1mbVg2a1ZWam1CaGIwUzJkWU5BU19FUGJnQVJJelBGYXRZX0tGb3g4TnVZdmlXUmZPNC1aak9PTS05cXBtM1I2a1lQOUVuZWhkZUtySWpkcXd3MWQycjk1bGgySmtOWTlLd3VOZ1NB?oc=5",
+     "published": "2026-09-01T15:58:53Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Daily Tribune",
+     "source_domain": "tribune.net.ph",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_01b637",
+   "headline": "Hype over Japanese nuclear shelter at Taipei office revives false ‘Taiwan contingency’ scenario as Tokyo seeks legitimacy for interference: expert",
+   "headline_source": "環球時報 Global Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sb0J6SDNyQ3ZvUUlYbDlyUjJLdEUwR2NjMHM3T2cyRUt4U05FRDk2TlJMMm5nckpSRGU3NDUwLTIzU3Rpakx3TUZ1Z3YzRmVaT1lieVZZVjZUajdYd3NpVkxR?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-01T15:00:00Z",
+   "last_seen": "2026-09-01T15:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "6489fc2f6e2379b6"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "6489fc2f6e2379b6",
+     "title": "Hype over Japanese nuclear shelter at Taipei office revives false ‘Taiwan contingency’ scenario as Tokyo seeks legitimacy for interference: expert",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sb0J6SDNyQ3ZvUUlYbDlyUjJLdEUwR2NjMHM3T2cyRUt4U05FRDk2TlJMMm5nckpSRGU3NDUwLTIzU3Rpakx3TUZ1Z3YzRmVaT1lieVZZVjZUajdYd3NpVkxR?oc=5",
+     "published": "2026-09-01T15:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taipei"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_889b19",
+   "headline": "對聯大訴求 我推台海和平穩定",
+   "headline_source": "中華新聞雲／中華日報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IYjhEWUcwRkQxRFJ0c3pvRUw5RXBTQWpBWXNaTHFrNFk5MXhSSjFmZ3VRYWxhaFBLa1ZPQ2trVmFDUEpTXzNEaEdid3hBb1R2S1E?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-01T14:05:11Z",
+   "last_seen": "2026-09-01T14:05:11Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "931fef0807b43692"
+    ]
+   },
+   "articles": [
+    {
+     "id": "931fef0807b43692",
+     "title": "對聯大訴求 我推台海和平穩定",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IYjhEWUcwRkQxRFJ0c3pvRUw5RXBTQWpBWXNaTHFrNFk5MXhSSjFmZ3VRYWxhaFBLa1ZPQ2trVmFDUEpTXzNEaEdid3hBb1R2S1E?oc=5",
+     "published": "2026-09-01T14:05:11Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中華新聞雲／中華日報",
+     "source_domain": "cdns.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260901_7d80ac",
    "headline": "UN sounds climate alarm as China-Taiwan row threatens to overshadow forum",
@@ -114,6 +351,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_b0be29",
+   "headline": "自由開講》九次兵推的警訊：台灣為何仍是破解共軍登陸企圖的關鍵支點？",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MRkRxUE9sOWxGV0VoZlJ4ck90bU1TZVUza1R6elFxRVJOWTZIUXBFLTctYmxWT2lCUVkxamlqUzNGWXlYb0gxOWtHZFFwMVM2M1lySndCMkFWWVh1NWVDXzRn0gFnQVVfeXFMTUJ0Qkd4cGFpSHd4eWtfd1paZHo1WTgteGVra0dTYW5DMWRPdWFyOUJHdm1WS25mMXE3eWNqM01OU09DaWR6LXBuQWp1QnNacUxzMEVya016OEk3bVZZTzJ4azY4MHlQWQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-01T12:00:00Z",
+   "last_seen": "2026-09-01T12:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2de99310e8956cbd"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2de99310e8956cbd",
+     "title": "自由開講》九次兵推的警訊：台灣為何仍是破解共軍登陸企圖的關鍵支點？",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MRkRxUE9sOWxGV0VoZlJ4ck90bU1TZVUza1R6elFxRVJOWTZIUXBFLTctYmxWT2lCUVkxamlqUzNGWXlYb0gxOWtHZFFwMVM2M1lySndCMkFWWVh1NWVDXzRn0gFnQVVfeXFMTUJ0Qkd4cGFpSHd4eWtfd1paZHo1WTgteGVra0dTYW5DMWRPdWFyOUJHdm1WS25mMXE3eWNqM01OU09DaWR6LXBuQWp1QnNacUxzMEVya016OEk3bVZZTzJ4azY4MHlQWQ?oc=5",
+     "published": "2026-09-01T12:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "tabletop_wargame"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
@@ -512,7 +809,7 @@
       "pla",
       "plaaf"
      ],
-     "source_name": "台視全球資訊網",
+     "source_name": "ttv.com.tw",
      "source_domain": "ttv.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -828,7 +1125,7 @@
   {
    "id": "evt_20260901_f6c27f",
    "headline": "(影) 習近平健康欠佳 火速破格提拔繼任者？ 簽《國防動員法》疑針對台海 | Newtalk",
-   "headline_source": "LINE TODAY",
+   "headline_source": "today.line.me",
    "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBGRHFqRkNZZmhJMmE0bzlDNE85QTgyWlFKdEwwdkJJZmVzSFRvV3NvNWdrUkluRV9Hc3lLMTVKWjNmRGl5aXRPTmpOM09WNEdVNnFwLW1B?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-01T05:26:43Z",
@@ -875,7 +1172,7 @@
       "taiwan_strait",
       "xi_jinping"
      ],
-     "source_name": "LINE TODAY",
+     "source_name": "today.line.me",
      "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1010,7 +1307,7 @@
   {
    "id": "evt_20260901_5fe287",
    "headline": "聯大8日登場！我訴求聯合國適當方式接納台灣 承諾：和平解決台海爭端",
-   "headline_source": "knews.com.tw",
+   "headline_source": "知新聞",
    "headline_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9GLVZpbUdxSWhrUzd6WFRiNzF3X0tLU0xqWnVpUFowekRWeTNUWEVQN2hXQ3Q4cHd1OWVrd0hEdndUQVJqYjdKOERjOHplRjV3VVFPU0J4V3lRUjk1dHZoSXBOMUtMSGZYV0JMTjVWRQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-01T04:05:00Z",
@@ -1056,7 +1353,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "knews.com.tw",
+     "source_name": "知新聞",
      "source_domain": "knews.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1123,6 +1420,66 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_280b8a",
+   "headline": "氣象廳認定復活！沙德爾將進台海亂繞 颱風論壇：去哪不好說 | 自由電子報",
+   "headline_source": "today.line.me",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11cl9YYlQwTG5sOUJUWWN4RGlzMXdRSTdmNXMxTWc5c05NNGhNMXJ4dm9fQVFaZl92YzVNbUZTWUVtSnktSFg3UGlTUlBIZUtNejg4WXZB?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-01T02:56:46Z",
+   "last_seen": "2026-09-01T02:56:46Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "50c8fd0f7184821e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "50c8fd0f7184821e",
+     "title": "氣象廳認定復活！沙德爾將進台海亂繞 颱風論壇：去哪不好說 | 自由電子報",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11cl9YYlQwTG5sOUJUWWN4RGlzMXdRSTdmNXMxTWc5c05NNGhNMXJ4dm9fQVFaZl92YzVNbUZTWUVtSnktSFg3UGlTUlBIZUtNejg4WXZB?oc=5",
+     "published": "2026-09-01T02:56:46Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "today.line.me",
+     "source_domain": "today.line.me",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
@@ -1241,6 +1598,66 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_df6547",
+   "headline": "雙颱共存！沙德爾復活逼近台海 「科羅旺」直奔日本",
+   "headline_source": "中天新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fS1ViZXdJLVJOdXpEcmVucjhRbk01MnAxNTZ3eV9rWG9RbGZZV3dfblpBdHp1cXpTckc3bE5oR0haS0E2cjA0M1RWQTlnM0RYU0J3?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-01T02:06:42Z",
+   "last_seen": "2026-09-01T02:06:42Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b4d6ffb50361df56"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b4d6ffb50361df56",
+     "title": "雙颱共存！沙德爾復活逼近台海 「科羅旺」直奔日本",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5fS1ViZXdJLVJOdXpEcmVucjhRbk01MnAxNTZ3eV9rWG9RbGZZV3dfblpBdHp1cXpTckc3bE5oR0haS0E2cjA0M1RWQTlnM0RYU0J3?oc=5",
+     "published": "2026-09-01T02:06:42Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中天新聞網",
+     "source_domain": "ctinews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
