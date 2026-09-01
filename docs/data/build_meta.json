@@ -1,17 +1,16 @@
 {
- "updated": "2026-09-01T08:42:25Z",
+ "updated": "2026-09-01T14:11:10Z",
  "checked": "2026-09-01",
- "duration_sec": 35.1,
+ "duration_sec": 57.4,
  "rolling_days": 14,
- "n_events": 377,
- "n_articles": 414,
+ "n_events": 374,
+ "n_articles": 410,
  "grades": {
-  "B": 24,
-  "C": 140,
-  "D": 212,
-  "A": 1
+  "B": 25,
+  "C": 142,
+  "D": 207
  },
- "cross_language_events": 2,
+ "cross_language_events": 4,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -19,15 +18,16 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 16,
-  "T2": 147,
-  "T3": 98,
+  "T1": 17,
+  "T2": 148,
+  "T3": 91,
   "T4": 20,
-  "T5": 114,
+  "T5": 119,
   "TA": 2
  },
  "t1_domains": [
   "abc.net.au",
+  "aljazeera.com",
   "aninews.in",
   "bloomberg.com",
   "france24.com",
@@ -45,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
-   "newest": "2026-09-01T00:51:31+00:00",
+   "n_adopted": 26,
+   "newest": "2026-09-01T01:02:06+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
-   "n_adopted": 33,
-   "newest": "2026-09-01T05:21:36+00:00",
+   "n_entries": 45,
+   "n_adopted": 22,
+   "newest": "2026-09-01T11:12:00+00:00",
    "stale": false,
    "error": null
   },
@@ -71,8 +71,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-09-01T07:56:42+00:00",
+   "n_adopted": 9,
+   "newest": "2026-09-01T11:06:00+00:00",
    "stale": false,
    "error": null
   },
@@ -85,7 +85,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 54,
-   "newest": "2026-09-01T08:27:00+00:00",
+   "newest": "2026-09-01T13:25:46+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-09-01T06:23:40+00:00",
+   "n_adopted": 8,
+   "newest": "2026-09-01T13:06:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,7 +111,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-09-01T03:23:00+00:00",
+   "newest": "2026-09-01T12:42:03+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
-   "n_adopted": 2,
-   "newest": "2026-09-01T07:16:42+00:00",
+   "n_entries": 60,
+   "n_adopted": 3,
+   "newest": "2026-09-01T11:51:23+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-09-01T08:30:06+00:00",
+   "newest": "2026-09-01T14:00:13+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-01T08:25:00+00:00",
+   "newest": "2026-09-01T12:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 103,
+   "n_entries": 104,
    "n_adopted": 0,
-   "newest": "2026-09-01T08:34:59+00:00",
+   "newest": "2026-09-01T14:07:20+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-01T07:37:24+00:00",
+   "newest": "2026-09-01T10:01:26+00:00",
    "stale": false,
    "error": null
   },
@@ -227,8 +227,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 25,
-   "n_adopted": 0,
-   "newest": "2026-09-01T08:16:10+00:00",
+   "n_adopted": 1,
+   "newest": "2026-09-01T13:32:33+00:00",
    "stale": false,
    "error": null
   },
@@ -249,8 +249,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 5,
-   "sample_title": "聯合國大會9/8開議外交部3點訴求：破壞台海現狀就是破壞聯合國憲章| 太報"
+   "n_articles": 7,
+   "sample_title": "共軍拚對台登島作戰 學者示警：2035年前完成犯台戰力整備 | TVBS"
   },
   {
    "domain": "businessinsider.com",
@@ -266,6 +266,11 @@
    "domain": "ctee.com.tw",
    "n_articles": 4,
    "sample_title": "共軍南部戰區強硬回應：菲拉攏域外國家巡航南海- 兩岸"
+  },
+  {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan’s Han Kuang Exercise Highlights Asymmetric Warfare Preparation Against Ch"
   },
   {
    "domain": "knews.com.tw",
@@ -331,11 +336,6 @@
    "domain": "fdd.org",
    "n_articles": 2,
    "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
-  },
-  {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
   },
   {
    "domain": "informat.ro",
