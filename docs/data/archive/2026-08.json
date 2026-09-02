@@ -1,6 +1,6 @@
 {
  "month": "2026-08",
- "n_events": 967,
+ "n_events": 969,
  "events": [
   {
    "id": "evt_20260831_e0a5cf",
@@ -73,6 +73,86 @@
      ],
      "source_name": "TVBS",
      "source_domain": "tvbs.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260831_590bb8",
+   "headline": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
+   "headline_source": "TVBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-31T01:26:00Z",
+   "last_seen": "2026-09-01T04:19:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 49.8,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "834ebd9d1634de02",
+     "fc5432e6e3527114"
+    ]
+   },
+   "articles": [
+    {
+     "id": "834ebd9d1634de02",
+     "title": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
+     "published": "2026-08-31T01:26:00Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "xi_jinping"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "fc5432e6e3527114",
+     "title": "中國侵台指標11點亮燈 他揭共軍3大問題",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jNzE5Yk5leDQxc0E3dm5MV0M4NlAtMlhwcWhBY3lkTnB1WmpDYXplMnpXdzlTX0JYWTUxRWo3aTB4SnA2LS0wZE96a1FqMkFmZDh3RjFYUmN0VWdl0gFiQVVfeXFMUHduMGZITXJGSHR1dU9KY05mdUw2cy1ZUXZxa3dJS3Q3TVU4SkRfQS1VWkhlRVo3UXJZb0dIZE9RWk1oMXFldTJ0N3FncGVrOFdpM2JpR1ZkSzAwMmdXZmFzbWc?oc=5",
+     "published": "2026-09-01T04:19:00Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "pla"
+     ],
+     "source_name": "鏡週刊",
+     "source_domain": "mirrormedia.mg",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -2059,66 +2139,6 @@
    ]
   },
   {
-   "id": "evt_20260831_590bb8",
-   "headline": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
-   "headline_source": "TVBS",
-   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-31T01:26:00Z",
-   "last_seen": "2026-08-31T01:26:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "834ebd9d1634de02"
-    ]
-   },
-   "articles": [
-    {
-     "id": "834ebd9d1634de02",
-     "title": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
-     "published": "2026-08-31T01:26:00Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "xi_jinping"
-     ],
-     "source_name": "TVBS",
-     "source_domain": "tvbs.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260831_349ea5",
    "headline": "憂台海開戰？台北「這一處」驚爆設有地下核避難 可擋核生化攻擊「神秘設施」曝光",
    "headline_source": "民視新聞",
@@ -3076,7 +3096,7 @@
   {
    "id": "evt_20260829_e77b13",
    "headline": "US Allies and the Taiwan Strait – Book Review",
-   "headline_source": "moderndiplomacy.eu",
+   "headline_source": "Modern Diplomacy",
    "headline_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFZZei1rcFlKb0xtOXhFbl9KeFZPcGJLdnlWNVFseWItdS0xajlKeS1UaUFZc041NnhCdGJseFdoRnJrQ2ZRSE5HSnA3ZHVYcVdBNXg3bWtYWllqNlVqc0s0M04zcVBrWGRZbkFBZDRLUnlxcWdib0tGNU1KLV9hams0aXlpeGhzSUE?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-29T11:00:20Z",
@@ -3122,7 +3142,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "moderndiplomacy.eu",
+     "source_name": "Modern Diplomacy",
      "source_domain": "moderndiplomacy.eu",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3136,7 +3156,7 @@
   {
    "id": "evt_20260829_3bf16f",
    "headline": "美債破40兆美元！哈佛經濟學家警告：「台海衝突」恐成危機引爆點",
-   "headline_source": "nownews.com",
+   "headline_source": "NOWnews今日新聞",
    "headline_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtRFdKanpDaWp1ZUNOVHpPbFAtVjJiaHItUkphWkF2OXUtSHctUjRMcmw3SXJLcndVQzhocGtWbGdJYXhGbEg2ZUZMTXjSAVJBVV95cUxNWFlTQ2lGQk85YUdPZFJqeF9vYnNXR2ZQeUNIc0RsUFZwdmxaYjdvbkd1NU5GNjRyN09kUkV0V21ZakZLY0RYWmlKUU5FMDViaUlR?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-08-29T10:55:47Z",
@@ -3182,7 +3202,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "nownews.com",
+     "source_name": "NOWnews今日新聞",
      "source_domain": "nownews.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4279,13 +4299,13 @@
    ]
   },
   {
-   "id": "evt_20260828_912f82",
-   "headline": "Why Penghu is important to Taiwan’s defense against China",
-   "headline_source": "The Australian",
-   "headline_url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmZYVV8xYi1teF9mZE55WUgwRWRiVGhMQnhuWmVwSmNySnFCTHNZSUtkeHhUcXNnc2MwQjdIUU1nbHVDY0NOSURhRGs0R2RXTHNUanN3M1RCSGhJSmc3QkM1b1VTNGk1UXN0RmxkZFkya2NkUjBJaGpCXzJRbGtINEhBZW5ybzB5NnQtdEZZbzRiLVc1NFVWYk1aZE9wQy1hZUY3OGFidE1neXY1MGVMc0JDNXQ5LU8wSUtXUE9WTkhrN2JlRXFienB3RVV2d9IB0wFBVV95cUxOandPWmd2SVVVcl9GTjY5ZVc3Tzh2YUNHemVVbnVFUmh2N3ZOdGlWb192aElINmxZSVFMTF96clZjU0xjNDBXdUpwcW5jNDBncDdoWndyM01iU1dYLS1lTUpwT0U4bWJNQkJ6S2pqZUhEMklncnU2SXVJUjFPdXdXam9PekRlT0dSUTNPcF9YLXhCZmtWb2JUZGIyMGRjdml0Q25jT05wN0EtNVQ4X0c0SnVZU1g5b2JXR2I1VUtHb0NlWjdOd2ppUm13cmlpU3FmdUN3?oc=5",
+   "id": "evt_20260828_185563",
+   "headline": "On islands key to Taiwan’s defense, troops prepare for a Chinese first strike",
+   "headline_source": "1470 & 100.3 WMBD",
+   "headline_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekh6TlMxbEMtcmxLbl9fbW00eWtlc0k3a21BR1F1U0EtMzNCd01lc1lZbnVVM1dpUXpZRURELW5aMERoMjBpbzdkYkJzUVpBT0IxTnRBVlU4Uy1WSExONE1sbUg4X2ZNZUpTQ0t6TXBiTzN0TkhYWnpuVzVDZElOR3RNQlFsdFppN1pXazNaSklGZnpoX3RvZFBhS0JHSEk4SkJaay1PRUtxdklaN0E?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-08-28T06:41:24Z",
-   "last_seen": "2026-08-28T06:41:24Z",
+   "first_seen": "2026-08-28T07:10:53Z",
+   "last_seen": "2026-08-28T07:10:53Z",
    "langs": [
     "en"
    ],
@@ -4314,25 +4334,82 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "2051f0a7807a285a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2051f0a7807a285a",
+     "title": "On islands key to Taiwan’s defense, troops prepare for a Chinese first strike",
+     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOekh6TlMxbEMtcmxLbl9fbW00eWtlc0k3a21BR1F1U0EtMzNCd01lc1lZbnVVM1dpUXpZRURELW5aMERoMjBpbzdkYkJzUVpBT0IxTnRBVlU4Uy1WSExONE1sbUg4X2ZNZUpTQ0t6TXBiTzN0TkhYWnpuVzVDZElOR3RNQlFsdFppN1pXazNaSklGZnpoX3RvZFBhS0JHSEk4SkJaay1PRUtxdklaN0E?oc=5",
+     "published": "2026-08-28T07:10:53Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "1470 & 100.3 WMBD",
+     "source_domain": "wmbdradio.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260828_912f82",
+   "headline": "Why Penghu is important to Taiwan's defense against China",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXdU5xWDhLb1hpcFdYbWxEM0xRNFZhSTNGN3Excnd3RlhiMm1FM0VUcTc1aW5tQjBsWVhCNVNBTjRZRFhLaXg5bTM5M3FNMTZWYTQyWEdqVmcyMWRtRXNrYUpET1lOVVE?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-28T06:51:44Z",
+   "last_seen": "2026-08-28T06:51:44Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
      "c5cd5ccd93112a6c"
     ]
    },
    "articles": [
     {
      "id": "c5cd5ccd93112a6c",
-     "title": "Why Penghu is important to Taiwan’s defense against China",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTmZYVV8xYi1teF9mZE55WUgwRWRiVGhMQnhuWmVwSmNySnFCTHNZSUtkeHhUcXNnc2MwQjdIUU1nbHVDY0NOSURhRGs0R2RXTHNUanN3M1RCSGhJSmc3QkM1b1VTNGk1UXN0RmxkZFkya2NkUjBJaGpCXzJRbGtINEhBZW5ybzB5NnQtdEZZbzRiLVc1NFVWYk1aZE9wQy1hZUY3OGFidE1neXY1MGVMc0JDNXQ5LU8wSUtXUE9WTkhrN2JlRXFienB3RVV2d9IB0wFBVV95cUxOandPWmd2SVVVcl9GTjY5ZVc3Tzh2YUNHemVVbnVFUmh2N3ZOdGlWb192aElINmxZSVFMTF96clZjU0xjNDBXdUpwcW5jNDBncDdoWndyM01iU1dYLS1lTUpwT0U4bWJNQkJ6S2pqZUhEMklncnU2SXVJUjFPdXdXam9PekRlT0dSUTNPcF9YLXhCZmtWb2JUZGIyMGRjdml0Q25jT05wN0EtNVQ4X0c0SnVZU1g5b2JXR2I1VUtHb0NlWjdOd2ppUm13cmlpU3FmdUN3?oc=5",
-     "published": "2026-08-28T06:41:24Z",
+     "title": "Why Penghu is important to Taiwan's defense against China",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBXdU5xWDhLb1hpcFdYbWxEM0xRNFZhSTNGN3Excnd3RlhiMm1FM0VUcTc1aW5tQjBsWVhCNVNBTjRZRFhLaXg5bTM5M3FNMTZWYTQyWEdqVmcyMWRtRXNrYUpET1lOVVE?oc=5",
+     "published": "2026-08-28T06:51:44Z",
      "lang": "en",
      "entities": [
       "penghu"
      ],
-     "source_name": "The Australian",
-     "source_domain": "theaustralian.com.au",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -4393,63 +4470,6 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260828_185563",
-   "headline": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWMtYWo2NUNFTlhMcFBvU21fVVBIdTdKT2NUR2Exdm1LNW1ROFRVYnlSaUJsbXkwV1NUS0E1R29WX2VJaUZwdHNjX3k5N0ZUa25pUExfdHlkZlZNNVdaWjc4clpsNURHMV9MZlZ2eG5SVWFkVlE5Um5rUEZNMjB4UmlrUDZuM3dvZEFEZ0d3NEJmY1MzaUUxSno3Zk8xZHgtbFZCa0JZVUhWemNMZklpTg?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-28T06:03:00Z",
-   "last_seen": "2026-08-28T06:03:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.3,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "2051f0a7807a285a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "2051f0a7807a285a",
-     "title": "On islands key to Taiwan's defense, troops prepare for a Chinese first strike",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcWMtYWo2NUNFTlhMcFBvU21fVVBIdTdKT2NUR2Exdm1LNW1ROFRVYnlSaUJsbXkwV1NUS0E1R29WX2VJaUZwdHNjX3k5N0ZUa25pUExfdHlkZlZNNVdaWjc4clpsNURHMV9MZlZ2eG5SVWFkVlE5Um5rUEZNMjB4UmlrUDZuM3dvZEFEZ0d3NEJmY1MzaUUxSno3Zk8xZHgtbFZCa0JZVUhWemNMZklpTg?oc=5",
-     "published": "2026-08-28T06:03:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -5306,6 +5326,66 @@
      ],
      "source_name": "tag24.com",
      "source_domain": "tag24.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260827_51d984",
+   "headline": "Local production: Taiwan lawmakers approve $7.6 bn drone budget as China threat grows",
+   "headline_source": "RTL Today",
+   "headline_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3Z0N0xXQWlrMWFfOUJxV1VLOWx1d0FzMThqaWppMExMTnV6bi1RWi1KYkhyUXVsSnVtMEp0ckZ2N1Z3aWJKRHE5cnE4SU0xNEpGWnJ6OHlkX3lSWWkwMzJmemhFUkVNYks4b2pPMjB6eHh6NjFLajA4YlZoNWJkVjRUY3NFXzBDYVhkcF9UZEFiV1FMT25GYU5HTXFXcEhzZHdWMzlQNlpJaFB4?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-27T13:25:08Z",
+   "last_seen": "2026-08-27T13:25:08Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1f934ed9e1a8646d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1f934ed9e1a8646d",
+     "title": "Local production: Taiwan lawmakers approve $7.6 bn drone budget as China threat grows",
+     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQa3Z0N0xXQWlrMWFfOUJxV1VLOWx1d0FzMThqaWppMExMTnV6bi1RWi1KYkhyUXVsSnVtMEp0ckZ2N1Z3aWJKRHE5cnE4SU0xNEpGWnJ6OHlkX3lSWWkwMzJmemhFUkVNYks4b2pPMjB6eHh6NjFLajA4YlZoNWJkVjRUY3NFXzBDYVhkcF9UZEFiV1FMT25GYU5HTXFXcEhzZHdWMzlQNlpJaFB4?oc=5",
+     "published": "2026-08-27T13:25:08Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "RTL Today",
+     "source_domain": "today.rtl.lu",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -7081,6 +7161,65 @@
      ],
      "source_name": "Taiwan News",
      "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260826_d48e73",
+   "headline": "Military tensions between the two sides over the Taiwan Strait are increasing day by day. Since Japa..",
+   "headline_source": "매일경제",
+   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVeDRuWUFqZG9QaHQwNDlrR3JRSENrdkNsRm9SODBIdUU4NHJXbG5RZkhaSzFrZnM1SXotaXkwZXdDQ2l2OGtHQVp2VFh0TE0?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-26T08:11:53Z",
+   "last_seen": "2026-08-26T08:11:53Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "231869cc7459a3c5"
+    ]
+   },
+   "articles": [
+    {
+     "id": "231869cc7459a3c5",
+     "title": "Military tensions between the two sides over the Taiwan Strait are increasing day by day. Since Japa..",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBVeDRuWUFqZG9QaHQwNDlrR3JRSENrdkNsRm9SODBIdUU4NHJXbG5RZkhaSzFrZnM1SXotaXkwZXdDQ2l2OGtHQVp2VFh0TE0?oc=5",
+     "published": "2026-08-26T08:11:53Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "매일경제",
+     "source_domain": "mk.co.kr",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -13612,90 +13751,6 @@
    ]
   },
   {
-   "id": "evt_20260822_8581a5",
-   "headline": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
-   "headline_source": "Межа. Новини України.",
-   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-22T03:21:14Z",
-   "last_seen": "2026-08-22T07:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 5.0,
-    "n_independent": 0,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "Межа. Новини України. 원고를 The Jerusalem Post 가 전재 — 1곳으로 계산",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9df65b3bc7099335",
-     "ab34340b4a861090"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9df65b3bc7099335",
-     "title": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
-     "published": "2026-08-22T03:21:14Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Межа. Новини України.",
-     "source_domain": "mezha.net",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "ab34340b4a861090",
-     "title": "Ahead of Xi-Trump to meeting, US Navy P-8A Poseidon flies through Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMG5zLWxKSldBNllvaXFhZ0Y1XzNkbDE3MWt0d0VlSzRiNktVTlQ5cVpTSFIyQjBiNVRLYm8tY0lfVG9hVVdrMVBtXzEybjduc2thQk9QOHRMUFpyRjQ4?oc=5",
-     "published": "2026-08-22T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "The Jerusalem Post",
-     "source_domain": "jpost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260822_2bacc3",
    "headline": "中·인니 '2+2 대화'로 밀착한 날…美초계기는 대만해협 통과(종합)",
    "headline_source": "연합뉴스",
@@ -14236,6 +14291,69 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260822_8581a5",
+   "headline": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
+   "headline_source": "Межа. Новини України.",
+   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-22T03:21:14Z",
+   "last_seen": "2026-08-22T03:21:14Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 5.0,
+    "n_independent": 0,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "Межа. Новини України. 원고를 The Jerusalem Post 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9df65b3bc7099335"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9df65b3bc7099335",
+     "title": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
+     "published": "2026-08-22T03:21:14Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Межа. Новини України.",
+     "source_domain": "mezha.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
