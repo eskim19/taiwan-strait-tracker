@@ -1,6 +1,6 @@
 {
  "month": "2026-08",
- "n_events": 964,
+ "n_events": 967,
  "events": [
   {
    "id": "evt_20260831_e0a5cf",
@@ -73,126 +73,6 @@
      ],
      "source_name": "TVBS",
      "source_domain": "tvbs.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260830_f68ce2",
-   "headline": "美學者示警「中共侵台13指標」亮起11個！明居正解析：共軍內部問題很大 | 林子靖 | 新聞",
-   "headline_source": "風傳媒",
-   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QZzN2dUFZbnhTOFAzcUdiOWxhMVhXY21ocXV6cHFpbG5CMk9PbjJLclFaeTkzM0UwdTk3cmg3UWc2TVRIYkc5UTVPM3Vodw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-30T12:05:00Z",
-   "last_seen": "2026-09-01T04:19:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 4,
-    "n_unrated": 0,
-    "score": 73.4,
-    "n_independent": 4,
-    "n_articles": 4,
-    "n_domains": 4,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 4곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "65a14376bb28eb8d",
-     "834ebd9d1634de02",
-     "be1e5fb83968284c",
-     "fc5432e6e3527114"
-    ]
-   },
-   "articles": [
-    {
-     "id": "65a14376bb28eb8d",
-     "title": "美學者示警「中共侵台13指標」亮起11個！明居正解析：共軍內部問題很大 | 林子靖 | 新聞",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5QZzN2dUFZbnhTOFAzcUdiOWxhMVhXY21ocXV6cHFpbG5CMk9PbjJLclFaeTkzM0UwdTk3cmg3UWc2TVRIYkc5UTVPM3Vodw?oc=5",
-     "published": "2026-08-30T12:05:00Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "pla"
-     ],
-     "source_name": "風傳媒",
-     "source_domain": "storm.mg",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "834ebd9d1634de02",
-     "title": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
-     "published": "2026-08-31T01:26:00Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "xi_jinping"
-     ],
-     "source_name": "TVBS",
-     "source_domain": "tvbs.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "be1e5fb83968284c",
-     "title": "中國「侵台13指標」11項已亮燈！ 明居正揭共軍最嚴重問題",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBXWFBIUXRBRHUyMVdSR256dXprRmpvXzhaSFRVSmdXMVdPaThidnJTc3hYNVUzQUJmaGNLQWNIT0hvMGE0eWZPMVpnVGlXV3pra0VsdHBNNG9wQQ?oc=5",
-     "published": "2026-08-31T07:21:00Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "pla"
-     ],
-     "source_name": "東森新聞",
-     "source_domain": "ebc.net.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "fc5432e6e3527114",
-     "title": "中國侵台指標11點亮燈 他揭共軍3大問題",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5jNzE5Yk5leDQxc0E3dm5MV0M4NlAtMlhwcWhBY3lkTnB1WmpDYXplMnpXdzlTX0JYWTUxRWo3aTB4SnA2LS0wZE96a1FqMkFmZDh3RjFYUmN0VWdl0gFiQVVfeXFMUHduMGZITXJGSHR1dU9KY05mdUw2cy1ZUXZxa3dJS3Q3TVU4SkRfQS1VWkhlRVo3UXJZb0dIZE9RWk1oMXFldTJ0N3FncGVrOFdpM2JpR1ZkSzAwMmdXZmFzbWc?oc=5",
-     "published": "2026-09-01T04:19:00Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "pla"
-     ],
-     "source_name": "鏡週刊",
-     "source_domain": "mirrormedia.mg",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -1105,6 +985,66 @@
    ]
   },
   {
+   "id": "evt_20260831_895c8b",
+   "headline": "Japan and France stress peace and stability in Taiwan Strait -News-Radio Taiwan International",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOd0hNWjBINEZEQUtsYlJ1cFlwMGtuZ002YVlqWXI4MGRmOGhrS0djOTFUS3RFNmo3ekhkbEJodFpQZzdJcFY5X3d1eThDVlNCOWV3b3dkTDN0NW8?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-31T10:44:18Z",
+   "last_seen": "2026-08-31T10:44:18Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "38afda3c2c2ed828"
+    ]
+   },
+   "articles": [
+    {
+     "id": "38afda3c2c2ed828",
+     "title": "Japan and France stress peace and stability in Taiwan Strait -News-Radio Taiwan International",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBOd0hNWjBINEZEQUtsYlJ1cFlwMGtuZ002YVlqWXI4MGRmOGhrS0djOTFUS3RFNmo3ekhkbEJodFpQZzdJcFY5X3d1eThDVlNCOWV3b3dkTDN0NW8?oc=5",
+     "published": "2026-08-31T10:44:18Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260831_4dba1a",
    "headline": "Taiwan planning to spend NT$36 billion on air defense missile system",
    "headline_source": "中央社 CNA",
@@ -1885,67 +1825,6 @@
    ]
   },
   {
-   "id": "evt_20260831_08c251",
-   "headline": "In case China invades Taiwan, it could attack Penghu Islands first",
-   "headline_source": "India's News.Net",
-   "headline_url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0tMVm4wdGY3UG16ZUxCZnZIZTY1a0JoWU5UVjMwSlFUM2dROFg0ZTU4RkVKRWVOTzFfaTNpWEd4S2NYNmVLdy11MFZXWHpGUnhpODN2LWhHVFhpT1BBZ1M0ODlkME1Cem01VDZDVkpMNXNrTEE1bDFHbTU2RlNlNnduZFA0S1Z1SW5XbndVbDc4cXlnMjdvcHpZMl8tSlhI?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-31T05:02:00Z",
-   "last_seen": "2026-08-31T05:02:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b6fa87f8ff65bd6d"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b6fa87f8ff65bd6d",
-     "title": "In case China invades Taiwan, it could attack Penghu Islands first",
-     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPN0tMVm4wdGY3UG16ZUxCZnZIZTY1a0JoWU5UVjMwSlFUM2dROFg0ZTU4RkVKRWVOTzFfaTNpWEd4S2NYNmVLdy11MFZXWHpGUnhpODN2LWhHVFhpT1BBZ1M0ODlkME1Cem01VDZDVkpMNXNrTEE1bDFHbTU2RlNlNnduZFA0S1Z1SW5XbndVbDc4cXlnMjdvcHpZMl8tSlhI?oc=5",
-     "published": "2026-08-31T05:02:00Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "penghu"
-     ],
-     "source_name": "India's News.Net",
-     "source_domain": "indiasnews.net",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260831_7ac4bf",
    "headline": "Taiwan tracks 10 Chinese ships, 4 military aircraft",
    "headline_source": "Taiwan News",
@@ -2170,6 +2049,66 @@
      ],
      "source_name": "新頭殼",
      "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260831_590bb8",
+   "headline": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
+   "headline_source": "TVBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-31T01:26:00Z",
+   "last_seen": "2026-08-31T01:26:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "834ebd9d1634de02"
+    ]
+   },
+   "articles": [
+    {
+     "id": "834ebd9d1634de02",
+     "title": "習近平要犯台了？13指標狂亮11個「9月爆危機」 學者示警先做1事",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB3YmhCZWVONDRSZk9VUTFxMjUtQXJmcFpBRTNCZnpYS2k0X1p5ckRHNmxWekI3b1Jra1A5YVV2SWdUSTRKSWVLWlhsc2lSRXRYemIw?oc=5",
+     "published": "2026-08-31T01:26:00Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "xi_jinping"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -2408,6 +2347,67 @@
      "entities": [],
      "source_name": "Gulf Times",
      "source_domain": "gulf-times.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260830_08c251",
+   "headline": "In case China invades Taiwan, it could attack Penghu Islands first",
+   "headline_source": "malaysiasun.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWh5ZDRTdXJMZ1ZMNENsZ3dOQVVSRERpX3pLTXQ2R21ndV8tSXJkUjVubFhEOXBXdy1VaXRBSnVtMFJvSU1EVU5TVHlCRW9pTlpQVERWdlhra1Y2WG9aRTE5YW5sNld6bGJMZXh0aGZ5bzAweW1tRXRXLWxlM2lPZ3hrUGI3MXJsUGJteXFlaVhnemdEbXg3dW92UTg0aGRxNDJhMGQ3cTQtZw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-30T19:02:00Z",
+   "last_seen": "2026-08-30T19:02:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b6fa87f8ff65bd6d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b6fa87f8ff65bd6d",
+     "title": "In case China invades Taiwan, it could attack Penghu Islands first",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPMWh5ZDRTdXJMZ1ZMNENsZ3dOQVVSRERpX3pLTXQ2R21ndV8tSXJkUjVubFhEOXBXdy1VaXRBSnVtMFJvSU1EVU5TVHlCRW9pTlpQVERWdlhra1Y2WG9aRTE5YW5sNld6bGJMZXh0aGZ5bzAweW1tRXRXLWxlM2lPZ3hrUGI3MXJsUGJteXFlaVhnemdEbXg3dW92UTg0aGRxNDJhMGQ3cTQtZw?oc=5",
+     "published": "2026-08-30T19:02:00Z",
+     "lang": "en",
+     "entities": [
+      "invasion",
+      "penghu"
+     ],
+     "source_name": "malaysiasun.com",
+     "source_domain": "malaysiasun.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -3076,7 +3076,7 @@
   {
    "id": "evt_20260829_e77b13",
    "headline": "US Allies and the Taiwan Strait – Book Review",
-   "headline_source": "Modern Diplomacy",
+   "headline_source": "moderndiplomacy.eu",
    "headline_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQOFZZei1rcFlKb0xtOXhFbl9KeFZPcGJLdnlWNVFseWItdS0xajlKeS1UaUFZc041NnhCdGJseFdoRnJrQ2ZRSE5HSnA3ZHVYcVdBNXg3bWtYWllqNlVqc0s0M04zcVBrWGRZbkFBZDRLUnlxcWdib0tGNU1KLV9hams0aXlpeGhzSUE?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-29T11:00:20Z",
@@ -3122,7 +3122,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "Modern Diplomacy",
+     "source_name": "moderndiplomacy.eu",
      "source_domain": "moderndiplomacy.eu",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3363,6 +3363,69 @@
      ],
      "source_name": "知新聞",
      "source_domain": "knews.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260829_ac5c2d",
+   "headline": "台海罕見近6天未再偵獲共機！7共艦、6公務船仍在周邊活動 北京海空兵力出現明顯落差",
+   "headline_source": "放言Fount Media",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OUzhQZ1dfTnFUeU1KS2h4TWsxd2FyYldOMGdwU0dBTG9ISjhEUk5MZ0hlMUxiSkRyVXdmNTlKbXBWQUNDdE5FX1FJdnpBMzNnNnc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-29T05:36:10Z",
+   "last_seen": "2026-08-29T05:36:10Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a1a97af2300eb785"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a1a97af2300eb785",
+     "title": "台海罕見近6天未再偵獲共機！7共艦、6公務船仍在周邊活動 北京海空兵力出現明顯落差",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9OUzhQZ1dfTnFUeU1KS2h4TWsxd2FyYldOMGdwU0dBTG9ISjhEUk5MZ0hlMUxiSkRyVXdmNTlKbXBWQUNDdE5FX1FJdnpBMzNnNnc?oc=5",
+     "published": "2026-08-29T05:36:10Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "beijing",
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "放言Fount Media",
+     "source_domain": "fountmedia.io",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -3846,6 +3909,66 @@
      ],
      "source_name": "dominotheory.com",
      "source_domain": "dominotheory.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260828_a50cb8",
+   "headline": "China-Taiwan tensions high around Kinmen Islands",
+   "headline_source": "The Guardian Nigeria News",
+   "headline_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVVF1dW0yVzhxcGxqWi1vMzlxelJ2Z0ctRDhJb2JlZFZtdlB6SHFXSmVLaGxTYnR5RU5pT1lmVDR5TFQ3Y0l5N3N6bmFfRkhoWXVUbXpVdnNRYjl4bHh0b1M3NlNJNjRIS3JvSGM1U1VRMDdoRkFTUmNsc3U?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-28T12:47:22Z",
+   "last_seen": "2026-08-28T12:47:22Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d984a6ddf9633cc2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d984a6ddf9633cc2",
+     "title": "China-Taiwan tensions high around Kinmen Islands",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1PVVF1dW0yVzhxcGxqWi1vMzlxelJ2Z0ctRDhJb2JlZFZtdlB6SHFXSmVLaGxTYnR5RU5pT1lmVDR5TFQ3Y0l5N3N6bmFfRkhoWXVUbXpVdnNRYjl4bHh0b1M3NlNJNjRIS3JvSGM1U1VRMDdoRkFTUmNsc3U?oc=5",
+     "published": "2026-08-28T12:47:22Z",
+     "lang": "en",
+     "entities": [
+      "kinmen"
+     ],
+     "source_name": "The Guardian Nigeria News",
+     "source_domain": "guardian.ng",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -13489,6 +13612,90 @@
    ]
   },
   {
+   "id": "evt_20260822_8581a5",
+   "headline": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
+   "headline_source": "Межа. Новини України.",
+   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-22T03:21:14Z",
+   "last_seen": "2026-08-22T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 5.0,
+    "n_independent": 0,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "Межа. Новини України. 원고를 The Jerusalem Post 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9df65b3bc7099335",
+     "ab34340b4a861090"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9df65b3bc7099335",
+     "title": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
+     "published": "2026-08-22T03:21:14Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "Межа. Новини України.",
+     "source_domain": "mezha.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ab34340b4a861090",
+     "title": "Ahead of Xi-Trump to meeting, US Navy P-8A Poseidon flies through Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uMG5zLWxKSldBNllvaXFhZ0Y1XzNkbDE3MWt0d0VlSzRiNktVTlQ5cVpTSFIyQjBiNVRLYm8tY0lfVG9hVVdrMVBtXzEybjduc2thQk9QOHRMUFpyRjQ4?oc=5",
+     "published": "2026-08-22T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "us_military"
+     ],
+     "source_name": "The Jerusalem Post",
+     "source_domain": "jpost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260822_2bacc3",
    "headline": "中·인니 '2+2 대화'로 밀착한 날…美초계기는 대만해협 통과(종합)",
    "headline_source": "연합뉴스",
@@ -14029,69 +14236,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260822_8581a5",
-   "headline": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
-   "headline_source": "Межа. Новини України.",
-   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-08-22T03:21:14Z",
-   "last_seen": "2026-08-22T03:21:14Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 5.0,
-    "n_independent": 0,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "Межа. Новини України. 원고를 The Jerusalem Post 가 전재 — 1곳으로 계산",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9df65b3bc7099335"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9df65b3bc7099335",
-     "title": "US Navy P-8A Poseidon Flies Through Taiwan Strait as Trump Xi Meeting Nears",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9COTljdzU2Zm42Q3gyRkdaSlB2dzZ0NlV5TzE4QS1QOUlHMzhudnlERWF5ZVYtRDNjZTU2RUFKWkFTMzNpVVcwRlo3cnBnS0NMYkttdGN6X2xoTENmdGFj?oc=5",
-     "published": "2026-08-22T03:21:14Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait",
-      "trump",
-      "us_military"
-     ],
-     "source_name": "Межа. Новини України.",
-     "source_domain": "mezha.net",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
