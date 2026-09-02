@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-02T21:06:33Z",
+ "updated": "2026-09-02T23:20:59Z",
  "checked": "2026-09-02",
- "duration_sec": 53.1,
+ "duration_sec": 33.0,
  "rolling_days": 14,
- "n_events": 379,
- "n_articles": 413,
+ "n_events": 382,
+ "n_articles": 420,
  "grades": {
-  "D": 212,
-  "C": 144,
-  "B": 23
+  "B": 23,
+  "C": 149,
+  "D": 210
  },
  "cross_language_events": 1,
  "tension_error": null,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
-  "T2": 148,
+  "T1": 13,
+  "T2": 155,
   "T3": 77,
   "T4": 19,
-  "T5": 133,
+  "T5": 134,
   "TA": 3
  },
  "t1_domains": [
@@ -44,8 +44,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 21,
-   "newest": "2026-09-01T18:52:50+00:00",
+   "n_adopted": 23,
+   "newest": "2026-09-01T15:58:53+00:00",
    "stale": false,
    "error": null
   },
@@ -56,8 +56,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 37,
-   "n_adopted": 18,
+   "n_entries": 31,
+   "n_adopted": 14,
    "newest": "2026-09-02T14:06:23+00:00",
    "stale": false,
    "error": null
@@ -83,7 +83,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 50,
+   "n_adopted": 51,
    "newest": "2026-09-02T16:03:30+00:00",
    "stale": false,
    "error": null
@@ -109,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-09-02T01:34:54+00:00",
+   "n_adopted": 5,
+   "newest": "2026-09-02T08:01:00+00:00",
    "stale": false,
    "error": null
   },
@@ -131,14 +131,14 @@
    "id": "taipeitimes",
    "name": "Taipei Times",
    "critical": false,
-   "status": "error",
-   "health": "error",
-   "http": null,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 51,
+   "n_adopted": 3,
+   "newest": "2026-09-03T00:00:00+00:00",
    "stale": false,
-   "error": "ReadTimeout: HTTPSConnectionPool(host='www.taipeitimes.com', port=443): Read timed out. (read timeout=20)"
+   "error": null
   },
   {
    "id": "scmp_china",
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-09-02T15:00:08+00:00",
+   "newest": "2026-09-02T23:13:30+00:00",
    "stale": false,
    "error": null
   },
@@ -161,8 +161,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 0,
-   "newest": "2026-09-02T15:35:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-09-02T23:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -171,12 +171,12 @@
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 1,
    "newest": "2026-08-25T21:44:06+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   },
   {
@@ -201,7 +201,7 @@
    "http": 200,
    "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-09-02T21:00:11+00:00",
+   "newest": "2026-09-02T22:00:01+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-02T20:48:22+00:00",
+   "newest": "2026-09-02T22:15:32+00:00",
    "stale": false,
    "error": null
   },

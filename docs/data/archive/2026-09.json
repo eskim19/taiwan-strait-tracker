@@ -1,7 +1,263 @@
 {
  "month": "2026-09",
- "n_events": 53,
+ "n_events": 56,
  "events": [
+  {
+   "id": "evt_20260902_d0e6d2",
+   "headline": "Taiwan nuclear safety drill to include first-ever anti-drone exercise",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863610",
+   "headline_lang": "en",
+   "first_seen": "2026-09-02T11:12:45Z",
+   "last_seen": "2026-09-03T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 45.0,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "tw_state"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "189d1223e427c115",
+     "69bfdb637f6b66bc"
+    ]
+   },
+   "articles": [
+    {
+     "id": "189d1223e427c115",
+     "title": "Nuclear safety drill to include drone countering exercises for 1st time",
+     "url": "https://focustaiwan.tw/politics/202609020025",
+     "published": "2026-09-02T11:12:45Z",
+     "lang": "en",
+     "entities": [
+      "drone",
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "69bfdb637f6b66bc",
+     "title": "Taiwan nuclear safety drill to include first-ever anti-drone exercise",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/03/2003863610",
+     "published": "2026-09-03T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "drone",
+      "rehearsal"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260903_297dc9",
+   "headline": "Notes from Central Taiwan: Taiwan’s drone bill has a kill switch",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/feat/archives/2026/09/03/2003863590",
+   "headline_lang": "en",
+   "first_seen": "2026-09-03T00:00:00Z",
+   "last_seen": "2026-09-03T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "6451e1d8cfde6b57"
+    ]
+   },
+   "articles": [
+    {
+     "id": "6451e1d8cfde6b57",
+     "title": "Notes from Central Taiwan: Taiwan’s drone bill has a kill switch",
+     "url": "https://www.taipeitimes.com/News/feat/archives/2026/09/03/2003863590",
+     "published": "2026-09-03T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260903_c57297",
+   "headline": "SPEAK UP: Taipei Dome SOGO fully opens amid department store war (1/2) SOGO大巨蛋全區開幕掀百貨戰（上）",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/lang/archives/2026/09/03/2003863575",
+   "headline_lang": "en",
+   "first_seen": "2026-09-03T00:00:00Z",
+   "last_seen": "2026-09-03T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1d980ef5acc83c95"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1d980ef5acc83c95",
+     "title": "SPEAK UP: Taipei Dome SOGO fully opens amid department store war (1/2) SOGO大巨蛋全區開幕掀百貨戰（上）",
+     "url": "https://www.taipeitimes.com/News/lang/archives/2026/09/03/2003863575",
+     "published": "2026-09-03T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taipei"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260902_6689a4",
+   "headline": "Taiwan needs a new deterrence strategy",
+   "headline_source": "Japan Times",
+   "headline_url": "https://www.japantimes.co.jp/commentary/2026/09/03/world/taiwan-deterrence-strategy/",
+   "headline_lang": "en",
+   "first_seen": "2026-09-02T23:00:00Z",
+   "last_seen": "2026-09-02T23:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "30dd15b9c4475e22"
+    ]
+   },
+   "articles": [
+    {
+     "id": "30dd15b9c4475e22",
+     "title": "Taiwan needs a new deterrence strategy",
+     "url": "https://www.japantimes.co.jp/commentary/2026/09/03/world/taiwan-deterrence-strategy/",
+     "published": "2026-09-02T23:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260902_2c7ccb",
    "headline": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget",
@@ -236,67 +492,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260902_d0e6d2",
-   "headline": "Nuclear safety drill to include drone countering exercises for 1st time",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://focustaiwan.tw/politics/202609020025",
-   "headline_lang": "en",
-   "first_seen": "2026-09-02T11:12:45Z",
-   "last_seen": "2026-09-02T11:12:45Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "tw_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "189d1223e427c115"
-    ]
-   },
-   "articles": [
-    {
-     "id": "189d1223e427c115",
-     "title": "Nuclear safety drill to include drone countering exercises for 1st time",
-     "url": "https://focustaiwan.tw/politics/202609020025",
-     "published": "2026-09-02T11:12:45Z",
-     "lang": "en",
-     "entities": [
-      "drone",
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -862,7 +1057,7 @@
    "id": "evt_20260901_f04b7a",
    "headline": "Mainland China stepping up preparations for Taiwan blockade, report says",
    "headline_source": "SCMP",
-   "headline_url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpYaU5oSDdLdVRZQ2VKdG9fbzJiZ0N6R0t5bzdtX2lwb1FDd0s0OXNLb2tCbWZrdUhHb1o3TG9jVkNfVE11bWFkN3dRZGZXcVZOTnhyVE1nVEJDa2N1Rk8wUUNTOVNFTVU5bHk1T2k4WEphV3dNcXduS2NSQm1ESjFrTjRURWtQWTlldW8zLWhIcXlORjhNd0VMMVg1clBlakVLcFh5Z3VUNnZTVXhNb2o0RjJUVThDYTk1MVRadFZLVkplQ1UzNlZabm0tVUFUckRHRXlDVkpxMjRwd2tBRHNNejZGdw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2I0ZjRETzM2M1cxdVFBZmwtSktpcHdYOUxMUTd2ZVNpaElyd2lwaks0MzJLT2RBMkR3LW5IMy1yTkZkTkJHWExoNEFrczk4ei16ZG05Vmdib25XZHdmZFpYMXFsRlozZ2lKMG5iUzVOWXFYdUVJcTlYZEdzX1dmbzVoWVhaZ3hpc0h6b3NZbjVUWFBWeWJhSk9oOGEtSVJza0dxS25iRXc5Q1F4NUE4N3pqcW5XamF5SWhtVS1R0gG-AUFVX3lxTE53OTRySVRKcW5qeXFzcFB1OXI2V3BXcjdkX2pyTWs2LUx2MHVOZFZKbUNNeTMtWTdHY0RBWXExdnRPMDN3WEhZVzcydTZ1VVRmellvS2M1UnFwTi10a2hueVV3cjYtYUNoYzA3MnV1X3pXNUh3bXZVRGVxSWFQN0J0Nm1XRG85QlR6dGJWeG9XUkplNTF4bkdaWnlYQWV0emdBNlRjQjBCdnNTNFgyMzlMRFN6UWtoSl9MZUZ6dUE?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-01T22:00:12Z",
    "last_seen": "2026-09-02T00:54:03Z",
@@ -907,7 +1102,7 @@
     {
      "id": "c8d579fb6b3a413c",
      "title": "Mainland China stepping up preparations for Taiwan blockade, report says",
-     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPanpYaU5oSDdLdVRZQ2VKdG9fbzJiZ0N6R0t5bzdtX2lwb1FDd0s0OXNLb2tCbWZrdUhHb1o3TG9jVkNfVE11bWFkN3dRZGZXcVZOTnhyVE1nVEJDa2N1Rk8wUUNTOVNFTVU5bHk1T2k4WEphV3dNcXduS2NSQm1ESjFrTjRURWtQWTlldW8zLWhIcXlORjhNd0VMMVg1clBlakVLcFh5Z3VUNnZTVXhNb2o0RjJUVThDYTk1MVRadFZLVkplQ1UzNlZabm0tVUFUckRHRXlDVkpxMjRwd2tBRHNNejZGdw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2I0ZjRETzM2M1cxdVFBZmwtSktpcHdYOUxMUTd2ZVNpaElyd2lwaks0MzJLT2RBMkR3LW5IMy1yTkZkTkJHWExoNEFrczk4ei16ZG05Vmdib25XZHdmZFpYMXFsRlozZ2lKMG5iUzVOWXFYdUVJcTlYZEdzX1dmbzVoWVhaZ3hpc0h6b3NZbjVUWFBWeWJhSk9oOGEtSVJza0dxS25iRXc5Q1F4NUE4N3pqcW5XamF5SWhtVS1R0gG-AUFVX3lxTE53OTRySVRKcW5qeXFzcFB1OXI2V3BXcjdkX2pyTWs2LUx2MHVOZFZKbUNNeTMtWTdHY0RBWXExdnRPMDN3WEhZVzcydTZ1VVRmellvS2M1UnFwTi10a2hueVV3cjYtYUNoYzA3MnV1X3pXNUh3bXZVRGVxSWFQN0J0Nm1XRG85QlR6dGJWeG9XUkplNTF4bkdaWnlYQWV0emdBNlRjQjBCdnNTNFgyMzlMRFN6UWtoSl9MZUZ6dUE?oc=5",
      "published": "2026-09-01T22:00:12Z",
      "lang": "en",
      "entities": [
@@ -1300,11 +1495,11 @@
   },
   {
    "id": "evt_20260901_091490",
-   "headline": "China-Taiwan tensions cloud Pacific summit",
-   "headline_source": "Daily Tribune",
-   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQVB2ams4aThoUUczUVBUeWNCVm1mbVg2a1ZWam1CaGIwUzJkWU5BU19FUGJnQVJJelBGYXRZX0tGb3g4TnVZdmlXUmZPNC1aak9PTS05cXBtM1I2a1lQOUVuZWhkZUtySWpkcXd3MWQycjk1bGgySmtOWTlLd3VOZ1NB?oc=5",
+   "headline": "Pacific Islands summit opens in shadow of China-Taiwan tensions",
+   "headline_source": "News.com.au",
+   "headline_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVptbS1SNEpBYUZ3V1cyYThzRVEwYWd0T29oR252WGRnVWd3QUJvdkdqLWVseXhjam9NUkJJd21KSUc5dGs1QzRRZ0hnYkR0YVVxbU4weGsxZ291VnE1bWVIaThTeldWMHpLTXhwMHFFclVybDYydGNRbzEzRGVSdGtwMWVzSDJWa2EwdE9Cck54dDJxZFR3aEh0bFd4X2l3cl9vN3hlNjJfV1ZKaU9XZ3dRMjBaUTZsVEYtUDR2My05S0tkb0g1QjM4OGpZVlVqQ2VlTDVHdHXSAd4BQVVfeXFMTzVqYUM1QjNqZlNLNEUxR184NjZuTHAyMXBlQmJ0TDlNUlY2WGxDZllSVjV2ZV9ISGphSC1KSWp2LTdtMklGOWJycVQ0YTJvenhHU1hleEFmckhyTkozaUNGaFNmd0JlTmdnYmtweFJOdHNUcXYydWpxVTBiWmNBN1dFRU1JQTUwd01ORzZsWUJpSEZUbUl6Q2VsekttamVzSWZTUEpzclRiVTNqRTVWQUoxYlN6QklYa3lXVExnNDUxZDFlOVFpQ2liQXlaTVd6Z2txdW1DQ0FqVHJXSWlR?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-01T15:58:53Z",
+   "first_seen": "2026-09-01T00:51:31Z",
    "last_seen": "2026-09-01T15:58:53Z",
    "langs": [
     "en"
@@ -1316,10 +1511,10 @@
     "grade_label": "출처 미확인",
     "n_originals": 1,
     "n_unrated": 1,
-    "score": 2.1,
+    "score": 7.3,
     "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "unknown"
     ],
@@ -1328,16 +1523,34 @@
     "reasons": [
      "등급표에 없는 매체만 보도",
      "최고 등급 미분류",
+     "News.com.au 원고를 tribune.net.ph 가 전재 — 1곳으로 계산",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "fb2e34afcaa8d0b4",
      "6525332d9cfad48c"
     ]
    },
    "articles": [
+    {
+     "id": "fb2e34afcaa8d0b4",
+     "title": "Pacific Islands summit opens in shadow of China-Taiwan tensions",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVptbS1SNEpBYUZ3V1cyYThzRVEwYWd0T29oR252WGRnVWd3QUJvdkdqLWVseXhjam9NUkJJd21KSUc5dGs1QzRRZ0hnYkR0YVVxbU4weGsxZ291VnE1bWVIaThTeldWMHpLTXhwMHFFclVybDYydGNRbzEzRGVSdGtwMWVzSDJWa2EwdE9Cck54dDJxZFR3aEh0bFd4X2l3cl9vN3hlNjJfV1ZKaU9XZ3dRMjBaUTZsVEYtUDR2My05S0tkb0g1QjM4OGpZVlVqQ2VlTDVHdHXSAd4BQVVfeXFMTzVqYUM1QjNqZlNLNEUxR184NjZuTHAyMXBlQmJ0TDlNUlY2WGxDZllSVjV2ZV9ISGphSC1KSWp2LTdtMklGOWJycVQ0YTJvenhHU1hleEFmckhyTkozaUNGaFNmd0JlTmdnYmtweFJOdHNUcXYydWpxVTBiWmNBN1dFRU1JQTUwd01ORzZsWUJpSEZUbUl6Q2VsekttamVzSWZTUEpzclRiVTNqRTVWQUoxYlN6QklYa3lXVExnNDUxZDFlOVFpQ2liQXlaTVd6Z2txdW1DQ0FqVHJXSWlR?oc=5",
+     "published": "2026-09-01T00:51:31Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "News.com.au",
+     "source_domain": "news.com.au",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "6525332d9cfad48c",
      "title": "China-Taiwan tensions cloud Pacific summit",
@@ -1345,7 +1558,7 @@
      "published": "2026-09-01T15:58:53Z",
      "lang": "en",
      "entities": [],
-     "source_name": "Daily Tribune",
+     "source_name": "tribune.net.ph",
      "source_domain": "tribune.net.ph",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2156,6 +2369,63 @@
    ]
   },
   {
+   "id": "evt_20260901_311113",
+   "headline": "Taiwan needs U.S. weapons for self-defense as threat from China grows, diplomat tells AP",
+   "headline_source": "아사히신문",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wa3E5Qm9OZHdSYmdVQ2JDU1JNVDBBVzNVdVFsUG9tX1FEeWRCZmZXdEJFYl9XZHZEUXJlZnI2NGdQT3dxLVprQmM5dHhCbVRIMXBqY01pOW8tN0x1X2c?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-01T07:00:00Z",
+   "last_seen": "2026-09-01T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a321ac4fae172ef1"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a321ac4fae172ef1",
+     "title": "Taiwan needs U.S. weapons for self-defense as threat from China grows, diplomat tells AP",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1wa3E5Qm9OZHdSYmdVQ2JDU1JNVDBBVzNVdVFsUG9tX1FEeWRCZmZXdEJFYl9XZHZEUXJlZnI2NGdQT3dxLVprQmM5dHhCbVRIMXBqY01pOW8tN0x1X2c?oc=5",
+     "published": "2026-09-01T07:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "아사히신문",
+     "source_domain": "asahi.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260901_d9e5fd",
    "headline": "Taiwan expert: China's military invasion capability to be complete by 2030–2035",
    "headline_source": "헤럴드경제",
@@ -2219,7 +2489,7 @@
    "id": "evt_20260901_fde7e5",
    "headline": "Cross-Strait industrial integration takes center stage at Shandong-Taiwan exchange meeting",
    "headline_source": "China Daily",
-   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84WWw1bFpsTFRqVDh0LWRxTUpMMVU2dmd0T0NsSTQzSzFNTV9KMXpJSlB5cHg4azlRel9qRllLNG5GZzNBc0IxT0hZbThHc0ZfX3JyanhhN3Y0SEY1clVYNXpaNWZrQjZQa09sNDNHLVdYNldzN21UNGVRVUE2dw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczVuVkhoem1rYnljNW91S2RyUGZSLVVNUGV3RDBOT2JERk5VYzB6S0tta24yVXFEVFFPVFc3dHFHdDFmYXVQOER4Y1NjYlVuOVJJYjFSSmswVWo3VUlOM0xnbzBHbmdkM2ktS215YXFKaW1hbGFJajZSOWVCWk9KTkx3?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-01T06:23:40Z",
    "last_seen": "2026-09-01T06:23:40Z",
@@ -2258,7 +2528,7 @@
     {
      "id": "ec4dfc3928c9f5be",
      "title": "Cross-Strait industrial integration takes center stage at Shandong-Taiwan exchange meeting",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE84WWw1bFpsTFRqVDh0LWRxTUpMMVU2dmd0T0NsSTQzSzFNTV9KMXpJSlB5cHg4azlRel9qRllLNG5GZzNBc0IxT0hZbThHc0ZfX3JyanhhN3Y0SEY1clVYNXpaNWZrQjZQa09sNDNHLVdYNldzN21UNGVRVUE2dw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOczVuVkhoem1rYnljNW91S2RyUGZSLVVNUGV3RDBOT2JERk5VYzB6S0tta24yVXFEVFFPVFc3dHFHdDFmYXVQOER4Y1NjYlVuOVJJYjFSSmswVWo3VUlOM0xnbzBHbmdkM2ktS215YXFKaW1hbGFJajZSOWVCWk9KTkx3?oc=5",
      "published": "2026-09-01T06:23:40Z",
      "lang": "en",
      "entities": [
@@ -3232,64 +3502,6 @@
      "tier_label": "통신사·공영",
      "bloc": "independent",
      "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260901_6a93ac",
-   "headline": "Pacific Islands summit opens in shadow of China-Taiwan tensions",
-   "headline_source": "News.com.au",
-   "headline_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVptbS1SNEpBYUZ3V1cyYThzRVEwYWd0T29oR252WGRnVWd3QUJvdkdqLWVseXhjam9NUkJJd21KSUc5dGs1QzRRZ0hnYkR0YVVxbU4weGsxZ291VnE1bWVIaThTeldWMHpLTXhwMHFFclVybDYydGNRbzEzRGVSdGtwMWVzSDJWa2EwdE9Cck54dDJxZFR3aEh0bFd4X2l3cl9vN3hlNjJfV1ZKaU9XZ3dRMjBaUTZsVEYtUDR2My05S0tkb0g1QjM4OGpZVlVqQ2VlTDVHdHXSAd4BQVVfeXFMTzVqYUM1QjNqZlNLNEUxR184NjZuTHAyMXBlQmJ0TDlNUlY2WGxDZllSVjV2ZV9ISGphSC1KSWp2LTdtMklGOWJycVQ0YTJvenhHU1hleEFmckhyTkozaUNGaFNmd0JlTmdnYmtweFJOdHNUcXYydWpxVTBiWmNBN1dFRU1JQTUwd01ORzZsWUJpSEZUbUl6Q2VsekttamVzSWZTUEpzclRiVTNqRTVWQUoxYlN6QklYa3lXVExnNDUxZDFlOVFpQ2liQXlaTVd6Z2txdW1DQ0FqVHJXSWlR?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-01T00:51:31Z",
-   "last_seen": "2026-09-01T00:51:31Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "fb2e34afcaa8d0b4"
-    ]
-   },
-   "articles": [
-    {
-     "id": "fb2e34afcaa8d0b4",
-     "title": "Pacific Islands summit opens in shadow of China-Taiwan tensions",
-     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQVptbS1SNEpBYUZ3V1cyYThzRVEwYWd0T29oR252WGRnVWd3QUJvdkdqLWVseXhjam9NUkJJd21KSUc5dGs1QzRRZ0hnYkR0YVVxbU4weGsxZ291VnE1bWVIaThTeldWMHpLTXhwMHFFclVybDYydGNRbzEzRGVSdGtwMWVzSDJWa2EwdE9Cck54dDJxZFR3aEh0bFd4X2l3cl9vN3hlNjJfV1ZKaU9XZ3dRMjBaUTZsVEYtUDR2My05S0tkb0g1QjM4OGpZVlVqQ2VlTDVHdHXSAd4BQVVfeXFMTzVqYUM1QjNqZlNLNEUxR184NjZuTHAyMXBlQmJ0TDlNUlY2WGxDZllSVjV2ZV9ISGphSC1KSWp2LTdtMklGOWJycVQ0YTJvenhHU1hleEFmckhyTkozaUNGaFNmd0JlTmdnYmtweFJOdHNUcXYydWpxVTBiWmNBN1dFRU1JQTUwd01ORzZsWUJpSEZUbUl6Q2VsekttamVzSWZTUEpzclRiVTNqRTVWQUoxYlN6QklYa3lXVExnNDUxZDFlOVFpQ2liQXlaTVd6Z2txdW1DQ0FqVHJXSWlR?oc=5",
-     "published": "2026-09-01T00:51:31Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "News.com.au",
-     "source_domain": "news.com.au",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
