@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-02T04:38:45Z",
+ "updated": "2026-09-02T11:22:42Z",
  "checked": "2026-09-02",
- "duration_sec": 32.3,
+ "duration_sec": 34.7,
  "rolling_days": 14,
- "n_events": 381,
- "n_articles": 418,
+ "n_events": 371,
+ "n_articles": 407,
  "grades": {
-  "D": 210,
-  "C": 147,
+  "D": 204,
+  "C": 143,
   "B": 24
  },
- "cross_language_events": 2,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -18,17 +18,16 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
-  "T2": 155,
-  "T3": 83,
-  "T4": 20,
+  "T1": 15,
+  "T2": 150,
+  "T3": 76,
+  "T4": 19,
   "T5": 126,
   "TA": 2
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
-  "aninews.in",
   "bloomberg.com",
   "france24.com",
   "pts.org.tw",
@@ -45,7 +44,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 25,
+   "n_adopted": 22,
    "newest": "2026-09-01T15:58:53+00:00",
    "stale": false,
    "error": null
@@ -57,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 38,
-   "n_adopted": 19,
-   "newest": "2026-09-01T22:22:48+00:00",
+   "n_entries": 39,
+   "n_adopted": 20,
+   "newest": "2026-09-02T08:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -71,8 +70,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-09-02T01:40:00+00:00",
+   "n_adopted": 10,
+   "newest": "2026-09-02T07:21:11+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-09-02T03:40:19+00:00",
+   "n_adopted": 50,
+   "newest": "2026-09-02T10:52:30+00:00",
    "stale": false,
    "error": null
   },
@@ -97,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-09-02T03:04:56+00:00",
+   "n_adopted": 14,
+   "newest": "2026-09-02T08:21:06+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +109,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
+   "n_adopted": 5,
    "newest": "2026-09-02T01:34:54+00:00",
    "stale": false,
    "error": null
@@ -122,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 56,
+   "n_entries": 74,
    "n_adopted": 2,
-   "newest": "2026-09-02T03:00:54+00:00",
+   "newest": "2026-09-02T10:40:40+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-09-02T04:00:08+00:00",
+   "newest": "2026-09-02T10:12:52+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-02T04:27:00+00:00",
+   "newest": "2026-09-02T11:20:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 102,
+   "n_entries": 98,
    "n_adopted": 0,
-   "newest": "2026-09-02T04:30:01+00:00",
+   "newest": "2026-09-02T10:16:22+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +214,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-02T04:29:02+00:00",
+   "newest": "2026-09-02T10:07:02+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-02T04:01:08+00:00",
+   "newest": "2026-09-02T10:20:57+00:00",
    "stale": false,
    "error": null
   },
@@ -256,6 +255,11 @@
    "domain": "ctinews.com",
    "n_articles": 6,
    "sample_title": "雙颱共存！沙德爾復活逼近台海 「科羅旺」直奔日本"
+  },
+  {
+   "domain": "upmedia.mg",
+   "n_articles": 4,
+   "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
   },
   {
    "domain": "businessinsider.com",
@@ -288,11 +292,6 @@
    "sample_title": "Taiwan's president evacuated in dramatic war drill as Chinese battleships circle"
   },
   {
-   "domain": "upmedia.mg",
-   "n_articles": 3,
-   "sample_title": "路透：中國疑在西沙鴨公島建雷達站 支援台海戰時要地羚羊礁"
-  },
-  {
    "domain": "mnews.tw",
    "n_articles": 3,
    "sample_title": "美軍機再度飛越台海 專家：向中送出維持台海和平訊號"
@@ -306,11 +305,6 @@
    "domain": "tribune.net.ph",
    "n_articles": 2,
    "sample_title": "China-Taiwan tensions cloud Pacific summit"
-  },
-  {
-   "domain": "ttv.com.tw",
-   "n_articles": 2,
-   "sample_title": "外媒看台演習！共軍若攻台 首波鎖定新竹空軍基地"
   },
   {
    "domain": "hk.crntt.com",
@@ -346,6 +340,11 @@
    "domain": "fdd.org",
    "n_articles": 2,
    "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
+  },
+  {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
   }
  ]
 }
