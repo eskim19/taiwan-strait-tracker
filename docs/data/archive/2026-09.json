@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 82,
+ "n_events": 87,
  "events": [
   {
    "id": "evt_20260904_25b81f",
@@ -122,10 +122,249 @@
    ]
   },
   {
+   "id": "evt_20260903_ab8a6e",
+   "headline": "[동북아 정세 브리핑] 중국의 전선, 대만해협 넘어 중동·우주로…AI·자원까지 넓어진 미중 경쟁",
+   "headline_source": "kor.theasian.asia",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94YmZNZFptbTY0OEJRWTFMXzJDM0VnaDNPT0ZFd2NyTGVMX3ZHRmhJMmIzSG5STHlNa2cwVEN6djcxc2NyWF9hcHp1LTNyNHNER0E?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-09-03T22:16:01Z",
+   "last_seen": "2026-09-03T22:16:01Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9c5c916a860a78d6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9c5c916a860a78d6",
+     "title": "[동북아 정세 브리핑] 중국의 전선, 대만해협 넘어 중동·우주로…AI·자원까지 넓어진 미중 경쟁",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE94YmZNZFptbTY0OEJRWTFMXzJDM0VnaDNPT0ZFd2NyTGVMX3ZHRmhJMmIzSG5STHlNa2cwVEN6djcxc2NyWF9hcHp1LTNyNHNER0E?oc=5",
+     "published": "2026-09-03T22:16:01Z",
+     "lang": "ko",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "kor.theasian.asia",
+     "source_domain": "kor.theasian.asia",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260903_d4d8bd",
+   "headline": "Taiwan Arms Sale Backlog, August 2026 Update",
+   "headline_source": "Taiwan Security Monitor (GMU)",
+   "headline_url": "https://tsm.schar.gmu.edu/taiwan-arms-sale-backlog-august-2026-update/?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-arms-sale-backlog-august-2026-update",
+   "headline_lang": "en",
+   "first_seen": "2026-09-03T21:02:44Z",
+   "last_seen": "2026-09-03T21:02:44Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 26.9,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "TA",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 분석기관"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b784c1e63ad11ddc"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b784c1e63ad11ddc",
+     "title": "Taiwan Arms Sale Backlog, August 2026 Update",
+     "url": "https://tsm.schar.gmu.edu/taiwan-arms-sale-backlog-august-2026-update/?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-arms-sale-backlog-august-2026-update",
+     "published": "2026-09-03T21:02:44Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "Taiwan Security Monitor (GMU)",
+     "source_domain": "gmu.edu",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260903_656655",
+   "headline": "Defense Trio Races to Build China-Free Drones in Taiwan",
+   "headline_source": "Streetwise Reports",
+   "headline_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhxUVZROEZwN3NtekFQXzBEc050cGhCaGJTaGNmZno4amRpR0ZDdmd5ak91RXRndVFsX19WRV9SNjRiNEVZZFh5b0ZCTXRtVExGbTVIRW9Gak42UGwwUU92UXRCd3JzR2U1cE9Fek9MOXpvUU1MYi1QaWY5YU9XWktTNENxOGhmYnJrYlctZ3JXVEpROVQ0a183RXZzakRUNVg5ckF1UHRWMS05bC1aMGtuQQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-03T21:00:39Z",
+   "last_seen": "2026-09-03T21:00:39Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a88e684cab55da58"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a88e684cab55da58",
+     "title": "Defense Trio Races to Build China-Free Drones in Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhxUVZROEZwN3NtekFQXzBEc050cGhCaGJTaGNmZno4amRpR0ZDdmd5ak91RXRndVFsX19WRV9SNjRiNEVZZFh5b0ZCTXRtVExGbTVIRW9Gak42UGwwUU92UXRCd3JzR2U1cE9Fek9MOXpvUU1MYi1QaWY5YU9XWktTNENxOGhmYnJrYlctZ3JXVEpROVQ0a183RXZzakRUNVg5ckF1UHRWMS05bC1aMGtuQQ?oc=5",
+     "published": "2026-09-03T21:00:39Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Streetwise Reports",
+     "source_domain": "streetwisereports.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260903_b36bbe",
+   "headline": "Taiwan Strait 1958: The First Sidewinder Kill",
+   "headline_source": "migflug.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWC1aaFNRQTlZeWZBMHFMaU5pa3ZUSGY3aXlBU1NCZWRvNzJwMWp2T3I0bFhqMzdsX183UkFiYTgtUy1zek9NQUVLMWhYSDM0V09MeklNamkxMXdwbmJNSDRpcnJ1XzVrR0djS0RuVk1xOHBjMG1mM3JPUUttRU9JU1YwTkN5NUtJVkJGZWZKZ1V6UXVZOUFsV3psSQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-03T18:21:57Z",
+   "last_seen": "2026-09-03T18:21:57Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b6a65a5bb18dc5ac"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b6a65a5bb18dc5ac",
+     "title": "Taiwan Strait 1958: The First Sidewinder Kill",
+     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWC1aaFNRQTlZeWZBMHFMaU5pa3ZUSGY3aXlBU1NCZWRvNzJwMWp2T3I0bFhqMzdsX183UkFiYTgtUy1zek9NQUVLMWhYSDM0V09MeklNamkxMXdwbmJNSDRpcnJ1XzVrR0djS0RuVk1xOHBjMG1mM3JPUUttRU9JU1YwTkN5NUtJVkJGZWZKZ1V6UXVZOUFsV3psSQ?oc=5",
+     "published": "2026-09-03T18:21:57Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "migflug.com",
+     "source_domain": "migflug.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260903_b3481a",
    "headline": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
    "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed",
+   "headline_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSjRUZzJ6LWs0a1ROam9DeXVEbXZCaVlKQVp3S2NiTnFjeG9yeTlzeEFGVWxSMnhaWVptalkzc2FCc2VOTUNGWmRSbWpTcTRLTGNXVlhHbW1qXzRjMWs3c1BSM1cwZWxrVF8tZTdsMEc5dG0yc2xWQkY0eElOejNmbkRxZl9jQlZzSkRIMmoyLTM1endCSXJpOGlEWnp0bk1NbkwwMk1sSEdlaEs0RXVYNHhrdS1ZNS1MOVlXTUZ3cjd6N0NrdFHSAcYBQVVfeXFMTUVyNk5fSmVZQmVfWndTdE9KTzVNQTFWZU5OVFBzaXpkemNWSDY2QWV1SlhzR0plSW4wWUtDREtuemwwYVVkeHNfWGVtWFVEalZMYkV4WlRPMnNELWZnMnZ1NFJWRE1YQTI0QVhXV0dBZEVYZWUyd1JyWmVCNVZIVkpFR0hFU19JWmFuR0laZVRkVk82NGFtZldtYmE0LUExVFR1NW1sdVNnZVRma00tS01meDEwQTBoT1pKNE8tLTBrUXZqX2dR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-03T14:00:08Z",
    "last_seen": "2026-09-03T14:00:08Z",
@@ -163,7 +402,7 @@
     {
      "id": "60e69ded087b14ad",
      "title": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
-     "url": "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSjRUZzJ6LWs0a1ROam9DeXVEbXZCaVlKQVp3S2NiTnFjeG9yeTlzeEFGVWxSMnhaWVptalkzc2FCc2VOTUNGWmRSbWpTcTRLTGNXVlhHbW1qXzRjMWs3c1BSM1cwZWxrVF8tZTdsMEc5dG0yc2xWQkY0eElOejNmbkRxZl9jQlZzSkRIMmoyLTM1endCSXJpOGlEWnp0bk1NbkwwMk1sSEdlaEs0RXVYNHhrdS1ZNS1MOVlXTUZ3cjd6N0NrdFHSAcYBQVVfeXFMTUVyNk5fSmVZQmVfWndTdE9KTzVNQTFWZU5OVFBzaXpkemNWSDY2QWV1SlhzR0plSW4wWUtDREtuemwwYVVkeHNfWGVtWFVEalZMYkV4WlRPMnNELWZnMnZ1NFJWRE1YQTI0QVhXV0dBZEVYZWUyd1JyWmVCNVZIVkpFR0hFU19JWmFuR0laZVRkVk82NGFtZldtYmE0LUExVFR1NW1sdVNnZVRma00tS01meDEwQTBoT1pKNE8tLTBrUXZqX2dR?oc=5",
      "published": "2026-09-03T14:00:08Z",
      "lang": "en",
      "entities": [],
@@ -1332,6 +1571,66 @@
    ]
   },
   {
+   "id": "evt_20260903_fea67c",
+   "headline": "两岸携手创作，剧情引发共鸣，陆剧《早春晴朗》火到台湾",
+   "headline_source": "環球網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSzlXZGdJejZJSVJoMGZDOWNPUzVnMVp5QXhvaTlXM2ZFUTRhd3E0Z0M2Q2FWdEFJZGhqQXZMUG5STnQ3Qkg2YUhVRnhMZkNTZHB2emZuTWZNQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-03T02:24:00Z",
+   "last_seen": "2026-09-03T02:24:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "1281070f28da0600"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "1281070f28da0600",
+     "title": "两岸携手创作，剧情引发共鸣，陆剧《早春晴朗》火到台湾",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpSzlXZGdJejZJSVJoMGZDOWNPUzVnMVp5QXhvaTlXM2ZFUTRhd3E0Z0M2Q2FWdEFJZGhqQXZMUG5STnQ3Qkg2YUhVRnhMZkNTZHB2emZuTWZNQQ?oc=5",
+     "published": "2026-09-03T02:24:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "環球網",
+     "source_domain": "huanqiu.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260903_0f94e5",
    "headline": "颱風沙德爾回馬槍 中共仍出動8船艦擾台",
    "headline_source": "自由時報",
@@ -1689,7 +1988,7 @@
   {
    "id": "evt_20260902_2c7ccb",
    "headline": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget",
-   "headline_source": "mezha.net",
+   "headline_source": "Межа. Новини України.",
    "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9rcHFUdlhOQnpQNGJ1M1pua1VYYkVHSVQyczR1VlpFNHNrOTlPNUlCUk1Xbk85NVVKWkw3TnVqSXZBR3p2TUpLdUJrdUpxcE50enZiUF9fUXVLMFFBRk4wWVpNUEc2Z2c?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-02T14:06:23Z",
@@ -1733,7 +2032,7 @@
      "published": "2026-09-02T14:06:23Z",
      "lang": "en",
      "entities": [],
-     "source_name": "mezha.net",
+     "source_name": "Межа. Новини України.",
      "source_domain": "mezha.net",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4476,7 +4775,7 @@
   {
    "id": "evt_20260901_b7f0b5",
    "headline": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chinese invasion",
-   "headline_source": "Business Insider",
+   "headline_source": "businessinsider.com",
    "headline_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTllDc09PcHhnUnFLUGJCVmk1cGdsaVhjVlhMUEp0ZVQ3c3RXRzlOTGFlZjNpLUR4YzJINV95OUNjaHRyNXMwR2xRNUxIckNTWDVIUXplQTNIU3MxTG1oYlh6Z2dHalp1SjlMNFgwOVhnU2NkdnBJMGQ2d2JkTU9mOXBWRjNfODEyVWZIUjBoSzBlNnhycEN0SzlicVZ1YTdLbmNJVEprNA?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-01T05:19:00Z",
@@ -4524,7 +4823,7 @@
       "military_drill",
       "rehearsal"
      ],
-     "source_name": "Business Insider",
+     "source_name": "businessinsider.com",
      "source_domain": "businessinsider.com",
      "tier": "T5",
      "tier_label": "미분류",

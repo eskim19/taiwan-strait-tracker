@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-03T21:05:14Z",
+ "updated": "2026-09-03T23:18:46Z",
  "checked": "2026-09-03",
- "duration_sec": 34.6,
+ "duration_sec": 32.5,
  "rolling_days": 14,
- "n_events": 386,
- "n_articles": 427,
+ "n_events": 388,
+ "n_articles": 430,
  "grades": {
   "C": 148,
-  "D": 211,
-  "B": 27
+  "D": 212,
+  "B": 28
  },
- "cross_language_events": 2,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -18,12 +18,12 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
-  "T2": 158,
+  "T1": 15,
+  "T2": 157,
   "T3": 82,
   "T4": 17,
-  "T5": 136,
-  "TA": 3
+  "T5": 138,
+  "TA": 4
  },
  "t1_domains": [
   "abc.net.au",
@@ -43,8 +43,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 24,
-   "newest": "2026-09-01T15:58:53+00:00",
+   "n_adopted": 28,
+   "newest": "2026-09-03T18:21:57+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 42,
-   "n_adopted": 22,
-   "newest": "2026-09-03T17:59:15+00:00",
+   "n_entries": 51,
+   "n_adopted": 26,
+   "newest": "2026-09-03T21:00:39+00:00",
    "stale": false,
    "error": null
   },
@@ -69,8 +69,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
-   "newest": "2026-09-02T21:00:00+00:00",
+   "n_adopted": 18,
+   "newest": "2026-09-03T22:16:01+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 54,
-   "newest": "2026-09-03T14:36:43+00:00",
+   "n_adopted": 46,
+   "newest": "2026-09-03T22:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
+   "n_adopted": 16,
    "newest": "2026-09-03T16:11:00+00:00",
    "stale": false,
    "error": null
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-09-03T15:28:52+00:00",
+   "n_adopted": 3,
+   "newest": "2026-09-03T23:17:43+00:00",
    "stale": false,
    "error": null
   },
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-09-03T15:00:08+00:00",
+   "n_adopted": 0,
+   "newest": "2026-09-03T22:13:33+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-03T12:22:00+00:00",
+   "newest": "2026-09-03T23:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -170,12 +170,12 @@
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
    "status": "ok",
-   "health": "stale",
+   "health": "ok",
    "http": 200,
    "n_entries": 10,
-   "n_adopted": 1,
-   "newest": "2026-08-25T21:44:06+00:00",
-   "stale": true,
+   "n_adopted": 2,
+   "newest": "2026-09-03T21:02:44+00:00",
+   "stale": false,
    "error": null
   },
   {
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-09-03T20:11:34+00:00",
+   "newest": "2026-09-03T23:00:08+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-03T21:01:48+00:00",
+   "newest": "2026-09-03T22:08:33+00:00",
    "stale": false,
    "error": null
   },
@@ -274,6 +274,11 @@
    "domain": "upmedia.mg",
    "n_articles": 3,
    "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
+  },
+  {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan’s Han Kuang Exercise Highlights Asymmetric Warfare Preparation Against Ch"
   },
   {
    "domain": "knews.com.tw",
@@ -331,19 +336,14 @@
    "sample_title": "楊書菲：習特二會聚焦台海、AI等6大議題"
   },
   {
+   "domain": "firstpost.com",
+   "n_articles": 2,
+   "sample_title": "Pacific leaders meet in Palau as drug crime rises, China-Taiwan tensions simmer"
+  },
+  {
    "domain": "moderndiplomacy.eu",
    "n_articles": 2,
    "sample_title": "US Allies and the Taiwan Strait – Book Review"
-  },
-  {
-   "domain": "dominotheory.com",
-   "n_articles": 2,
-   "sample_title": "A Routine Naval Exercise Could Draw Indonesia Into China’s Taiwan Strategy"
-  },
-  {
-   "domain": "fdd.org",
-   "n_articles": 2,
-   "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
   }
  ]
 }
