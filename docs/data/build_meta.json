@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-04T11:22:44Z",
+ "updated": "2026-09-04T16:24:26Z",
  "checked": "2026-09-04",
- "duration_sec": 72.0,
+ "duration_sec": 33.3,
  "rolling_days": 14,
- "n_events": 359,
- "n_articles": 393,
+ "n_events": 363,
+ "n_articles": 398,
  "grades": {
   "C": 141,
-  "D": 194,
-  "B": 24
+  "D": 197,
+  "B": 25
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,16 +18,17 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 15,
-  "T2": 145,
+  "T1": 16,
+  "T2": 146,
   "T3": 72,
-  "T4": 16,
-  "T5": 129,
+  "T4": 15,
+  "T5": 133,
   "TA": 3
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
+  "aninews.in",
   "france24.com",
   "pts.org.tw",
   "reuters.com",
@@ -39,79 +40,79 @@
    "id": "gn_en",
    "name": "Google News (영어)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 29,
+   "newest": "2026-09-03T20:34:21+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_en_mil",
    "name": "Google News (영어·군사)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 57,
+   "n_adopted": 28,
+   "newest": "2026-09-04T11:49:24+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_ko",
    "name": "Google News (한국어)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 17,
+   "newest": "2026-09-04T03:05:27+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_zh",
    "name": "Google News (중국어 번체)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 45,
+   "newest": "2026-09-04T13:29:00+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_prc_state",
    "name": "Google News (중국 관영 감시)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 14,
+   "newest": "2026-09-04T15:54:00+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_prc_zh",
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 2,
+   "newest": "2026-09-04T13:35:25+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "focustaiwan",
@@ -120,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
+   "n_entries": 69,
    "n_adopted": 5,
-   "newest": "2026-09-04T09:44:04+00:00",
+   "newest": "2026-09-04T12:14:15+00:00",
    "stale": false,
    "error": null
   },
@@ -147,8 +148,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-09-04T11:12:53+00:00",
+   "n_adopted": 1,
+   "newest": "2026-09-04T15:00:08+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-04T10:31:00+00:00",
+   "newest": "2026-09-04T12:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-09-04T10:09:32+00:00",
+   "newest": "2026-09-04T12:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +214,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-09-04T08:23:05+00:00",
+   "newest": "2026-09-04T14:40:00+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-04T11:12:51+00:00",
+   "newest": "2026-09-04T16:01:06+00:00",
    "stale": false,
    "error": null
   },
@@ -247,13 +248,13 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 9,
+   "n_articles": 10,
    "sample_title": "連2日零共機但灰帶襲擾不斷 共艦與海警船共10艘擾台 | 太報"
   },
   {
    "domain": "ctinews.com",
-   "n_articles": 5,
-   "sample_title": "雙颱共存！沙德爾復活逼近台海 「科羅旺」直奔日本"
+   "n_articles": 6,
+   "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
   },
   {
    "domain": "businessinsider.com",
@@ -271,11 +272,6 @@
    "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
   },
   {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan’s Han Kuang Exercise Highlights Asymmetric Warfare Preparation Against Ch"
-  },
-  {
    "domain": "knews.com.tw",
    "n_articles": 3,
    "sample_title": "聯大8日登場！我訴求聯合國適當方式接納台灣 承諾：和平解決台海爭端"
@@ -291,9 +287,14 @@
    "sample_title": "烏爾曼錯了！九月「習特會」或涉及美軍撤出台海 文：孫榮富"
   },
   {
-   "domain": "wionews.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
+   "domain": "n.yam.com",
+   "n_articles": 2,
+   "sample_title": "川習會前 美軍太平洋司令帕帕羅會見東部戰區司令楊志斌管控台海風險"
+  },
+  {
+   "domain": "ua.news",
+   "n_articles": 2,
+   "sample_title": "China has threatened Taiwan over increased defense spending"
   },
   {
    "domain": "i-meihua.com",
@@ -306,14 +307,14 @@
    "sample_title": "楊書菲：習特二會聚焦台海、AI等6大議題"
   },
   {
-   "domain": "firstpost.com",
-   "n_articles": 2,
-   "sample_title": "Pacific leaders meet in Palau as drug crime rises, China-Taiwan tensions simmer"
-  },
-  {
    "domain": "dominotheory.com",
    "n_articles": 2,
    "sample_title": "A Routine Naval Exercise Could Draw Indonesia Into China’s Taiwan Strategy"
+  },
+  {
+   "domain": "wionews.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
   },
   {
    "domain": "ctee.com.tw",
@@ -326,6 +327,11 @@
    "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
   },
   {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan Conducts Urban Military Drills Amid Rising Tensions with China"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "美軍機再度飛越台海 專家：向中送出維持台海和平訊號"
@@ -336,14 +342,9 @@
    "sample_title": "Tensions Over Taiwan Strait: A Military Standoff"
   },
   {
-   "domain": "jp.ibtimes.com",
+   "domain": "asiatimes.com",
    "n_articles": 1,
-   "sample_title": "On Taiwan’s Frontline Islands, Troops Train for a Chinese First Strike"
-  },
-  {
-   "domain": "thinkingtaiwan.net",
-   "n_articles": 1,
-   "sample_title": "台海防禦新格局 協同網絡重塑中 - 想想Thinking Taiwan - 想想台灣，想想未來"
+   "sample_title": "US-China race for orbital supremacy could decide a Taiwan war"
   }
  ]
 }

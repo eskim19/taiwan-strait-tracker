@@ -1,7 +1,366 @@
 {
  "month": "2026-09",
- "n_events": 91,
+ "n_events": 100,
  "events": [
+  {
+   "id": "evt_20260904_1e44c4",
+   "headline": "China, US military commanders snap 2-year break with talks in Canada",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3366413/china-us-military-commanders-snap-2-year-break-talks-canada?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-09-04T11:30:06Z",
+   "last_seen": "2026-09-04T11:30:06Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d27d3542ae467fff"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d27d3542ae467fff",
+     "title": "China, US military commanders snap 2-year break with talks in Canada",
+     "url": "https://www.scmp.com/news/china/military/article/3366413/china-us-military-commanders-snap-2-year-break-talks-canada?utm_source=rss_feed",
+     "published": "2026-09-04T11:30:06Z",
+     "lang": "en",
+     "entities": [
+      "us_military"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260904_a59c16",
+   "headline": "川習會前 美軍太平洋司令帕帕羅會見東部戰區司令楊志斌管控台海風險",
+   "headline_source": "蕃新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuOElSS0QzTkI2QnVpUVU4X0JKdndSZTZOb29wSUNVMVNybUh5V19QWGhsTnhqNzZrR3kxRFYyNElMblFQN2pCSG9KWi0yQ3pxNXc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-04T10:23:00Z",
+   "last_seen": "2026-09-04T10:23:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "729a6f792785c6f2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "729a6f792785c6f2",
+     "title": "川習會前 美軍太平洋司令帕帕羅會見東部戰區司令楊志斌管控台海風險",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBuOElSS0QzTkI2QnVpUVU4X0JKdndSZTZOb29wSUNVMVNybUh5V19QWGhsTnhqNzZrR3kxRFYyNElMblFQN2pCSG9KWi0yQ3pxNXc?oc=5",
+     "published": "2026-09-04T10:23:00Z",
+     "lang": "zh",
+     "entities": [
+      "eastern_theater",
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "蕃新聞",
+     "source_domain": "n.yam.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260904_e6252a",
+   "headline": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據",
+   "headline_source": "中天新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RaU91NEdfZDl5SE5NdEppQXdkZUwwSHRPb19PSl9sZVltUjFKSXdoemlnWU50TGhvaVQ2cHNqN1V2bnBQZlFRaFVnelhxdjZLemJ3?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-04T10:15:19Z",
+   "last_seen": "2026-09-04T10:15:19Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "032b484a54f38ebb"
+    ]
+   },
+   "articles": [
+    {
+     "id": "032b484a54f38ebb",
+     "title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RaU91NEdfZDl5SE5NdEppQXdkZUwwSHRPb19PSl9sZVltUjFKSXdoemlnWU50TGhvaVQ2cHNqN1V2bnBQZlFRaFVnelhxdjZLemJ3?oc=5",
+     "published": "2026-09-04T10:15:19Z",
+     "lang": "zh",
+     "entities": [
+      "coast_guard",
+      "taiwan_strait"
+     ],
+     "source_name": "中天新聞網",
+     "source_domain": "ctinews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260904_835ae4",
+   "headline": "2028年台海會開戰？陳冲解析機會不大原因",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSUhlbWduOVRuOGJZYWtLYlVpLU1WU0VZMUhFRlp0WkF3bFZhNW9nM3ZUQjRMUEhkb2tKWXZvaFVWMTlCSTZBYVRxVWFHN2RrNjhxQ1NyNE15Rmc1VjVuSFB3UktqZmFMajJPU0hB?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-04T08:08:35Z",
+   "last_seen": "2026-09-04T08:08:35Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8ba465b23654eb5f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8ba465b23654eb5f",
+     "title": "2028年台海會開戰？陳冲解析機會不大原因",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9kSUhlbWduOVRuOGJZYWtLYlVpLU1WU0VZMUhFRlp0WkF3bFZhNW9nM3ZUQjRMUEhkb2tKWXZvaFVWMTlCSTZBYVRxVWFHN2RrNjhxQ1NyNE15Rmc1VjVuSFB3UktqZmFMajJPU0hB?oc=5",
+     "published": "2026-09-04T08:08:35Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260904_f7cc6b",
+   "headline": "US-China race for orbital supremacy could decide a Taiwan war",
+   "headline_source": "Asia Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFdEQzMwcnUyY0hMb0d6X3U3S0RWNWtMRkFUVmUydHBGNXV4T0xCZUx3VmVIWGV4T01mUU1qOHBWbDcwQUFFaDB6Z0hnWnpIV2YyMHlDdW1rQjZmTDdiV2NZYk5TcFFUOF80ZE16V1gwRmtPelc2S1Y4ZmFXY1RFN0NhcHNJX2NseTJicWlUQnZXbVVFVzRF?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-04T05:06:48Z",
+   "last_seen": "2026-09-04T05:06:48Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "100450297ff38211"
+    ]
+   },
+   "articles": [
+    {
+     "id": "100450297ff38211",
+     "title": "US-China race for orbital supremacy could decide a Taiwan war",
+     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTFdEQzMwcnUyY0hMb0d6X3U3S0RWNWtMRkFUVmUydHBGNXV4T0xCZUx3VmVIWGV4T01mUU1qOHBWbDcwQUFFaDB6Z0hnWnpIV2YyMHlDdW1rQjZmTDdiV2NZYk5TcFFUOF80ZE16V1gwRmtPelc2S1Y4ZmFXY1RFN0NhcHNJX2NseTJicWlUQnZXbVVFVzRF?oc=5",
+     "published": "2026-09-04T05:06:48Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Asia Times",
+     "source_domain": "asiatimes.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260904_656655",
+   "headline": "Defense Trio Races to Build China-Free Drones in Taiwan",
+   "headline_source": "Streetwise Reports",
+   "headline_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhxUVZROEZwN3NtekFQXzBEc050cGhCaGJTaGNmZno4amRpR0ZDdmd5ak91RXRndVFsX19WRV9SNjRiNEVZZFh5b0ZCTXRtVExGbTVIRW9Gak42UGwwUU92UXRCd3JzR2U1cE9Fek9MOXpvUU1MYi1QaWY5YU9XWktTNENxOGhmYnJrYlctZ3JXVEpROVQ0a183RXZzakRUNVg5ckF1UHRWMS05bC1aMGtuQQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-04T03:00:39Z",
+   "last_seen": "2026-09-04T03:00:39Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a88e684cab55da58"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a88e684cab55da58",
+     "title": "Defense Trio Races to Build China-Free Drones in Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhxUVZROEZwN3NtekFQXzBEc050cGhCaGJTaGNmZno4amRpR0ZDdmd5ak91RXRndVFsX19WRV9SNjRiNEVZZFh5b0ZCTXRtVExGbTVIRW9Gak42UGwwUU92UXRCd3JzR2U1cE9Fek9MOXpvUU1MYi1QaWY5YU9XWktTNENxOGhmYnJrYlctZ3JXVEpROVQ0a183RXZzakRUNVg5ckF1UHRWMS05bC1aMGtuQQ?oc=5",
+     "published": "2026-09-04T03:00:39Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Streetwise Reports",
+     "source_domain": "streetwisereports.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260904_505e67",
    "headline": "雨勢影響全台 中共10艘艦艇持續擾台",
@@ -9,7 +368,7 @@
    "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjcUppNUNBRG5wc19IM2hfdU56NndOT2pFcERRRndPdllpMXZTTG9tMnZWNUdjTzU4aHNwUWRvSzFmclM2WmtsVlJpZW9lcmNkUDhwbDVLTjR6UkVPeUxLOdIBZkFVX3lxTE1FYzBYVFQtcGUwQm1XSWE1TER1Tmk3X1czQnpsclcxR3NkSXczOEpsYnlEaTUzQzlrdm5nTzRpS05rR25hSE82SG9FME9fZDdwcnFoWGw1SjFvdEJiamVKVk9MX0Jjdw?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-04T02:16:00Z",
-   "last_seen": "2026-09-04T02:49:46Z",
+   "last_seen": "2026-09-04T02:43:45Z",
    "langs": [
     "zh"
    ],
@@ -20,7 +379,7 @@
     "grade_label": "단일 출처",
     "n_originals": 2,
     "n_unrated": 1,
-    "score": 27.9,
+    "score": 27.7,
     "n_independent": 1,
     "n_articles": 2,
     "n_domains": 2,
@@ -67,7 +426,7 @@
      "id": "d12ff90787afefb5",
      "title": "連2日零共機但灰帶襲擾不斷 共艦與海警船共10艘擾台 | 太報",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9mdDZTOVh4VDdBUUhPQVNZYjVIb2p1WWJOa3E2VmtveFpUdkstaUQxTE9FaDhaZlNDZVZnbVdvd0RmZWp2T1F1cnVycFE0NlpUbDNZbWFn?oc=5",
-     "published": "2026-09-04T02:49:46Z",
+     "published": "2026-09-04T02:43:45Z",
      "lang": "zh",
      "entities": [
       "aircraft_sortie",
@@ -82,6 +441,67 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260904_d5bc70",
+   "headline": "買戰鬥黑鷹或加裝自殺無人機？美軍最新實測指明台海防衛新出路",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VHktYmROdzVYdkV0ZWUzc2dTd3BQcmFsWGEyQTlacTVVYzlqMjUyb0habkFIR1g5aU9ZTy1zNWRDLUdVWkp6aUR2NjZvdi14QUtHdkVVZW5qRHZLVWpFUNIBZkFVX3lxTE84dXNzZS11VmZSZ1pMWTBWQXJjRjdXYk9CSXpZc3o3Q1hCd21CNWlZNmE5dFMzaFJHaFZMTW5WaVdxS2hLQmV5c1pjT2JWTzR0RGxLOWZ4MjVNcWwtenFwOTNHTWlYdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-04T02:37:00Z",
+   "last_seen": "2026-09-04T02:37:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b4216132a8f31815"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b4216132a8f31815",
+     "title": "買戰鬥黑鷹或加裝自殺無人機？美軍最新實測指明台海防衛新出路",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5VHktYmROdzVYdkV0ZWUzc2dTd3BQcmFsWGEyQTlacTVVYzlqMjUyb0habkFIR1g5aU9ZTy1zNWRDLUdVWkp6aUR2NjZvdi14QUtHdkVVZW5qRHZLVWpFUNIBZkFVX3lxTE84dXNzZS11VmZSZ1pMWTBWQXJjRjdXYk9CSXpZc3o3Q1hCd21CNWlZNmE5dFMzaFJHaFZMTW5WaVdxS2hLQmV5c1pjT2JWTzR0RGxLOWZ4MjVNcWwtenFwOTNHTWlYdw?oc=5",
+     "published": "2026-09-04T02:37:00Z",
+     "lang": "zh",
+     "entities": [
+      "drone",
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
@@ -234,8 +654,8 @@
    "headline_source": "thinkingtaiwan.net",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MTUdqV2xGWDFNb2NGTzNzcHhlVHZtRldFWkZ2bzcwMnlVeS0tWUg3QWZtbFZFOE1RTHd3bEt5ZDVvU3ZYeURxNTZ0NzMwTWZZbjY5bUR4cTg?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-04T00:04:53Z",
-   "last_seen": "2026-09-04T00:04:53Z",
+   "first_seen": "2026-09-04T00:04:38Z",
+   "last_seen": "2026-09-04T00:04:38Z",
    "langs": [
     "zh"
    ],
@@ -272,7 +692,7 @@
      "id": "8ca4c47b024e6619",
      "title": "台海防禦新格局 協同網絡重塑中 - 想想Thinking Taiwan - 想想台灣，想想未來",
      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1MTUdqV2xGWDFNb2NGTzNzcHhlVHZtRldFWkZ2bzcwMnlVeS0tWUg3QWZtbFZFOE1RTHd3bEt5ZDVvU3ZYeURxNTZ0NzMwTWZZbjY5bUR4cTg?oc=5",
-     "published": "2026-09-04T00:04:53Z",
+     "published": "2026-09-04T00:04:38Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait"
@@ -527,13 +947,13 @@
    ]
   },
   {
-   "id": "evt_20260903_656655",
-   "headline": "Defense Trio Races to Build China-Free Drones in Taiwan",
-   "headline_source": "Streetwise Reports",
-   "headline_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhxUVZROEZwN3NtekFQXzBEc050cGhCaGJTaGNmZno4amRpR0ZDdmd5ak91RXRndVFsX19WRV9SNjRiNEVZZFh5b0ZCTXRtVExGbTVIRW9Gak42UGwwUU92UXRCd3JzR2U1cE9Fek9MOXpvUU1MYi1QaWY5YU9XWktTNENxOGhmYnJrYlctZ3JXVEpROVQ0a183RXZzakRUNVg5ckF1UHRWMS05bC1aMGtuQQ?oc=5",
+   "id": "evt_20260903_914ab5",
+   "headline": "China Adds 20 Japanese Companies to Export Control List Amid Taiwan Tensions",
+   "headline_source": "newsonair.gov.in",
+   "headline_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1c4UUp3M01qZDkyUHU5MzlWQll6THB6V09DNjlGdmZGbDRnOXV1VldBQUZKbUlyODhFWkFTRzV4WU14MWFVWUJTclBDSWg3bHdJa2d3N0Fja2l1UHRzVENxX2tSMFMycXN0U1JvcDhITlFIS0FEdnlLdVBHRFY3cEk5aHhDVG5SNW9tMDN0TlRybHFBa2ZkZGtwc3c3S256UHNfMw?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-03T21:00:39Z",
-   "last_seen": "2026-09-03T21:00:39Z",
+   "first_seen": "2026-09-03T20:34:21Z",
+   "last_seen": "2026-09-03T20:34:21Z",
    "langs": [
     "en"
    ],
@@ -562,21 +982,19 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "a88e684cab55da58"
+     "802a70a4586f4ac3"
     ]
    },
    "articles": [
     {
-     "id": "a88e684cab55da58",
-     "title": "Defense Trio Races to Build China-Free Drones in Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUhxUVZROEZwN3NtekFQXzBEc050cGhCaGJTaGNmZno4amRpR0ZDdmd5ak91RXRndVFsX19WRV9SNjRiNEVZZFh5b0ZCTXRtVExGbTVIRW9Gak42UGwwUU92UXRCd3JzR2U1cE9Fek9MOXpvUU1MYi1QaWY5YU9XWktTNENxOGhmYnJrYlctZ3JXVEpROVQ0a183RXZzakRUNVg5ckF1UHRWMS05bC1aMGtuQQ?oc=5",
-     "published": "2026-09-03T21:00:39Z",
+     "id": "802a70a4586f4ac3",
+     "title": "China Adds 20 Japanese Companies to Export Control List Amid Taiwan Tensions",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQc1c4UUp3M01qZDkyUHU5MzlWQll6THB6V09DNjlGdmZGbDRnOXV1VldBQUZKbUlyODhFWkFTRzV4WU14MWFVWUJTclBDSWg3bHdJa2d3N0Fja2l1UHRzVENxX2tSMFMycXN0U1JvcDhITlFIS0FEdnlLdVBHRFY3cEk5aHhDVG5SNW9tMDN0TlRybHFBa2ZkZGtwc3c3S256UHNfMw?oc=5",
+     "published": "2026-09-03T20:34:21Z",
      "lang": "en",
-     "entities": [
-      "drone"
-     ],
-     "source_name": "Streetwise Reports",
-     "source_domain": "streetwisereports.com",
+     "entities": [],
+     "source_name": "newsonair.gov.in",
+     "source_domain": "newsonair.gov.in",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -650,7 +1068,7 @@
    "id": "evt_20260903_b3481a",
    "headline": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
    "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed",
+   "headline_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSjRUZzJ6LWs0a1ROam9DeXVEbXZCaVlKQVp3S2NiTnFjeG9yeTlzeEFGVWxSMnhaWVptalkzc2FCc2VOTUNGWmRSbWpTcTRLTGNXVlhHbW1qXzRjMWs3c1BSM1cwZWxrVF8tZTdsMEc5dG0yc2xWQkY0eElOejNmbkRxZl9jQlZzSkRIMmoyLTM1endCSXJpOGlEWnp0bk1NbkwwMk1sSEdlaEs0RXVYNHhrdS1ZNS1MOVlXTUZ3cjd6N0NrdFHSAcYBQVVfeXFMTUVyNk5fSmVZQmVfWndTdE9KTzVNQTFWZU5OVFBzaXpkemNWSDY2QWV1SlhzR0plSW4wWUtDREtuemwwYVVkeHNfWGVtWFVEalZMYkV4WlRPMnNELWZnMnZ1NFJWRE1YQTI0QVhXV0dBZEVYZWUyd1JyWmVCNVZIVkpFR0hFU19JWmFuR0laZVRkVk82NGFtZldtYmE0LUExVFR1NW1sdVNnZVRma00tS01meDEwQTBoT1pKNE8tLTBrUXZqX2dR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-03T14:00:08Z",
    "last_seen": "2026-09-03T14:00:08Z",
@@ -688,7 +1106,7 @@
     {
      "id": "60e69ded087b14ad",
      "title": "Extra funds push Taiwan’s defence spending past NT$1 trillion for the first time",
-     "url": "https://www.scmp.com/news/china/military/article/3366266/extra-funds-push-taiwans-defence-spending-past-nt1-trillion-first-time?utm_source=rss_feed",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPSjRUZzJ6LWs0a1ROam9DeXVEbXZCaVlKQVp3S2NiTnFjeG9yeTlzeEFGVWxSMnhaWVptalkzc2FCc2VOTUNGWmRSbWpTcTRLTGNXVlhHbW1qXzRjMWs3c1BSM1cwZWxrVF8tZTdsMEc5dG0yc2xWQkY0eElOejNmbkRxZl9jQlZzSkRIMmoyLTM1endCSXJpOGlEWnp0bk1NbkwwMk1sSEdlaEs0RXVYNHhrdS1ZNS1MOVlXTUZ3cjd6N0NrdFHSAcYBQVVfeXFMTUVyNk5fSmVZQmVfWndTdE9KTzVNQTFWZU5OVFBzaXpkemNWSDY2QWV1SlhzR0plSW4wWUtDREtuemwwYVVkeHNfWGVtWFVEalZMYkV4WlRPMnNELWZnMnZ1NFJWRE1YQTI0QVhXV0dBZEVYZWUyd1JyWmVCNVZIVkpFR0hFU19JWmFuR0laZVRkVk82NGFtZldtYmE0LUExVFR1NW1sdVNnZVRma00tS01meDEwQTBoT1pKNE8tLTBrUXZqX2dR?oc=5",
      "published": "2026-09-03T14:00:08Z",
      "lang": "en",
      "entities": [],
@@ -765,7 +1183,7 @@
    "id": "evt_20260903_d4d58a",
    "headline": "Annexing Taiwan? China revises defence law to seize assets, tech & enforce military service; Tightens Exit-entry rules",
    "headline_source": "organiser.org",
-   "headline_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVFyU2xqdkdDdDhOc2RfSDc1S1FtcmxTZXdmby1XRElyUVNxd2Q1UzNiOGNwNVpRZTdhMHZoYUpfM1djb1VJeDBZczJzX3VQYlFMTnVaOVBuZklHcVFPYnpFeDY4VmpoeGZLQXNIek1xOFM4eFpsdzNfRGl6amQwUE5WV0lHT1ZvaTRKY3Q0MzY1cXczUE9nWU9UUUtOSUUtMXktaGpZNklCb1FXaERtMVo1Yk1ubUhqalFfOFVtMkd5a29OZ1F0WVgxRFh5Z09M?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVFyU2xqdkdDdDhOc2RfSDc1S1FtcmxTZXdmby1XRElyUVNxd2Q1UzNiOGNwNVpRZTdhMHZoYUpfM1djb1VJeDBZczJzX3VQYlFMTnVaOVBuZklHcVFPYnpFeDY4VmpoeGZLQXNIek1xOFM4eFpsdzNfRGl6amQwUE5WV0lHT1ZvaTRKY3Q0MzY1cXczUE9nWU9UUUtOSUUtMXktaGpZNklCb1FXaERtMVo1Yk1ubUhqalFfOFVtMkd5a29OZ1F0WVgxRFh5Z09M0gHWAUFVX3lxTE5Uek9WcTVUQ01RQXJfVGNNOTRFX1VsUzg1MnktT1Q5VHo4a0NKN1lkQUJzVklsZDVfNVFFOTBMQjlrbmtsYlg2eWoyRlJKVXh5djVQdGEzazJxOTdkZHNkeC1kLXlpaG5aUWs0VXNYd0ozTDVNckdSYUp4cUtQRHJoa0Y0ajgzUWFwcWZGT1lHQjRjOWZrZ2RGSHVtVHNrNDQ4bk5CQjhlZENtdksyYlRZdk83aUtHbG84YXg4OU4yU3NOTTJoQnBaRDR1Y2pmc0xRV1JLNkE?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-03T12:32:49Z",
    "last_seen": "2026-09-03T12:32:49Z",
@@ -804,7 +1222,7 @@
     {
      "id": "ee6498428fa70ebb",
      "title": "Annexing Taiwan? China revises defence law to seize assets, tech & enforce military service; Tightens Exit-entry rules",
-     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVFyU2xqdkdDdDhOc2RfSDc1S1FtcmxTZXdmby1XRElyUVNxd2Q1UzNiOGNwNVpRZTdhMHZoYUpfM1djb1VJeDBZczJzX3VQYlFMTnVaOVBuZklHcVFPYnpFeDY4VmpoeGZLQXNIek1xOFM4eFpsdzNfRGl6amQwUE5WV0lHT1ZvaTRKY3Q0MzY1cXczUE9nWU9UUUtOSUUtMXktaGpZNklCb1FXaERtMVo1Yk1ubUhqalFfOFVtMkd5a29OZ1F0WVgxRFh5Z09M?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTVFyU2xqdkdDdDhOc2RfSDc1S1FtcmxTZXdmby1XRElyUVNxd2Q1UzNiOGNwNVpRZTdhMHZoYUpfM1djb1VJeDBZczJzX3VQYlFMTnVaOVBuZklHcVFPYnpFeDY4VmpoeGZLQXNIek1xOFM4eFpsdzNfRGl6amQwUE5WV0lHT1ZvaTRKY3Q0MzY1cXczUE9nWU9UUUtOSUUtMXktaGpZNklCb1FXaERtMVo1Yk1ubUhqalFfOFVtMkd5a29OZ1F0WVgxRFh5Z09M0gHWAUFVX3lxTE5Uek9WcTVUQ01RQXJfVGNNOTRFX1VsUzg1MnktT1Q5VHo4a0NKN1lkQUJzVklsZDVfNVFFOTBMQjlrbmtsYlg2eWoyRlJKVXh5djVQdGEzazJxOTdkZHNkeC1kLXlpaG5aUWs0VXNYd0ozTDVNckdSYUp4cUtQRHJoa0Y0ajgzUWFwcWZGT1lHQjRjOWZrZ2RGSHVtVHNrNDQ4bk5CQjhlZENtdksyYlRZdk83aUtHbG84YXg4OU4yU3NOTTJoQnBaRDR1Y2pmc0xRV1JLNkE?oc=5",
      "published": "2026-09-03T12:32:49Z",
      "lang": "en",
      "entities": [],
@@ -939,7 +1357,7 @@
   {
    "id": "evt_20260903_ea2dc1",
    "headline": "Is Taiwan Preparing for a Long War?",
-   "headline_source": "mwi.westpoint.edu",
+   "headline_source": "Modern War Institute -",
    "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAtMHMtbkpQSGJZQTY3QzFlblVLbHRBc3p2TVB4cjM5MmJ4WE1EZUhJR18taTNqR2VCbW9NYkotYUNpWTdrMllDNk9YcE5qUUhsS2R6MFFpcGhVTE40TFRMdTB3aVgwRlhjOFpjR1dR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-03T06:55:07Z",
@@ -983,7 +1401,7 @@
      "published": "2026-09-03T06:55:07Z",
      "lang": "en",
      "entities": [],
-     "source_name": "mwi.westpoint.edu",
+     "source_name": "Modern War Institute -",
      "source_domain": "mwi.westpoint.edu",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1295,64 +1713,6 @@
    ]
   },
   {
-   "id": "evt_20260903_efcf40",
-   "headline": "Taiwan detects Chinese military activity around its territory",
-   "headline_source": "lokmattimes.com",
-   "headline_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3pSRGJDTEtUd2pyUkFRMjg5Z1FRaHVNWTM5QWJ6V24wOTdKQml4SFJTa2VYYVdZU2hqVjVIWFVBUlJNbVRpMjVGdmh0THRoNzNHakRtdDZhRXhTZjRpTHh2X2R6MG9QZGlrUTBJakFGOTY5SnZldTdnQ3pvVWN6QV9FT2pNOFVsLUc0dU9uNVNmekZldG9QQW05VDhSNGtTT3l4U3p6UWfSAa8BQVVfeXFMTkpoa09TdWpBeDdWbjhaNjViTE4zQldYV3RoY3FNMWtuQVlNbkQ0bDEwMEh2YjZnZUtnLXVCeW9RNXBkbnJkMWQxdXZKckdpVURmNW9QallPQm5oQUt4MEpUN3RFeTFQbHQ1Q0ZZd3JyN0RiTmctX1RBWjZaa0pOWXJxbjdhQ21YWW5LSzYxMnJiLWVydlhqa3BxYWZHVDdwTVBRUjVNTDhaSEVUX1VrYw?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-03T04:45:20Z",
-   "last_seen": "2026-09-03T04:45:20Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "6bbed0fd47231ec6"
-    ]
-   },
-   "articles": [
-    {
-     "id": "6bbed0fd47231ec6",
-     "title": "Taiwan detects Chinese military activity around its territory",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOR3pSRGJDTEtUd2pyUkFRMjg5Z1FRaHVNWTM5QWJ6V24wOTdKQml4SFJTa2VYYVdZU2hqVjVIWFVBUlJNbVRpMjVGdmh0THRoNzNHakRtdDZhRXhTZjRpTHh2X2R6MG9QZGlrUTBJakFGOTY5SnZldTdnQ3pvVWN6QV9FT2pNOFVsLUc0dU9uNVNmekZldG9QQW05VDhSNGtTT3l4U3p6UWfSAa8BQVVfeXFMTkpoa09TdWpBeDdWbjhaNjViTE4zQldYV3RoY3FNMWtuQVlNbkQ0bDEwMEh2YjZnZUtnLXVCeW9RNXBkbnJkMWQxdXZKckdpVURmNW9QallPQm5oQUt4MEpUN3RFeTFQbHQ1Q0ZZd3JyN0RiTmctX1RBWjZaa0pOWXJxbjdhQ21YWW5LSzYxMnJiLWVydlhqa3BxYWZHVDdwTVBRUjVNTDhaSEVUX1VrYw?oc=5",
-     "published": "2026-09-03T04:45:20Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "lokmattimes.com",
-     "source_domain": "lokmattimes.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260903_14768f",
    "headline": "China Coast Guard carries out routine patrol east of Taiwan Island",
    "headline_source": "China Daily",
@@ -1488,6 +1848,246 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_f04b7a",
+   "headline": "Mainland China stepping up preparations for Taiwan blockade, report says",
+   "headline_source": "SCMP",
+   "headline_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2I0ZjRETzM2M1cxdVFBZmwtSktpcHdYOUxMUTd2ZVNpaElyd2lwaks0MzJLT2RBMkR3LW5IMy1yTkZkTkJHWExoNEFrczk4ei16ZG05Vmdib25XZHdmZFpYMXFsRlozZ2lKMG5iUzVOWXFYdUVJcTlYZEdzX1dmbzVoWVhaZ3hpc0h6b3NZbjVUWFBWeWJhSk9oOGEtSVJza0dxS25iRXc5Q1F4NUE4N3pqcW5XamF5SWhtVS1R0gG-AUFVX3lxTE53OTRySVRKcW5qeXFzcFB1OXI2V3BXcjdkX2pyTWs2LUx2MHVOZFZKbUNNeTMtWTdHY0RBWXExdnRPMDN3WEhZVzcydTZ1VVRmellvS2M1UnFwTi10a2hueVV3cjYtYUNoYzA3MnV1X3pXNUh3bXZVRGVxSWFQN0J0Nm1XRG85QlR6dGJWeG9XUkplNTF4bkdaWnlYQWV0emdBNlRjQjBCdnNTNFgyMzlMRFN6UWtoSl9MZUZ6dUE?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-01T22:00:12Z",
+   "last_seen": "2026-09-03T04:37:00Z",
+   "langs": [
+    "en",
+    "ko"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 5,
+    "n_unrated": 3,
+    "score": 68.8,
+    "n_independent": 2,
+    "n_articles": 7,
+    "n_domains": 7,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "정부·군 공식 발표 인용",
+     "SCMP 원고를 UA.NEWS·Taiwan News 가 전재 — 1곳으로 계산",
+     "미분류 매체 3곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "c8d579fb6b3a413c",
+     "a3ba26702c9c7fc6",
+     "2de3982d9b97ec52",
+     "feb0f9b31024e8b6",
+     "84d0017232287139",
+     "3ae8141c7c346360",
+     "62fdd9d1fbbda7d3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c8d579fb6b3a413c",
+     "title": "Mainland China stepping up preparations for Taiwan blockade, report says",
+     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPX2I0ZjRETzM2M1cxdVFBZmwtSktpcHdYOUxMUTd2ZVNpaElyd2lwaks0MzJLT2RBMkR3LW5IMy1yTkZkTkJHWExoNEFrczk4ei16ZG05Vmdib25XZHdmZFpYMXFsRlozZ2lKMG5iUzVOWXFYdUVJcTlYZEdzX1dmbzVoWVhaZ3hpc0h6b3NZbjVUWFBWeWJhSk9oOGEtSVJza0dxS25iRXc5Q1F4NUE4N3pqcW5XamF5SWhtVS1R0gG-AUFVX3lxTE53OTRySVRKcW5qeXFzcFB1OXI2V3BXcjdkX2pyTWs2LUx2MHVOZFZKbUNNeTMtWTdHY0RBWXExdnRPMDN3WEhZVzcydTZ1VVRmellvS2M1UnFwTi10a2hueVV3cjYtYUNoYzA3MnV1X3pXNUh3bXZVRGVxSWFQN0J0Nm1XRG85QlR6dGJWeG9XUkplNTF4bkdaWnlYQWV0emdBNlRjQjBCdnNTNFgyMzlMRFN6UWtoSl9MZUZ6dUE?oc=5",
+     "published": "2026-09-01T22:00:12Z",
+     "lang": "en",
+     "entities": [
+      "blockade"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
+    {
+     "id": "a3ba26702c9c7fc6",
+     "title": "Taiwan says China is stepping up preparations for a blockade of the island",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZ29wb1otS3JoZV9wTkFTWUhqNkh6dGYxQW1EU09DQjFCNE9nSGRXRGZJRmlqZWxGeDNpLTAyY3Vpc3pRTGhRQlJvWmlSRi1yMUc4aU9WQ3lkclBmaUk0bENEWTc1aXB0WlhCckdOYkxNNTdaNmVYU0lvbGJhXzI5bUM4ZXoxemNuTEdLc2RyT1F3NmRnR1E?oc=5",
+     "published": "2026-09-01T22:22:48Z",
+     "lang": "en",
+     "entities": [
+      "blockade"
+     ],
+     "source_name": "UA.NEWS",
+     "source_domain": "ua.news",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "2de3982d9b97ec52",
+     "title": "중국군 '대만 봉쇄' 훈련 본격화...대만도 '고립 대비' 맞훈련",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40eXlTTzFNWnJMV284M1MtbWtXSE5aaE5RSElvX08zZTBIY09IYmlPWm9xZ1R0YUxIWUtJMjVXd3FfOTJGSzVEcUpOMHdyc0xMemw4WV95YlRUTWRFRTRnb1JiNXJMcEF3ZVZTUnZnZ0VsUQ?oc=5",
+     "published": "2026-09-02T00:54:03Z",
+     "lang": "ko",
+     "entities": [
+      "blockade",
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "아세안데일리 뉴스",
+     "source_domain": "aseandaily.co.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "feb0f9b31024e8b6",
+     "title": "우크라이나·중동 전장 그대로 복사한 중국군… 대만 봉쇄 시나리오의 실체 [밀리터리노트]",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tbWROd1ItZ01zc3JNT2lmMzRjNDZ1RGYwMzRkNlpTQUFQd1FnTlI4bmlSTGQ4dE1uaUNyenVVUVZkZkNDcHIzZUJlZm52YVg2UUpUcy1oZ25KTW5tT1dYckh4Vll6QVlOVjNZRXdzZVRXck4zVjVCVVBYR2dBenM?oc=5",
+     "published": "2026-09-02T06:25:40Z",
+     "lang": "ko",
+     "entities": [
+      "blockade",
+      "pla"
+     ],
+     "source_name": "서울신문",
+     "source_domain": "seoul.co.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "84d0017232287139",
+     "title": "“중국, 대만 봉쇄 대비해 만반의 준비” 대만 국방부의 경고",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jVW1MNTFFNzRGcE5pMkI0dS1VdWg0eG5Md2RtY1FHWEltdXRLbUsxY2JqZlU5VUJVWmNPbUczaXdqSlRBN1IwNjJQOWFwbmFpRUHSAVNBVV95cUxQdmJ0VG1Ma3JNSlBhSXpTdGczc1U3emtzWjl3Zmpwd1ZYQjJIQ1EwZEpFUmh0U2twU210Q3I0azlZelZxbDNLX1dDRjRHX2VVZkY0WQ?oc=5",
+     "published": "2026-09-02T21:00:00Z",
+     "lang": "ko",
+     "entities": [
+      "blockade",
+      "tw_mnd"
+     ],
+     "source_name": "서울경제",
+     "source_domain": "sedaily.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "3ae8141c7c346360",
+     "title": "Taiwan Warns China Is Preparing Fully for Blockade",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUldocWk5dWJmWVNHOXpnTVh2SlNLRFowOXFjUnNkZWVneFNJVzNnTWxXWVNlbHJIUWhPVHltbXBHeWF4VlE5QnA1ZmVna3hYa051Rl9RQTAtaUVBSkpjWWwwU2ZvT016R3JuZzVhT1RTTDJNWEVpQm92dDdYYnV4OURDZGZ5XzNaNmxBeEdnaTc1M3hLUGVoVGIwSkhKeTg?oc=5",
+     "published": "2026-09-02T21:00:05Z",
+     "lang": "en",
+     "entities": [
+      "blockade"
+     ],
+     "source_name": "Seoul Economic Daily",
+     "source_domain": "en.sedaily.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "62fdd9d1fbbda7d3",
+     "title": "Taiwan says China is stepping up blockade capabilities",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE85QThuSzhmQm03TDJGRmNlWklyVVRjZm5Jd2VIMEdRZVZ4WWVtNFdzbm5Xbmdnd1lSNEhLY2kybDFZR0UwcWd1MHRsLVNjWU9WSXgweQ?oc=5",
+     "published": "2026-09-03T04:37:00Z",
+     "lang": "en",
+     "entities": [
+      "blockade"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260903_efcf40",
+   "headline": "Taiwan detects Chinese military activity around its territory",
+   "headline_source": "ANI",
+   "headline_url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3FiUjR4Y3Vjc21xaHYyVzE5WWpFOHlfQ0RSejVDeWZGNkpnaDlnYzEzUWNkaVNBVUVDSHl4N1daUDRtYzkydlp5cEJPSTRmcHNvb0Z2d3NyNzBiaUdmQ2JJX2lWb1E1UXhhQnRoZ0Nzem1XaUplME1ScmQxd0hlZk0zQ3pJalptUktmRGV4V0J4YWVraXM0azJaaUZOZ21Yb1pqUUdXWFotYnpmVHFUVW9uTlo?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-03T04:22:00Z",
+   "last_seen": "2026-09-03T04:22:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "6bbed0fd47231ec6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "6bbed0fd47231ec6",
+     "title": "Taiwan detects Chinese military activity around its territory",
+     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3FiUjR4Y3Vjc21xaHYyVzE5WWpFOHlfQ0RSejVDeWZGNkpnaDlnYzEzUWNkaVNBVUVDSHl4N1daUDRtYzkydlp5cEJPSTRmcHNvb0Z2d3NyNzBiaUdmQ2JJX2lWb1E1UXhhQnRoZ0Nzem1XaUplME1ScmQxd0hlZk0zQ3pJalptUktmRGV4V0J4YWVraXM0azJaaUZOZ21Yb1pqUUdXWFotYnpmVHFUVW9uTlo?oc=5",
+     "published": "2026-09-03T04:22:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "ANI",
+     "source_domain": "aninews.in",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -2034,8 +2634,8 @@
    "headline_source": "LINE TODAY",
    "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyOGVBQUZrRS1Ed1B5XzQwSkVCQktfUjg0dE44X2s0MHlLeGp4OUw5SlZkWE90eVk3ODlYOER5YTV4ZVJZQXFUV3BUbnozdlR1VFZweW53?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-02T14:18:04Z",
-   "last_seen": "2026-09-02T14:18:04Z",
+   "first_seen": "2026-09-02T14:22:28Z",
+   "last_seen": "2026-09-02T14:22:28Z",
    "langs": [
     "zh"
    ],
@@ -2072,7 +2672,7 @@
      "id": "fc154166f25a541d",
      "title": "〈社論〉兩岸問題絕對不能以軍事手段解決！ | 中華日報",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyOGVBQUZrRS1Ed1B5XzQwSkVCQktfUjg0dE44X2s0MHlLeGp4OUw5SlZkWE90eVk3ODlYOER5YTV4ZVJZQXFUV3BUbnozdlR1VFZweW53?oc=5",
-     "published": "2026-09-02T14:18:04Z",
+     "published": "2026-09-02T14:22:28Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait"
@@ -3105,12 +3705,12 @@
    ]
   },
   {
-   "id": "evt_20260901_e0acf9",
-   "headline": "中國3架次軍機擾台 進入北部、東部空域",
+   "id": "evt_20260902_e0acf9",
+   "headline": "中國1架次軍機擾台 進入北部空域",
    "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fY1NoMFoxLUN0NUZSMmtJNWcyTmRMQzEtTEdwVmliY0hXZHBhaEpudkNSNndUaG1fUXdKLVlqOXowaldVWHpNenRpS29tSGtOb3dXbVhpUThFTDBPb2YtatIBZkFVX3lxTE9lRFZUOG85NjlGZV9mRG8xenRkNHlTS3E1TDluOXVYcWdxOGUyekRPM3F6STc3UjBlTktEZXNwNGo4VFd2cGxMSU03S0pUbFNZNkM3SUhMTEl1bGxERzloUFJqM2NmUQ?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5oc0xRN1NDS0R4TmhfRTlkc0llMmVudGJjVlF0bDdnd1daR0hEWW9tMUFrVG0tVUduQVN2VUlnNWdIOEZtRENvMjhLeDhhUmVwV2JCNkdPX3RvMTktTjh1NNIBZkFVX3lxTE1tTk12OUZDZlNhYVpOREZlTE5JaVhneDdhWEkxcjh2YmdpVkJtWndSVWM5U2g2NGppd3RhMDV3dlpCc0NPVXBQSmdVeXg0ejVycTVWekJDaTJVVDNNMGkwUkMyV2l3dw?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-01T01:41:00Z",
+   "first_seen": "2026-09-02T01:40:00Z",
    "last_seen": "2026-09-02T01:40:00Z",
    "langs": [
     "zh"
@@ -3120,11 +3720,11 @@
     "grade": "C",
     "d_reason": null,
     "grade_label": "단일 출처",
-    "n_originals": 2,
+    "n_originals": 1,
     "n_unrated": 0,
-    "score": 31.8,
+    "score": 25.8,
     "n_independent": 1,
-    "n_articles": 2,
+    "n_articles": 1,
     "n_domains": 1,
     "blocs": [
      "independent"
@@ -3139,30 +3739,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "eaa867a0db2ba940",
      "32fa812459ff6d78"
     ]
    },
    "articles": [
-    {
-     "id": "eaa867a0db2ba940",
-     "title": "中國3架次軍機擾台 進入北部、東部空域",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fY1NoMFoxLUN0NUZSMmtJNWcyTmRMQzEtTEdwVmliY0hXZHBhaEpudkNSNndUaG1fUXdKLVlqOXowaldVWHpNenRpS29tSGtOb3dXbVhpUThFTDBPb2YtatIBZkFVX3lxTE9lRFZUOG85NjlGZV9mRG8xenRkNHlTS3E1TDluOXVYcWdxOGUyekRPM3F6STc3UjBlTktEZXNwNGo4VFd2cGxMSU03S0pUbFNZNkM3SUhMTEl1bGxERzloUFJqM2NmUQ?oc=5",
-     "published": "2026-09-01T01:41:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
     {
      "id": "32fa812459ff6d78",
      "title": "中國1架次軍機擾台 進入北部空域",
@@ -3239,66 +3819,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260901_42ecae",
-   "headline": "Mainland China stepping up preparations for Taiwan blockade, report says",
-   "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says?utm_source=rss_feed",
-   "headline_lang": "en",
-   "first_seen": "2026-09-01T22:00:12Z",
-   "last_seen": "2026-09-01T22:00:12Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 32.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "정부·군 공식 발표 인용"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "c8d579fb6b3a413c"
-    ]
-   },
-   "articles": [
-    {
-     "id": "c8d579fb6b3a413c",
-     "title": "Mainland China stepping up preparations for Taiwan blockade, report says",
-     "url": "https://www.scmp.com/news/china/military/article/3366011/mainland-china-stepping-preparations-taiwan-blockade-report-says?utm_source=rss_feed",
-     "published": "2026-09-01T22:00:12Z",
-     "lang": "en",
-     "entities": [
-      "blockade"
-     ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
      "hedged": false
     }
    ]
@@ -4020,6 +4540,63 @@
    ]
   },
   {
+   "id": "evt_20260901_1395d1",
+   "headline": "China-Taiwan tensions weigh on Pacific leaders meeting",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-01T08:59:57Z",
+   "last_seen": "2026-09-01T08:59:57Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1afb1a575c9e0687"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1afb1a575c9e0687",
+     "title": "China-Taiwan tensions weigh on Pacific leaders meeting",
+     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbk54R0FXekgzSkFrRUZRVjFKZUdDdmNfaDF6ZGRJMzlqdXd2NG5iTEYyS21MUkRWX3BWVWREVS04SjIzOVQ1Qm5aa0tNcHNQZno3M0JacjFoSEVmdkFyakN0RGlmZ3BYTFpaeGVFQ3JFVUtLY2RxSDRDWVlhQzFyNDVuM2FYQnVBeTU0OXo1UEllajdzZUZPWmxJdmxFMkc4UTFfMXBZTVNIZGNfZ25zOGV6VWJVRDhMZnhIQw?oc=5",
+     "published": "2026-09-01T08:59:57Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260901_d2515d",
    "headline": "New report shows PLA prioritizing joint island-landing capabilities: Analyst",
    "headline_source": "中央社 CNA",
@@ -4415,6 +4992,67 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_9918db",
+   "headline": "Update: Redeveloped Saudel Over the South China Sea, Drifts Toward Taiwan Strait",
+   "headline_source": "Weathernews",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ta2xnZVlPUXhndzFuWU1OY0tLN2xKcnZCZ1N3Y0Ftbmp5dzhWN21jaWdOS0xBNmVBVDNRNnBEcHhzNzgzcmNnVUh0Q1M4U2FqMEZUcFRGUzlDN2dY?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-01T07:10:46Z",
+   "last_seen": "2026-09-01T07:10:46Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "01f063b9222530d3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "01f063b9222530d3",
+     "title": "Update: Redeveloped Saudel Over the South China Sea, Drifts Toward Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE0ta2xnZVlPUXhndzFuWU1OY0tLN2xKcnZCZ1N3Y0Ftbmp5dzhWN21jaWdOS0xBNmVBVDNRNnBEcHhzNzgzcmNnVUh0Q1M4U2FqMEZUcFRGUzlDN2dY?oc=5",
+     "published": "2026-09-01T07:10:46Z",
+     "lang": "en",
+     "entities": [
+      "south_china_sea",
+      "taiwan_strait"
+     ],
+     "source_name": "Weathernews",
+     "source_domain": "sea.weathernews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
@@ -4902,7 +5540,7 @@
   {
    "id": "evt_20260901_b7f0b5",
    "headline": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chinese invasion",
-   "headline_source": "businessinsider.com",
+   "headline_source": "Business Insider",
    "headline_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTllDc09PcHhnUnFLUGJCVmk1cGdsaVhjVlhMUEp0ZVQ3c3RXRzlOTGFlZjNpLUR4YzJINV95OUNjaHRyNXMwR2xRNUxIckNTWDVIUXplQTNIU3MxTG1oYlh6Z2dHalp1SjlMNFgwOVhnU2NkdnBJMGQ2d2JkTU9mOXBWRjNfODEyVWZIUjBoSzBlNnhycEN0SzlicVZ1YTdLbmNJVEprNA?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-01T05:19:00Z",
@@ -4950,7 +5588,7 @@
       "military_drill",
       "rehearsal"
      ],
-     "source_name": "businessinsider.com",
+     "source_name": "Business Insider",
      "source_domain": "businessinsider.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5078,6 +5716,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260901_dff5a2",
+   "headline": "中國13項侵台指標「11點已亮燈」 學者揭共軍3大問題：無法迴避",
+   "headline_source": "三立新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TY3lUYVN0R1JQU0tSbHdWaGZFZmNCMGxuSnpQdWJMM19XN2l3UmkteWZYTHhBdVZJMTB3SS10U0RfVkY3V0h3a9IBTEFVX3lxTFBhQUx4dU9LWi1JbDdWNk1Wd3ZYWXNYaVd5aGNRUmh3dnRENWx2S1FkWXJDRFJ5bDhCOTVVSlBwNzNLZmE3aEdfT2pTTGw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-01T04:19:00Z",
+   "last_seen": "2026-09-01T04:19:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "7c5d801a6828621a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "7c5d801a6828621a",
+     "title": "中國13項侵台指標「11點已亮燈」 學者揭共軍3大問題：無法迴避",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TY3lUYVN0R1JQU0tSbHdWaGZFZmNCMGxuSnpQdWJMM19XN2l3UmkteWZYTHhBdVZJMTB3SS10U0RfVkY3V0h3a9IBTEFVX3lxTFBhQUx4dU9LWi1JbDdWNk1Wd3ZYWXNYaVd5aGNRUmh3dnRENWx2S1FkWXJDRFJ5bDhCOTVVSlBwNzNLZmE3aEdfT2pTTGw?oc=5",
+     "published": "2026-09-01T04:19:00Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "pla"
+     ],
+     "source_name": "三立新聞",
+     "source_domain": "setn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
      "hedged": false
     }
    ]
@@ -5496,64 +6194,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260901_1395d1",
-   "headline": "China-Taiwan tensions weigh on Pacific leaders meeting",
-   "headline_source": "StreetInsider",
-   "headline_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3pLenlaRzZpRGQ5N21XcmdFVC1FYmdyMlVtVGpEeW5fY3VNWWQ2alFReV8tZnBnaF8tZzc3bnp4YmdBVXZneTBlbFNvbDllcHc5MGNUcnNNZ21EblRndVk4YXNMWHdFM3RETm9RS3dwMTRuWGpzVWpsRzVCellkTmt6cnlIUEU3UE01VDFwUG5reUJjRk94R2ZIRHBtTnUxRmpqVWVQOUplUQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-01T00:57:23Z",
-   "last_seen": "2026-09-01T00:57:23Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "1afb1a575c9e0687"
-    ]
-   },
-   "articles": [
-    {
-     "id": "1afb1a575c9e0687",
-     "title": "China-Taiwan tensions weigh on Pacific leaders meeting",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3pLenlaRzZpRGQ5N21XcmdFVC1FYmdyMlVtVGpEeW5fY3VNWWQ2alFReV8tZnBnaF8tZzc3bnp4YmdBVXZneTBlbFNvbDllcHc5MGNUcnNNZ21EblRndVk4YXNMWHdFM3RETm9RS3dwMTRuWGpzVWpsRzVCellkTmt6cnlIUEU3UE01VDFwUG5reUJjRk94R2ZIRHBtTnUxRmpqVWVQOUplUQ?oc=5",
-     "published": "2026-09-01T00:57:23Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "StreetInsider",
-     "source_domain": "streetinsider.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
