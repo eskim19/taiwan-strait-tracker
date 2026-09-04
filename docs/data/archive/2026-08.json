@@ -529,7 +529,7 @@
      "published": "2026-08-31T14:16:00Z",
      "lang": "en",
      "entities": [],
-     "source_name": "breakingthenews.net",
+     "source_name": "Breakingthenews.net",
      "source_domain": "breakingthenews.net",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2460,7 +2460,7 @@
   {
    "id": "evt_20260830_ab2c2f",
    "headline": "If China invades Taiwan, it could attack Penghu Islands first",
-   "headline_source": "bignewsnetwork.com",
+   "headline_source": "Big News Network.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQLWoyUnlhTGVwVHlSTm5fOHBkSk5VajdBTEl0NG5nRy1uRU9vV2JETlIteGlFOFI3dTRSZnpnaG1ybV8ydmhVSVVxWFJHN0pSRkZhemwwa1ROTFFMQW94Nk9yR1piQkRadjRKRWVib1VMbF9SZHM5V0RmTVBHanRhV0ZEaXA4dWdMOGxiVjB6enk3aENYRm9GQlMwbzBodml1bV9aLURLcFFXZw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-30T22:32:00Z",
@@ -2507,7 +2507,7 @@
       "invasion",
       "penghu"
      ],
-     "source_name": "bignewsnetwork.com",
+     "source_name": "Big News Network.com",
      "source_domain": "bignewsnetwork.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -12306,7 +12306,7 @@
   {
    "id": "evt_20260823_d0155a",
    "headline": "U.S. Navy Flies Long Range Submarine Hunter Jet Through Taiwan Strait",
-   "headline_source": "Military Watch Magazine",
+   "headline_source": "militarywatchmagazine.com",
    "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5ZdzFRU3BYald5WkRURndDUzdsWElKeUQ2RnRzR1BidWc3UTQtVk5jZlJ6d1RIWWZxUVZQX3NkUWVNcHdYRHgzbW0yX0JIeEEtODdtOG84VGl6eDJTTHBjaEdFMXFDOFBIcTFQOTFWMTVuQlljWUpaczdXNmpsdw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-08-23T07:00:00Z",
@@ -12354,7 +12354,7 @@
       "taiwan_strait",
       "us_military"
      ],
-     "source_name": "Military Watch Magazine",
+     "source_name": "militarywatchmagazine.com",
      "source_domain": "militarywatchmagazine.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -13728,7 +13728,7 @@
    ]
   },
   {
-   "id": "evt_20260821_24e612",
+   "id": "evt_20260821_37f7e3",
    "headline": "US Navy aircraft transits Taiwan Strait before planned Xi-Trump meeting",
    "headline_source": "Reuters",
    "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZVZ5QXlJdUphUk9mZFZtcDlkNXZyY2gzLUFwV0tQSjllVks1bS1GMm41Q2RYamZGcTBJMEtDa1JfREpJSFNvTkQtTjBZZFg0UXpWRjFDQ2RwU3Q3enlkWkVMUEluU2FRTmhCdFk1cFdGSzlVMW5KanEtRjdWajAxVHN3NGhzSXdlNEFwRTVlTU80VlBzV3BBQkd5Ui0?oc=5",
@@ -13743,12 +13743,12 @@
     "grade": "B",
     "d_reason": null,
     "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 36.6,
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 35.4,
     "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 3,
+    "n_domains": 3,
     "blocs": [
      "independent",
      "unknown"
@@ -13758,13 +13758,14 @@
     "reasons": [
      "독립 출처 1곳",
      "최고 등급 통신사·공영",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+     "Reuters 원고를 Taiwan News·BusinessToday Malaysia 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
      "9b0cf2d3c0e844b8",
+     "06df80210601b1d9",
      "a57066f1cfca3c8d"
     ]
    },
@@ -13784,6 +13785,25 @@
      "source_domain": "reuters.com",
      "tier": "T1",
      "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "06df80210601b1d9",
+     "title": "US Navy patrol aircraft transits Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5PdnVsbFI5NWxRTUJCLWtlem90czFrWjFrMTgtM2M3Sk5mYVZDSEVBSkx5WWFUM3V6MlZlQl9jUmVQZEZsU1Axa2J0eTlSX2lOTGZUeg?oc=5",
+     "published": "2026-08-22T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "us_military"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
