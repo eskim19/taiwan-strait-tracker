@@ -233,7 +233,7 @@
       "han_kuang",
       "rehearsal"
      ],
-     "source_name": "SSBCrack",
+     "source_name": "news.ssbcrack.com",
      "source_domain": "news.ssbcrack.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -6641,6 +6641,67 @@
    ]
   },
   {
+   "id": "evt_20260827_2504a7",
+   "headline": "国防部：赖清德当局穷兵黩武 掏空台湾家底",
+   "headline_source": "CCTV 中央電視台",
+   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YTzdicWFZRlptbng2bDlmX0VQUlU4VFJkNHd2bWNacWJmZ3VXRlZVWEdIVEswdGEwd0FJT3RkVm1nVFlmRkkyQmotMXViY1p5VjFwNWdzXzQxTGRIV3FSM0NlMC1sUWFuRHJ0SlYwTWQybG9rQlFnbWRJVnU5UQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-08-27T07:00:00Z",
+   "last_seen": "2026-08-27T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 27.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "ec1d094901ffabbf"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "ec1d094901ffabbf",
+     "title": "国防部：赖清德当局穷兵黩武 掏空台湾家底",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9YTzdicWFZRlptbng2bDlmX0VQUlU4VFJkNHd2bWNacWJmZ3VXRlZVWEdIVEswdGEwd0FJT3RkVm1nVFlmRkkyQmotMXViY1p5VjFwNWdzXzQxTGRIV3FSM0NlMC1sUWFuRHJ0SlYwTWQybG9rQlFnbWRJVnU5UQ?oc=5",
+     "published": "2026-08-27T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "tw_mnd"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260827_c90e05",
    "headline": "China Deploys Record 244 Ships Around Taiwan for Submarine Mapping",
    "headline_source": "streamlinefeed.co.ke",
@@ -7107,67 +7168,6 @@
      "lang": "zh",
      "entities": [
       "taiwan_strait",
-      "tw_mnd"
-     ],
-     "source_name": "環球網",
-     "source_domain": "huanqiu.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260826_2504a7",
-   "headline": "国防部：赖清德当局穷兵黩武 掏空台湾家底",
-   "headline_source": "環球網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMEtqS196dW5nd0xkTzBaX2dVdVVtZFZveks4VUI2RGZIdm1YVlRjYzFjRU1odUZJejhuX1pPdlAzWU1SN2lUUjVsaHZuUk5hWDJ5TnpB?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-08-26T16:13:00Z",
-   "last_seen": "2026-08-26T16:13:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 27.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "ec1d094901ffabbf"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "ec1d094901ffabbf",
-     "title": "国防部：赖清德当局穷兵黩武 掏空台湾家底",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FMEtqS196dW5nd0xkTzBaX2dVdVVtZFZveks4VUI2RGZIdm1YVlRjYzFjRU1odUZJejhuX1pPdlAzWU1SN2lUUjVsaHZuUk5hWDJ5TnpB?oc=5",
-     "published": "2026-08-26T16:13:00Z",
-     "lang": "zh",
-     "entities": [
       "tw_mnd"
      ],
      "source_name": "環球網",
