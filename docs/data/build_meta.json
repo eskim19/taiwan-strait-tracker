@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-05T10:39:09Z",
+ "updated": "2026-09-05T15:17:27Z",
  "checked": "2026-09-05",
- "duration_sec": 36.2,
+ "duration_sec": 32.5,
  "rolling_days": 14,
- "n_events": 332,
- "n_articles": 366,
+ "n_events": 330,
+ "n_articles": 362,
  "grades": {
-  "D": 180,
-  "C": 130,
-  "B": 22
+  "D": 178,
+  "C": 132,
+  "B": 20
  },
  "cross_language_events": 5,
  "tension_error": null,
@@ -18,9 +18,9 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
+  "T1": 13,
   "T2": 136,
-  "T3": 70,
+  "T3": 68,
   "T4": 12,
   "T5": 123,
   "TA": 3
@@ -30,7 +30,6 @@
   "aljazeera.com",
   "aninews.in",
   "france24.com",
-  "pts.org.tw",
   "reuters.com",
   "rfi.fr",
   "yna.co.kr"
@@ -44,7 +43,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 31,
+   "n_adopted": 29,
    "newest": "2026-09-05T07:39:06+00:00",
    "stale": false,
    "error": null
@@ -56,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
-   "n_adopted": 28,
-   "newest": "2026-09-05T07:42:15+00:00",
+   "n_entries": 56,
+   "n_adopted": 30,
+   "newest": "2026-09-05T11:24:00+00:00",
    "stale": false,
    "error": null
   },
@@ -83,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 56,
-   "newest": "2026-09-05T07:59:00+00:00",
+   "n_adopted": 55,
+   "newest": "2026-09-05T14:34:00+00:00",
    "stale": false,
    "error": null
   },
@@ -109,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-09-05T08:43:05+00:00",
+   "n_adopted": 7,
+   "newest": "2026-09-05T12:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -121,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 3,
-   "newest": "2026-09-05T09:27:56+00:00",
+   "n_entries": 51,
+   "n_adopted": 4,
+   "newest": "2026-09-05T12:28:07+00:00",
    "stale": false,
    "error": null
   },
@@ -148,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-09-05T10:00:09+00:00",
+   "n_adopted": 1,
+   "newest": "2026-09-05T14:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-09-05T06:05:16+00:00",
+   "newest": "2026-09-05T13:42:39+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +213,7 @@
    "http": 200,
    "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-09-05T00:33:48+00:00",
+   "newest": "2026-09-05T14:07:38+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-05T09:56:53+00:00",
+   "newest": "2026-09-05T14:07:52+00:00",
    "stale": false,
    "error": null
   },
@@ -267,6 +266,11 @@
    "sample_title": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chine"
   },
   {
+   "domain": "knews.com.tw",
+   "n_articles": 3,
+   "sample_title": "30年前台海飛彈危機 卓榮泰：台灣勵精圖治組建出新式戰鬥部隊"
+  },
+  {
    "domain": "upmedia.mg",
    "n_articles": 3,
    "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
@@ -275,11 +279,6 @@
    "domain": "guardian.ng",
    "n_articles": 3,
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
-  },
-  {
-   "domain": "kinliu.hk",
-   "n_articles": 3,
-   "sample_title": "烏爾曼錯了！九月「習特會」或涉及美軍撤出台海 文：孫榮富"
   },
   {
    "domain": "ttv.com.tw",
@@ -312,9 +311,9 @@
    "sample_title": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget"
   },
   {
-   "domain": "knews.com.tw",
+   "domain": "koreancenter.or.kr",
    "n_articles": 2,
-   "sample_title": "聯大8日登場！我訴求聯合國適當方式接納台灣 承諾：和平解決台海爭端"
+   "sample_title": "대만 \"중국군 대만침공 준비 가속…2030∼2035년 완료 전망\""
   },
   {
    "domain": "hk.crntt.com",
@@ -325,6 +324,11 @@
    "domain": "dominotheory.com",
    "n_articles": 2,
    "sample_title": "A Routine Naval Exercise Could Draw Indonesia Into China’s Taiwan Strategy"
+  },
+  {
+   "domain": "kinliu.hk",
+   "n_articles": 2,
+   "sample_title": "烏爾曼錯了！九月「習特會」或涉及美軍撤出台海 文：孫榮富"
   },
   {
    "domain": "wionews.com",
@@ -340,11 +344,6 @@
    "domain": "newsonair.gov.in",
    "n_articles": 1,
    "sample_title": "China Adds 20 Japanese Companies to Export Control List Amid Taiwan Tensions"
-  },
-  {
-   "domain": "freepresskashmir.news",
-   "n_articles": 1,
-   "sample_title": "20 Chinese aircraft crossed Taiwan Strait median line, Taiwan says"
   }
  ]
 }
