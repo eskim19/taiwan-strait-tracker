@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-06T04:43:38Z",
+ "updated": "2026-09-06T11:00:58Z",
  "checked": "2026-09-06",
- "duration_sec": 52.9,
+ "duration_sec": 32.2,
  "rolling_days": 14,
- "n_events": 328,
- "n_articles": 365,
+ "n_events": 327,
+ "n_articles": 363,
  "grades": {
-  "C": 127,
-  "B": 23,
-  "D": 178
+  "D": 174,
+  "C": 131,
+  "B": 22
  },
  "cross_language_events": 5,
  "tension_error": null,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 139,
-  "T3": 69,
+  "T2": 143,
+  "T3": 68,
   "T4": 13,
-  "T5": 121,
+  "T5": 115,
   "TA": 3
  },
  "t1_domains": [
@@ -43,7 +43,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 27,
+   "n_adopted": 26,
    "newest": "2026-09-05T07:39:06+00:00",
    "stale": false,
    "error": null
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 53,
-   "newest": "2026-09-06T03:29:43+00:00",
+   "n_adopted": 55,
+   "newest": "2026-09-06T10:11:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-09-06T03:13:21+00:00",
+   "n_adopted": 3,
+   "newest": "2026-09-06T08:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 29,
-   "n_adopted": 1,
-   "newest": "2026-09-05T12:28:07+00:00",
+   "n_entries": 38,
+   "n_adopted": 2,
+   "newest": "2026-09-06T09:57:51+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-06T03:00:09+00:00",
+   "newest": "2026-09-06T11:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-06T03:57:00+00:00",
+   "newest": "2026-09-06T08:46:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 98,
+   "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-09-06T02:47:21+00:00",
+   "newest": "2026-09-06T10:09:05+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +211,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 18,
+   "n_entries": 19,
    "n_adopted": 0,
-   "newest": "2026-09-06T01:54:29+00:00",
+   "newest": "2026-09-06T09:56:39+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-06T04:12:18+00:00",
+   "newest": "2026-09-06T09:47:31+00:00",
    "stale": false,
    "error": null
   },
@@ -247,7 +247,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 12,
+   "n_articles": 11,
    "sample_title": "共機21架次擾台！13架次越中線 共艦、公務船共15艘出沒 | Newtalk"
   },
   {
@@ -279,6 +279,11 @@
    "domain": "guardian.ng",
    "n_articles": 3,
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
+  },
+  {
+   "domain": "fountmedia.io",
+   "n_articles": 2,
+   "sample_title": "掌管台海解放軍將領首度面對面見美軍印太司令！楊志斌、帕帕羅會談 美中重啟高層軍事溝通"
   },
   {
    "domain": "ttv.com.tw",
@@ -339,11 +344,6 @@
    "domain": "defencewatch.in",
    "n_articles": 1,
    "sample_title": "China steps up military pressure around Taiwan as Beijing expands multi-domain p"
-  },
-  {
-   "domain": "mobile01.com",
-   "n_articles": 1,
-   "sample_title": "澎湖扼守台海要衝 台灣強化飛彈無人機防線"
   }
  ]
 }
