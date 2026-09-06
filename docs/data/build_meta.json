@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-05T22:56:39Z",
- "checked": "2026-09-05",
- "duration_sec": 30.8,
+ "updated": "2026-09-06T04:43:38Z",
+ "checked": "2026-09-06",
+ "duration_sec": 52.9,
  "rolling_days": 14,
- "n_events": 327,
- "n_articles": 358,
+ "n_events": 328,
+ "n_articles": 365,
  "grades": {
-  "C": 130,
-  "B": 20,
-  "D": 177
+  "C": 127,
+  "B": 23,
+  "D": 178
  },
  "cross_language_events": 5,
  "tension_error": null,
@@ -18,14 +18,15 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 12,
-  "T2": 136,
-  "T3": 68,
-  "T4": 12,
+  "T1": 13,
+  "T2": 139,
+  "T3": 69,
+  "T4": 13,
   "T5": 121,
   "TA": 3
  },
  "t1_domains": [
+  "abc.net.au",
   "aljazeera.com",
   "aninews.in",
   "france24.com",
@@ -55,8 +56,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 55,
-   "n_adopted": 30,
-   "newest": "2026-09-05T11:24:00+00:00",
+   "n_adopted": 31,
+   "newest": "2026-09-06T02:35:00+00:00",
    "stale": false,
    "error": null
   },
@@ -68,7 +69,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 14,
    "newest": "2026-09-04T03:05:27+00:00",
    "stale": false,
    "error": null
@@ -81,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 50,
-   "newest": "2026-09-05T22:00:00+00:00",
+   "n_adopted": 53,
+   "newest": "2026-09-06T03:29:43+00:00",
    "stale": false,
    "error": null
   },
@@ -108,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 4,
-   "newest": "2026-09-05T14:37:00+00:00",
+   "newest": "2026-09-06T03:13:21+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-05T14:00:06+00:00",
+   "newest": "2026-09-06T03:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-05T09:21:00+00:00",
+   "newest": "2026-09-06T03:57:00+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 99,
+   "n_entries": 98,
    "n_adopted": 0,
-   "newest": "2026-09-05T13:42:39+00:00",
+   "newest": "2026-09-06T02:47:21+00:00",
    "stale": false,
    "error": null
   },
@@ -212,7 +213,7 @@
    "http": 200,
    "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-09-05T14:07:38+00:00",
+   "newest": "2026-09-06T01:54:29+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-05T21:23:06+00:00",
+   "newest": "2026-09-06T04:12:18+00:00",
    "stale": false,
    "error": null
   },
@@ -246,18 +247,13 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 11,
-   "sample_title": "連電戰干擾機都出動「海空聯訓」 中共蘇愷30等20架共機「聯合戰備警巡」擾台 | 太報"
+   "n_articles": 12,
+   "sample_title": "共機21架次擾台！13架次越中線 共艦、公務船共15艘出沒 | Newtalk"
   },
   {
    "domain": "ctinews.com",
    "n_articles": 6,
    "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
-  },
-  {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan’s Han Kuang Exercises Adapt to Rising Threats from China"
   },
   {
    "domain": "businessinsider.com",
@@ -268,6 +264,11 @@
    "domain": "knews.com.tw",
    "n_articles": 3,
    "sample_title": "30年前台海飛彈危機 卓榮泰：台灣勵精圖治組建出新式戰鬥部隊"
+  },
+  {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan’s Han Kuang Exercises Adapt to Rising Threats from China"
   },
   {
    "domain": "upmedia.mg",
@@ -305,11 +306,6 @@
    "sample_title": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget"
   },
   {
-   "domain": "koreancenter.or.kr",
-   "n_articles": 2,
-   "sample_title": "대만 \"중국군 대만침공 준비 가속…2030∼2035년 완료 전망\""
-  },
-  {
    "domain": "hk.crntt.com",
    "n_articles": 2,
    "sample_title": "楊書菲：習特二會聚焦台海、AI等6大議題"
@@ -343,6 +339,11 @@
    "domain": "defencewatch.in",
    "n_articles": 1,
    "sample_title": "China steps up military pressure around Taiwan as Beijing expands multi-domain p"
+  },
+  {
+   "domain": "mobile01.com",
+   "n_articles": 1,
+   "sample_title": "澎湖扼守台海要衝 台灣強化飛彈無人機防線"
   }
  ]
 }
