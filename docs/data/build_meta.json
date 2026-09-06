@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-06T20:27:03Z",
+ "updated": "2026-09-06T22:54:49Z",
  "checked": "2026-09-06",
- "duration_sec": 36.1,
+ "duration_sec": 31.6,
  "rolling_days": 14,
  "n_events": 321,
- "n_articles": 358,
+ "n_articles": 360,
  "grades": {
-  "C": 132,
   "D": 167,
+  "C": 132,
   "B": 22
  },
- "cross_language_events": 6,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 144,
-  "T3": 64,
+  "T2": 143,
+  "T3": 65,
   "T4": 13,
-  "T5": 115,
+  "T5": 114,
   "TA": 3
  },
  "t1_domains": [
@@ -68,9 +68,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-09-04T03:05:27+00:00",
+   "n_entries": 55,
+   "n_adopted": 11,
+   "newest": "2026-09-04T01:48:36+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 54,
-   "newest": "2026-09-06T16:25:15+00:00",
+   "n_adopted": 56,
+   "newest": "2026-09-06T21:56:15+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-06T16:00:07+00:00",
+   "newest": "2026-09-06T21:30:06+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-06T18:00:00+00:00",
+   "newest": "2026-09-06T22:34:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +200,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-09-06T15:15:08+00:00",
+   "newest": "2026-09-06T22:06:05+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-06T20:05:32+00:00",
+   "newest": "2026-09-06T21:46:08+00:00",
    "stale": false,
    "error": null
   },
@@ -247,18 +247,13 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 11,
+   "n_articles": 10,
    "sample_title": "共機21架次擾台！13架次越中線 共艦、公務船共15艘出沒 | Newtalk"
   },
   {
    "domain": "ctinews.com",
    "n_articles": 5,
    "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
-  },
-  {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan’s Han Kuang Exercises Adapt to Rising Threats from China"
   },
   {
    "domain": "businessinsider.com",
@@ -271,9 +266,9 @@
    "sample_title": "30年前台海飛彈危機 卓榮泰：台灣勵精圖治組建出新式戰鬥部隊"
   },
   {
-   "domain": "upmedia.mg",
+   "domain": "news.ssbcrack.com",
    "n_articles": 3,
-   "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
+   "sample_title": "Taiwan’s Han Kuang Exercises Adapt to Rising Threats from China"
   },
   {
    "domain": "guardian.ng",
@@ -316,6 +311,11 @@
    "sample_title": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget"
   },
   {
+   "domain": "upmedia.mg",
+   "n_articles": 2,
+   "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
+  },
+  {
    "domain": "hk.crntt.com",
    "n_articles": 2,
    "sample_title": "楊書菲：習特二會聚焦台海、AI等6大議題"
@@ -341,9 +341,9 @@
    "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
   },
   {
-   "domain": "freepresskashmir.news",
+   "domain": "reader.turnnewsapp.com",
    "n_articles": 1,
-   "sample_title": "20 Chinese aircraft crossed Taiwan Strait median line, Taiwan says"
+   "sample_title": "打造輕型艦艇 以小博大守台海"
   }
  ]
 }
