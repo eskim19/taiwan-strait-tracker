@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-06T11:00:58Z",
+ "updated": "2026-09-06T15:30:24Z",
  "checked": "2026-09-06",
- "duration_sec": 32.2,
+ "duration_sec": 36.1,
  "rolling_days": 14,
- "n_events": 327,
- "n_articles": 363,
+ "n_events": 324,
+ "n_articles": 361,
  "grades": {
-  "D": 174,
-  "C": 131,
+  "C": 132,
+  "D": 170,
   "B": 22
  },
  "cross_language_events": 5,
@@ -19,8 +19,8 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 143,
-  "T3": 68,
+  "T2": 144,
+  "T3": 66,
   "T4": 13,
   "T5": 115,
   "TA": 3
@@ -43,7 +43,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 24,
    "newest": "2026-09-05T07:39:06+00:00",
    "stale": false,
    "error": null
@@ -55,8 +55,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 55,
-   "n_adopted": 31,
+   "n_entries": 52,
+   "n_adopted": 29,
    "newest": "2026-09-06T02:35:00+00:00",
    "stale": false,
    "error": null
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 55,
-   "newest": "2026-09-06T10:11:00+00:00",
+   "n_adopted": 56,
+   "newest": "2026-09-06T15:24:17+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 12,
    "newest": "2026-09-05T07:00:30+00:00",
    "stale": false,
    "error": null
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-09-06T08:52:00+00:00",
+   "n_adopted": 9,
+   "newest": "2026-09-06T12:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 38,
+   "n_entries": 40,
    "n_adopted": 2,
-   "newest": "2026-09-06T09:57:51+00:00",
+   "newest": "2026-09-06T11:48:57+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-06T11:00:09+00:00",
+   "newest": "2026-09-06T14:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +200,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-09-06T10:09:05+00:00",
+   "newest": "2026-09-06T15:15:08+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +211,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 19,
+   "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-09-06T09:56:39+00:00",
+   "newest": "2026-09-06T14:07:35+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-06T09:47:31+00:00",
+   "newest": "2026-09-06T15:07:18+00:00",
    "stale": false,
    "error": null
   },
@@ -252,7 +252,7 @@
   },
   {
    "domain": "ctinews.com",
-   "n_articles": 6,
+   "n_articles": 5,
    "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
   },
   {
@@ -279,6 +279,11 @@
    "domain": "guardian.ng",
    "n_articles": 3,
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
+  },
+  {
+   "domain": "facebook.com",
+   "n_articles": 2,
+   "sample_title": "【陳冲示警2028台海關鍵不只軍事 「金融戰終將攤牌」】 （圖／記者湯興漢攝） 他說不能被忽略。(#起啵)"
   },
   {
    "domain": "fountmedia.io",
@@ -339,11 +344,6 @@
    "domain": "freepresskashmir.news",
    "n_articles": 1,
    "sample_title": "20 Chinese aircraft crossed Taiwan Strait median line, Taiwan says"
-  },
-  {
-   "domain": "defencewatch.in",
-   "n_articles": 1,
-   "sample_title": "China steps up military pressure around Taiwan as Beijing expands multi-domain p"
   }
  ]
 }
