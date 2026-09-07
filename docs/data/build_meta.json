@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-07T04:46:40Z",
+ "updated": "2026-09-07T12:39:15Z",
  "checked": "2026-09-07",
- "duration_sec": 36.2,
+ "duration_sec": 56.3,
  "rolling_days": 14,
- "n_events": 323,
+ "n_events": 321,
  "n_articles": 361,
  "grades": {
-  "D": 166,
   "C": 134,
+  "D": 164,
   "B": 23
  },
  "cross_language_events": 6,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 147,
+  "T2": 146,
   "T3": 64,
-  "T4": 13,
-  "T5": 111,
+  "T4": 12,
+  "T5": 109,
   "TA": 3
  },
  "t1_domains": [
@@ -43,8 +43,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 25,
-   "newest": "2026-09-06T23:58:03+00:00",
+   "n_adopted": 26,
+   "newest": "2026-09-07T05:56:00+00:00",
    "stale": false,
    "error": null
   },
@@ -56,8 +56,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 56,
-   "n_adopted": 27,
-   "newest": "2026-09-07T03:37:00+00:00",
+   "n_adopted": 23,
+   "newest": "2026-09-07T11:55:46+00:00",
    "stale": false,
    "error": null
   },
@@ -69,7 +69,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
+   "n_adopted": 13,
    "newest": "2026-09-04T03:05:27+00:00",
    "stale": false,
    "error": null
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 57,
-   "newest": "2026-09-07T03:14:36+00:00",
+   "n_adopted": 58,
+   "newest": "2026-09-07T11:48:05+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-09-06T16:56:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-09-07T11:39:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-09-07T02:46:00+00:00",
+   "n_adopted": 5,
+   "newest": "2026-09-07T11:33:00+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 25,
+   "n_entries": 41,
    "n_adopted": 2,
-   "newest": "2026-09-07T02:34:24+00:00",
+   "newest": "2026-09-07T11:36:07+00:00",
    "stale": false,
    "error": null
   },
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-09-07T04:00:09+00:00",
+   "n_adopted": 3,
+   "newest": "2026-09-07T12:30:14+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-07T04:00:00+00:00",
+   "newest": "2026-09-07T11:17:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +200,7 @@
    "http": 200,
    "n_entries": 97,
    "n_adopted": 0,
-   "newest": "2026-09-07T04:30:00+00:00",
+   "newest": "2026-09-07T10:21:14+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-07T03:40:09+00:00",
+   "newest": "2026-09-07T11:50:43+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-07T03:59:39+00:00",
+   "newest": "2026-09-07T12:03:32+00:00",
    "stale": false,
    "error": null
   },
@@ -247,33 +247,23 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 9,
+   "n_articles": 8,
    "sample_title": "中共又侵門踏戶！機艦聯手擾台「12架次逾越中線」 最新情況曝光 | 民視新聞網"
   },
   {
    "domain": "ctinews.com",
-   "n_articles": 5,
-   "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
-  },
-  {
-   "domain": "businessinsider.com",
-   "n_articles": 4,
-   "sample_title": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chine"
+   "n_articles": 6,
+   "sample_title": "隔16年！陸國防動員法大修10月上路 學者：或為台海戰爭留後手"
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 3,
-   "sample_title": "台灣「後門」變新戰場！彭博揭陸海警東進太平洋 大宗商品航運量竟超越台海"
+   "n_articles": 4,
+   "sample_title": "東部戰區司令首會美印太司令！環時揭3大訊號：台海不能成戰略誤判引爆點"
   },
   {
    "domain": "knews.com.tw",
    "n_articles": 3,
    "sample_title": "30年前台海飛彈危機 卓榮泰：台灣勵精圖治組建出新式戰鬥部隊"
-  },
-  {
-   "domain": "news.ssbcrack.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan’s Han Kuang Exercises Adapt to Rising Threats from China"
   },
   {
    "domain": "guardian.ng",
@@ -301,9 +291,14 @@
    "sample_title": "2330 台積電 - 矽盾下的博弈：台海風險對台股的真實衝擊與投資人生存指南- 股市爆料同學會"
   },
   {
+   "domain": "news.ssbcrack.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan’s Han Kuang Exercises Adapt to Rising Threats from China"
+  },
+  {
    "domain": "ua.news",
    "n_articles": 2,
-   "sample_title": "China has threatened Taiwan over increased defense spending"
+   "sample_title": "China has threatened Taiwan over its increased defense spending"
   },
   {
    "domain": "mezha.net",
@@ -314,6 +309,11 @@
    "domain": "upmedia.mg",
    "n_articles": 2,
    "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
+  },
+  {
+   "domain": "businessinsider.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chine"
   },
   {
    "domain": "hk.crntt.com",
@@ -341,9 +341,9 @@
    "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
   },
   {
-   "domain": "thenewslens.com",
+   "domain": "mnews.tw",
    "n_articles": 1,
-   "sample_title": "NHK披露1996台海飛彈危機秘辛：日情報首長密訪李登輝，推動台美日「明德小組」"
+   "sample_title": "獨家／台海安全牽動日本 日前防長中谷元談台日合作新方向"
   }
  ]
 }
