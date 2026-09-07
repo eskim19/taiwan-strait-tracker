@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-07T19:11:50Z",
+ "updated": "2026-09-07T23:32:01Z",
  "checked": "2026-09-07",
- "duration_sec": 33.4,
+ "duration_sec": 33.2,
  "rolling_days": 14,
- "n_events": 322,
- "n_articles": 362,
+ "n_events": 325,
+ "n_articles": 366,
  "grades": {
-  "D": 164,
-  "C": 134,
+  "C": 136,
+  "D": 165,
   "B": 24
  },
- "cross_language_events": 6,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 147,
-  "T3": 64,
-  "T4": 12,
-  "T5": 111,
+  "T2": 150,
+  "T3": 65,
+  "T4": 11,
+  "T5": 109,
   "TA": 3
  },
  "t1_domains": [
@@ -43,8 +43,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 23,
-   "newest": "2026-09-07T09:56:13+00:00",
+   "n_adopted": 24,
+   "newest": "2026-09-07T05:56:00+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 63,
+   "n_entries": 62,
    "n_adopted": 26,
-   "newest": "2026-09-07T13:50:18+00:00",
+   "newest": "2026-09-07T22:00:13+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 54,
-   "newest": "2026-09-07T15:36:30+00:00",
+   "n_adopted": 55,
+   "newest": "2026-09-07T22:46:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
-   "newest": "2026-09-07T11:41:17+00:00",
+   "n_adopted": 15,
+   "newest": "2026-09-07T11:39:00+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-09-07T15:00:11+00:00",
+   "newest": "2026-09-07T22:00:13+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-07T11:17:00+00:00",
+   "newest": "2026-09-07T22:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 98,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-09-07T18:40:49+00:00",
+   "newest": "2026-09-07T23:00:05+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-07T19:03:29+00:00",
+   "newest": "2026-09-07T22:41:27+00:00",
    "stale": false,
    "error": null
   },
@@ -252,13 +252,18 @@
   },
   {
    "domain": "ctinews.com",
-   "n_articles": 6,
-   "sample_title": "隔16年！陸國防動員法大修10月上路 學者：或為台海戰爭留後手"
+   "n_articles": 5,
+   "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
   },
   {
    "domain": "i-meihua.com",
    "n_articles": 4,
    "sample_title": "東部戰區司令首會美印太司令！環時揭3大訊號：台海不能成戰略誤判引爆點"
+  },
+  {
+   "domain": "facebook.com",
+   "n_articles": 3,
+   "sample_title": "【賴清德：守護台海和平 唯有不斷強化國防、投資國防】 (#起啵)"
   },
   {
    "domain": "knews.com.tw",
@@ -271,19 +276,14 @@
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
   },
   {
-   "domain": "facebook.com",
+   "domain": "mnews.tw",
    "n_articles": 2,
-   "sample_title": "【陳冲示警2028台海關鍵不只軍事 「金融戰終將攤牌」】 （圖／記者湯興漢攝） 他說不能被忽略。(#起啵)"
+   "sample_title": "獨家／台海安全牽動日本 日前防長中谷元談台日合作新方向"
   },
   {
    "domain": "fountmedia.io",
    "n_articles": 2,
    "sample_title": "掌管台海解放軍將領首度面對面見美軍印太司令！楊志斌、帕帕羅會談 美中重啟高層軍事溝通"
-  },
-  {
-   "domain": "firstpost.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan detects 20 Chinese aircraft sorties, 12 cross median line amid drills"
   },
   {
    "domain": "ttv.com.tw",
@@ -298,7 +298,7 @@
   {
    "domain": "ua.news",
    "n_articles": 2,
-   "sample_title": "China has threatened Taiwan over its increased defense spending"
+   "sample_title": "Taiwan says China is stepping up preparations for a blockade of the island"
   },
   {
    "domain": "mezha.net",
@@ -336,14 +336,14 @@
    "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
   },
   {
-   "domain": "fdd.org",
-   "n_articles": 2,
-   "sample_title": "China Probes Taiwan's Defenses by Air and Sea"
-  },
-  {
    "domain": "ocacnews.net",
    "n_articles": 1,
    "sample_title": "聯合國大會9/8開議 外交部推案強調台海和平攸關世界繁榮|戰略臺灣"
+  },
+  {
+   "domain": "news18.com",
+   "n_articles": 1,
+   "sample_title": "Taiwan To Build Cyber Unit With US Expertise To Counter Chinese Military Threat"
   }
  ]
 }

@@ -1,6 +1,6 @@
 {
  "month": "2026-08",
- "n_events": 980,
+ "n_events": 981,
  "events": [
   {
    "id": "evt_20260831_091490",
@@ -5596,6 +5596,64 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260827_e3e7d3",
+   "headline": "Chinese mainland slams Taiwan authorities over record defense budget",
+   "headline_source": "CGTN",
+   "headline_url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFZwTnpWWC03VTNOSWl1Y2JIODBPWXM4STJ0QVd2c3VUX1ZqdGZVMGU1Q2laeGJHTXR4aVZhRjhIdjN6R2pFSEtHQTN3cGR3TUlRUXVLb1lqamdzWFdVVEQ2ZGg2Uzh5bzVsdmRmNDRZbXRCd0xhbFlvSG8zQXFzM2JaSzhkYnl5bWFWaDFqUWpNRFp6aU5oRE1RVmx6aU41ZmJudjNLYzJ2c2hsRllFRy10My0wWHV4eFhkR2lGN25zNUU?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-27T13:51:18Z",
+   "last_seen": "2026-08-27T13:51:18Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "b78b3130b3abbe22"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "b78b3130b3abbe22",
+     "title": "Chinese mainland slams Taiwan authorities over record defense budget",
+     "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdFZwTnpWWC03VTNOSWl1Y2JIODBPWXM4STJ0QVd2c3VUX1ZqdGZVMGU1Q2laeGJHTXR4aVZhRjhIdjN6R2pFSEtHQTN3cGR3TUlRUXVLb1lqamdzWFdVVEQ2ZGg2Uzh5bzVsdmRmNDRZbXRCd0xhbFlvSG8zQXFzM2JaSzhkYnl5bWFWaDFqUWpNRFp6aU5oRE1RVmx6aU41ZmJudjNLYzJ2c2hsRllFRy10My0wWHV4eFhkR2lGN25zNUU?oc=5",
+     "published": "2026-08-27T13:51:18Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "CGTN",
+     "source_domain": "cgtn.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
      "hedged": false
     }
    ]
