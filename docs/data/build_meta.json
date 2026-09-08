@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-07T23:32:01Z",
- "checked": "2026-09-07",
- "duration_sec": 33.2,
+ "updated": "2026-09-08T04:41:34Z",
+ "checked": "2026-09-08",
+ "duration_sec": 33.6,
  "rolling_days": 14,
- "n_events": 325,
- "n_articles": 366,
+ "n_events": 326,
+ "n_articles": 368,
  "grades": {
-  "C": 136,
-  "D": 165,
-  "B": 24
+  "C": 141,
+  "B": 24,
+  "D": 161
  },
- "cross_language_events": 5,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -19,9 +19,9 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 150,
-  "T3": 65,
-  "T4": 11,
+  "T2": 153,
+  "T3": 64,
+  "T4": 10,
   "T5": 109,
   "TA": 3
  },
@@ -43,8 +43,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 24,
-   "newest": "2026-09-07T05:56:00+00:00",
+   "n_adopted": 25,
+   "newest": "2026-09-07T09:56:13+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 62,
-   "n_adopted": 26,
-   "newest": "2026-09-07T22:00:13+00:00",
+   "n_entries": 63,
+   "n_adopted": 25,
+   "newest": "2026-09-08T03:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 55,
-   "newest": "2026-09-07T22:46:00+00:00",
+   "n_adopted": 59,
+   "newest": "2026-09-08T04:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-09-07T11:39:00+00:00",
+   "n_adopted": 14,
+   "newest": "2026-09-08T01:59:04+00:00",
    "stale": false,
    "error": null
   },
@@ -109,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 2,
-   "newest": "2026-09-07T14:33:00+00:00",
+   "newest": "2026-09-08T02:55:07+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 31,
+   "n_entries": 37,
    "n_adopted": 1,
-   "newest": "2026-09-07T12:34:10+00:00",
+   "newest": "2026-09-08T03:39:42+00:00",
    "stale": false,
    "error": null
   },
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-09-07T22:00:13+00:00",
+   "n_adopted": 3,
+   "newest": "2026-09-08T04:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-07T22:15:00+00:00",
+   "newest": "2026-09-08T04:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 99,
+   "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-09-07T23:00:05+00:00",
+   "newest": "2026-09-08T04:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-07T15:40:47+00:00",
+   "newest": "2026-09-08T03:53:27+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-07T22:41:27+00:00",
+   "newest": "2026-09-08T04:29:33+00:00",
    "stale": false,
    "error": null
   },
@@ -247,13 +247,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 8,
-   "sample_title": "中共又侵門踏戶！機艦聯手擾台「12架次逾越中線」 最新情況曝光 | 民視新聞網"
-  },
-  {
-   "domain": "ctinews.com",
-   "n_articles": 5,
-   "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
+   "n_articles": 9,
+   "sample_title": "中國4海警船8共機8共艦擾台 1架次無人機闖東部空域 | 太報"
   },
   {
    "domain": "i-meihua.com",
@@ -261,9 +256,9 @@
    "sample_title": "東部戰區司令首會美印太司令！環時揭3大訊號：台海不能成戰略誤判引爆點"
   },
   {
-   "domain": "facebook.com",
-   "n_articles": 3,
-   "sample_title": "【賴清德：守護台海和平 唯有不斷強化國防、投資國防】 (#起啵)"
+   "domain": "ctinews.com",
+   "n_articles": 4,
+   "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
   },
   {
    "domain": "knews.com.tw",
@@ -276,9 +271,19 @@
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
   },
   {
+   "domain": "worldjournal.com",
+   "n_articles": 2,
+   "sample_title": "陸常態化巡查對峙升級 台灣東部海域商船流量超車台海"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 2,
    "sample_title": "獨家／台海安全牽動日本 日前防長中谷元談台日合作新方向"
+  },
+  {
+   "domain": "facebook.com",
+   "n_articles": 2,
+   "sample_title": "【陳冲示警2028台海關鍵不只軍事 「金融戰終將攤牌」】 （圖／記者湯興漢攝） 他說不能被忽略。(#起啵)"
   },
   {
    "domain": "fountmedia.io",
@@ -301,6 +306,11 @@
    "sample_title": "Taiwan says China is stepping up preparations for a blockade of the island"
   },
   {
+   "domain": "businessinsider.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chine"
+  },
+  {
    "domain": "mezha.net",
    "n_articles": 2,
    "sample_title": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget"
@@ -309,11 +319,6 @@
    "domain": "upmedia.mg",
    "n_articles": 2,
    "sample_title": "鄧聿文專欄：北京為台海戰爭大修國防動員法"
-  },
-  {
-   "domain": "businessinsider.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan's big military drills reveal its unspoken blueprint for resisting a Chine"
   },
   {
    "domain": "hk.crntt.com",
@@ -336,14 +341,9 @@
    "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
   },
   {
-   "domain": "ocacnews.net",
+   "domain": "mirrordaily.news",
    "n_articles": 1,
-   "sample_title": "聯合國大會9/8開議 外交部推案強調台海和平攸關世界繁榮|戰略臺灣"
-  },
-  {
-   "domain": "news18.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan To Build Cyber Unit With US Expertise To Counter Chinese Military Threat"
+   "sample_title": "鏡新聞專訪／台海和平牽動日本 中谷元盼建立台日安保協定"
   }
  ]
 }
