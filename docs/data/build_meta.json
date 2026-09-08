@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-08T21:12:48Z",
+ "updated": "2026-09-08T23:25:45Z",
  "checked": "2026-09-08",
- "duration_sec": 75.4,
+ "duration_sec": 35.7,
  "rolling_days": 14,
- "n_events": 339,
- "n_articles": 382,
+ "n_events": 343,
+ "n_articles": 386,
  "grades": {
+  "D": 165,
   "C": 152,
-  "B": 26,
-  "D": 161
+  "B": 26
  },
  "cross_language_events": 6,
  "tension_error": null,
@@ -19,11 +19,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 14,
-  "T2": 163,
-  "T3": 57,
+  "T2": 165,
+  "T3": 59,
   "T4": 13,
-  "T5": 112,
-  "TA": 4
+  "T5": 115,
+  "TA": 3
  },
  "t1_domains": [
   "abc.net.au",
@@ -40,79 +40,79 @@
    "id": "gn_en",
    "name": "Google News (영어)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 22,
+   "newest": "2026-09-08T10:00:22+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_en_mil",
    "name": "Google News (영어·군사)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 59,
+   "n_adopted": 26,
+   "newest": "2026-09-08T14:47:38+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_ko",
    "name": "Google News (한국어)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 14,
+   "newest": "2026-09-08T22:09:02+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_zh",
    "name": "Google News (중국어 번체)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 69,
+   "newest": "2026-09-08T23:00:00+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_prc_state",
    "name": "Google News (중국 관영 감시)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 13,
+   "newest": "2026-09-08T16:27:00+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "gn_prc_zh",
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 503,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 8,
+   "newest": "2026-09-08T14:33:00+00:00",
    "stale": false,
-   "error": "HTTP 503"
+   "error": null
   },
   {
    "id": "focustaiwan",
@@ -148,8 +148,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 4,
-   "newest": "2026-09-08T20:50:57+00:00",
+   "n_adopted": 3,
+   "newest": "2026-09-08T22:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-08T11:22:00+00:00",
+   "newest": "2026-09-08T23:08:00+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 102,
+   "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-09-08T20:40:59+00:00",
+   "newest": "2026-09-08T23:21:33+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-08T20:43:52+00:00",
+   "newest": "2026-09-08T22:39:54+00:00",
    "stale": false,
    "error": null
   },
@@ -262,9 +262,14 @@
    "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
   },
   {
+   "domain": "mirrordaily.news",
+   "n_articles": 3,
+   "sample_title": "台灣如何贏得台海──更靈活的海軍能拒止中國"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 3,
-   "sample_title": "台海恐成機器人戰爭？ 路透揭共軍布局、擬用於「城鎮戰」"
+   "sample_title": "F-16V返台再延 日前防長專訪談台海1／返國還要再等一陣子！ 新型F-16V戰機仍滯留夏威夷"
   },
   {
    "domain": "knews.com.tw",
@@ -287,11 +292,6 @@
    "sample_title": "日加速部署「台灣有事」 專家點出歐洲角色 讓美專心顧台海"
   },
   {
-   "domain": "mirrordaily.news",
-   "n_articles": 2,
-   "sample_title": "專訪／台海和平牽動日本 前防衛大臣中谷元盼建立台日安保協定"
-  },
-  {
    "domain": "facebook.com",
    "n_articles": 2,
    "sample_title": "【陳冲示警2028台海關鍵不只軍事 「金融戰終將攤牌」】 （圖／記者湯興漢攝） 他說不能被忽略。(#起啵)"
@@ -310,11 +310,6 @@
    "domain": "cmoney.tw",
    "n_articles": 2,
    "sample_title": "2330 台積電 - 矽盾下的博弈：台海風險對台股的真實衝擊與投資人生存指南- 股市爆料同學會"
-  },
-  {
-   "domain": "ua.news",
-   "n_articles": 2,
-   "sample_title": "Taiwan says China is stepping up preparations for a blockade of the island"
   },
   {
    "domain": "mezha.net",
@@ -345,6 +340,11 @@
    "domain": "wionews.com",
    "n_articles": 2,
    "sample_title": "Taiwan On Alert As Record Chinese Ships Raise Blockade Fears"
+  },
+  {
+   "domain": "stheadline.com",
+   "n_articles": 1,
+   "sample_title": "央視台海諜戰劇《交鋒》熱播"
   }
  ]
 }
