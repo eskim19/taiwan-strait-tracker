@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-09T11:27:33Z",
+ "updated": "2026-09-09T16:41:22Z",
  "checked": "2026-09-09",
- "duration_sec": 34.3,
+ "duration_sec": 34.2,
  "rolling_days": 14,
- "n_events": 376,
- "n_articles": 415,
+ "n_events": 388,
+ "n_articles": 428,
  "grades": {
-  "B": 27,
-  "C": 158,
-  "D": 191
+  "C": 166,
+  "D": 195,
+  "B": 27
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,17 +18,18 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 16,
-  "T2": 168,
-  "T3": 68,
+  "T1": 17,
+  "T2": 176,
+  "T3": 65,
   "T4": 15,
-  "T5": 129,
+  "T5": 134,
   "TA": 3
  },
  "t1_domains": [
   "abc.net.au",
   "aljazeera.com",
   "aninews.in",
+  "dw.com",
   "france24.com",
   "pts.org.tw",
   "reuters.com",
@@ -44,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
+   "n_adopted": 29,
    "newest": "2026-09-09T10:06:00+00:00",
    "stale": false,
    "error": null
@@ -56,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 60,
-   "n_adopted": 26,
-   "newest": "2026-09-09T10:15:26+00:00",
+   "n_entries": 57,
+   "n_adopted": 22,
+   "newest": "2026-09-09T13:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -83,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 66,
-   "newest": "2026-09-09T11:20:52+00:00",
+   "n_adopted": 65,
+   "newest": "2026-09-09T15:17:51+00:00",
    "stale": false,
    "error": null
   },
@@ -96,8 +97,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-09-09T09:58:26+00:00",
+   "n_adopted": 14,
+   "newest": "2026-09-09T14:03:45+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +111,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-09-09T05:41:55+00:00",
+   "newest": "2026-09-09T14:41:00+00:00",
    "stale": false,
    "error": null
   },
@@ -121,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 66,
+   "n_entries": 77,
    "n_adopted": 1,
-   "newest": "2026-09-09T08:40:42+00:00",
+   "newest": "2026-09-09T12:47:10+00:00",
    "stale": false,
    "error": null
   },
@@ -134,9 +135,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 53,
-   "n_adopted": 0,
-   "newest": "2026-09-09T00:00:00+00:00",
+   "n_entries": 55,
+   "n_adopted": 5,
+   "newest": "2026-09-10T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -148,8 +149,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-09-09T10:00:11+00:00",
+   "n_adopted": 4,
+   "newest": "2026-09-09T15:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-09T10:21:00+00:00",
+   "newest": "2026-09-09T10:29:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,7 +202,7 @@
    "http": 200,
    "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-09-09T10:56:43+00:00",
+   "newest": "2026-09-09T14:33:53+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-09T10:31:08+00:00",
+   "newest": "2026-09-09T11:29:59+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-09T11:08:56+00:00",
+   "newest": "2026-09-09T16:04:09+00:00",
    "stale": false,
    "error": null
   },
@@ -248,13 +249,13 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 12,
-   "sample_title": "台灣3空域驚傳遭闖入！中共大陣仗派軍機擾台數據國防部全說了| 民視新聞網"
+   "n_articles": 14,
+   "sample_title": "中共由陸權走向海權 「台北安全對話」專家示警海上隔離封鎖「高概率」發生"
   },
   {
    "domain": "upmedia.mg",
    "n_articles": 5,
-   "sample_title": "台海若衝突全球經濟衝擊超越二戰 谷立言：美國「3方式」維護印太和平"
+   "sample_title": "高雄冰店談台海！台退役軍官勸「別備戰」 美專家爆粗口：我兒命都押上了"
   },
   {
    "domain": "i-meihua.com",
@@ -292,6 +293,11 @@
    "sample_title": "台海巡署站上灰帶作戰第一線 明年出席台美國安高層會談"
   },
   {
+   "domain": "facebook.com",
+   "n_articles": 3,
+   "sample_title": "【賴清德：守護台海和平 唯有不斷強化國防、投資國防】 (#起啵)"
+  },
+  {
    "domain": "knews.com.tw",
    "n_articles": 3,
    "sample_title": "30年前台海飛彈危機 卓榮泰：台灣勵精圖治組建出新式戰鬥部隊"
@@ -302,9 +308,24 @@
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
   },
   {
+   "domain": "news.mingpao.com",
+   "n_articles": 2,
+   "sample_title": "美國在台協會處長：台海若爆發衝突 對全球經濟衝擊將超二戰 (22:39) - 20260909 - 兩岸"
+  },
+  {
+   "domain": "cdns.com.tw",
+   "n_articles": 2,
+   "sample_title": "台海若衝突 全球經濟損失逾二戰"
+  },
+  {
    "domain": "nownews.com",
    "n_articles": 2,
    "sample_title": "台海若開戰有多慘？谷立言示警：全球經濟損失恐超越二戰衝擊"
+  },
+  {
+   "domain": "africa.businessinsider.com",
+   "n_articles": 2,
+   "sample_title": "China watches as US struggles to deliver Taiwan’s 66 F-16 fighter jets worth $8 "
   },
   {
    "domain": "ipdefenseforum.com",
@@ -317,11 +338,6 @@
    "sample_title": "台海恐成機器人戰爭？ 路透揭共軍布局、擬用於「城鎮戰」"
   },
   {
-   "domain": "facebook.com",
-   "n_articles": 2,
-   "sample_title": "【陳冲示警2028台海關鍵不只軍事 「金融戰終將攤牌」】 （圖／記者湯興漢攝） 他說不能被忽略。(#起啵)"
-  },
-  {
    "domain": "fountmedia.io",
    "n_articles": 2,
    "sample_title": "掌管台海解放軍將領首度面對面見美軍印太司令！楊志斌、帕帕羅會談 美中重啟高層軍事溝通"
@@ -330,21 +346,6 @@
    "domain": "ttv.com.tw",
    "n_articles": 2,
    "sample_title": "小馬可仕發聲 台海若爆衝突「菲律賓不會幫忙」"
-  },
-  {
-   "domain": "cmoney.tw",
-   "n_articles": 2,
-   "sample_title": "2330 台積電 - 矽盾下的博弈：台海風險對台股的真實衝擊與投資人生存指南- 股市爆料同學會"
-  },
-  {
-   "domain": "mezha.net",
-   "n_articles": 2,
-   "sample_title": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget"
-  },
-  {
-   "domain": "dominotheory.com",
-   "n_articles": 2,
-   "sample_title": "A Routine Naval Exercise Could Draw Indonesia Into China’s Taiwan Strategy"
   }
  ]
 }
