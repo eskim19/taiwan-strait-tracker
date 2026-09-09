@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-09T04:46:32Z",
+ "updated": "2026-09-09T11:27:33Z",
  "checked": "2026-09-09",
- "duration_sec": 34.9,
+ "duration_sec": 34.3,
  "rolling_days": 14,
- "n_events": 357,
- "n_articles": 398,
+ "n_events": 376,
+ "n_articles": 415,
  "grades": {
-  "B": 26,
-  "D": 178,
-  "C": 153
+  "B": 27,
+  "C": 158,
+  "D": 191
  },
- "cross_language_events": 3,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
-  "T2": 164,
-  "T3": 64,
-  "T4": 12,
-  "T5": 125,
+  "T1": 16,
+  "T2": 168,
+  "T3": 68,
+  "T4": 15,
+  "T5": 129,
   "TA": 3
  },
  "t1_domains": [
@@ -45,7 +45,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 28,
-   "newest": "2026-09-09T03:59:58+00:00",
+   "newest": "2026-09-09T10:06:00+00:00",
    "stale": false,
    "error": null
   },
@@ -56,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
+   "n_entries": 60,
    "n_adopted": 26,
-   "newest": "2026-09-09T03:12:51+00:00",
+   "newest": "2026-09-09T10:15:26+00:00",
    "stale": false,
    "error": null
   },
@@ -70,7 +70,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 15,
    "newest": "2026-09-08T22:07:01+00:00",
    "stale": false,
    "error": null
@@ -83,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-09-09T04:39:53+00:00",
+   "n_adopted": 66,
+   "newest": "2026-09-09T11:20:52+00:00",
    "stale": false,
    "error": null
   },
@@ -96,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-09-09T04:14:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-09-09T09:58:26+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +110,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-09-09T03:58:38+00:00",
+   "newest": "2026-09-09T05:41:55+00:00",
    "stale": false,
    "error": null
   },
@@ -121,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
-   "n_adopted": 0,
-   "newest": "2026-09-09T04:09:19+00:00",
+   "n_entries": 66,
+   "n_adopted": 1,
+   "newest": "2026-09-09T08:40:42+00:00",
    "stale": false,
    "error": null
   },
@@ -148,8 +148,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 3,
-   "newest": "2026-09-09T03:58:30+00:00",
+   "n_adopted": 2,
+   "newest": "2026-09-09T10:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-09T04:41:00+00:00",
+   "newest": "2026-09-09T10:21:00+00:00",
    "stale": false,
    "error": null
   },
@@ -184,12 +184,12 @@
    "name": "The Guardian — Taiwan 태그",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
    "newest": "2026-09-01T05:34:12+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   },
   {
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-09-09T04:30:02+00:00",
+   "newest": "2026-09-09T10:56:43+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +214,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-09T04:24:30+00:00",
+   "newest": "2026-09-09T10:31:08+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-09T04:29:12+00:00",
+   "newest": "2026-09-09T11:08:56+00:00",
    "stale": false,
    "error": null
   },
@@ -248,8 +248,13 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 9,
-   "sample_title": "中國4海警船8共機8共艦擾台 1架次無人機闖東部空域 | 太報"
+   "n_articles": 12,
+   "sample_title": "台灣3空域驚傳遭闖入！中共大陣仗派軍機擾台數據國防部全說了| 民視新聞網"
+  },
+  {
+   "domain": "upmedia.mg",
+   "n_articles": 5,
+   "sample_title": "台海若衝突全球經濟衝擊超越二戰 谷立言：美國「3方式」維護印太和平"
   },
   {
    "domain": "i-meihua.com",
@@ -262,9 +267,14 @@
    "sample_title": "大陸海警船出沒台海創新高 美專家：收集實用作戰數據"
   },
   {
-   "domain": "upmedia.mg",
+   "domain": "n.yam.com",
    "n_articles": 3,
-   "sample_title": "台海若衝突全球經濟衝擊超越二戰 谷立言：美國「3方式」維護印太和平"
+   "sample_title": "總統接見「台海和平穩定國會議員之會」訪團 盼台日深化合作"
+  },
+  {
+   "domain": "hk.crntt.com",
+   "n_articles": 3,
+   "sample_title": "日專家：台海危機牽連朝鮮半島安全"
   },
   {
    "domain": "devdiscourse.com",
@@ -282,19 +292,9 @@
    "sample_title": "台海巡署站上灰帶作戰第一線 明年出席台美國安高層會談"
   },
   {
-   "domain": "mnews.tw",
-   "n_articles": 3,
-   "sample_title": "F-16V返台再延 日前防長專訪談台海1／返國還要再等一陣子！ 新型F-16V戰機仍滯留夏威夷"
-  },
-  {
    "domain": "knews.com.tw",
    "n_articles": 3,
    "sample_title": "30年前台海飛彈危機 卓榮泰：台灣勵精圖治組建出新式戰鬥部隊"
-  },
-  {
-   "domain": "koreancenter.or.kr",
-   "n_articles": 3,
-   "sample_title": "[영상] 대만 \"중국군 침공 준비 가속…상륙작전 능력 향상 중점\""
   },
   {
    "domain": "guardian.ng",
@@ -302,14 +302,19 @@
    "sample_title": "China-Taiwan tensions high around Kinmen Islands"
   },
   {
-   "domain": "africa.businessinsider.com",
+   "domain": "nownews.com",
    "n_articles": 2,
-   "sample_title": "China watches as US struggles to deliver Taiwan’s 66 F-16 fighter jets worth $8 "
+   "sample_title": "台海若開戰有多慘？谷立言示警：全球經濟損失恐超越二戰衝擊"
   },
   {
-   "domain": "reader.turnnewsapp.com",
+   "domain": "ipdefenseforum.com",
    "n_articles": 2,
-   "sample_title": "戰備警巡、海空聯訓 共軍20架次擾台 12架次越中線"
+   "sample_title": "China’s Taiwan Strait traffic control scheme part of ‘salami slicing’ strategy"
+  },
+  {
+   "domain": "mnews.tw",
+   "n_articles": 2,
+   "sample_title": "台海恐成機器人戰爭？ 路透揭共軍布局、擬用於「城鎮戰」"
   },
   {
    "domain": "facebook.com",
@@ -335,11 +340,6 @@
    "domain": "mezha.net",
    "n_articles": 2,
    "sample_title": "China Warns Taiwan Against Independence as Island Plans Record Defense Budget"
-  },
-  {
-   "domain": "hk.crntt.com",
-   "n_articles": 2,
-   "sample_title": "楊書菲：習特二會聚焦台海、AI等6大議題"
   },
   {
    "domain": "dominotheory.com",
