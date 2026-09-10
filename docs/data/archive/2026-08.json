@@ -1,6 +1,6 @@
 {
  "month": "2026-08",
- "n_events": 981,
+ "n_events": 982,
  "events": [
   {
    "id": "evt_20260831_091490",
@@ -73,6 +73,82 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260831_1395d1",
+   "headline": "China-Taiwan tensions weigh on Pacific leaders meeting in Palau",
+   "headline_source": "Straits Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEN5WE5ZX0o4cXZhbnpad0k5U2tSbTEtWVJlZGZFbGdaTWQxU0d0ck5zS0lFblIwOVY1cTB0MThwQkpGeHg5dWdnbXBFb2d2czVJR2x2aXU0Z0hRd1JjNk9wY2loTjl0LS1weFBMdTEyWDQ3LXZtbUFnOXVXS19DaVV3ZjdsRFptTkNjdzBPRFJ0dkducE5lYTlZTEw0bUtOdmhXWVVwOGtLajcyLVlxQ0JzR3pneDRYV0NQY195Yw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-08-31T07:00:00Z",
+   "last_seen": "2026-09-01T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 31.8,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "Straits Times 원고를 U.S. News & World Report 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1afb1a575c9e0687",
+     "bbb8b41496ea8c6b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1afb1a575c9e0687",
+     "title": "China-Taiwan Tensions Weigh on Pacific Leaders Meeting",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQzh5QnE1bTlKek1jcVBYM2lNM2ViRlVLRllWd1BaUExKRldhU05Ja0swSnJ4Slpvdk1kTXZPNWtrUmFINEJ3emJnZlB6V3VOZFFxTXNKOTlPb21KdU16Y2VqclJRNG9FUHZBYkp2S2xkR1FyRk1uVGUwMGx1YW5XNWl5SEd5MHVmT24yWTJVdVVBa3c4bE5SbUozdndtclkxU1dtbllET1h0WmZMS1JDQkE5bUlZSnduN3V0ZDdTVm82bExoQS1RQ0lMRkQ?oc=5",
+     "published": "2026-08-31T07:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "U.S. News & World Report",
+     "source_domain": "usnews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "bbb8b41496ea8c6b",
+     "title": "China-Taiwan tensions weigh on Pacific leaders meeting in Palau",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNOEN5WE5ZX0o4cXZhbnpad0k5U2tSbTEtWVJlZGZFbGdaTWQxU0d0ck5zS0lFblIwOVY1cTB0MThwQkpGeHg5dWdnbXBFb2d2czVJR2x2aXU0Z0hRd1JjNk9wY2loTjl0LS1weFBMdTEyWDQ3LXZtbUFnOXVXS19DaVV3ZjdsRFptTkNjdzBPRFJ0dkducE5lYTlZTEw0bUtOdmhXWVVwOGtLajcyLVlxQ0JzR3pneDRYV0NQY195Yw?oc=5",
+     "published": "2026-09-01T07:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
