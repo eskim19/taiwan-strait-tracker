@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-12T20:35:33Z",
+ "updated": "2026-09-12T23:04:42Z",
  "checked": "2026-09-12",
- "duration_sec": 33.5,
+ "duration_sec": 32.3,
  "rolling_days": 14,
- "n_events": 401,
- "n_articles": 434,
+ "n_events": 402,
+ "n_articles": 436,
  "grades": {
   "C": 178,
-  "D": 199,
+  "D": 200,
   "B": 24
  },
  "cross_language_events": 1,
@@ -22,7 +22,7 @@
   "T2": 187,
   "T3": 66,
   "T4": 20,
-  "T5": 131,
+  "T5": 133,
   "TA": 3
  },
  "t1_domains": [
@@ -44,7 +44,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
+   "n_adopted": 27,
    "newest": "2026-09-11T13:23:37+00:00",
    "stale": false,
    "error": null
@@ -84,7 +84,7 @@
    "http": 200,
    "n_entries": 99,
    "n_adopted": 67,
-   "newest": "2026-09-12T05:22:36+00:00",
+   "newest": "2026-09-12T08:40:38+00:00",
    "stale": false,
    "error": null
   },
@@ -109,7 +109,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
+   "n_adopted": 2,
    "newest": "2026-09-12T16:21:00+00:00",
    "stale": false,
    "error": null
@@ -148,8 +148,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-09-12T14:00:05+00:00",
+   "n_adopted": 1,
+   "newest": "2026-09-12T22:55:23+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-12T11:52:00+00:00",
+   "newest": "2026-09-12T23:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-12T19:56:09+00:00",
+   "newest": "2026-09-12T22:51:28+00:00",
    "stale": false,
    "error": null
   },
@@ -248,8 +248,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 16,
-   "sample_title": "中國國安部拍兩岸諜報劇 梁文傑：中共對政治穩定充滿焦慮 | 自由電子報"
+   "n_articles": 17,
+   "sample_title": "討論牆 | （影）中共飛行員 : 外機進「不可逃逸區」挑釁 稱台海周邊「壓著他飛」"
   },
   {
    "domain": "i-meihua.com",
@@ -265,6 +265,11 @@
    "domain": "n.yam.com",
    "n_articles": 4,
    "sample_title": "不理中共 義大利參議院副議長呼應蕭美琴演說：強烈譴責威脅台海穩定的政軍舉措"
+  },
+  {
+   "domain": "upmedia.mg",
+   "n_articles": 4,
+   "sample_title": "高雄冰店談台海！台退役軍官勸「別備戰」 美專家爆粗口：我兒命都押上了"
   },
   {
    "domain": "ttv.com.tw",
@@ -285,11 +290,6 @@
    "domain": "mirrordaily.news",
    "n_articles": 3,
    "sample_title": "台灣如何贏得台海──更靈活的海軍能拒止中國"
-  },
-  {
-   "domain": "upmedia.mg",
-   "n_articles": 3,
-   "sample_title": "晶片成台灣抗中灰色地帶關鍵籌碼 美學者：台海恐數小時引發全球金融危機"
   },
   {
    "domain": "devdiscourse.com",
