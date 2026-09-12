@@ -1,16 +1,16 @@
 {
- "updated": "2026-09-11T23:17:58Z",
- "checked": "2026-09-11",
- "duration_sec": 35.9,
+ "updated": "2026-09-12T04:39:12Z",
+ "checked": "2026-09-12",
+ "duration_sec": 30.8,
  "rolling_days": 14,
  "n_events": 405,
- "n_articles": 441,
+ "n_articles": 442,
  "grades": {
-  "C": 180,
-  "D": 202,
-  "B": 23
+  "C": 178,
+  "B": 25,
+  "D": 202
  },
- "cross_language_events": 3,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-08",
@@ -20,9 +20,9 @@
  "tier_articles": {
   "T1": 13,
   "T2": 189,
-  "T3": 64,
+  "T3": 62,
   "T4": 21,
-  "T5": 135,
+  "T5": 136,
   "TA": 3
  },
  "t1_domains": [
@@ -44,7 +44,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 31,
+   "n_adopted": 32,
    "newest": "2026-09-11T13:23:37+00:00",
    "stale": false,
    "error": null
@@ -56,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 62,
-   "n_adopted": 30,
-   "newest": "2026-09-11T10:24:20+00:00",
+   "n_entries": 60,
+   "n_adopted": 28,
+   "newest": "2026-09-12T03:04:41+00:00",
    "stale": false,
    "error": null
   },
@@ -82,9 +82,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 99,
-   "n_adopted": 64,
-   "newest": "2026-09-11T21:30:00+00:00",
+   "n_entries": 100,
+   "n_adopted": 69,
+   "newest": "2026-09-12T02:17:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +110,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 3,
-   "newest": "2026-09-11T07:06:00+00:00",
+   "newest": "2026-09-11T22:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-09-11T22:36:20+00:00",
+   "newest": "2026-09-12T04:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-11T23:05:00+00:00",
+   "newest": "2026-09-12T02:48:00+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 93,
+   "n_entries": 97,
    "n_adopted": 0,
-   "newest": "2026-09-11T21:45:27+00:00",
+   "newest": "2026-09-12T00:46:35+00:00",
    "stale": false,
    "error": null
   },
@@ -212,9 +212,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-09-11T17:32:44+00:00",
+   "newest": "2026-09-12T03:02:28+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-11T23:08:05+00:00",
+   "newest": "2026-09-12T04:00:23+00:00",
    "stale": false,
    "error": null
   },
@@ -262,6 +262,16 @@
    "sample_title": "澳洲前總理陸克文警告，中國在2028年對台灣採取軍事行動的可能達三份之一，呼籲澳洲與美國及其他盟友合作，加強軍事威懾，降低台海爆發戰爭的風險。 #陸克文演講 #"
   },
   {
+   "domain": "n.yam.com",
+   "n_articles": 4,
+   "sample_title": "不理中共 義大利參議院副議長呼應蕭美琴演說：強烈譴責威脅台海穩定的政軍舉措"
+  },
+  {
+   "domain": "mirrordaily.news",
+   "n_articles": 4,
+   "sample_title": "顧立雄曝台海戰略！鬆口國軍作戰準備「開戰不等美軍」：計畫沒把美軍介入當前提"
+  },
+  {
    "domain": "fountmedia.io",
    "n_articles": 4,
    "sample_title": "谷立言警告台海衝突代價恐超越二戰！蕭美琴喊非紅供應鏈 日本議員另推日版《台灣關係法》"
@@ -270,16 +280,6 @@
    "domain": "cmoney.tw",
    "n_articles": 3,
    "sample_title": "陸國安劇《交鋒》重現台海危機梁文傑：台灣「保防教育」可借鑑- 股市爆料同學會"
-  },
-  {
-   "domain": "mirrordaily.news",
-   "n_articles": 3,
-   "sample_title": "台灣如何贏得台海──更靈活的海軍能拒止中國"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 3,
-   "sample_title": "總統接見「台海和平穩定國會議員之會」訪團 盼台日深化合作"
   },
   {
    "domain": "hk.crntt.com",
