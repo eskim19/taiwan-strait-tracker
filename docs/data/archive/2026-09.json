@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 424,
+ "n_events": 428,
  "events": [
   {
    "id": "evt_20260915_c2f57e",
@@ -66,7 +66,7 @@
    "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5WSlYwVjlsNlc1dmV2T29wQl9MaEYwUzdXUnd0cFV1SmdJeGI4SW5iQW5pTWlLNnh0eFlDS01fdDg4RFo2am1vOHlEM1ZrdHNUUVVQV2J3NGoxR1B5Zkxjdll4a2ZkQVpvdC1wOVRB?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T03:48:59Z",
-   "last_seen": "2026-09-14T17:41:37Z",
+   "last_seen": "2026-09-14T22:05:56Z",
    "langs": [
     "zh"
    ],
@@ -77,7 +77,7 @@
     "grade_label": "개연적",
     "n_originals": 2,
     "n_unrated": 0,
-    "score": 43.1,
+    "score": 43.6,
     "n_independent": 2,
     "n_articles": 3,
     "n_domains": 3,
@@ -90,7 +90,7 @@
     "reasons": [
      "독립 출처 2곳",
      "최고 등급 주요 일간",
-     "中國時報 원고를 mnews.tw 가 전재 — 1곳으로 계산"
+     "中國時報 원고를 鏡新聞 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
@@ -129,7 +129,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "mnews.tw",
+     "source_name": "鏡新聞",
      "source_domain": "mnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -142,7 +142,7 @@
      "id": "bb1cfcfb564b9bf4",
      "title": "沖繩變天牽動台海防線 高市陣營拿下關鍵勝利",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XMzhqUmZzd3IxVzZBVGZldEYwUG4yWFVvRmtKVVNtSzExczRoaFozalVTSUR6NXJkM1lYRi00N0VBU0hRRGFZclZGN3gxLTlnal90eldvZ1l2TWRwdnFGRNIBZkFVX3lxTE1ramJTZVY3UjVteVB0d0pHeU43MzRlOGM5a0lqZ2NsMUJlZmFXWFZFc1M1Z3BKd3Vta1g0X09hdnREMzJEYmNhMEdmN2xSV1FjS2JBckpMQ0dtU0d2bS1GSXlzS19JQQ?oc=5",
-     "published": "2026-09-14T17:41:37Z",
+     "published": "2026-09-14T22:05:56Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait"
@@ -159,9 +159,235 @@
    ]
   },
   {
+   "id": "evt_20260913_42248c",
+   "headline": "【新聞大破解】習不去川習會？沖繩變天連動台海 美宣布對台軍售?",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5udldacjFwU3BCOUxJa1lVYUc0Uk5uN1hYQ3Y1ZUVzRzhnREdjVXB0ajEwMkVLbTBrU0NKRHhJZGdDbzN0VkFoRzlGUV9BUnNGM0dTeDdnRlloeVdaVFFTUdIBZkFVX3lxTFAtcVNYbVZqa3dLZFpldHA0Vmp5NzZyeTNicVNOMXR3M0JRbUFwaGctWnZSei1BODk5UlFPQzhCQ0VPemVNZjBUZ2ZoQTk1dW02R0NFT0dOeDJFNlZRQmxBMHVsbFdHdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-13T00:42:00Z",
+   "last_seen": "2026-09-14T22:05:50Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 3,
+    "n_unrated": 2,
+    "score": 35.9,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체",
+     "2개 언어권에서 확인",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e6008780bc6700e5",
+     "aa15615ac17ccd81",
+     "9d4fd25ef39268f4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e6008780bc6700e5",
+     "title": "China threatens to cancel summit if US approves new arms sales to Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3pFNWw3NTdvQTlyeTE0SUgwVlFEcGV0enIwUnpSZFB3d2xWRHpId2xDalBKNWw1bV9TY3Z0RGZ2TWx3aGJJREhjUGlJZVRFTVhEc2RLVVJoTjVsTFhzUW1zN1JyT20zRG5GWkY1M1N4cGdrZ1ZHVnRWRl8wUEVHQTYtTEotY3JLZlJ5SWxUeFFUd1A5ZlhxY2Z5SUVod0Rha2VSclNmcXM3Sy1mQ1Zrb1p4NNIBuAFBVV95cUxPYTlEVHM4Y042SmpybVgyd1p6TGhtcVlsWWlhYkd2SFE4NXJWaTV0emZGbXlCSUFsNHotMlBJeURLOGtxYVBpdGs0WnBYanRpNjlLWW1PUmNNLUVyYjhhcERaREtMT0djU1hnTlBuWUlvMzc4R25wNXdpNHVlbnpOMVlhT0dHazJJbGR3WVZTcE1sMlhUVWtYRW1MRW5wNS13VC1FVnBOdUw3Q0RSb3kwZWliQ3VscjVz?oc=5",
+     "published": "2026-09-13T00:42:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "Inquirer.net",
+     "source_domain": "globalnation.inquirer.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "aa15615ac17ccd81",
+     "title": "對台軍售成川習會條件？學者揭中共3目的：「拖延現狀」當攻台理由",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15QzI3aXdsVzZsU0k5M21mbUNuMDZ2cjFSZmgxNk1VODI4ZDU4bUpvdkthOVlpM014a00telJwSHdncTNUTEhtYnRWb210UHdjQndBVHFRM2lHWkk?oc=5",
+     "published": "2026-09-14T05:34:57Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "invasion",
+      "roc_military",
+      "status_quo"
+     ],
+     "source_name": "zmedia.com.tw",
+     "source_domain": "zmedia.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "9d4fd25ef39268f4",
+     "title": "【新聞大破解】習不去川習會？沖繩變天連動台海 美宣布對台軍售?",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5udldacjFwU3BCOUxJa1lVYUc0Uk5uN1hYQ3Y1ZUVzRzhnREdjVXB0ajEwMkVLbTBrU0NKRHhJZGdDbzN0VkFoRzlGUV9BUnNGM0dTeDdnRlloeVdaVFFTUdIBZkFVX3lxTFAtcVNYbVZqa3dLZFpldHA0Vmp5NzZyeTNicVNOMXR3M0JRbUFwaGctWnZSei1BODk5UlFPQzhCQ0VPemVNZjBUZ2ZoQTk1dW02R0NFT0dOeDJFNlZRQmxBMHVsbFdHdw?oc=5",
+     "published": "2026-09-14T22:05:50Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260914_4d06fc",
+   "headline": "Things Are Heating Up In The Taiwan Strait",
+   "headline_source": "dailycaller.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JWXFTVXpBRkZOWmJpSnNoYWN2NjJDaWZPQmREZ3NzX2tBelhhVVBqS0FYOXBpSjV4R2VGcGVIRkl2SzUyQ3dUOS1FQllxRi0yNUM3WGgwREpjNEVwMFlaMHJQSUlSVVlDN0Q0Mi1MR3A3UGhoNE1IZ3F1Xy1MUQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-14T21:18:00Z",
+   "last_seen": "2026-09-14T21:18:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "924ad3cc2827752f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "924ad3cc2827752f",
+     "title": "Things Are Heating Up In The Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5JWXFTVXpBRkZOWmJpSnNoYWN2NjJDaWZPQmREZ3NzX2tBelhhVVBqS0FYOXBpSjV4R2VGcGVIRkl2SzUyQ3dUOS1FQllxRi0yNUM3WGgwREpjNEVwMFlaMHJQSUlSVVlDN0Q0Mi1MR3A3UGhoNE1IZ3F1Xy1MUQ?oc=5",
+     "published": "2026-09-14T21:18:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "dailycaller.com",
+     "source_domain": "dailycaller.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260914_1e24fa",
+   "headline": "美智庫警告華府「勿介入台海衝突」 風險遠超潛在利益輿論：賴「倚美謀獨」推台灣入火坑- 中國",
+   "headline_source": "大公文匯網",
+   "headline_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50TTk2a1BDbk5TNTBTaUMtYU9JZGpiVURiY3piYm9UMmRNU0x2X2hCVGc2QThVX2Vhc3BPR0VsTzhMU0xKTWdCa1dwWXF4MnRkZ29hNVV6UXhYRUM0MHhPeDJReW8yc05Wcmh1bkVZQmdJVDRt?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-14T20:19:22Z",
+   "last_seen": "2026-09-14T20:19:22Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "8005ad89f8015e0c"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "8005ad89f8015e0c",
+     "title": "美智庫警告華府「勿介入台海衝突」 風險遠超潛在利益輿論：賴「倚美謀獨」推台灣入火坑- 中國",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE50TTk2a1BDbk5TNTBTaUMtYU9JZGpiVURiY3piYm9UMmRNU0x2X2hCVGc2QThVX2Vhc3BPR0VsTzhMU0xKTWdCa1dwWXF4MnRkZ29hNVV6UXhYRUM0MHhPeDJReW8yc05Wcmh1bkVZQmdJVDRt?oc=5",
+     "published": "2026-09-14T20:19:22Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "大公文匯網",
+     "source_domain": "tkww.hk",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260914_c2ae26",
    "headline": "台海響警號｜未開戰先動員 中國修例10.1「平戰快速轉換」 可徵收民企晶片",
-   "headline_source": "pulsehknews.com",
+   "headline_source": "追光者 Pulse HK News",
    "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWVJwbjRsZU05MkdoanJrUmlDTFkzMjFncVZQdW52bXpSd0ZRUldzWHNOQnZ1MjU2VzlDNl82OVhuczd5U3haanhPck40SVBLRURyc25la2NaRFJRODBn?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T16:41:25Z",
@@ -207,7 +433,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "pulsehknews.com",
+     "source_name": "追光者 Pulse HK News",
      "source_domain": "pulsehknews.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -282,7 +508,7 @@
    "id": "evt_20260914_518407",
    "headline": "MQ-9B首度升空 專家：打造台海「偵搜牆」",
    "headline_source": "大紀元 Epoch Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KV2w0WDZKZjMwWmdmQzJ5Ukh2OUE2NGl5aFdISkdOaFVDRnBuMWNHMHhKUGhZZ2pxbHZoMkNnLV9GUVVIV2VRWWlTdTdHSThraU5QWnR5VFBZbjViek1zZdIBZkFVX3lxTE45MHlqRUtIZnVTcjJGOVVzNnl5aU1uODJUbm5LMFJobjhFNXoxWWM0U2JZYlRteDJKM2NRNTB2OHFjY2ZyRDJBLXhIUUt3b1ZLWGhsamhoNUpaX1VBRVFIaG1XdS1Hdw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KV2w0WDZKZjMwWmdmQzJ5Ukh2OUE2NGl5aFdISkdOaFVDRnBuMWNHMHhKUGhZZ2pxbHZoMkNnLV9GUVVIV2VRWWlTdTdHSThraU5QWnR5VFBZbjViek1zZQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T13:50:00Z",
    "last_seen": "2026-09-14T13:50:00Z",
@@ -320,7 +546,7 @@
     {
      "id": "1352104da0380640",
      "title": "MQ-9B首度升空 專家：打造台海「偵搜牆」",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KV2w0WDZKZjMwWmdmQzJ5Ukh2OUE2NGl5aFdISkdOaFVDRnBuMWNHMHhKUGhZZ2pxbHZoMkNnLV9GUVVIV2VRWWlTdTdHSThraU5QWnR5VFBZbjViek1zZdIBZkFVX3lxTE45MHlqRUtIZnVTcjJGOVVzNnl5aU1uODJUbm5LMFJobjhFNXoxWWM0U2JZYlRteDJKM2NRNTB2OHFjY2ZyRDJBLXhIUUt3b1ZLWGhsamhoNUpaX1VBRVFIaG1XdS1Hdw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KV2w0WDZKZjMwWmdmQzJ5Ukh2OUE2NGl5aFdISkdOaFVDRnBuMWNHMHhKUGhZZ2pxbHZoMkNnLV9GUVVIV2VRWWlTdTdHSThraU5QWnR5VFBZbjViek1zZQ?oc=5",
      "published": "2026-09-14T13:50:00Z",
      "lang": "zh",
      "entities": [
@@ -397,12 +623,12 @@
    ]
   },
   {
-   "id": "evt_20260914_595375",
-   "headline": "台海監偵「千里眼」升空！ MQ-9B首度在花蓮試飛",
-   "headline_source": "mnews.tw",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4waVVfMGg2RWpVbF9FcmNvYkEtOG93cEx3UHhCR0U5NC1SczRtdnZTMWpxS3FpMmFNUnZLS3RjTUxlbGZsS1R1OWNxNlpNYUJYc2RlR0xDZknSAV5BVV95cUxNZEIyX1VEbUN0aG1uVDBQRmh6UE1NcG5abXN0dlFfU0tfUFpaRkNGbUlyZDI5VllqVHB3WHhQc184SDd3bFBOZlp6Uk9JS3FPNWdNcG9wZjNNanFlbnJR?oc=5",
+   "id": "evt_20260914_fc3603",
+   "headline": "MQ-9B花蓮首度試飛 台海監偵「千里眼」",
+   "headline_source": "信傳媒",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQWkJRUHFFdG1vakhMQkNrVks1ZURqZVhOY3JBUEd2Nl9paUZ5YkU3TlVXWUstV2FKVEdvZzhfTzJNbmZBancwemRRRVM3TGtqV0hsOVVobWVRdw?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-14T11:15:00Z",
+   "first_seen": "2026-09-14T06:00:48Z",
    "last_seen": "2026-09-14T11:15:00Z",
    "langs": [
     "zh"
@@ -414,10 +640,10 @@
     "grade_label": "출처 미확인",
     "n_originals": 1,
     "n_unrated": 1,
-    "score": 2.1,
+    "score": 5.5,
     "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "unknown"
     ],
@@ -426,16 +652,37 @@
     "reasons": [
      "등급표에 없는 매체만 보도",
      "최고 등급 미분류",
+     "信傳媒 원고를 鏡新聞 가 전재 — 1곳으로 계산",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "3b3eda29a5dfbdc5",
      "a8a009b053b293f4"
     ]
    },
    "articles": [
+    {
+     "id": "3b3eda29a5dfbdc5",
+     "title": "MQ-9B花蓮首度試飛 台海監偵「千里眼」",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBQWkJRUHFFdG1vakhMQkNrVks1ZURqZVhOY3JBUEd2Nl9paUZ5YkU3TlVXWUstV2FKVEdvZzhfTzJNbmZBancwemRRRVM3TGtqV0hsOVVobWVRdw?oc=5",
+     "published": "2026-09-14T06:00:48Z",
+     "lang": "zh",
+     "entities": [
+      "hualien",
+      "taiwan_strait"
+     ],
+     "source_name": "信傳媒",
+     "source_domain": "cmmedia.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "a8a009b053b293f4",
      "title": "台海監偵「千里眼」升空！ MQ-9B首度在花蓮試飛",
@@ -446,7 +693,7 @@
       "hualien",
       "taiwan_strait"
      ],
-     "source_name": "mnews.tw",
+     "source_name": "鏡新聞",
      "source_domain": "mnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -798,62 +1045,61 @@
    ]
   },
   {
-   "id": "evt_20260914_97baf9",
-   "headline": "川習二會…沈有忠：川普未必主動提台海 習近平恐挑撥台美日關係",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42LVJqLVFnRU1mLUcxaXpCa1JXNW54N01xUlBXbldaSVdtUzE3cTJjMVk3OG81SmhWS0RZbVN1UU90ajR5dHNTNFhVSzZaNkll0gFWQVVfeXFMTjJFbzRLaXY2VGxjbngycGlkd3BYS2wzeHJ4dzBKVGpuMUhZVFVBekNDYV9RT0E0ZFR1WE1ySWI2VWpRUUJHSDAtRHBlWDZkLWlacV9UdkE?oc=5",
+   "id": "evt_20260914_b6dbf3",
+   "headline": "台海今年無大型軍演 美中都要管控衝突",
+   "headline_source": "PChome Online 股市",
+   "headline_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY29FNnZTdlNuMTN4T0JDYnF3RXJjVmhpM3VxTnhDS1V6TzdiYThXd0pLbEtoN0tqNFNnSjBZeWNucTdnN0pmdGNzbXIyVHI4X2V5eUUzdEVwOVoyd0xOeXphOTBQT1NIam0wWEZqLXlmYm1PVF84a0VZMDUwMTRzVQ?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-14T09:54:37Z",
-   "last_seen": "2026-09-14T09:54:37Z",
+   "first_seen": "2026-09-14T09:40:27Z",
+   "last_seen": "2026-09-14T09:40:27Z",
    "langs": [
     "zh"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
     "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
     "n_articles": 1,
     "n_domains": 1,
     "blocs": [
-     "independent"
+     "unknown"
     ],
-    "top_tier": "T2",
+    "top_tier": "T5",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "164f47f94c9725c3"
+     "ed3ef187a97cf1ef"
     ]
    },
    "articles": [
     {
-     "id": "164f47f94c9725c3",
-     "title": "川習二會…沈有忠：川普未必主動提台海 習近平恐挑撥台美日關係",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42LVJqLVFnRU1mLUcxaXpCa1JXNW54N01xUlBXbldaSVdtUzE3cTJjMVk3OG81SmhWS0RZbVN1UU90ajR5dHNTNFhVSzZaNkll0gFWQVVfeXFMTjJFbzRLaXY2VGxjbngycGlkd3BYS2wzeHJ4dzBKVGpuMUhZVFVBekNDYV9RT0E0ZFR1WE1ySWI2VWpRUUJHSDAtRHBlWDZkLWlacV9UdkE?oc=5",
-     "published": "2026-09-14T09:54:37Z",
+     "id": "ed3ef187a97cf1ef",
+     "title": "台海今年無大型軍演 美中都要管控衝突",
+     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY29FNnZTdlNuMTN4T0JDYnF3RXJjVmhpM3VxTnhDS1V6TzdiYThXd0pLbEtoN0tqNFNnSjBZeWNucTdnN0pmdGNzbXIyVHI4X2V5eUUzdEVwOVoyd0xOeXphOTBQT1NIam0wWEZqLXlmYm1PVF84a0VZMDUwMTRzVQ?oc=5",
+     "published": "2026-09-14T09:40:27Z",
      "lang": "zh",
      "entities": [
-      "taiwan_strait",
-      "trump",
-      "xi_jinping"
+      "taiwan_strait"
      ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
+     "source_name": "PChome Online 股市",
+     "source_domain": "pchome.megatime.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -1098,9 +1344,70 @@
    ]
   },
   {
+   "id": "evt_20260914_97baf9",
+   "headline": "川習二會…沈有忠：川普未必主動提台海 習近平恐挑撥台美日關係",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42LVJqLVFnRU1mLUcxaXpCa1JXNW54N01xUlBXbldaSVdtUzE3cTJjMVk3OG81SmhWS0RZbVN1UU90ajR5dHNTNFhVSzZaNkll0gFWQVVfeXFMTjJFbzRLaXY2VGxjbngycGlkd3BYS2wzeHJ4dzBKVGpuMUhZVFVBekNDYV9RT0E0ZFR1WE1ySWI2VWpRUUJHSDAtRHBlWDZkLWlacV9UdkE?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-14T08:46:17Z",
+   "last_seen": "2026-09-14T08:46:17Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "164f47f94c9725c3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "164f47f94c9725c3",
+     "title": "川習二會…沈有忠：川普未必主動提台海 習近平恐挑撥台美日關係",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42LVJqLVFnRU1mLUcxaXpCa1JXNW54N01xUlBXbldaSVdtUzE3cTJjMVk3OG81SmhWS0RZbVN1UU90ajR5dHNTNFhVSzZaNkll0gFWQVVfeXFMTjJFbzRLaXY2VGxjbngycGlkd3BYS2wzeHJ4dzBKVGpuMUhZVFVBekNDYV9RT0E0ZFR1WE1ySWI2VWpRUUJHSDAtRHBlWDZkLWlacV9UdkE?oc=5",
+     "published": "2026-09-14T08:46:17Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "xi_jinping"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260914_e1f21f",
    "headline": "空軍MQ-9B無人機首度在台升空 強化台海長程偵蒐、監控灰色地帶",
-   "headline_source": "n.yam.com",
+   "headline_source": "蕃新聞",
    "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0zOWtPYjBGV2NqZXIyV1Npa0tLbV9WSFFKdEZtUlRMS1ZtVVUwb2N1amdXMWc0SWRlNjZZVnpUbXAwR1huT3lWN2dyMFFhaGgyWXc?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T08:46:00Z",
@@ -1149,7 +1456,7 @@
       "plaaf",
       "taiwan_strait"
      ],
-     "source_name": "n.yam.com",
+     "source_name": "蕃新聞",
      "source_domain": "n.yam.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1462,90 +1769,6 @@
    ]
   },
   {
-   "id": "evt_20260913_e8e0d2",
-   "headline": "China threatens to cancel summit if US approves new arms sales to Taiwan",
-   "headline_source": "Inquirer.net",
-   "headline_url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3pFNWw3NTdvQTlyeTE0SUgwVlFEcGV0enIwUnpSZFB3d2xWRHpId2xDalBKNWw1bV9TY3Z0RGZ2TWx3aGJJREhjUGlJZVRFTVhEc2RLVVJoTjVsTFhzUW1zN1JyT20zRG5GWkY1M1N4cGdrZ1ZHVnRWRl8wUEVHQTYtTEotY3JLZlJ5SWxUeFFUd1A5ZlhxY2Z5SUVod0Rha2VSclNmcXM3Sy1mQ1Zrb1p4NNIBuAFBVV95cUxPYTlEVHM4Y042SmpybVgyd1p6TGhtcVlsWWlhYkd2SFE4NXJWaTV0emZGbXlCSUFsNHotMlBJeURLOGtxYVBpdGs0WnBYanRpNjlLWW1PUmNNLUVyYjhhcERaREtMT0djU1hnTlBuWUlvMzc4R25wNXdpNHVlbnpOMVlhT0dHazJJbGR3WVZTcE1sMlhUVWtYRW1MRW5wNS13VC1FVnBOdUw3Q0RSb3kwZWliQ3VscjVz?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-13T00:42:00Z",
-   "last_seen": "2026-09-14T05:34:57Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 2,
-    "n_unrated": 2,
-    "score": 19.4,
-    "n_independent": 0,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "2개 언어권에서 확인",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "e6008780bc6700e5",
-     "aa15615ac17ccd81"
-    ]
-   },
-   "articles": [
-    {
-     "id": "e6008780bc6700e5",
-     "title": "China threatens to cancel summit if US approves new arms sales to Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3pFNWw3NTdvQTlyeTE0SUgwVlFEcGV0enIwUnpSZFB3d2xWRHpId2xDalBKNWw1bV9TY3Z0RGZ2TWx3aGJJREhjUGlJZVRFTVhEc2RLVVJoTjVsTFhzUW1zN1JyT20zRG5GWkY1M1N4cGdrZ1ZHVnRWRl8wUEVHQTYtTEotY3JLZlJ5SWxUeFFUd1A5ZlhxY2Z5SUVod0Rha2VSclNmcXM3Sy1mQ1Zrb1p4NNIBuAFBVV95cUxPYTlEVHM4Y042SmpybVgyd1p6TGhtcVlsWWlhYkd2SFE4NXJWaTV0emZGbXlCSUFsNHotMlBJeURLOGtxYVBpdGs0WnBYanRpNjlLWW1PUmNNLUVyYjhhcERaREtMT0djU1hnTlBuWUlvMzc4R25wNXdpNHVlbnpOMVlhT0dHazJJbGR3WVZTcE1sMlhUVWtYRW1MRW5wNS13VC1FVnBOdUw3Q0RSb3kwZWliQ3VscjVz?oc=5",
-     "published": "2026-09-13T00:42:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "Inquirer.net",
-     "source_domain": "globalnation.inquirer.net",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "aa15615ac17ccd81",
-     "title": "對台軍售成川習會條件？學者揭中共3目的：「拖延現狀」當攻台理由",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15QzI3aXdsVzZsU0k5M21mbUNuMDZ2cjFSZmgxNk1VODI4ZDU4bUpvdkthOVlpM014a00telJwSHdncTNUTEhtYnRWb210UHdjQndBVHFRM2lHWkk?oc=5",
-     "published": "2026-09-14T05:34:57Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "invasion",
-      "roc_military",
-      "status_quo"
-     ],
-     "source_name": "zmedia.com.tw",
-     "source_domain": "zmedia.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260914_472500",
    "headline": "美智庫建議「美軍不介入台海衝突」引發島內關注- 兩岸",
    "headline_source": "點新聞",
@@ -1668,7 +1891,7 @@
   {
    "id": "evt_20260914_7e1f54",
    "headline": "沖繩變天！「美軍基地派」古謝玄太當選知事 料強化台海防衛",
-   "headline_source": "中天新聞網",
+   "headline_source": "ctinews.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1MWlNzMHotckVHd3JlcC1udW1mYi1aZ3lwd1o1SXd5Y182akNxQW96bHUxY0tleFZrcFBoelRLb0U5b0ZQMkRrNkx2RTR6Q1FrZHRv?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T05:04:05Z",
@@ -1715,7 +1938,7 @@
       "taiwan_strait",
       "us_military"
      ],
-     "source_name": "中天新聞網",
+     "source_name": "ctinews.com",
      "source_domain": "ctinews.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2151,7 +2374,7 @@
   {
    "id": "evt_20260914_b36bbe",
    "headline": "Taiwan Strait 1958: The First Sidewinder Kill",
-   "headline_source": "migflug.com",
+   "headline_source": "MiGFlug",
    "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWC1aaFNRQTlZeWZBMHFMaU5pa3ZUSGY3aXlBU1NCZWRvNzJwMWp2T3I0bFhqMzdsX183UkFiYTgtUy1zek9NQUVLMWhYSDM0V09MeklNamkxMXdwbmJNSDRpcnJ1XzVrR0djS0RuVk1xOHBjMG1mM3JPUUttRU9JU1YwTkN5NUtJVkJGZWZKZ1V6UXVZOUFsV3psSQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-14T01:56:12Z",
@@ -2197,7 +2420,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "migflug.com",
+     "source_name": "MiGFlug",
      "source_domain": "migflug.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4509,6 +4732,66 @@
    ]
   },
   {
+   "id": "evt_20260912_739a81",
+   "headline": "【新聞大破解】曼德海峽陷落？AIT定錨台海斷絕中共大交易？",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZkpwekIxanZxdFo0cXdLQmVIelZvZndjQVRSREw0ZmdfZ19EaE5Ka1Y4MC1JSVB1WGlMeDh3Q2ZPakdNLWVhWnZkN08yYnhhNC14cWhIb3F0anVrRGxVbdIBZkFVX3lxTE5ULTVLbkhSWDRTUmNRYnpBVENXa1V5aFBNclRSMDlmYmZ5SlFzNEFaOUJnR1c1Mk9nUWlad1NmNVlVa2h3SlNIVGdwcGhhZWtjcEJkUkpILUpCcU1NY2J4bmEtWTIwZw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-12T00:19:00Z",
+   "last_seen": "2026-09-12T00:19:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9c8fb85c87479b17"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9c8fb85c87479b17",
+     "title": "【新聞大破解】曼德海峽陷落？AIT定錨台海斷絕中共大交易？",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZkpwekIxanZxdFo0cXdLQmVIelZvZndjQVRSREw0ZmdfZ19EaE5Ka1Y4MC1JSVB1WGlMeDh3Q2ZPakdNLWVhWnZkN08yYnhhNC14cWhIb3F0anVrRGxVbdIBZkFVX3lxTE5ULTVLbkhSWDRTUmNRYnpBVENXa1V5aFBNclRSMDlmYmZ5SlFzNEFaOUJnR1c1Mk9nUWlad1NmNVlVa2h3SlNIVGdwcGhhZWtjcEJkUkpILUpCcU1NY2J4bmEtWTIwZw?oc=5",
+     "published": "2026-09-12T00:19:00Z",
+     "lang": "zh",
+     "entities": [
+      "ait",
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260912_8ec25f",
    "headline": "Taiwan to mark Disaster Prevention Day with drills",
    "headline_source": "Taipei Times",
@@ -5347,7 +5630,7 @@
   {
    "id": "evt_20260911_e28638",
    "headline": "澳洲前總理陸克文談台海風險 預估中國對台動武最早恐在2028",
-   "headline_source": "cmmedia.com.tw",
+   "headline_source": "信傳媒",
    "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1sQVljQTFUSHZKZFR1bUVYR0RTeHVVUW0tUEpPZ01JLTFUZ1FiaWFJOXdLOW5CWm9aVVVTdE5oMEFhU1I2TVE1NDc3UHFINTloRklkSVlfX3M0UQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-11T05:19:19Z",
@@ -5393,7 +5676,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "cmmedia.com.tw",
+     "source_name": "信傳媒",
      "source_domain": "cmmedia.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -11037,7 +11320,7 @@
   {
    "id": "evt_20260909_c50fbc",
    "headline": "Taiwan Strait Tensions: A Global Economic Impact Looms",
-   "headline_source": "Devdiscourse",
+   "headline_source": "devdiscourse.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPS1lySERHY3ZwSnMycWZwdm5SSDB0TGR6ZTVtVFN3akpmUE84clBvYy12czJ3UWNlbU51R3FCYmFGQzBiU1ByNnVVd3FJdS1SVVBialZCM1hvcW9LMWhkZzdJZk14MlBMbHp6M1RTWkpWMk5Tb3ZzS0Y5VjlBMVNFUGhCdURGWUI1ZEo1cnl4Mk14b3FlVzlnS0RjVXZVM0ExcEVxZ0tIV2RnLTjSAbABQVVfeXFMUFlEZGdyaU1yU00tSHNFc3pHTU1veE5nNFgtX1VWTUVwQ3ZTTjZNTnRjQmNmam5xTWRrNmtrWW5sSmJrWWw2djloX2wyZjl6U1lWQUJrU2lMQk9ZcW5mcTNpVWw3Qzl6SHl0aXZLZ0NtUnZEbkk4dTFld1pYRXBhMkQydlQ0Q0VQcl81eURMMDJlY3VTdExHR0hXcndVM2xUYW15WU5PTmpmREw1bVA3cVE?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-09T03:59:58Z",
@@ -11083,7 +11366,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "Devdiscourse",
+     "source_name": "devdiscourse.com",
      "source_domain": "devdiscourse.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -11654,7 +11937,7 @@
   {
    "id": "evt_20260909_14e2a3",
    "headline": "Taiwan Strait Tensions: A Looming Economic Catastrophe",
-   "headline_source": "Devdiscourse",
+   "headline_source": "devdiscourse.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR3pHVWFkcnVBNmROczB3ZUxRcGltbmxmR0RqSHJWR3pmS3JOR0tMWXJmSHpvaF9uTi1lejVBc2h1MkowUXBMSHBjbWRFYWt4Z2lLc3lZRnZfS2N4emcwUGJyQzVEMUtSaG5wSEl4T1d0bTk5WVRNUFBDVDU0b0hnYmFnallSdUdmQklFTEtmcklmMFk1Ul9paWdsNWh3NWswbG1hT3FqR1MyaDDSAbABQVVfeXFMTjNTeG5sUFE0Q3RKZlJZU3pXMnh0M1VHczlTS04xXy02eExhSHd2aG9xVlVja3JQVjZLcmJuTGxuYXNmY29RZFJhZHpudlAxTUxheVlneUZQa1otNjVSbUI5QUQ3UDY3ODA5bEpxMl81U3E4OFp4VFp1Q2JEelhRdVk0amFtTnJJcVdibkg4akFGeUJCQWo3NXVRRGVmeUQ5OFNHVDNWVkJhdnFiYkdzbUg?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-09T02:06:08Z",
@@ -11700,7 +11983,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "Devdiscourse",
+     "source_name": "devdiscourse.com",
      "source_domain": "devdiscourse.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -11773,7 +12056,7 @@
   {
    "id": "evt_20260909_086a03",
    "headline": "Taiwan Strait Conflict: Global Economic Implications",
-   "headline_source": "Devdiscourse",
+   "headline_source": "devdiscourse.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcnMwbEhHMmFFLWZJZzFEQVg2aEU1RmF3a0hBWEVqdGpDOGNPSUNIYXVaNDU0UFJKa1VwblA5SzYyaFJiMlkxX1FNbWNXYVdWLXdRaTBZdHhrTmJMeER3MUtUUjhmV0wwVTBQemFjX25EZFRYcFBfTERKQTRjdXlpZWdiRHhTOTRnM2FtOEV1VWYwR09ybzRBTXhCbDNkUUdxQ1JJX1NrVWvSAa4BQVVfeXFMT0RFYUtYQm1PODNIeDRlWmIxQ3Vac18wbWduRkcwNkJFdW1WUGNJMG04X0lyY1pQZEhGeklaTGFZUG1obGtDVWhySVhWWV9zOGhOd3RZMjlyUnZmUEJVX1dSUG5mc0dEZHBmOXZtQ19raUFrdUNVSHIwYklOVFJnNGVVeXhDZ3hLOU5iNUltMklwOWpUNWpHNGZjZjBjR3dydVBpMGh4ZTVQbGpwdklR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-09T01:23:41Z",
@@ -11819,7 +12102,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "Devdiscourse",
+     "source_name": "devdiscourse.com",
      "source_domain": "devdiscourse.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -21082,7 +21365,7 @@
       "blockade",
       "tw_mnd"
      ],
-     "source_name": "서울경제",
+     "source_name": "sedaily.com",
      "source_domain": "sedaily.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -22582,7 +22865,7 @@
   {
    "id": "evt_20260902_1a4216",
    "headline": "[영상] 대만 \"중국군 침공 준비 가속…상륙작전 능력 향상 중점\"",
-   "headline_source": "koreancenter.or.kr",
+   "headline_source": "연합뉴스 한민족센터",
    "headline_url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB2eFVPMU1qM2k5YVdIUkZDYUg2czRQUVAzVUxONFRFMTUtWUNNMVlVaFhyUEJTc2Zpb184Q3Y4ekpNX0ZaWlNyNXZkbVpPd0FMakdpakEwTzB1QkJRTmxNYy1aT2ZtTGg1M0owVzh4LTdYSXFa?oc=5",
    "headline_lang": "ko",
    "first_seen": "2026-09-02T07:21:11Z",
@@ -22629,7 +22912,7 @@
       "invasion",
       "pla"
      ],
-     "source_name": "koreancenter.or.kr",
+     "source_name": "연합뉴스 한민족센터",
      "source_domain": "koreancenter.or.kr",
      "tier": "T5",
      "tier_label": "미분류",
@@ -24684,9 +24967,9 @@
   },
   {
    "id": "evt_20260901_7ccec0",
-   "headline": "대만 \"중국군 대만침공 준비 가속…2030∼2035년 완료 전망\"",
-   "headline_source": "연합뉴스",
-   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONEx0aFYtUFQwa0N1THA4aUl6aUNqYUp1bzlweU9iandFWmxtNTUtd1pORV9rdkdnOTVQSVQyUEpwQ0ZjSkVGdmVwYW40QXB2cGp1YlE5VG1zdEXSAWBBVV95cUxQRl81T1pFTmd6UTV6U29GcktLNFFOTy1pcTBJZ2tEQkFOSUcyOVZ2QUdfcTFsNWloNEVteXBVUzB1T2JWQWg2T1hGVEYyQk9uOGhjd3JxdEZXcFQxRUtQY2c?oc=5",
+   "headline": "“중국군 대만 침공 준비 가속…2030∼2035년 완료 전망” 대만 연구원 분석",
+   "headline_source": "문화일보",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFByemVvZzNuczU3eDdyNy1VSnVFdXdJQ3MxMEhsSHMxOTNSQ1hiemx5REJHZlA5VWNZeDh5UzY1elRuandtS1Y4b2lGZHdBOExs?oc=5",
    "headline_lang": "ko",
    "first_seen": "2026-09-01T07:00:00Z",
    "last_seen": "2026-09-01T07:00:00Z",
@@ -24695,24 +24978,25 @@
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
+    "grade_label": "단일 출처",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 29.3,
+    "score": 25.8,
     "n_independent": 1,
     "n_articles": 2,
     "n_domains": 2,
     "blocs": [
-     "independent"
+     "independent",
+     "unknown"
     ],
-    "top_tier": "T1",
+    "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "연합뉴스 원고를 문화일보 가 전재 — 1곳으로 계산"
+     "최고 등급 주요 일간",
+     "문화일보 원고를 연합뉴스 한민족센터 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
@@ -24726,19 +25010,19 @@
     {
      "id": "353fa074111acaad",
      "title": "대만 \"중국군 대만침공 준비 가속…2030∼2035년 완료 전망\"",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ONEx0aFYtUFQwa0N1THA4aUl6aUNqYUp1bzlweU9iandFWmxtNTUtd1pORV9rdkdnOTVQSVQyUEpwQ0ZjSkVGdmVwYW40QXB2cGp1YlE5VG1zdEXSAWBBVV95cUxQRl81T1pFTmd6UTV6U29GcktLNFFOTy1pcTBJZ2tEQkFOSUcyOVZ2QUdfcTFsNWloNEVteXBVUzB1T2JWQWg2T1hGVEYyQk9uOGhjd3JxdEZXcFQxRUtQY2c?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9rd1J1aXI2aWY2YTVjcjg2R3Y2d2ROOXhFbkczRHdKV09SRks4VDNpblNjT19tRm5MQW5WNHhFRTBfR29TUVhLbWMwUEY3NS0zVnEzdjBmUVlfcG13Qm9kZGlkNnJaRWp1WlVpMUQwQk03RTdu?oc=5",
      "published": "2026-09-01T07:00:00Z",
      "lang": "ko",
      "entities": [
       "invasion",
       "pla"
      ],
-     "source_name": "연합뉴스",
-     "source_domain": "yna.co.kr",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
+     "source_name": "연합뉴스 한민족센터",
+     "source_domain": "koreancenter.or.kr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     },
