@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-15T17:02:42Z",
+ "updated": "2026-09-15T21:24:17Z",
  "events": [
   {
    "id": "evt_20260915_b4341a",
@@ -7,7 +7,7 @@
    "headline_source": "The Guardian",
    "headline_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenJxeDBsR3BHYVQ1Yy11dzE4RDZndGk0NkpIdmRqS2JBYndnbnV0ZWk4d0htVWJxaXQ3VWhoWThtclhIbk9taFp3aEFweWk3S1VIeGFzYjdUSzVFWHByNGFPQ3FodU45ZW9pbEJuS1IteXZnZDRENUNrTWZuZ21PWXNxSmRPN1VwN2hrVE9tMnp0b2Jyb2ZVSzdUQmxna2QxeF9FRndDcUNiaDR5VnVlYmhfc2hFZw?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-15T15:17:00Z",
+   "first_seen": "2026-09-15T19:31:00Z",
    "last_seen": "2026-09-16T00:00:00Z",
    "langs": [
     "en"
@@ -19,7 +19,7 @@
     "grade_label": "단일 출처",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 30.0,
+    "score": 28.9,
     "n_independent": 1,
     "n_articles": 2,
     "n_domains": 2,
@@ -46,7 +46,7 @@
      "id": "7af2c4c25a1e65f6",
      "title": "‘This is seriously bold’: How China turned Taiwan tensions into a top-rating TV spy drama",
      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNenJxeDBsR3BHYVQ1Yy11dzE4RDZndGk0NkpIdmRqS2JBYndnbnV0ZWk4d0htVWJxaXQ3VWhoWThtclhIbk9taFp3aEFweWk3S1VIeGFzYjdUSzVFWHByNGFPQ3FodU45ZW9pbEJuS1IteXZnZDRENUNrTWZuZ21PWXNxSmRPN1VwN2hrVE9tMnp0b2Jyb2ZVSzdUQmxna2QxeF9FRndDcUNiaDR5VnVlYmhfc2hFZw?oc=5",
-     "published": "2026-09-15T15:17:00Z",
+     "published": "2026-09-15T19:31:00Z",
      "lang": "en",
      "entities": [
       "espionage"
@@ -133,6 +133,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260915_234592",
+   "headline": "U.S. Allies and the Taiwan Strait",
+   "headline_source": "Strauss Center",
+   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ncjYwSW1xcVd3NTZUQ2NoRUhzTzAxVVpwWEFqY0F5ZjlkVWJ3bkdfT0R5dUZvdjBuNTA2LU5MamoySHpWSmhYVEJNRVdFaXpoNGtkMjZPN08zSTdJYjh2Q1A0NGtJbGJjNGo5OGVpbWdiZzd1UU5LSWFR?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-15T19:07:05Z",
+   "last_seen": "2026-09-15T19:07:05Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0c97f62c698fe236"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0c97f62c698fe236",
+     "title": "U.S. Allies and the Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ncjYwSW1xcVd3NTZUQ2NoRUhzTzAxVVpwWEFqY0F5ZjlkVWJ3bkdfT0R5dUZvdjBuNTA2LU5MamoySHpWSmhYVEJNRVdFaXpoNGtkMjZPN08zSTdJYjh2Q1A0NGtJbGJjNGo5OGVpbWdiZzd1UU5LSWFR?oc=5",
+     "published": "2026-09-15T19:07:05Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Strauss Center",
+     "source_domain": "strausscenter.org",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -396,7 +456,7 @@
    ]
   },
   {
-   "id": "evt_20260913_42248c",
+   "id": "evt_20260913_e8e0d2",
    "headline": "台海有戰事︱軍售是照妖鏡 實力已不允許美國為所欲為",
    "headline_source": "香港01",
    "headline_url": "https://news.google.com/rss/articles/CBMijANBVV95cUxPSVRLZHZLY2p2S0ZBcnFVeHZvN2NtQ1l3Ym1HRlNWOW5Edko2d01wX0xjZHhQTGZVQXhuQW9GOW5uN0pFeVMwZDZWWXVYSkFWdW9Od2hMN3NBMGhIZjEyazVXUGg3R05fbWRlbGo2SWJaRXZUV2paZFRBZ3hqM25SYnpXelptN3htVG01dDBEWVVvS2J5MGF6Y0pwejN6aG92SE5oTjZ1WlNudnJIYmx6bUx4SDNPdXZpVUN3S19FYjdVWWYybzJIWjh6RmszcWt3a083U05nRjZ2X1J6RXNMVWp1cVFIMXRMOExhNWhHQjlDZ1hOaEt3bVdwVVZYVTE5NWZVWnZaMHp1UzAta09rS0s5UGoxY0FfZTVuOS12MzhmTVFqY1pYdUxHdFV3TEFzUTdXakdZOUR3R1lzTmJmVEt5QUNyQkNzekhhTkN5eHN5d0R6ajJMcnJzb3hkdFB5S0VDOGRoZ0xCdkVLNkozR2NGQWpyanAyN0h2NzNUTkZMZnIzeHdMdkdZajY?oc=5",
@@ -409,15 +469,15 @@
    ],
    "cross_language": true,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 4,
+    "grade_label": "단일 출처",
+    "n_originals": 3,
     "n_unrated": 2,
-    "score": 57.4,
-    "n_independent": 2,
-    "n_articles": 4,
-    "n_domains": 4,
+    "score": 45.7,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
     "blocs": [
      "independent",
      "unknown"
@@ -425,7 +485,7 @@
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
+     "독립 출처 1곳",
      "최고 등급 주요 일간",
      "2개 언어권에서 확인",
      "미분류 매체 2곳 추가 보도(교차검증 미산입)"
@@ -436,7 +496,6 @@
     "tw_west": [
      "e6008780bc6700e5",
      "aa15615ac17ccd81",
-     "9d4fd25ef39268f4",
      "b645d49375d5b639"
     ]
    },
@@ -444,7 +503,7 @@
     {
      "id": "e6008780bc6700e5",
      "title": "China threatens to cancel summit if US approves new arms sales to Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3pFNWw3NTdvQTlyeTE0SUgwVlFEcGV0enIwUnpSZFB3d2xWRHpId2xDalBKNWw1bV9TY3Z0RGZ2TWx3aGJJREhjUGlJZVRFTVhEc2RLVVJoTjVsTFhzUW1zN1JyT20zRG5GWkY1M1N4cGdrZ1ZHVnRWRl8wUEVHQTYtTEotY3JLZlJ5SWxUeFFUd1A5ZlhxY2Z5SUVod0Rha2VSclNmcXM3Sy1mQ1Zrb1p4NNIBuAFBVV95cUxPYTlEVHM4Y042SmpybVgyd1p6TGhtcVlsWWlhYkd2SFE4NXJWaTV0emZGbXlCSUFsNHotMlBJeURLOGtxYVBpdGs0WnBYanRpNjlLWW1PUmNNLUVyYjhhcERaREtMT0djU1hnTlBuWUlvMzc4R25wNXdpNHVlbnpOMVlhT0dHazJJbGR3WVZTcE1sMlhUVWtYRW1MRW5wNS13VC1FVnBOdUw3Q0RSb3kwZWliQ3VscjVz?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOd3pFNWw3NTdvQTlyeTE0SUgwVlFEcGV0enIwUnpSZFB3d2xWRHpId2xDalBKNWw1bV9TY3Z0RGZ2TWx3aGJJREhjUGlJZVRFTVhEc2RLVVJoTjVsTFhzUW1zN1JyT20zRG5GWkY1M1N4cGdrZ1ZHVnRWRl8wUEVHQTYtTEotY3JLZlJ5SWxUeFFUd1A5ZlhxY2Z5SUVod0Rha2VSclNmcXM3Sy1mQ1Zrb1p4NA?oc=5",
      "published": "2026-09-13T00:42:00Z",
      "lang": "en",
      "entities": [
@@ -478,26 +537,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "9d4fd25ef39268f4",
-     "title": "【新聞大破解】習不去川習會？沖繩變天連動台海 美宣布對台軍售?",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5udldacjFwU3BCOUxJa1lVYUc0Uk5uN1hYQ3Y1ZUVzRzhnREdjVXB0ajEwMkVLbTBrU0NKRHhJZGdDbzN0VkFoRzlGUV9BUnNGM0dTeDdnRlloeVdaVFFTUdIBZkFVX3lxTFAtcVNYbVZqa3dLZFpldHA0Vmp5NzZyeTNicVNOMXR3M0JRbUFwaGctWnZSei1BODk5UlFPQzhCQ0VPemVNZjBUZ2ZoQTk1dW02R0NFT0dOeDJFNlZRQmxBMHVsbFdHdw?oc=5",
-     "published": "2026-09-14T22:05:50Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "新唐人 NTD",
-     "source_domain": "ntdtv.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     },
     {
@@ -1641,7 +1680,7 @@
   {
    "id": "evt_20260914_c2ae26",
    "headline": "台海響警號｜未開戰先動員 中國修例10.1「平戰快速轉換」 可徵收民企晶片",
-   "headline_source": "追光者 Pulse HK News",
+   "headline_source": "pulsehknews.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5QWVJwbjRsZU05MkdoanJrUmlDTFkzMjFncVZQdW52bXpSd0ZRUldzWHNOQnZ1MjU2VzlDNl82OVhuczd5U3haanhPck40SVBLRURyc25la2NaRFJRODBn?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T16:29:57Z",
@@ -1687,7 +1726,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "追光者 Pulse HK News",
+     "source_name": "pulsehknews.com",
      "source_domain": "pulsehknews.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3240,6 +3279,66 @@
    ]
   },
   {
+   "id": "evt_20260914_52457b",
+   "headline": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIS0ZIWW84NmNjOWljclM4OG9iNDlwejdvYlV4T05HS29oa2I3Z3lkX0p5S0ZZUW1mN0UtQXdsX19Pb1c3R3pFM2NEaXVDV3lXMjlyQXY4Ui1CS29NelN6TTV5QTdFWU5lc2pV?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-14T05:40:00Z",
+   "last_seen": "2026-09-14T05:40:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "5aac019a524e1c36"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "5aac019a524e1c36",
+     "title": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBIS0ZIWW84NmNjOWljclM4OG9iNDlwejdvYlV4T05HS29oa2I3Z3lkX0p5S0ZZUW1mN0UtQXdsX19Pb1c3R3pFM2NEaXVDV3lXMjlyQXY4Ui1CS29NelN6TTV5QTdFWU5lc2pV?oc=5",
+     "published": "2026-09-14T05:40:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260914_472500",
    "headline": "美智庫建議「美軍不介入台海衝突」引發島內關注- 兩岸",
    "headline_source": "點新聞",
@@ -3423,7 +3522,7 @@
   {
    "id": "evt_20260914_7e1b6f",
    "headline": "台灣MQ-9B「海上守護者」首度升空：4架高空無人機如何補上台海監偵缺口",
-   "headline_source": "硬是要學",
+   "headline_source": "soft4fun.net",
    "headline_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNaUl2Umd4dHBhV1Bxd3ZUVDRnbmpuS2xySV95Q1RET1lFUXRxeGpWQ3FzZWFnZzg2STdnUEo2UWMyV3F2S0F4c3p1UEtudllhUVVoaV80aXZEQmVkVGhmNGR4R0FsNDRSZGpjaFhTY0d0YkFtdzMzU0NSZkJ6d21yQU5UQWNWbWNVYmRMcEZzQnZJNG5KYjBkWEpydjZ1NFk?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T05:03:22Z",
@@ -3470,7 +3569,7 @@
       "drone",
       "taiwan_strait"
      ],
-     "source_name": "硬是要學",
+     "source_name": "soft4fun.net",
      "source_domain": "soft4fun.net",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3543,7 +3642,7 @@
   {
    "id": "evt_20260914_79f413",
    "headline": "沖繩、宮古、石垣、與那國連成一道牆！日本西南諸島全面強化防衛台海有事時究竟扮演什麼角色？",
-   "headline_source": "fountmedia.io",
+   "headline_source": "放言Fount Media",
    "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5DNlROZnR6Z2ZLX2cwSldUMGZSbGFvemlrWV9tWXNqbDdHSmE5U1M4NC1scDJlXzRiZEVoQmo1cm5YbjFPRXM4TFhFRGQ4TTFwdGc?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-14T03:47:07Z",
@@ -3590,7 +3689,7 @@
       "taiwan_strait",
       "yonaguni"
      ],
-     "source_name": "fountmedia.io",
+     "source_name": "放言Fount Media",
      "source_domain": "fountmedia.io",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4205,7 +4304,7 @@
   {
    "id": "evt_20260913_507af6",
    "headline": "台海若爆衝突「別以為俄羅斯與台灣無關」 北約秘書長最新示警",
-   "headline_source": "壹蘋新聞網",
+   "headline_source": "news.nextapple.com",
    "headline_url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY0tPeUpRQkd1QklnU001NU9oZGc3UllwTGdwcnd5dTIwNEp6UG9MRDluX0Rxekt0SF9ESnQtOXdGTWRoUzdkSElfdnJMZ3JBSXJDZDFQTFBnQ2libDhfaUxDeExQYU1OOGxuMzVzZlR2U1JVN1lFaTYxWTY3eGU4aGVUbXh0UWhOcEE?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-13T23:11:00Z",
@@ -4251,7 +4350,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "壹蘋新聞網",
+     "source_name": "news.nextapple.com",
      "source_domain": "news.nextapple.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -6150,66 +6249,6 @@
    ]
   },
   {
-   "id": "evt_20260912_52457b",
-   "headline": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
-   "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FeDRoaFZ1V1FVRFBaRGxKUFFTMnNsS01wWGlnSGhrX29VM1NGaTVmN2dQcEpoRi00Y1hJbFRPTWRNSjhKbzVhN2RkOEMzdm53RllKRGRuY3RNRWhLMUJyRFBiMk9qakNL?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-12T04:19:52Z",
-   "last_seen": "2026-09-12T04:19:52Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "5aac019a524e1c36"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "5aac019a524e1c36",
-     "title": "秦岭小村里的台湾主厨：以山野烟火融合两岸“味蕾”精华",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9FeDRoaFZ1V1FVRFBaRGxKUFFTMnNsS01wWGlnSGhrX29VM1NGaTVmN2dQcEpoRi00Y1hJbFRPTWRNSjhKbzVhN2RkOEMzdm53RllKRGRuY3RNRWhLMUJyRFBiMk9qakNL?oc=5",
-     "published": "2026-09-12T04:19:52Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中國新聞網",
-     "source_domain": "chinanews.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260912_77b334",
    "headline": "Taiwan tracks 7 military aircraft and 8 Chinese ships",
    "headline_source": "Taiwan News",
@@ -6257,6 +6296,109 @@
      "entities": [],
      "source_name": "Taiwan News",
      "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260912_ea7193",
+   "headline": "中共15機艦擾台 國軍嚴密監控適切應處",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUThYNGYzSXpoenhwWU5NREt1QWhZbW40Rnc2a21pOUdLVWhadEFHZmFVcHRFejhkeDVXVVlVeXZvYlVuZmlGVTVvSjEtSW1ZMVBNWVp2ZEtqTGRqbmlyVdIBZkFVX3lxTE1uQVBKWHMtMFJ6TkcycWs1NWh4cVI2TWIzNFNIVks0d2F5cmxqWjVqQlpVUUtsNmt2c3V0MnUxbEVKNG5fSjVUQVVLV3hpd2c1dW02TDNVVXdNUGpGeWVrTjlFUHVkdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-12T01:37:00Z",
+   "last_seen": "2026-09-12T02:17:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 0,
+    "score": 57.5,
+    "n_independent": 3,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 3곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "eca61bb3085a385f",
+     "a8ea9af81cead643",
+     "fba0ff40b4f95fb2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "eca61bb3085a385f",
+     "title": "中共15機艦擾台 國軍嚴密監控適切應處",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUThYNGYzSXpoenhwWU5NREt1QWhZbW40Rnc2a21pOUdLVWhadEFHZmFVcHRFejhkeDVXVVlVeXZvYlVuZmlGVTVvSjEtSW1ZMVBNWVp2ZEtqTGRqbmlyVdIBZkFVX3lxTE1uQVBKWHMtMFJ6TkcycWs1NWh4cVI2TWIzNFNIVks0d2F5cmxqWjVqQlpVUUtsNmt2c3V0MnUxbEVKNG5fSjVUQVVLV3hpd2c1dW02TDNVVXdNUGpGeWVrTjlFUHVkdw?oc=5",
+     "published": "2026-09-12T01:37:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "roc_military"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "a8ea9af81cead643",
+     "title": "中共15機艦船台海周邊活動國軍嚴密監控應處| 軍事 | 要聞",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wcnM0d24tS2owaFdoNVVLdnNFUWNZWHBzaURWd1FGRWxvMHBUWlR6OFphNzB5QnpPQ3ZxVEdja1ExazU2QS1CYXlYVzZZWjhaX2c?oc=5",
+     "published": "2026-09-12T01:39:13Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "fba0ff40b4f95fb2",
+     "title": "中共15機艦船擾台！主戰機「侵北部空域」 國軍嚴密監控",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1EVXhpQ2dJVzlhRDZaRGwzWE1wdDY0ZHhUZ0M1M0RkMXM3blc3RFROSVRhc0o5SWdUY3A4WWRjYTlWYzVIWXB3YWVLNDV1c3B2aUZv?oc=5",
+     "published": "2026-09-12T02:17:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "roc_military"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -6324,88 +6466,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260912_ea7193",
-   "headline": "中共15機艦擾台 國軍嚴密監控適切應處",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUThYNGYzSXpoenhwWU5NREt1QWhZbW40Rnc2a21pOUdLVWhadEFHZmFVcHRFejhkeDVXVVlVeXZvYlVuZmlGVTVvSjEtSW1ZMVBNWVp2ZEtqTGRqbmlyVdIBZkFVX3lxTE1uQVBKWHMtMFJ6TkcycWs1NWh4cVI2TWIzNFNIVks0d2F5cmxqWjVqQlpVUUtsNmt2c3V0MnUxbEVKNG5fSjVUQVVLV3hpd2c1dW02TDNVVXdNUGpGeWVrTjlFUHVkdw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-12T01:37:00Z",
-   "last_seen": "2026-09-12T01:39:13Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
-    "n_unrated": 0,
-    "score": 57.5,
-    "n_independent": 3,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "eca61bb3085a385f",
-     "a8ea9af81cead643"
-    ]
-   },
-   "articles": [
-    {
-     "id": "eca61bb3085a385f",
-     "title": "中共15機艦擾台 國軍嚴密監控適切應處",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5PUThYNGYzSXpoenhwWU5NREt1QWhZbW40Rnc2a21pOUdLVWhadEFHZmFVcHRFejhkeDVXVVlVeXZvYlVuZmlGVTVvSjEtSW1ZMVBNWVp2ZEtqTGRqbmlyVdIBZkFVX3lxTE1uQVBKWHMtMFJ6TkcycWs1NWh4cVI2TWIzNFNIVks0d2F5cmxqWjVqQlpVUUtsNmt2c3V0MnUxbEVKNG5fSjVUQVVLV3hpd2c1dW02TDNVVXdNUGpGeWVrTjlFUHVkdw?oc=5",
-     "published": "2026-09-12T01:37:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "roc_military"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "a8ea9af81cead643",
-     "title": "中共15機艦船台海周邊活動國軍嚴密監控應處| 軍事 | 要聞",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE0wcnM0d24tS2owaFdoNVVLdnNFUWNZWHBzaURWd1FGRWxvMHBUWlR6OFphNzB5QnpPQ3ZxVEdja1ExazU2QS1CYXlYVzZZWjhaX2c?oc=5",
-     "published": "2026-09-12T01:39:13Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -7609,11 +7669,11 @@
   },
   {
    "id": "evt_20260911_12a83f",
-   "headline": "中共21機艦擾台 國軍嚴密監控適切應處",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yOUVvYzBJTkFKaWFyYy0wQzNCRVpaT2pPTGE4QW91Zk5WeERDVFVXMWpjczVOSEVtanNLMlVlNkZnd0lsRWR0ckJXa3p6TnhEeUgwSV82eW90c1NrNF9oWNIBZkFVX3lxTE9fZXpXQkJnbTB1Z1ZmZVhyemN1Sjd4cEUtS3o0YnhXU2VpT1BaVXYzWHROWnJkSjNwY21lbWp0OUM4YTI5YWlPMksyeENIaUkzZUNPdHNrZGc2dE9UcUFvWjlUTS12UQ?oc=5",
+   "headline": "中共21機艦船台海周邊活動 國軍嚴密監控應處",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vSTQ2YWEzLTVnWE5wVzNpT3NDXzVTMnJyUDlHRHNvT3NYMkptRThzekdOS3Z0VWR5ZTBFUjZSallWSng4WE5FMTZyd0pTbkRDc1NCdVR2ZGo1Z9IBX0FVX3lxTFAwdGdEeUtGZnFidHdxelVaWHBLRTJhUzZEUlV1Rk80MWhiZ1NoWkRNRVBhdUx6TkpJUVJ4aVZRck9fOGhoZlJNeThCQ3RORk1UcnBuT0Zpak5ibkhTTFNV?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-11T01:19:00Z",
+   "first_seen": "2026-09-11T02:01:12Z",
    "last_seen": "2026-09-11T02:01:12Z",
    "langs": [
     "zh"
@@ -7642,31 +7702,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "789e2640eede9d06",
      "526fa228e5198c29"
     ]
    },
    "articles": [
-    {
-     "id": "789e2640eede9d06",
-     "title": "中共21機艦擾台 國軍嚴密監控適切應處",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yOUVvYzBJTkFKaWFyYy0wQzNCRVpaT2pPTGE4QW91Zk5WeERDVFVXMWpjczVOSEVtanNLMlVlNkZnd0lsRWR0ckJXa3p6TnhEeUgwSV82eW90c1NrNF9oWNIBZkFVX3lxTE9fZXpXQkJnbTB1Z1ZmZVhyemN1Sjd4cEUtS3o0YnhXU2VpT1BaVXYzWHROWnJkSjNwY21lbWp0OUM4YTI5YWlPMksyeENIaUkzZUNPdHNrZGc2dE9UcUFvWjlUTS12UQ?oc=5",
-     "published": "2026-09-11T01:19:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "roc_military"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
     {
      "id": "526fa228e5198c29",
      "title": "中共21機艦船台海周邊活動 國軍嚴密監控應處",
@@ -12099,7 +12138,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "economictimes.com",
+     "source_name": "The Economic Times",
      "source_domain": "m.economictimes.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -12492,7 +12531,7 @@
   {
    "id": "evt_20260909_5dd710",
    "headline": "Could the PLA’s robot soldiers be used against Taiwan?",
-   "headline_source": "thinkchina.sg",
+   "headline_source": "ThinkChina",
    "headline_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNVWp3WjBuSlp2QUNXeGl4SFVkT0t3a1VmdkpvVmc4bzJKZXpmRlVwMkZQWFZxRVRRYjhDNUlwZUNEZmpoczU0aGExVDhmek1kYUQ3S3cyaE9naElScVVtczNDcW1ISk5nMUxJbno2Nm5TcklIb3BuSnlsMU1rdWh5cG9fYVg1U2VvbTR3OENB?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-09T06:01:57Z",
@@ -12538,7 +12577,7 @@
      "entities": [
       "pla"
      ],
-     "source_name": "thinkchina.sg",
+     "source_name": "ThinkChina",
      "source_domain": "thinkchina.sg",
      "tier": "T5",
      "tier_label": "미분류",
@@ -13638,7 +13677,7 @@
   {
    "id": "evt_20260909_aa3988",
    "headline": "Taiwan Strait conflict could hit global economy harder than World War Two, US envoy warns",
-   "headline_source": "economictimes.com",
+   "headline_source": "The Economic Times",
    "headline_url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNVW5JbmdRcl9IdTdNRGlYVFFaeUZlUmNncHRXZk5IczdOaFIxNkd4dTQwVkxkZGxRUjN4MzIwWHlkYjNJSlZNdlpKTFFyRTFSNWtYNEstU0JhNjhnSFNtcnczTEFyR010MW95VzRLQlE3d2lhS3NVNzNXcWdPTFcxRUhfdmwzcm5rSUkySlZJamxidEVMd0l2V0JOeEVxdHU1aHh5YzVTZk1XVXRPVG1ORWt2aV9QQXlTaXRvTUlDTjFpVElpaTU2YzJZaEJseC1YMjRJMGc0TlB1azJNam1OZkU5VEVrYmFqOVpocjYyZGw4b3Z0X0s1a1F0Q0U2dTVCLVHSAYcCQVVfeXFMUHpjUmVUbUdGbURHa3ZjQVN5ZkRQNXRLaWVXUXJlUzRmb0l5dy1rTEppQy1Ia215VzRPaXEyN2xHcVFvX2ZJdW04bzFUaG94MWNwOFFJTTg0TWx0VkVPamdSYlJES1RHY05VWUx4TGc2a2JWaTZhclZYb2xXR3ZrV1B3LU55U2NJN3A3NmtKZ1JhQ0o1akhzMmFFXzFSWXJiNFJob3NGWUwxNmZuaXlpdzdFYlNibzdzVVZQcThKUHk3UzBHN2RGUUIwUHhZY1FqSzZERXpvTHNsZ3IyMVozb0RrYXV2VHBrZTB5STA0VmdYWVR4aWVwYUtUb3N5U1NQLWF5WWNOSU0?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-09T02:14:20Z",
@@ -13684,7 +13723,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "economictimes.com",
+     "source_name": "The Economic Times",
      "source_domain": "m.economictimes.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -19592,6 +19631,67 @@
    ]
   },
   {
+   "id": "evt_20260906_52a2e7",
+   "headline": "如何在台海打贏解放軍？美前太平洋司令揭台灣海軍致勝關鍵",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14WVZWUWVCM0pydk1hLXQtN0dhRkRkZDE3VG00N0Vjc0ZhOElNOHdzRDd0TUVhRWZ3amVmMXNPVXpyMXBabXRjOVRkZ1pGOGw10gFWQVVfeXFMTW5wd0lNZjVxUk5tQndaQVFSenBuaVdrWi1CUW5sYV9NSVJyOGNVaUdveWs4b0NrbloxZE5YbWt4aEVOX29pMmR6YTFkMmVvcDNJVTg2a3c?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-06T07:00:00Z",
+   "last_seen": "2026-09-06T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "608661c235cb7f40"
+    ]
+   },
+   "articles": [
+    {
+     "id": "608661c235cb7f40",
+     "title": "如何在台海打贏解放軍？美前太平洋司令揭台灣海軍致勝關鍵",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14WVZWUWVCM0pydk1hLXQtN0dhRkRkZDE3VG00N0Vjc0ZhOElNOHdzRDd0TUVhRWZ3amVmMXNPVXpyMXBabXRjOVRkZ1pGOGw10gFWQVVfeXFMTW5wd0lNZjVxUk5tQndaQVFSenBuaVdrWi1CUW5sYV9NSVJyOGNVaUdveWs4b0NrbloxZE5YbWt4aEVOX29pMmR6YTFkMmVvcDNJVTg2a3c?oc=5",
+     "published": "2026-09-06T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "plan_navy",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260906_3fe9fb",
    "headline": "日本跨黨派台海和平研究會8日訪台盼強化外交防衛合作| 國際",
    "headline_source": "中央社 CNA",
@@ -19694,67 +19794,6 @@
      "id": "53a5ce08b92fe9ef",
      "title": "如何在台海打贏解放軍？美前太平洋司令揭台灣海軍致勝關鍵| 國際焦點| 全球",
      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14WVZWUWVCM0pydk1hLXQtN0dhRkRkZDE3VG00N0Vjc0ZhOElNOHdzRDd0TUVhRWZ3amVmMXNPVXpyMXBabXRjOVRkZ1pGOGw1?oc=5",
-     "published": "2026-09-06T05:44:12Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "plan_navy",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260906_52a2e7",
-   "headline": "如何在台海打贏解放軍？美前太平洋司令揭台灣海軍致勝關鍵",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14WVZWUWVCM0pydk1hLXQtN0dhRkRkZDE3VG00N0Vjc0ZhOElNOHdzRDd0TUVhRWZ3amVmMXNPVXpyMXBabXRjOVRkZ1pGOGw10gFWQVVfeXFMTW5wd0lNZjVxUk5tQndaQVFSenBuaVdrWi1CUW5sYV9NSVJyOGNVaUdveWs4b0NrbloxZE5YbWt4aEVOX29pMmR6YTFkMmVvcDNJVTg2a3c?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-06T05:44:12Z",
-   "last_seen": "2026-09-06T05:44:12Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "608661c235cb7f40"
-    ]
-   },
-   "articles": [
-    {
-     "id": "608661c235cb7f40",
-     "title": "如何在台海打贏解放軍？美前太平洋司令揭台灣海軍致勝關鍵",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14WVZWUWVCM0pydk1hLXQtN0dhRkRkZDE3VG00N0Vjc0ZhOElNOHdzRDd0TUVhRWZ3amVmMXNPVXpyMXBabXRjOVRkZ1pGOGw10gFWQVVfeXFMTW5wd0lNZjVxUk5tQndaQVFSenBuaVdrWi1CUW5sYV9NSVJyOGNVaUdveWs4b0NrbloxZE5YbWt4aEVOX29pMmR6YTFkMmVvcDNJVTg2a3c?oc=5",
      "published": "2026-09-06T05:44:12Z",
      "lang": "zh",
      "entities": [
@@ -23033,27 +23072,27 @@
    ]
   },
   {
-   "id": "evt_20260902_f04b7a",
+   "id": "evt_20260902_e522a4",
    "headline": "우크라이나·중동 전장 그대로 복사한 중국군… 대만 봉쇄 시나리오의 실체 [밀리터리노트]",
    "headline_source": "서울신문",
    "headline_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0tbWROd1ItZ01zc3JNT2lmMzRjNDZ1RGYwMzRkNlpTQUFQd1FnTlI4bmlSTGQ4dE1uaUNyenVVUVZkZkNDcHIzZUJlZm52YVg2UUpUcy1oZ25KTW5tT1dYckh4Vll6QVlOVjNZRXdzZVRXck4zVjVCVVBYR2dBenM?oc=5",
    "headline_lang": "ko",
-   "first_seen": "2026-09-02T00:54:03Z",
+   "first_seen": "2026-09-02T06:25:40Z",
    "last_seen": "2026-09-03T07:00:00Z",
    "langs": [
     "ko"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 5,
-    "n_unrated": 3,
-    "score": 68.6,
-    "n_independent": 2,
-    "n_articles": 5,
-    "n_domains": 5,
+    "grade_label": "단일 출처",
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 40.1,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "independent",
      "unknown"
@@ -23061,42 +23100,20 @@
     "top_tier": "T2",
     "primary_cited": true,
     "reasons": [
-     "독립 출처 2곳",
+     "독립 출처 1곳",
      "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
      "정부·군 공식 발표 인용",
-     "미분류 매체 3곳 추가 보도(교차검증 미산입)"
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "2de3982d9b97ec52",
      "feb0f9b31024e8b6",
      "84d0017232287139"
     ]
    },
    "articles": [
-    {
-     "id": "2de3982d9b97ec52",
-     "title": "중국군 '대만 봉쇄' 훈련 본격화...대만도 '고립 대비' 맞훈련",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE40eXlTTzFNWnJMV284M1MtbWtXSE5aaE5RSElvX08zZTBIY09IYmlPWm9xZ1R0YUxIWUtJMjVXd3FfOTJGSzVEcUpOMHdyc0xMemw4WV95YlRUTWRFRTRnb1JiNXJMcEF3ZVZTUnZnZ0VsUQ?oc=5",
-     "published": "2026-09-02T00:54:03Z",
-     "lang": "ko",
-     "entities": [
-      "blockade",
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "aseandaily.co.kr",
-     "source_domain": "aseandaily.co.kr",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "feb0f9b31024e8b6",
      "title": "우크라이나·중동 전장 그대로 복사한 중국군… 대만 봉쇄 시나리오의 실체 [밀리터리노트]",
@@ -23126,7 +23143,7 @@
       "blockade",
       "tw_mnd"
      ],
-     "source_name": "sedaily.com",
+     "source_name": "서울경제",
      "source_domain": "sedaily.com",
      "tier": "T5",
      "tier_label": "미분류",
