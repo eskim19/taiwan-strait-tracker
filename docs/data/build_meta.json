@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-19T11:03:47Z",
+ "updated": "2026-09-19T15:55:38Z",
  "checked": "2026-09-19",
- "duration_sec": 35.1,
+ "duration_sec": 30.7,
  "rolling_days": 14,
- "n_events": 453,
- "n_articles": 497,
+ "n_events": 456,
+ "n_articles": 500,
  "grades": {
-  "C": 180,
-  "D": 243,
-  "B": 30
+  "B": 31,
+  "D": 245,
+  "C": 180
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -17,14 +17,15 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 16,
+  "T1": 17,
   "T2": 199,
-  "T3": 88,
+  "T3": 91,
   "T4": 21,
-  "T5": 150,
+  "T5": 149,
   "TA": 3
  },
  "t1_domains": [
+  "aljazeera.com",
   "apnews.com",
   "dw.com",
   "pts.org.tw",
@@ -40,7 +41,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
+   "n_adopted": 19,
    "newest": "2026-09-18T15:05:19+00:00",
    "stale": false,
    "error": null
@@ -52,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
-   "n_adopted": 20,
-   "newest": "2026-09-19T02:52:00+00:00",
+   "n_entries": 42,
+   "n_adopted": 19,
+   "newest": "2026-09-19T08:28:15+00:00",
    "stale": false,
    "error": null
   },
@@ -66,7 +67,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
+   "n_adopted": 11,
    "newest": "2026-09-18T03:50:45+00:00",
    "stale": false,
    "error": null
@@ -79,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-09-19T10:37:10+00:00",
+   "n_adopted": 65,
+   "newest": "2026-09-19T12:40:18+00:00",
    "stale": false,
    "error": null
   },
@@ -93,7 +94,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-09-19T02:03:37+00:00",
+   "newest": "2026-09-19T12:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -105,8 +106,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-09-19T09:14:00+00:00",
+   "n_adopted": 14,
+   "newest": "2026-09-19T14:38:00+00:00",
    "stale": false,
    "error": null
   },
@@ -117,9 +118,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 53,
-   "n_adopted": 8,
-   "newest": "2026-09-19T10:01:39+00:00",
+   "n_entries": 60,
+   "n_adopted": 9,
+   "newest": "2026-09-19T13:27:57+00:00",
    "stale": false,
    "error": null
   },
@@ -145,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-09-19T10:52:57+00:00",
+   "newest": "2026-09-19T14:30:06+00:00",
    "stale": false,
    "error": null
   },
@@ -158,7 +159,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-19T09:32:00+00:00",
+   "newest": "2026-09-19T15:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -197,7 +198,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-09-19T10:22:03+00:00",
+   "newest": "2026-09-19T11:01:42+00:00",
    "stale": false,
    "error": null
   },
@@ -222,8 +223,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 25,
-   "n_adopted": 0,
-   "newest": "2026-09-19T10:40:12+00:00",
+   "n_adopted": 1,
+   "newest": "2026-09-19T15:18:00+00:00",
    "stale": false,
    "error": null
   },
@@ -244,8 +245,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 14,
-   "sample_title": "搶先川習會！日本首相高市早苗訪美 擬22日會晤川普協調對中與台海局勢 | 信傳媒"
+   "n_articles": 15,
+   "sample_title": "中共軍演恐隨時「由演轉戰」 吳釗燮曝隱憂在台灣內部| 自由電子報"
   },
   {
    "domain": "i-meihua.com",
@@ -288,6 +289,11 @@
    "sample_title": "澳洲前總理陸克文警告，中國在2028年對台灣採取軍事行動的可能達三份之一，呼籲澳洲與美國及其他盟友合作，加強軍事威懾，降低台海爆發戰爭的風險。 #陸克文演講 #"
   },
   {
+   "domain": "cmmedia.com.tw",
+   "n_articles": 3,
+   "sample_title": "搶先川習會！日本首相高市早苗訪美 擬22日會晤川普協調對中與台海局勢"
+  },
+  {
    "domain": "orientaldaily.on.cc",
    "n_articles": 3,
    "sample_title": "台海巡艦艇擬赴菲 公務身份破外交困境"
@@ -296,6 +302,11 @@
    "domain": "hk.on.cc",
    "n_articles": 3,
    "sample_title": "台海巡艦擬明年攜百人 首訪菲執行遠洋敦睦計劃"
+  },
+  {
+   "domain": "nippon.com",
+   "n_articles": 3,
+   "sample_title": "日美議員同意強化對中嚇阻：稱防止台海有事至關重要"
   },
   {
    "domain": "devdiscourse.com",
@@ -313,19 +324,9 @@
    "sample_title": "川習會登場前夕印太友盟國安專家周末齊聚台灣以行動支持台海和平穩定- 要聞"
   },
   {
-   "domain": "nippon.com",
-   "n_articles": 2,
-   "sample_title": "日美議員同意強化對中嚇阻：稱防止台海有事至關重要"
-  },
-  {
    "domain": "fdd.org",
    "n_articles": 2,
    "sample_title": "10 Ways the U.S. Can Strengthen Deterrence in the Taiwan Strait"
-  },
-  {
-   "domain": "cmmedia.com.tw",
-   "n_articles": 2,
-   "sample_title": "MQ-9B花蓮首度試飛 台海監偵「千里眼」"
   },
   {
    "domain": "idn.com.tw",
