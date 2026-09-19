@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-19T15:55:38Z",
+ "updated": "2026-09-19T20:44:21Z",
  "checked": "2026-09-19",
- "duration_sec": 30.7,
+ "duration_sec": 35.0,
  "rolling_days": 14,
- "n_events": 456,
- "n_articles": 500,
+ "n_events": 460,
+ "n_articles": 504,
  "grades": {
+  "C": 182,
   "B": 31,
-  "D": 245,
-  "C": 180
+  "D": 247
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -17,11 +17,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 17,
+  "T1": 18,
   "T2": 199,
-  "T3": 91,
+  "T3": 92,
   "T4": 21,
-  "T5": 149,
+  "T5": 150,
   "TA": 3
  },
  "t1_domains": [
@@ -29,6 +29,7 @@
   "apnews.com",
   "dw.com",
   "pts.org.tw",
+  "reuters.com",
   "rfi.fr",
   "yna.co.kr"
  ],
@@ -41,7 +42,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 19,
+   "n_adopted": 15,
    "newest": "2026-09-18T15:05:19+00:00",
    "stale": false,
    "error": null
@@ -53,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 42,
-   "n_adopted": 19,
-   "newest": "2026-09-19T08:28:15+00:00",
+   "n_entries": 45,
+   "n_adopted": 21,
+   "newest": "2026-09-19T16:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -67,8 +68,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 11,
-   "newest": "2026-09-18T03:50:45+00:00",
+   "n_adopted": 10,
+   "newest": "2026-09-17T12:32:30+00:00",
    "stale": false,
    "error": null
   },
@@ -81,7 +82,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 65,
-   "newest": "2026-09-19T12:40:18+00:00",
+   "newest": "2026-09-19T12:40:05+00:00",
    "stale": false,
    "error": null
   },
@@ -94,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-09-19T12:30:00+00:00",
+   "newest": "2026-09-19T13:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -106,8 +107,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-09-19T14:38:00+00:00",
+   "n_adopted": 15,
+   "newest": "2026-09-19T19:10:29+00:00",
    "stale": false,
    "error": null
   },
@@ -118,8 +119,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 60,
-   "n_adopted": 9,
+   "n_entries": 38,
+   "n_adopted": 7,
    "newest": "2026-09-19T13:27:57+00:00",
    "stale": false,
    "error": null
@@ -131,9 +132,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 48,
-   "n_adopted": 0,
-   "newest": "2026-09-19T00:00:00+00:00",
+   "n_entries": 42,
+   "n_adopted": 1,
+   "newest": "2026-09-20T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -145,7 +146,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
+   "n_adopted": 1,
    "newest": "2026-09-19T14:30:06+00:00",
    "stale": false,
    "error": null
@@ -224,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 1,
-   "newest": "2026-09-19T15:18:00+00:00",
+   "newest": "2026-09-19T20:03:23+00:00",
    "stale": false,
    "error": null
   },
@@ -260,13 +261,8 @@
   },
   {
    "domain": "hk.crntt.com",
-   "n_articles": 7,
-   "sample_title": "國民黨：台海不該變地獄 戰爭應永遠不發生"
-  },
-  {
-   "domain": "mirrordaily.news",
-   "n_articles": 4,
-   "sample_title": "台海將淪無人海？美台密推「地獄景象」戰術 共軍恐需30倍軍力才敢開戰"
+   "n_articles": 5,
+   "sample_title": "為何當黨主席 鄭麗文：盼締造台海和平"
   },
   {
    "domain": "upmedia.mg",
@@ -309,9 +305,24 @@
    "sample_title": "日美議員同意強化對中嚇阻：稱防止台海有事至關重要"
   },
   {
+   "domain": "worldjournal.com",
+   "n_articles": 3,
+   "sample_title": "史丹佛學者：「這3目標」得逞 台海局勢非常危險"
+  },
+  {
+   "domain": "mirrordaily.news",
+   "n_articles": 3,
+   "sample_title": "台灣如何贏得台海──更靈活的海軍能拒止中國"
+  },
+  {
    "domain": "devdiscourse.com",
    "n_articles": 3,
    "sample_title": "Taiwan Strait Tensions: A Global Economic Impact Looms"
+  },
+  {
+   "domain": "more-news.tw",
+   "n_articles": 2,
+   "sample_title": "經濟學人：美台推“地獄景象”防禦台海作戰"
   },
   {
    "domain": "cdns.com.tw",
@@ -332,16 +343,6 @@
    "domain": "idn.com.tw",
    "n_articles": 2,
    "sample_title": "川習會前關注台海 谷立言：衝突恐重創全球經濟"
-  },
-  {
-   "domain": "news.mingpao.com",
-   "n_articles": 2,
-   "sample_title": "美國在台協會處長：台海若爆發衝突 對全球經濟衝擊將超二戰 (22:39) - 20260909 - 兩岸"
-  },
-  {
-   "domain": "chinatalk.media",
-   "n_articles": 2,
-   "sample_title": "Can Taiwan Build Drones?"
   }
  ]
 }
