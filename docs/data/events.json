@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-20T20:51:52Z",
+ "updated": "2026-09-20T23:16:40Z",
  "events": [
   {
    "id": "evt_20260919_1044e6",
@@ -7,7 +7,7 @@
    "headline_source": "Reuters",
    "headline_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-19T01:00:13Z",
+   "first_seen": "2026-09-19T04:26:00Z",
    "last_seen": "2026-09-21T00:00:00Z",
    "langs": [
     "en"
@@ -19,10 +19,10 @@
     "grade_label": "검증됨",
     "n_originals": 6,
     "n_unrated": 0,
-    "score": 73.4,
-    "n_independent": 4,
+    "score": 65.1,
+    "n_independent": 3,
     "n_articles": 6,
-    "n_domains": 4,
+    "n_domains": 3,
     "blocs": [
      "independent",
      "tw_state"
@@ -30,36 +30,70 @@
     "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 4곳",
+     "독립 출처 3곳",
      "최고 등급 통신사·공영"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "1be00942ec62cc0d",
-     "053f5c60e7b54218",
      "fccf215e6029e2ac",
+     "9ad4926f32ea52fa",
+     "54c1ab09c01ca8ce",
+     "053f5c60e7b54218",
+     "300ea30fe9807a4c",
      "78fc1893b178d40b"
     ]
    },
    "articles": [
     {
-     "id": "1be00942ec62cc0d",
-     "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeTBhRy1uNTgySnozbGRTTTczME01NjVNV1E5TzI3dnRSaFlsVDJlMGp3NHNrMEFZSGtqamhjVWpsVmlyUUctY3hxNUdKb3JqUkVpOGxkLVRHYmUxbnJSQm5TMnY0Q2hFazV1blhRNFlweUV6Z05YYVdKQTAzb0ZSYjZKLU5QTDBZa25hMDh5T0JQMUN5VTVuUkF2NlF4MzAzQXhDUnE0M1dsOVh1ZGJ2U3ppLW51Y0hVLUhVUkhzaVF2RnVYQWc?oc=5",
-     "published": "2026-09-19T01:00:13Z",
+     "id": "fccf215e6029e2ac",
+     "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
+     "published": "2026-09-19T04:26:00Z",
      "lang": "en",
      "entities": [
       "arms_sale"
      ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
      "bloc": "independent",
      "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "9ad4926f32ea52fa",
+     "title": "Taiwan wins senior women's 500kg tug of war title for 5th straight year",
+     "url": "https://focustaiwan.tw/sports/202609190003",
+     "published": "2026-09-19T04:29:16Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "54c1ab09c01ca8ce",
+     "title": "Anduril founder urges Taiwan to expand defense production, exports",
+     "url": "https://focustaiwan.tw/politics/202609190010",
+     "published": "2026-09-19T09:41:36Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     },
     {
@@ -82,21 +116,19 @@
      "hedged": false
     },
     {
-     "id": "fccf215e6029e2ac",
-     "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
-     "published": "2026-09-19T13:11:42Z",
+     "id": "300ea30fe9807a4c",
+     "title": "Taiwan wins 4 golds at World Outdoor Tug of War Championships",
+     "url": "https://focustaiwan.tw/sports/202609200003",
+     "published": "2026-09-20T03:38:19Z",
      "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     },
     {
@@ -356,72 +388,13 @@
    ]
   },
   {
-   "id": "evt_20260920_db2615",
-   "headline": "前藍委：台海和平必須建在「可信的嚇阻 」上 維持和平需3條件",
-   "headline_source": "ETtoday新聞雲",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTd1BmaGxMa1V5NC1yNl85OXNsOVM3YkllTklCYkZDaGZaemtWbkJSV1JjSWJxMjhuWmhBenZKSDk2bjlBSjJyNUR5ZTlVU3ZTWW1UUENsTkJ5RjlSSVHSAUtBVV95cUxNSGxNOUszYURiRkV0dVhLS0c4TnhXQVJBQ1J4Y0c0ZW9qaGhXa1RWV1pkbHJ4dkxHemVoZnJpejg2LUhCTUpTaVVrMDg?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-20T08:51:00Z",
-   "last_seen": "2026-09-20T08:51:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "403c8ff79b86c32c"
-    ]
-   },
-   "articles": [
-    {
-     "id": "403c8ff79b86c32c",
-     "title": "前藍委：台海和平必須建在「可信的嚇阻 」上 維持和平需3條件",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTd1BmaGxMa1V5NC1yNl85OXNsOVM3YkllTklCYkZDaGZaemtWbkJSV1JjSWJxMjhuWmhBenZKSDk2bjlBSjJyNUR5ZTlVU3ZTWW1UUENsTkJ5RjlSSVHSAUtBVV95cUxNSGxNOUszYURiRkV0dVhLS0c4TnhXQVJBQ1J4Y0c0ZW9qaGhXa1RWV1pkbHJ4dkxHemVoZnJpejg2LUhCTUpTaVVrMDg?oc=5",
-     "published": "2026-09-20T08:51:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "ETtoday新聞雲",
-     "source_domain": "ettoday.net",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260920_1470af",
    "headline": "道教75周年慶 鄭麗文談台海和平 柯文哲帶桃園小雞亮相",
    "headline_source": "中國時報",
    "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhWjRGU2ZZM182bDFzTnpGazlCLXRLdTJvR1JMZzVIMkdUaWptRTlfdGJIV3MzYUtCTTlXYUk5RUpzcGNQdDM0QVhYMDlrSk1ydDRkV0FUN1kwMFBCTUt3cWZwUk9MdHVLOGo5VlJR?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-20T06:07:33Z",
-   "last_seen": "2026-09-20T08:33:42Z",
+   "last_seen": "2026-09-20T14:51:00Z",
    "langs": [
     "zh"
    ],
@@ -430,12 +403,12 @@
     "grade": "C",
     "d_reason": null,
     "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 28.1,
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 31.3,
     "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
+    "n_articles": 4,
+    "n_domains": 4,
     "blocs": [
      "independent",
      "unknown"
@@ -445,7 +418,8 @@
     "reasons": [
      "독립 출처 1곳",
      "최고 등급 주요 일간",
-     "中國時報 원고를 自由時報·CMoney 가 전재 — 1곳으로 계산"
+     "中國時報 원고를 自由時報·CMoney 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
@@ -453,7 +427,8 @@
     "tw_west": [
      "625c93a47cd93d49",
      "460392dde23dc30f",
-     "6ccb3e4d33559119"
+     "6ccb3e4d33559119",
+     "faceb44bf6abcaad"
     ]
    },
    "articles": [
@@ -511,6 +486,83 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "faceb44bf6abcaad",
+     "title": "鄭麗文出席台灣省道教會75週年以丘處機「一言止殺」自勉：盼台灣成台海和平定海神針興台灣、保人類",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yTHNkRzdlRWtOSWlTLTBoWnJPTkc4SXNHTlBCYlNTUk9LcGs3ajExcHA0MEtFdmJXQlBjQlU4dU9lTlVTdHNjQ0pPMXZKZ3V2QUE?oc=5",
+     "published": "2026-09-20T14:51:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "n.yam.com",
+     "source_domain": "n.yam.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260920_db2615",
+   "headline": "前藍委：台海和平必須建在「可信的嚇阻 」上 維持和平需3條件",
+   "headline_source": "ETtoday新聞雲",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTd1BmaGxMa1V5NC1yNl85OXNsOVM3YkllTklCYkZDaGZaemtWbkJSV1JjSWJxMjhuWmhBenZKSDk2bjlBSjJyNUR5ZTlVU3ZTWW1UUENsTkJ5RjlSSVHSAUtBVV95cUxNSGxNOUszYURiRkV0dVhLS0c4TnhXQVJBQ1J4Y0c0ZW9qaGhXa1RWV1pkbHJ4dkxHemVoZnJpejg2LUhCTUpTaVVrMDg?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-20T08:51:00Z",
+   "last_seen": "2026-09-20T08:51:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "403c8ff79b86c32c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "403c8ff79b86c32c",
+     "title": "前藍委：台海和平必須建在「可信的嚇阻 」上 維持和平需3條件",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBTd1BmaGxMa1V5NC1yNl85OXNsOVM3YkllTklCYkZDaGZaemtWbkJSV1JjSWJxMjhuWmhBenZKSDk2bjlBSjJyNUR5ZTlVU3ZTWW1UUENsTkJ5RjlSSVHSAUtBVV95cUxNSGxNOUszYURiRkV0dVhLS0c4TnhXQVJBQ1J4Y0c0ZW9qaGhXa1RWV1pkbHJ4dkxHemVoZnJpejg2LUhCTUpTaVVrMDg?oc=5",
+     "published": "2026-09-20T08:51:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "ETtoday新聞雲",
+     "source_domain": "ettoday.net",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -701,7 +753,7 @@
   {
    "id": "evt_20260920_c8eb4f",
    "headline": "史文警告台海成美中最危險引爆點 雙方恐一步步陷入「承諾陷阱」",
-   "headline_source": "i-meihua.com",
+   "headline_source": "梅花新聞網",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdkR3bENfYjJHbjVGSnpNb0RNajNPTEhScWNDRXF0QVNJZkt6c2JSYXNoUzdfNk9jaV83bE5KZDBYSUJhZi0yalgwUlZLMkpJeTM4VXJZelY?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-20T05:31:19Z",
@@ -747,7 +799,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "i-meihua.com",
+     "source_name": "梅花新聞網",
      "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -994,165 +1046,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260917_c8eb68",
-   "headline": "快新聞／解放軍台海大動作！19共機出海「15架次越中線」 闖我西南、中部空域",
-   "headline_source": "民視新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOZEJrZWN0eGNtaWlzQ2l2N1hqZF9pQXo1LWRGS0M2YVJoZGY0YmJnLTd6NTNxTnEyMWpIc1hVYlcwMkhaaTNzTzVpVnRyWDhLVjVaMHpzWDIwU012eTc0Zw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-17T04:38:54Z",
-   "last_seen": "2026-09-20T03:38:19Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 6,
-    "n_unrated": 0,
-    "score": 73.5,
-    "n_independent": 3,
-    "n_articles": 6,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "tw_state"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b2d8cfb2bb84593c",
-     "6feca7e4d49cbbd8",
-     "9ad4926f32ea52fa",
-     "913c507906de2422",
-     "54c1ab09c01ca8ce",
-     "300ea30fe9807a4c"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b2d8cfb2bb84593c",
-     "title": "快新聞／解放軍台海大動作！19共機出海「15架次越中線」 闖我西南、中部空域",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOZEJrZWN0eGNtaWlzQ2l2N1hqZF9pQXo1LWRGS0M2YVJoZGY0YmJnLTd6NTNxTnEyMWpIc1hVYlcwMkhaaTNzTzVpVnRyWDhLVjVaMHpzWDIwU012eTc0Zw?oc=5",
-     "published": "2026-09-17T04:38:54Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "line_crossing",
-      "median_line",
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "民視新聞",
-     "source_domain": "ftvnews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    },
-    {
-     "id": "6feca7e4d49cbbd8",
-     "title": "囂張！中共趁「川習會」前夕又派解放軍來亂 15架次共機越台海中線",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOX0xCNHlaTEx5R0NMWU9uRFlHRXV4c3NIdmd1eDkyQWVIYXZudXRodGlWWllibDhuei0tbDZJTnF5MHdVY25PVdIBTEFVX3lxTE9hMGpHby1majF1Z0R2RUNENUpzTEx3RGQzX25XVkZYbE1UT2VQOVJ1Z1lGb3BSQXlYX1Z6blJfUUpORGdHQ2VPTVRubHU?oc=5",
-     "published": "2026-09-17T07:49:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "median_line",
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "三立新聞",
-     "source_domain": "setn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    },
-    {
-     "id": "9ad4926f32ea52fa",
-     "title": "Taiwan wins senior women's 500kg tug of war title for 5th straight year",
-     "url": "https://focustaiwan.tw/sports/202609190003",
-     "published": "2026-09-19T04:29:16Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "913c507906de2422",
-     "title": "美國丹麥達協議！阻中俄設基地川普宣布永久掌控格陵蘭安全｜川習會前 川普先會高市早苗談台海｜ 2026/9/19 中央社全球午間快報",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DazlocUxfd3d5d2dLUE1TNHJUdy16TXdJUmJ6bDF5NEYwb1JFdk1STzN4TkY5bURva1k1UF9yYXJpaHhsSVcwSkpMQkF5QTU2WkJob0p1OTRtQms?oc=5",
-     "published": "2026-09-19T04:53:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "54c1ab09c01ca8ce",
-     "title": "Anduril founder urges Taiwan to expand defense production, exports",
-     "url": "https://focustaiwan.tw/politics/202609190010",
-     "published": "2026-09-19T09:41:36Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "300ea30fe9807a4c",
-     "title": "Taiwan wins 4 golds at World Outdoor Tug of War Championships",
-     "url": "https://focustaiwan.tw/sports/202609200003",
-     "published": "2026-09-20T03:38:19Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -2496,44 +2389,124 @@
    ]
   },
   {
-   "id": "evt_20260919_ce946a",
-   "headline": "Taiwan tracks 20 Chinese military aircraft and 14 ships",
-   "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jdTVQSVNJV21TZTd4eWlWdDVtYU1pU014cGhfcHJTZjRqTkQ2V1lCWDluc1JBM1NyeWVHVjFaNVJGTk44VlVyMUxkejg5Nm5fTVlUNA?oc=5",
+   "id": "evt_20260919_610143",
+   "headline": "美國丹麥達協議！阻中俄設基地川普宣布永久掌控格陵蘭安全｜川習會前 川普先會高市早苗談台海｜ 2026/9/19 中央社全球午間快報",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DazlocUxfd3d5d2dLUE1TNHJUdy16TXdJUmJ6bDF5NEYwb1JFdk1STzN4TkY5bURva1k1UF9yYXJpaHhsSVcwSkpMQkF5QTU2WkJob0p1OTRtQms?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-19T04:53:00Z",
+   "last_seen": "2026-09-19T04:53:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "913c507906de2422"
+    ]
+   },
+   "articles": [
+    {
+     "id": "913c507906de2422",
+     "title": "美國丹麥達協議！阻中俄設基地川普宣布永久掌控格陵蘭安全｜川習會前 川普先會高市早苗談台海｜ 2026/9/19 中央社全球午間快報",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9DazlocUxfd3d5d2dLUE1TNHJUdy16TXdJUmJ6bDF5NEYwb1JFdk1STzN4TkY5bURva1k1UF9yYXJpaHhsSVcwSkpMQkF5QTU2WkJob0p1OTRtQms?oc=5",
+     "published": "2026-09-19T04:53:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260919_9f03c5",
+   "headline": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits",
+   "headline_source": "SCMP",
+   "headline_url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeTBhRy1uNTgySnozbGRTTTczME01NjVNV1E5TzI3dnRSaFlsVDJlMGp3NHNrMEFZSGtqamhjVWpsVmlyUUctY3hxNUdKb3JqUkVpOGxkLVRHYmUxbnJSQm5TMnY0Q2hFazV1blhRNFlweUV6Z05YYVdKQTAzb0ZSYjZKLU5QTDBZa25hMDh5T0JQMUN5VTVuUkF2NlF4MzAzQXhDUnE0M1dsOVh1ZGJ2U3ppLW51Y0hVLUhVUkhzaVF2RnVYQWc?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-19T02:52:00Z",
+   "first_seen": "2026-09-19T01:00:13Z",
    "last_seen": "2026-09-19T02:52:00Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "C",
+    "grade": "B",
     "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
+    "grade_label": "개연적",
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "score": 45.6,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
+     "독립 출처 2곳",
      "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "1be00942ec62cc0d",
      "8c3a0c73e3dca7f5"
     ]
    },
    "articles": [
+    {
+     "id": "1be00942ec62cc0d",
+     "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeTBhRy1uNTgySnozbGRTTTczME01NjVNV1E5TzI3dnRSaFlsVDJlMGp3NHNrMEFZSGtqamhjVWpsVmlyUUctY3hxNUdKb3JqUkVpOGxkLVRHYmUxbnJSQm5TMnY0Q2hFazV1blhRNFlweUV6Z05YYVdKQTAzb0ZSYjZKLU5QTDBZa25hMDh5T0JQMUN5VTVuUkF2NlF4MzAzQXhDUnE0M1dsOVh1ZGJ2U3ppLW51Y0hVLUhVUkhzaVF2RnVYQWc?oc=5",
+     "published": "2026-09-19T01:00:13Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
     {
      "id": "8c3a0c73e3dca7f5",
      "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships",
@@ -4666,6 +4639,131 @@
    ]
   },
   {
+   "id": "evt_20260915_7dbf31",
+   "headline": "快新聞／解放軍台海大動作！19共機出海「15架次越中線」 闖我西南、中部空域",
+   "headline_source": "民視新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOZEJrZWN0eGNtaWlzQ2l2N1hqZF9pQXo1LWRGS0M2YVJoZGY0YmJnLTd6NTNxTnEyMWpIc1hVYlcwMkhaaTNzTzVpVnRyWDhLVjVaMHpzWDIwU012eTc0Zw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-15T11:56:05Z",
+   "last_seen": "2026-09-17T07:49:00Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 4,
+    "n_unrated": 1,
+    "score": 75.1,
+    "n_independent": 3,
+    "n_articles": 4,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 3곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8ba0e203240627fb",
+     "b2d8cfb2bb84593c",
+     "b53e4566c7fb5bc4",
+     "6feca7e4d49cbbd8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8ba0e203240627fb",
+     "title": "10 Ways the U.S. Can Strengthen Deterrence in the Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVVCTUd3Z3llYUs3bTd2VWVXRVJhbm9ya2J0c0tLSFRaVjJETUk0VktSQ3BUdnNpbmF2NC1tUjVVOWN0MmtjUjV2Y2FNeTA3Q2FhRmhjWklURXc2RngxbEFKM2VsSmJGZ2JqZUFUWTBxOEhaWDhEVGQ4VWpuNG5CU1RCQTZHTFZUbmpIZlYyaDNEQ05RTkZNbmFxOWo2TUxyd1JJbnBn?oc=5",
+     "published": "2026-09-15T11:56:05Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Foundation for Defense of Democracies",
+     "source_domain": "fdd.org",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b2d8cfb2bb84593c",
+     "title": "快新聞／解放軍台海大動作！19共機出海「15架次越中線」 闖我西南、中部空域",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOZEJrZWN0eGNtaWlzQ2l2N1hqZF9pQXo1LWRGS0M2YVJoZGY0YmJnLTd6NTNxTnEyMWpIc1hVYlcwMkhaaTNzTzVpVnRyWDhLVjVaMHpzWDIwU012eTc0Zw?oc=5",
+     "published": "2026-09-17T04:38:54Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "line_crossing",
+      "median_line",
+      "pla",
+      "taiwan_strait"
+     ],
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
+     "hedged": false
+    },
+    {
+     "id": "b53e4566c7fb5bc4",
+     "title": "Taiwan tracks 19 Chinese military aircraft, 10 ships",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSzRkTTFUcE80aGR4TU91Tmgzd29mS1BjUzl1YkJWLUdhVEc5VXg4MmhnbE81bFU3SUdFOFBMRWtnSXg2Q2plLUNTME4yUWJUWWJ6bA?oc=5",
+     "published": "2026-09-17T04:39:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "6feca7e4d49cbbd8",
+     "title": "囂張！中共趁「川習會」前夕又派解放軍來亂 15架次共機越台海中線",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBOX0xCNHlaTEx5R0NMWU9uRFlHRXV4c3NIdmd1eDkyQWVIYXZudXRodGlWWllibDhuei0tbDZJTnF5MHdVY25PVdIBTEFVX3lxTE9hMGpHby1majF1Z0R2RUNENUpzTEx3RGQzX25XVkZYbE1UT2VQOVJ1Z1lGb3BSQXlYX1Z6blJfUUpORGdHQ2VPTVRubHU?oc=5",
+     "published": "2026-09-17T07:49:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "median_line",
+      "pla",
+      "taiwan_strait"
+     ],
+     "source_name": "三立新聞",
+     "source_domain": "setn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260917_e33c3e",
    "headline": "Taiwan, US push ahead with ‘Hellscape’ drone strategy to deter China attack",
    "headline_source": "Taiwan News",
@@ -4959,84 +5057,6 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260915_c30458",
-   "headline": "Taiwan tracks 19 Chinese military aircraft, 10 ships",
-   "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSzRkTTFUcE80aGR4TU91Tmgzd29mS1BjUzl1YkJWLUdhVEc5VXg4MmhnbE81bFU3SUdFOFBMRWtnSXg2Q2plLUNTME4yUWJUWWJ6bA?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-15T11:56:05Z",
-   "last_seen": "2026-09-17T04:39:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 34.0,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "8ba0e203240627fb",
-     "b53e4566c7fb5bc4"
-    ]
-   },
-   "articles": [
-    {
-     "id": "8ba0e203240627fb",
-     "title": "10 Ways the U.S. Can Strengthen Deterrence in the Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQbVVCTUd3Z3llYUs3bTd2VWVXRVJhbm9ya2J0c0tLSFRaVjJETUk0VktSQ3BUdnNpbmF2NC1tUjVVOWN0MmtjUjV2Y2FNeTA3Q2FhRmhjWklURXc2RngxbEFKM2VsSmJGZ2JqZUFUWTBxOEhaWDhEVGQ4VWpuNG5CU1RCQTZHTFZUbmpIZlYyaDNEQ05RTkZNbmFxOWo2TUxyd1JJbnBn?oc=5",
-     "published": "2026-09-15T11:56:05Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Foundation for Defense of Democracies",
-     "source_domain": "fdd.org",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "b53e4566c7fb5bc4",
-     "title": "Taiwan tracks 19 Chinese military aircraft, 10 ships",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSzRkTTFUcE80aGR4TU91Tmgzd29mS1BjUzl1YkJWLUdhVEc5VXg4MmhnbE81bFU3SUdFOFBMRWtnSXg2Q2plLUNTME4yUWJUWWJ6bA?oc=5",
-     "published": "2026-09-17T04:39:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -28303,67 +28323,6 @@
      ],
      "source_name": "TNL The News Lens 關鍵評論網",
      "source_domain": "thenewslens.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260906_d192fe",
-   "headline": "打造輕型艦艇 以小博大守台海",
-   "headline_source": "中國時報- 翻爆",
-   "headline_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUJ4Q1FaUUFZRTJsWFVtRzJ3b2xHeTNOTW4tQ1dLQm1YR0d5WFB2b042RGNYQVVNUXpGazhkSlRaLWdEeWl2X1dMY3dFWW01WklsOS1GWEJfZXVhbGpmYTNjSWNMcEFhV2FJTU5Ib2RMM2tMaVcxalRLWThGYlBuQ2I4bDdzQQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-06T21:56:15Z",
-   "last_seen": "2026-09-06T21:56:15Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "4c9d1b2ff5c19873"
-    ]
-   },
-   "articles": [
-    {
-     "id": "4c9d1b2ff5c19873",
-     "title": "打造輕型艦艇 以小博大守台海",
-     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYUJ4Q1FaUUFZRTJsWFVtRzJ3b2xHeTNOTW4tQ1dLQm1YR0d5WFB2b042RGNYQVVNUXpGazhkSlRaLWdEeWl2X1dMY3dFWW01WklsOS1GWEJfZXVhbGpmYTNjSWNMcEFhV2FJTU5Ib2RMM2tMaVcxalRLWThGYlBuQ2I4bDdzQQ?oc=5",
-     "published": "2026-09-06T21:56:15Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "warship"
-     ],
-     "source_name": "中國時報- 翻爆",
-     "source_domain": "reader.turnnewsapp.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
