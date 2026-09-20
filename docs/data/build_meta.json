@@ -1,14 +1,14 @@
 {
- "updated": "2026-09-20T04:57:15Z",
+ "updated": "2026-09-20T11:28:44Z",
  "checked": "2026-09-20",
- "duration_sec": 36.2,
+ "duration_sec": 35.6,
  "rolling_days": 14,
- "n_events": 457,
- "n_articles": 502,
+ "n_events": 460,
+ "n_articles": 510,
  "grades": {
-  "C": 181,
-  "D": 245,
-  "B": 30,
+  "C": 180,
+  "D": 248,
+  "B": 31,
   "A": 1
  },
  "cross_language_events": 3,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 18,
+  "T1": 19,
   "T2": 199,
-  "T3": 91,
+  "T3": 94,
   "T4": 20,
-  "T5": 150,
+  "T5": 155,
   "TA": 3
  },
  "t1_domains": [
@@ -55,8 +55,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
-   "n_adopted": 18,
+   "n_entries": 44,
+   "n_adopted": 19,
    "newest": "2026-09-19T16:00:00+00:00",
    "stale": false,
    "error": null
@@ -69,8 +69,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-09-19T13:03:46+00:00",
+   "n_adopted": 7,
+   "newest": "2026-09-18T06:48:36+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-09-20T03:29:29+00:00",
+   "n_adopted": 68,
+   "newest": "2026-09-20T08:51:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-09-19T16:45:00+00:00",
+   "n_adopted": 7,
+   "newest": "2026-09-20T05:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -109,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 14,
-   "newest": "2026-09-20T01:08:00+00:00",
+   "newest": "2026-09-20T11:08:36+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 39,
-   "n_adopted": 7,
-   "newest": "2026-09-20T02:05:15+00:00",
+   "n_entries": 45,
+   "n_adopted": 8,
+   "newest": "2026-09-20T08:56:35+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-20T04:00:05+00:00",
+   "newest": "2026-09-20T11:04:32+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-20T03:17:00+00:00",
+   "newest": "2026-09-20T09:26:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 104,
+   "n_entries": 113,
    "n_adopted": 0,
-   "newest": "2026-09-20T04:26:15+00:00",
+   "newest": "2026-09-20T11:20:42+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-20T04:18:55+00:00",
+   "newest": "2026-09-20T11:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -252,8 +252,13 @@
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 8,
-   "sample_title": "矽谷開始算「統一後的帳」 香港01：國際資本已在規劃台海終局"
+   "n_articles": 9,
+   "sample_title": "史文警告台海成美中最危險引爆點 雙方恐一步步陷入「承諾陷阱」"
+  },
+  {
+   "domain": "hk.crntt.com",
+   "n_articles": 7,
+   "sample_title": "新西蘭軍艦過航台海 解放軍全程跟監警戒"
   },
   {
    "domain": "n.yam.com",
@@ -261,9 +266,9 @@
    "sample_title": "林佳龍拋「台美共管中國」惹議 沈有忠：共同維護台海和平穩定"
   },
   {
-   "domain": "hk.crntt.com",
-   "n_articles": 6,
-   "sample_title": "國民黨：台海不該變地獄 戰爭應永遠不發生"
+   "domain": "hk.on.cc",
+   "n_articles": 5,
+   "sample_title": "紐國最大軍艦奧特亞羅瓦號穿越台海 一年內第3次"
   },
   {
    "domain": "mirrordaily.news",
@@ -281,11 +286,6 @@
    "sample_title": "台海戰火恐延燒歐洲？北約秘書長：北京料授意普丁開「第二戰場」"
   },
   {
-   "domain": "fountmedia.io",
-   "n_articles": 4,
-   "sample_title": "不能只數共機幾架！川習會前共軍如何在台灣周邊堆高壓力 航線、共艦、聯合戰備警巡一次攤開"
-  },
-  {
    "domain": "facebook.com",
    "n_articles": 4,
    "sample_title": "澳洲前總理陸克文警告，中國在2028年對台灣採取軍事行動的可能達三份之一，呼籲澳洲與美國及其他盟友合作，加強軍事威懾，降低台海爆發戰爭的風險。 #陸克文演講 #"
@@ -301,14 +301,9 @@
    "sample_title": "台海巡艦艇擬赴菲 公務身份破外交困境"
   },
   {
-   "domain": "hk.on.cc",
+   "domain": "fountmedia.io",
    "n_articles": 3,
-   "sample_title": "台海巡艦擬明年攜百人 首訪菲執行遠洋敦睦計劃"
-  },
-  {
-   "domain": "nippon.com",
-   "n_articles": 3,
-   "sample_title": "日美議員同意強化對中嚇阻：稱防止台海有事至關重要"
+   "sample_title": "不能只數共機幾架！川習會前共軍如何在台灣周邊堆高壓力 航線、共艦、聯合戰備警巡一次攤開"
   },
   {
    "domain": "worldjournal.com",
@@ -321,6 +316,16 @@
    "sample_title": "Taiwan Strait Tensions: A Global Economic Impact Looms"
   },
   {
+   "domain": "cmoney.tw",
+   "n_articles": 2,
+   "sample_title": "台灣省道教會75週年慶鄭麗文談台海和平、柯文哲帶桃園小雞亮相- 股市爆料同學會"
+  },
+  {
+   "domain": "fdd.org",
+   "n_articles": 2,
+   "sample_title": "10 Ways the U.S. Can Strengthen Deterrence in the Taiwan Strait"
+  },
+  {
    "domain": "cdns.com.tw",
    "n_articles": 2,
    "sample_title": "龍德造船蘭江艦交艦 沱江級戰力投入守護台海"
@@ -331,19 +336,14 @@
    "sample_title": "川習會登場前夕印太友盟國安專家周末齊聚台灣以行動支持台海和平穩定- 要聞"
   },
   {
-   "domain": "fdd.org",
+   "domain": "nippon.com",
    "n_articles": 2,
-   "sample_title": "10 Ways the U.S. Can Strengthen Deterrence in the Taiwan Strait"
+   "sample_title": "日美議員同意強化對中嚇阻：稱防止台海有事至關重要"
   },
   {
    "domain": "idn.com.tw",
    "n_articles": 2,
    "sample_title": "川習會前關注台海 谷立言：衝突恐重創全球經濟"
-  },
-  {
-   "domain": "news.mingpao.com",
-   "n_articles": 2,
-   "sample_title": "美國在台協會處長：台海若爆發衝突 對全球經濟衝擊將超二戰 (22:39) - 20260909 - 兩岸"
   }
  ]
 }
