@@ -1,33 +1,34 @@
 {
- "updated": "2026-09-21T05:00:03Z",
+ "updated": "2026-09-21T12:53:18Z",
  "checked": "2026-09-21",
- "duration_sec": 34.0,
+ "duration_sec": 33.2,
  "rolling_days": 14,
- "n_events": 463,
- "n_articles": 512,
+ "n_events": 482,
+ "n_articles": 531,
  "grades": {
-  "C": 178,
-  "D": 252,
-  "A": 1,
-  "B": 32
+  "B": 33,
+  "D": 258,
+  "C": 190,
+  "A": 1
  },
- "cross_language_events": 4,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-09"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 20,
-  "T2": 194,
-  "T3": 98,
-  "T4": 20,
-  "T5": 152,
+  "T1": 22,
+  "T2": 201,
+  "T3": 100,
+  "T4": 21,
+  "T5": 157,
   "TA": 3
  },
  "t1_domains": [
   "aljazeera.com",
   "apnews.com",
+  "bloomberg.com",
   "dw.com",
   "pts.org.tw",
   "reuters.com",
@@ -43,8 +44,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-09-21T04:45:19+00:00",
+   "n_adopted": 20,
+   "newest": "2026-09-21T07:17:00+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 44,
-   "n_adopted": 21,
-   "newest": "2026-09-21T01:47:23+00:00",
+   "n_entries": 45,
+   "n_adopted": 20,
+   "newest": "2026-09-21T12:11:02+00:00",
    "stale": false,
    "error": null
   },
@@ -69,7 +70,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 12,
    "newest": "2026-09-21T03:17:59+00:00",
    "stale": false,
    "error": null
@@ -82,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-09-21T04:51:19+00:00",
+   "n_adopted": 64,
+   "newest": "2026-09-21T12:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +97,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 6,
-   "newest": "2026-09-20T15:49:00+00:00",
+   "newest": "2026-09-21T05:09:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-09-21T03:42:00+00:00",
+   "n_adopted": 15,
+   "newest": "2026-09-21T11:45:56+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 32,
+   "n_entries": 48,
    "n_adopted": 4,
-   "newest": "2026-09-21T02:53:13+00:00",
+   "newest": "2026-09-21T10:44:55+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-21T04:00:10+00:00",
+   "newest": "2026-09-21T12:30:05+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-21T04:53:00+00:00",
+   "newest": "2026-09-21T11:58:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 110,
-   "n_adopted": 0,
-   "newest": "2026-09-21T04:51:27+00:00",
+   "n_entries": 103,
+   "n_adopted": 1,
+   "newest": "2026-09-21T12:23:00+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +212,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-09-21T02:27:52+00:00",
+   "newest": "2026-09-21T06:25:43+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-21T04:19:00+00:00",
+   "newest": "2026-09-21T12:32:43+00:00",
    "stale": false,
    "error": null
   },
@@ -247,18 +248,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 15,
-   "sample_title": "中共軍演恐隨時「由演轉戰」 吳釗燮曝隱憂在台灣內部| 自由電子報"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 8,
-   "sample_title": "鄭麗文出席台灣省道教會75週年以丘處機「一言止殺」自勉：盼台灣成台海和平定海神針興台灣、保人類"
-  },
-  {
-   "domain": "i-meihua.com",
-   "n_articles": 8,
-   "sample_title": "史文警告台海成美中最危險引爆點 雙方恐一步步陷入「承諾陷阱」"
+   "n_articles": 17,
+   "sample_title": "美封鎖石油嚇不倒？紐時：中國囤油狠招曝 恐顛覆台海兵推佈局 | TVBS"
   },
   {
    "domain": "hk.crntt.com",
@@ -266,34 +257,39 @@
    "sample_title": "新西蘭軍艦過航台海 解放軍全程跟監警戒"
   },
   {
+   "domain": "i-meihua.com",
+   "n_articles": 7,
+   "sample_title": "史文警告台海成美中最危險引爆點 雙方恐一步步陷入「承諾陷阱」"
+  },
+  {
+   "domain": "n.yam.com",
+   "n_articles": 7,
+   "sample_title": "林佳龍拋「台美共管中國」惹議 沈有忠：共同維護台海和平穩定"
+  },
+  {
+   "domain": "upmedia.mg",
+   "n_articles": 6,
+   "sample_title": "蕭美琴接受英媒專訪談台海 反駁「挑釁者」說：真正挑釁的是北京"
+  },
+  {
+   "domain": "ctinews.com",
+   "n_articles": 5,
+   "sample_title": "一年內第3度！紐西蘭軍艦9/18過航台海 解放軍：全程跟監警戒"
+  },
+  {
+   "domain": "hk.on.cc",
+   "n_articles": 4,
+   "sample_title": "紐證補給艦及護衞艦過航台海 印太部署一環"
+  },
+  {
    "domain": "orientaldaily.on.cc",
    "n_articles": 4,
    "sample_title": "新西蘭最大補給艦 年內3度穿越台海"
   },
   {
-   "domain": "mirrordaily.news",
-   "n_articles": 4,
-   "sample_title": "台海將淪無人海？美台密推「地獄景象」戰術 共軍恐需30倍軍力才敢開戰"
-  },
-  {
-   "domain": "upmedia.mg",
-   "n_articles": 4,
-   "sample_title": "美中靠「讀心術」過招台海有多危險？中國或誤判美軍來不及保台"
-  },
-  {
-   "domain": "ctinews.com",
-   "n_articles": 4,
-   "sample_title": "台海戰火恐延燒歐洲？北約秘書長：北京料授意普丁開「第二戰場」"
-  },
-  {
    "domain": "cmmedia.com.tw",
    "n_articles": 3,
    "sample_title": "搶先川習會！日本首相高市早苗訪美 擬22日會晤川普協調對中與台海局勢"
-  },
-  {
-   "domain": "hk.on.cc",
-   "n_articles": 3,
-   "sample_title": "台海巡艦擬明年攜百人 首訪菲執行遠洋敦睦計劃"
   },
   {
    "domain": "fountmedia.io",
@@ -311,6 +307,11 @@
    "sample_title": "澳洲前總理陸克文警告，中國在2028年對台灣採取軍事行動的可能達三份之一，呼籲澳洲與美國及其他盟友合作，加強軍事威懾，降低台海爆發戰爭的風險。 #陸克文演講 #"
   },
   {
+   "domain": "mirrordaily.news",
+   "n_articles": 3,
+   "sample_title": "台灣如何贏得台海──更靈活的海軍能拒止中國"
+  },
+  {
    "domain": "devdiscourse.com",
    "n_articles": 3,
    "sample_title": "Taiwan Strait Tensions: A Global Economic Impact Looms"
@@ -318,7 +319,12 @@
   {
    "domain": "cmoney.tw",
    "n_articles": 2,
-   "sample_title": "台灣省道教會75週年慶鄭麗文談台海和平、柯文哲帶桃園小雞亮相- 股市爆料同學會"
+   "sample_title": "致敬台海守護者！澎湖湖西鄉秋節敬軍致贈慰問金- 股市爆料同學會"
+  },
+  {
+   "domain": "thinkchina.sg",
+   "n_articles": 2,
+   "sample_title": "Why Luckin Coffee struggles to cross the Taiwan Strait"
   },
   {
    "domain": "fdd.org",
@@ -339,11 +345,6 @@
    "domain": "nippon.com",
    "n_articles": 2,
    "sample_title": "日美議員同意強化對中嚇阻：稱防止台海有事至關重要"
-  },
-  {
-   "domain": "idn.com.tw",
-   "n_articles": 2,
-   "sample_title": "川習會前關注台海 谷立言：衝突恐重創全球經濟"
   }
  ]
 }
