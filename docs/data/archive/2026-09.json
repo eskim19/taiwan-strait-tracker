@@ -1,82 +1,116 @@
 {
  "month": "2026-09",
- "n_events": 647,
+ "n_events": 653,
  "events": [
   {
-   "id": "evt_20260921_dbb766",
-   "headline": "(Asiad) S. Korea shuts out Chinese Taipei to begin baseball title defense",
-   "headline_source": "연합뉴스",
-   "headline_url": "https://en.yna.co.kr/view/AEN20260921011400315",
+   "id": "evt_20260922_a885bd",
+   "headline": "Taiwan-built sub could reach navy next month",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/22/2003864681",
    "headline_lang": "en",
-   "first_seen": "2026-09-21T03:04:46Z",
-   "last_seen": "2026-09-21T12:23:00Z",
+   "first_seen": "2026-09-22T00:00:00Z",
+   "last_seen": "2026-09-22T00:00:00Z",
    "langs": [
-    "en",
-    "zh"
+    "en"
    ],
-   "cross_language": true,
+   "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
     "n_unrated": 0,
-    "score": 59.0,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "prc_state"
+     "independent"
     ],
-    "top_tier": "T1",
+    "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 통신사·공영",
-     "2개 언어권에서 확인"
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
-    "prc": [
-     "fc2428665b5c34f6"
-    ],
+    "prc": [],
     "tw_west": [
-     "e1f89f3776691093"
+     "035e7a835a508160"
     ]
    },
    "articles": [
     {
-     "id": "fc2428665b5c34f6",
-     "title": "9月21日台海早資訊",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45UXo0alNFZVBFR3lwT19uWWRkdVVuNl8zT1Y3VjJ3UXpoNFE1TTA3ZTQwOGllbzIwWDJUWEUzcVU5b1ZPVVc4VUtlRUZNb2g5M3ltS3NUTGRsRzZVSzNhZFMtODFNUQ?oc=5",
-     "published": "2026-09-21T03:04:46Z",
-     "lang": "zh",
+     "id": "035e7a835a508160",
+     "title": "Taiwan-built sub could reach navy next month",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/22/2003864681",
+     "published": "2026-09-22T00:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_3f8aa2",
+   "headline": "South Korea, U.S., Japan Foreign Ministers Stress Taiwan Strait Stability",
+   "headline_source": "조선일보",
+   "headline_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHZZcFVxSnRKVDVWbTVETDNpcmNEZGVtTXhfUXBIdmYzaFk1N3lGMUNyb3JUZ3RTeHlJckhxaFpaUmpNSk15T0I4d0hselZNa1pzc3RGcm1GRTdLQVBib3pOMXJtRHFoc3I5MzJOSzZMNUtrR3doNF84QmE4aVdGbnZoYl8?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-21T19:50:33Z",
+   "last_seen": "2026-09-21T19:50:33Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "05e5750b1f58d050"
+    ]
+   },
+   "articles": [
+    {
+     "id": "05e5750b1f58d050",
+     "title": "South Korea, U.S., Japan Foreign Ministers Stress Taiwan Strait Stability",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQWHZZcFVxSnRKVDVWbTVETDNpcmNEZGVtTXhfUXBIdmYzaFk1N3lGMUNyb3JUZ3RTeHlJckhxaFpaUmpNSk15T0I4d0hselZNa1pzc3RGcm1GRTdLQVBib3pOMXJtRHFoc3I5MzJOSzZMNUtrR3doNF84QmE4aVdGbnZoYl8?oc=5",
+     "published": "2026-09-21T19:50:33Z",
+     "lang": "en",
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "香港中國通訊社",
-     "source_domain": "hkcna.hk",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 계열",
-     "hedged": false
-    },
-    {
-     "id": "e1f89f3776691093",
-     "title": "(Asiad) S. Korea shuts out Chinese Taipei to begin baseball title defense",
-     "url": "https://en.yna.co.kr/view/AEN20260921011400315",
-     "published": "2026-09-21T12:23:00Z",
-     "lang": "en",
-     "entities": [
-      "taipei"
-     ],
-     "source_name": "연합뉴스",
-     "source_domain": "yna.co.kr",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
+     "source_name": "조선일보",
+     "source_domain": "chosun.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
@@ -85,13 +119,13 @@
    ]
   },
   {
-   "id": "evt_20260921_42f232",
-   "headline": "47% of Taiwanese unsure of US military support — South China Morning Post",
-   "headline_source": "UA.NEWS",
-   "headline_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNTW5vSlJydW14bUdkclhGVWJtaGQ3ZGpUblZfVDVmTmRUM2V2TEplZ3FVSFBHbk1wb2xCdEMxaUtON2N5S2puemZid2IwZWduMkJrcFp3cUZuMjl4TG1jTU1tVWMtSmFsMnlZQ25vS0hWMUxZelJaYXZ4eExhS0N1NXVoRXV0a2h3Z19MLVRQdDM2WTNtNHg5eGFhLWpUcFQ1TzQzeGxn?oc=5",
+   "id": "evt_20260921_21ff5a",
+   "headline": "'There was no sinister intent' Winston Peters on Taiwan Strait passage | Ryan Bridge TODAY",
+   "headline_source": "NZ Herald",
+   "headline_url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNW5oa1RKQWtpUWMzTXZLTG9lNWtrUGtMcFdOaFBQX05GR09veERlQ25OQVRWekhVcWR3RXdEVUtrODduVFk5cDFFaGNvR3B0NVZsMVVjZW9jcFcwVnEwWDVWNWUzZzFxVC1SaUJBRFVBZHEwSXdDemdBZUNfaEVHZVRiODJuLUpXcG5aa2RVN3ZRZjdaOVZlWE1MajVISnpMcmJpem82NmNvR1FpZ0RGQm96R254TmRYUmt3WmtVT2dwcUdDX0c2Tk9kSU1Ed0pZVVkzNVVWVnRhUEpRM0Z0bEJjZllRM0ktUEVWY3laVmNDQXg1cElxeE9fbm94UDMwaGN1XzlBbw?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-21T12:11:02Z",
-   "last_seen": "2026-09-21T12:11:02Z",
+   "first_seen": "2026-09-21T19:44:00Z",
+   "last_seen": "2026-09-21T19:44:00Z",
    "langs": [
     "en"
    ],
@@ -120,10 +154,684 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "c3be9fad0f65fd59"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c3be9fad0f65fd59",
+     "title": "'There was no sinister intent' Winston Peters on Taiwan Strait passage | Ryan Bridge TODAY",
+     "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNNW5oa1RKQWtpUWMzTXZLTG9lNWtrUGtMcFdOaFBQX05GR09veERlQ25OQVRWekhVcWR3RXdEVUtrODduVFk5cDFFaGNvR3B0NVZsMVVjZW9jcFcwVnEwWDVWNWUzZzFxVC1SaUJBRFVBZHEwSXdDemdBZUNfaEVHZVRiODJuLUpXcG5aa2RVN3ZRZjdaOVZlWE1MajVISnpMcmJpem82NmNvR1FpZ0RGQm96R254TmRYUmt3WmtVT2dwcUdDX0c2Tk9kSU1Ed0pZVVkzNVVWVnRhUEpRM0Z0bEJjZllRM0ktUEVWY3laVmNDQXg1cElxeE9fbm94UDMwaGN1XzlBbw?oc=5",
+     "published": "2026-09-21T19:44:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "NZ Herald",
+     "source_domain": "nzherald.co.nz",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_360b9a",
+   "headline": "BREAKING NEWS: Japan, U.S., South Korea confirm importance of peace across Taiwan Strait",
+   "headline_source": "Kyodo News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNExNcFg5d09zS2ExZGJXUlZ1b1ZLeWhCbnRzLS1KQ3U3clp0c2FTQVczdnI4aVgtWFNvdFQtcFlZUUpvVEVaS3haRzdubDlMaEt0SlQ1RENyQQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-21T16:39:17Z",
+   "last_seen": "2026-09-21T17:02:59Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 47.7,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "79dafe5b0cf8b763",
+     "54ba4d5de7270d1e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "79dafe5b0cf8b763",
+     "title": "BREAKING NEWS: Japan, U.S., South Korea confirm importance of peace across Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1SNExNcFg5d09zS2ExZGJXUlZ1b1ZLeWhCbnRzLS1KQ3U3clp0c2FTQVczdnI4aVgtWFNvdFQtcFlZUUpvVEVaS3haRzdubDlMaEt0SlQ1RENyQQ?oc=5",
+     "published": "2026-09-21T16:39:17Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Kyodo News",
+     "source_domain": "kyodonews.net",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "54ba4d5de7270d1e",
+     "title": "South Korea, US, Japan Urge North Korea to Return to Dialogue... Stress Importance of Peace in Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MUnBoNEZkTnNfLUxFdHdqOUM0Q0FPb3djdl9iTTRtTmp0ZUJ0QTVIcFlrN2hfRHFjLWZhVncwWUtYMV9MWk0xbk9XWi0yZHRjRDRrcXgtUGlvOUZDTTR0MDFSQTBSeWRhTFlaTVpn?oc=5",
+     "published": "2026-09-21T17:02:59Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "SBS",
+     "source_domain": "sbs.co.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_193f11",
+   "headline": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
+   "headline_source": "Bloomberg",
+   "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-21T05:34:00Z",
+   "last_seen": "2026-09-21T16:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 51.7,
+    "n_independent": 2,
+    "n_articles": 4,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 통신사·공영",
+     "Bloomberg 원고를 Japan Times·The Star 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0346a065b9a53857",
+     "c8ca52fb1a4e43ef",
+     "ca1a99576ed66aa0",
+     "186f187f04fc2080"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0346a065b9a53857",
+     "title": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
+     "published": "2026-09-21T05:34:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Bloomberg",
+     "source_domain": "bloomberg.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "c8ca52fb1a4e43ef",
+     "title": "New Zealand naval ships transit contested Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFZtbmZCMkhwQ20wUHNkcGQtYUlXYmpkaXA5aXJQV2Q5ME04VGEwaGhMVkRTMGJ4QjVBQkI2RFZDUUdpYzNZOEFpaHE4VkVkb21VdUhkbTNWT0xidWVtZmVWRWR0eWxNamhSNDBic1htRFNjSE1heFVVM0FlT1V4TU92RTN6MDE2S081RERwcnlWNWc?oc=5",
+     "published": "2026-09-21T05:49:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ca1a99576ed66aa0",
+     "title": "New Zealand says naval ships made ‘routine’ transit of Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWdzSXIzTlhnNmpxM2RPZzZXbFZYVmZuSnkxLWZOOVRqMmpLa3Bhd09sT0NOT214dmhqZGwyUTdsbVY3ek5Hc0l3cnFFNEJ4bTZJQ3RYdzhRYzFCcDhZSHpyaURiRFp5N1k3aFZpOVF0QUxmelA4YXNIbk9wblNUT1pDbERYYXJKVnpxcGhubERjTmhsOWhPa3F6eW9mZEY4TExyTlUxeVlFc3M3QVItb3JiLWw4dzc3X0tzTzlyNU5QREc1N21RTw?oc=5",
+     "published": "2026-09-21T07:17:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "The Star",
+     "source_domain": "thestar.com.my",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "186f187f04fc2080",
+     "title": "Two New Zealand navy ships transit Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xSld4bFZ3b0k0VV80R1VLdDczWE9xTTI2QnRicThTQjNnNkdaUzJrNUpkM09QUkRiM1NreENkQTZmU1NjNER3WFBKaVQ3UDJSeUJjT0ZBUzY5elBDdmtHUjgtT3pLSUYzcjN5bEMzZTljcEhVX0FQT25B?oc=5",
+     "published": "2026-09-21T16:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_f62a59",
+   "headline": "By 'showing presence' in Taiwan Straits, New Zealand's warships are playing with fire",
+   "headline_source": "環球時報 Global Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xc0p0SVRHdGJmWVdoQTQxNDBGWHlRdUxWblp6aHpDU1ZVb2M4QUxMZE9NSk1icW41a1F5TmFmUHItNGlaMWx5UmgtTm1QemtlSkZLN0diX1c2dVoxNDl6ekV3?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-21T15:53:00Z",
+   "last_seen": "2026-09-21T15:53:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "ccadced086a847ca"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "ccadced086a847ca",
+     "title": "By 'showing presence' in Taiwan Straits, New Zealand's warships are playing with fire",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xc0p0SVRHdGJmWVdoQTQxNDBGWHlRdUxWblp6aHpDU1ZVb2M4QUxMZE9NSk1icW41a1F5TmFmUHItNGlaMWx5UmgtTm1QemtlSkZLN0diX1c2dVoxNDl6ekV3?oc=5",
+     "published": "2026-09-21T15:53:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_144e2d",
+   "headline": "【新聞大破解】川普取格陵蘭瓦解中俄協作 保台海歐洲",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wbFFDOW4xa2x0ai1HRVJZLV9vSFhMSnVEM3BReUlLX3VPR01BVFhta1A2bFQ2a1dveEhDSm5WYVJELUFqVlhYZDYtRW1yV293OUZSdHlZRW5DNTJQQVl3a9IBZkFVX3lxTE1rdVUzMmU2cDlzRV9VVXcxTWFjVDJ0RzFQc3M4NlZsZnVmd29HaThaT1NuRF9CU2tRYnBuTWt6eUtDMWl4ZTdVanVIcU1Ta3lhZVdnTEFGWG1ic25mSElWR2h6RkQzQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-21T15:43:43Z",
+   "last_seen": "2026-09-21T15:43:43Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5e8d410bfc9fdc53"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5e8d410bfc9fdc53",
+     "title": "【新聞大破解】川普取格陵蘭瓦解中俄協作 保台海歐洲",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wbFFDOW4xa2x0ai1HRVJZLV9vSFhMSnVEM3BReUlLX3VPR01BVFhta1A2bFQ2a1dveEhDSm5WYVJELUFqVlhYZDYtRW1yV293OUZSdHlZRW5DNTJQQVl3a9IBZkFVX3lxTE1rdVUzMmU2cDlzRV9VVXcxTWFjVDJ0RzFQc3M4NlZsZnVmd29HaThaT1NuRF9CU2tRYnBuTWt6eUtDMWl4ZTdVanVIcU1Ta3lhZVdnTEFGWG1ic25mSElWR2h6RkQzQQ?oc=5",
+     "published": "2026-09-21T15:43:43Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_736b15",
+   "headline": "台海被納入美中「競爭管理」架構 學者：美或促台勿破壞美中戰略穩定",
+   "headline_source": "ETtoday新聞雲",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bEswMFJwcWt2UExmbzZ2WHRvOGMzU1ZWMkJoeEU1U3lKRHJETzNVaThMZkR6NUs1bFgtTU92Q2k4WTJLd2VGcEFheVhQem1GT3lQXzVNY2d6Tkw1OWfSAUtBVV95cUxPOXNQa0V4VVpqbHoySkZfX3l5dVlOZmZ6V3YzcF9tUGMtd3NFWFZvdVFLOVAzcXdhQWJ2YmZyLUw5WFkyZmVnNXpsa3c?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-21T11:39:00Z",
+   "last_seen": "2026-09-21T14:23:46Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.2,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "ETtoday新聞雲 원고를 CMoney 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "50b1b820a2973dc5",
+     "40edce573fce6f76"
+    ]
+   },
+   "articles": [
+    {
+     "id": "50b1b820a2973dc5",
+     "title": "台海被納入美中「競爭管理」架構 學者：美或促台勿破壞美中戰略穩定",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bEswMFJwcWt2UExmbzZ2WHRvOGMzU1ZWMkJoeEU1U3lKRHJETzNVaThMZkR6NUs1bFgtTU92Q2k4WTJLd2VGcEFheVhQem1GT3lQXzVNY2d6Tkw1OWfSAUtBVV95cUxPOXNQa0V4VVpqbHoySkZfX3l5dVlOZmZ6V3YzcF9tUGMtd3NFWFZvdVFLOVAzcXdhQWJ2YmZyLUw5WFkyZmVnNXpsa3c?oc=5",
+     "published": "2026-09-21T11:39:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "ETtoday新聞雲",
+     "source_domain": "ettoday.net",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "40edce573fce6f76",
+     "title": "台海被納入美中「競爭管理」架構學者：美或促台勿破壞美中戰略穩定- 股市爆料同學會",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE11RWhYR2ZNNUdDcWxzeF9fTTEwUE5XVUlmNFduS0xYQmMxSzA2TGNLR2xCbHN3YnRUV3JLS2RYaG1DZFZwNnBUY0EzM056emlHbzNDVVpVMGw?oc=5",
+     "published": "2026-09-21T14:23:46Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "CMoney",
+     "source_domain": "cmoney.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_ae3121",
+   "headline": "(LEAD) (Asiad) S. Korea shuts out Chinese Taipei to begin baseball title defense",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://en.yna.co.kr/view/AEN20260921011451315",
+   "headline_lang": "en",
+   "first_seen": "2026-09-21T03:04:46Z",
+   "last_seen": "2026-09-21T13:34:13Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 59.2,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "prc_state"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 통신사·공영",
+     "2개 언어권에서 확인"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "fc2428665b5c34f6"
+    ],
+    "tw_west": [
+     "5565bd8923986f8c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "fc2428665b5c34f6",
+     "title": "9月21日台海早資訊",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE45UXo0alNFZVBFR3lwT19uWWRkdVVuNl8zT1Y3VjJ3UXpoNFE1TTA3ZTQwOGllbzIwWDJUWEUzcVU5b1ZPVVc4VUtlRUZNb2g5M3ltS3NUTGRsRzZVSzNhZFMtODFNUQ?oc=5",
+     "published": "2026-09-21T03:04:46Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "香港中國通訊社",
+     "source_domain": "hkcna.hk",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 계열",
+     "hedged": false
+    },
+    {
+     "id": "5565bd8923986f8c",
+     "title": "(LEAD) (Asiad) S. Korea shuts out Chinese Taipei to begin baseball title defense",
+     "url": "https://en.yna.co.kr/view/AEN20260921011451315",
+     "published": "2026-09-21T13:34:13Z",
+     "lang": "en",
+     "entities": [
+      "taipei"
+     ],
+     "source_name": "연합뉴스",
+     "source_domain": "yna.co.kr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_d8efb4",
+   "headline": "美封鎖石油嚇不倒？紐時：中國囤油狠招曝 恐顛覆台海兵推佈局 | TVBS",
+   "headline_source": "LINE TODAY",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Z1A1SC1NT2dXS2E4Nm9TdnNZN3RIWkp5dk9USUxXYmVOOEk5dDhWLWhFUk5QdWpjaXFKYzAxVDBQeGZZU3E1ZFdLVTZGSXJVR2V0cnN3?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-21T12:13:27Z",
+   "last_seen": "2026-09-21T12:13:27Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d349cc3fa0047b56"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d349cc3fa0047b56",
+     "title": "美封鎖石油嚇不倒？紐時：中國囤油狠招曝 恐顛覆台海兵推佈局 | TVBS",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Z1A1SC1NT2dXS2E4Nm9TdnNZN3RIWkp5dk9USUxXYmVOOEk5dDhWLWhFUk5QdWpjaXFKYzAxVDBQeGZZU3E1ZFdLVTZGSXJVR2V0cnN3?oc=5",
+     "published": "2026-09-21T12:13:27Z",
+     "lang": "zh",
+     "entities": [
+      "blockade",
+      "tabletop_wargame",
+      "taiwan_strait"
+     ],
+     "source_name": "LINE TODAY",
+     "source_domain": "today.line.me",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260919_42f232",
+   "headline": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-19T01:00:13Z",
+   "last_seen": "2026-09-21T12:11:02Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "A",
+    "d_reason": null,
+    "grade_label": "검증됨",
+    "n_originals": 5,
+    "n_unrated": 1,
+    "score": 68.1,
+    "n_independent": 3,
+    "n_articles": 5,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 3곳",
+     "최고 등급 통신사·공영",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1be00942ec62cc0d",
+     "8c3a0c73e3dca7f5",
+     "fccf215e6029e2ac",
+     "b2d4f68fb984c6e8",
      "046e79060368254e"
     ]
    },
    "articles": [
+    {
+     "id": "1be00942ec62cc0d",
+     "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeTBhRy1uNTgySnozbGRTTTczME01NjVNV1E5TzI3dnRSaFlsVDJlMGp3NHNrMEFZSGtqamhjVWpsVmlyUUctY3hxNUdKb3JqUkVpOGxkLVRHYmUxbnJSQm5TMnY0Q2hFazV1blhRNFlweUV6Z05YYVdKQTAzb0ZSYjZKLU5QTDBZa25hMDh5T0JQMUN5VTVuUkF2NlF4MzAzQXhDUnE0M1dsOVh1ZGJ2U3ppLW51Y0hVLUhVUkhzaVF2RnVYQWfSAcYBQVVfeXFMTXZQSGZYcHdsbFhpRHJic1lIaHRxM0NhSmxkdEU0SUhxeE5YYWRITFZXVHlaY3lJeXBET0pMRTVMa3BJVTNPcUpHd0M2YkRaUWNURl83YXllaldEVkpuQV83OHBheGZQZnBIbkF2eEpRMmNaZmtBQnJXQlRuTUc1MFZyb0MxN3hDekE0dWdmMjNqTEJOdGFGLUlwZ0ZxaGdSTk1sRTd5UWN1dm9HR3NFUmlMYndHMEZVMFlOdVlZQldUZ2tELVRn?oc=5",
+     "published": "2026-09-19T01:00:13Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
+    {
+     "id": "8c3a0c73e3dca7f5",
+     "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jdTVQSVNJV21TZTd4eWlWdDVtYU1pU014cGhfcHJTZjRqTkQ2V1lCWDluc1JBM1NyeWVHVjFaNVJGTk44VlVyMUxkejg5Nm5fTVlUNA?oc=5",
+     "published": "2026-09-19T02:52:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "fccf215e6029e2ac",
+     "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
+     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
+     "published": "2026-09-19T13:11:42Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b2d4f68fb984c6e8",
+     "title": "Nearly half of Taiwanese lack confidence in US defence commitments, survey finds",
+     "url": "https://www.scmp.com/news/china/politics/article/3368265/nearly-half-taiwanese-lack-confidence-us-defence-commitments-survey-finds?utm_source=rss_feed",
+     "published": "2026-09-21T12:00:08Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
     {
      "id": "046e79060368254e",
      "title": "47% of Taiwanese unsure of US military support — South China Morning Post",
@@ -145,129 +853,13 @@
    ]
   },
   {
-   "id": "evt_20260921_cb56ca",
-   "headline": "Nearly half of Taiwanese lack confidence in US defence commitments, survey finds",
-   "headline_source": "SCMP",
-   "headline_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcU9Ra20wOGpLYzFvMVFiOHBmbXFXX0gwaHJpakFSblVqR1NUSXk4emRuQjRFcDMzY09OUGVYb1FoX3FUc0pZaUFSZUlxeVZ0UWZfandONjdBVWZHbHJsNjZhcDBKQWVlTjE3Y19DaVpoSGVVVllJRkNMbEdzb0huU0ZBU2s2d0NGa2RJZTFHbHRQLUFZUXMzUDcwRDRQbnM2Tk5zVUpIZmtBOUFzZzNDellMQWlvWGoxVmY1Wm9jMnI5UXYxN0FBc2ln?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-21T12:00:08Z",
-   "last_seen": "2026-09-21T12:00:08Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b2d4f68fb984c6e8"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b2d4f68fb984c6e8",
-     "title": "Nearly half of Taiwanese lack confidence in US defence commitments, survey finds",
-     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPcU9Ra20wOGpLYzFvMVFiOHBmbXFXX0gwaHJpakFSblVqR1NUSXk4emRuQjRFcDMzY09OUGVYb1FoX3FUc0pZaUFSZUlxeVZ0UWZfandONjdBVWZHbHJsNjZhcDBKQWVlTjE3Y19DaVpoSGVVVllJRkNMbEdzb0huU0ZBU2s2d0NGa2RJZTFHbHRQLUFZUXMzUDcwRDRQbnM2Tk5zVUpIZmtBOUFzZzNDellMQWlvWGoxVmY1Wm9jMnI5UXYxN0FBc2ln?oc=5",
-     "published": "2026-09-21T12:00:08Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260921_9ca3c7",
-   "headline": "台海被納入美中「競爭管理」架構 學者：美或促台勿破壞美中戰略穩定",
-   "headline_source": "ETtoday新聞雲",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bEswMFJwcWt2UExmbzZ2WHRvOGMzU1ZWMkJoeEU1U3lKRHJETzNVaThMZkR6NUs1bFgtTU92Q2k4WTJLd2VGcEFheVhQem1GT3lQXzVNY2d6Tkw1OWfSAUtBVV95cUxPOXNQa0V4VVpqbHoySkZfX3l5dVlOZmZ6V3YzcF9tUGMtd3NFWFZvdVFLOVAzcXdhQWJ2YmZyLUw5WFkyZmVnNXpsa3c?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-21T11:39:00Z",
-   "last_seen": "2026-09-21T11:39:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "50b1b820a2973dc5"
-    ]
-   },
-   "articles": [
-    {
-     "id": "50b1b820a2973dc5",
-     "title": "台海被納入美中「競爭管理」架構 學者：美或促台勿破壞美中戰略穩定",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE91bEswMFJwcWt2UExmbzZ2WHRvOGMzU1ZWMkJoeEU1U3lKRHJETzNVaThMZkR6NUs1bFgtTU92Q2k4WTJLd2VGcEFheVhQem1GT3lQXzVNY2d6Tkw1OWfSAUtBVV95cUxPOXNQa0V4VVpqbHoySkZfX3l5dVlOZmZ6V3YzcF9tUGMtd3NFWFZvdVFLOVAzcXdhQWJ2YmZyLUw5WFkyZmVnNXpsa3c?oc=5",
-     "published": "2026-09-21T11:39:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "ETtoday新聞雲",
-     "source_domain": "ettoday.net",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260921_6df9c6",
    "headline": "新西蘭2軍艦航經台海 總理強調符合國際法",
    "headline_source": "新唐人 NTD",
    "headline_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X0FNSkJFbVNhUDVaNFpPeE01MnBLNGZ1b2prWmdfb3pnUUxKRXRtZGdrUWdFYnJteTUzbDRySlBNdFVZTmI1TGlmckYyX2FLRDl4SzFzcjZXbjBHcDRTVXVydUI?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-21T11:38:51Z",
-   "last_seen": "2026-09-21T11:38:51Z",
+   "first_seen": "2026-09-21T11:48:40Z",
+   "last_seen": "2026-09-21T11:48:40Z",
    "langs": [
     "zh"
    ],
@@ -303,7 +895,7 @@
      "id": "9dfdd0fb6f174a09",
      "title": "新西蘭2軍艦航經台海 總理強調符合國際法",
      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91X0FNSkJFbVNhUDVaNFpPeE01MnBLNGZ1b2prWmdfb3pnUUxKRXRtZGdrUWdFYnJteTUzbDRySlBNdFVZTmI1TGlmckYyX2FLRDl4SzFzcjZXbjBHcDRTVXVydUI?oc=5",
-     "published": "2026-09-21T11:38:51Z",
+     "published": "2026-09-21T11:48:40Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait",
@@ -827,90 +1419,6 @@
    ]
   },
   {
-   "id": "evt_20260919_d8efb4",
-   "headline": "《大西洋月刊》揭台海兵推激辯內幕! 美專家與台退將高雄冰店險爆肢體衝突| 國際",
-   "headline_source": "新頭殼",
-   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rN3BOTHo5Wmc0a0ZMbnR3MUl0QnFvY2gyNHRaS3c1WU9YeFR4TjlVUEdLZHlBX3oxekd0bDZzWGFEMHVJSlIxdXgwRjVMUllERlVsN1AxX2pkdlU?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-19T09:58:37Z",
-   "last_seen": "2026-09-21T08:15:34Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 34.2,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "f9265e88fb11c6b9",
-     "d349cc3fa0047b56"
-    ]
-   },
-   "articles": [
-    {
-     "id": "f9265e88fb11c6b9",
-     "title": "《大西洋月刊》揭台海兵推激辯內幕! 美專家與台退將高雄冰店險爆肢體衝突| 國際",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rN3BOTHo5Wmc0a0ZMbnR3MUl0QnFvY2gyNHRaS3c1WU9YeFR4TjlVUEdLZHlBX3oxekd0bDZzWGFEMHVJSlIxdXgwRjVMUllERlVsN1AxX2pkdlU?oc=5",
-     "published": "2026-09-19T09:58:37Z",
-     "lang": "zh",
-     "entities": [
-      "kaohsiung",
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "新頭殼",
-     "source_domain": "newtalk.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "d349cc3fa0047b56",
-     "title": "美封鎖石油嚇不倒？紐時：中國囤油狠招曝 恐顛覆台海兵推佈局 | TVBS",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE93Z1A1SC1NT2dXS2E4Nm9TdnNZN3RIWkp5dk9USUxXYmVOOEk5dDhWLWhFUk5QdWpjaXFKYzAxVDBQeGZZU3E1ZFdLVTZGSXJVR2V0cnN3?oc=5",
-     "published": "2026-09-21T08:15:34Z",
-     "lang": "zh",
-     "entities": [
-      "blockade",
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260921_db2768",
    "headline": "北京證實習近平本週訪美 將會晤川普商討貿易與台海局勢",
    "headline_source": "民視新聞",
@@ -1015,6 +1523,67 @@
     {
      "id": "7875bba1cd0d9da7",
      "title": "紐西蘭軍艦通過台灣海峽 總理：在國際水域例行活動 | 太報",
+     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ydzV2b053VF9naXZsSWdhWDFvSURMQTFjREQ0MXExVjVoNDkxZHBCYlVQNFRLRy1QUURaX1ZwOVZkNUpUem52aG5zemh5ZnFzMTlzU09EWWo5NEJPRDNmU1FHUmlTeUJ5VzQyMm9TSkFxQ2hJeXhWUkd5M2RNMm8?oc=5",
+     "published": "2026-09-21T07:45:51Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "LINE TODAY",
+     "source_domain": "today.line.me",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_1c6651",
+   "headline": "紐西蘭軍艦通過台灣海峽總理：在國際水域例行活動| 太報",
+   "headline_source": "LINE TODAY",
+   "headline_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ydzV2b053VF9naXZsSWdhWDFvSURMQTFjREQ0MXExVjVoNDkxZHBCYlVQNFRLRy1QUURaX1ZwOVZkNUpUem52aG5zemh5ZnFzMTlzU09EWWo5NEJPRDNmU1FHUmlTeUJ5VzQyMm9TSkFxQ2hJeXhWUkd5M2RNMm8?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-21T07:45:51Z",
+   "last_seen": "2026-09-21T07:45:51Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2b3e15f054fedd81"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2b3e15f054fedd81",
+     "title": "紐西蘭軍艦通過台灣海峽總理：在國際水域例行活動| 太報",
      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ydzV2b053VF9naXZsSWdhWDFvSURMQTFjREQ0MXExVjVoNDkxZHBCYlVQNFRLRy1QUURaX1ZwOVZkNUpUem52aG5zemh5ZnFzMTlzU09EWWo5NEJPRDNmU1FHUmlTeUJ5VzQyMm9TSkFxQ2hJeXhWUkd5M2RNMm8?oc=5",
      "published": "2026-09-21T07:45:51Z",
      "lang": "zh",
@@ -1152,105 +1721,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 방송",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260921_193f11",
-   "headline": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
-   "headline_source": "Bloomberg",
-   "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-21T05:34:00Z",
-   "last_seen": "2026-09-21T07:17:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 31.1,
-    "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "Bloomberg 원고를 Japan Times·The Star 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "0346a065b9a53857",
-     "c8ca52fb1a4e43ef",
-     "ca1a99576ed66aa0"
-    ]
-   },
-   "articles": [
-    {
-     "id": "0346a065b9a53857",
-     "title": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
-     "published": "2026-09-21T05:34:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Bloomberg",
-     "source_domain": "bloomberg.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "c8ca52fb1a4e43ef",
-     "title": "New Zealand naval ships transit contested Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFZtbmZCMkhwQ20wUHNkcGQtYUlXYmpkaXA5aXJQV2Q5ME04VGEwaGhMVkRTMGJ4QjVBQkI2RFZDUUdpYzNZOEFpaHE4VkVkb21VdUhkbTNWT0xidWVtZmVWRWR0eWxNamhSNDBic1htRFNjSE1heFVVM0FlT1V4TU92RTN6MDE2S081RERwcnlWNWc?oc=5",
-     "published": "2026-09-21T05:49:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "ca1a99576ed66aa0",
-     "title": "New Zealand says naval ships made ‘routine’ transit of Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWdzSXIzTlhnNmpxM2RPZzZXbFZYVmZuSnkxLWZOOVRqMmpLa3Bhd09sT0NOT214dmhqZGwyUTdsbVY3ek5Hc0l3cnFFNEJ4bTZJQ3RYdzhRYzFCcDhZSHpyaURiRFp5N1k3aFZpOVF0QUxmelA4YXNIbk9wblNUT1pDbERYYXJKVnpxcGhubERjTmhsOWhPa3F6eW9mZEY4TExyTlUxeVlFc3M3QVItb3JiLWw4dzc3X0tzTzlyNU5QREc1N21RTw?oc=5",
-     "published": "2026-09-21T07:17:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "The Star",
-     "source_domain": "thestar.com.my",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -2243,124 +2713,6 @@
    ]
   },
   {
-   "id": "evt_20260919_1044e6",
-   "headline": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-19T01:00:13Z",
-   "last_seen": "2026-09-21T00:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "A",
-    "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 6,
-    "n_unrated": 0,
-    "score": 65.1,
-    "n_independent": 3,
-    "n_articles": 6,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "tw_state"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 통신사·공영"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "1be00942ec62cc0d",
-     "053f5c60e7b54218",
-     "fccf215e6029e2ac",
-     "78fc1893b178d40b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "1be00942ec62cc0d",
-     "title": "Exclusive | US weighs delaying Taiwan arms sales until after Apec and G20 summits",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQeTBhRy1uNTgySnozbGRTTTczME01NjVNV1E5TzI3dnRSaFlsVDJlMGp3NHNrMEFZSGtqamhjVWpsVmlyUUctY3hxNUdKb3JqUkVpOGxkLVRHYmUxbnJSQm5TMnY0Q2hFazV1blhRNFlweUV6Z05YYVdKQTAzb0ZSYjZKLU5QTDBZa25hMDh5T0JQMUN5VTVuUkF2NlF4MzAzQXhDUnE0M1dsOVh1ZGJ2U3ppLW51Y0hVLUhVUkhzaVF2RnVYQWfSAcYBQVVfeXFMTXZQSGZYcHdsbFhpRHJic1lIaHRxM0NhSmxkdEU0SUhxeE5YYWRITFZXVHlaY3lJeXBET0pMRTVMa3BJVTNPcUpHd0M2YkRaUWNURl83YXllaldEVkpuQV83OHBheGZQZnBIbkF2eEpRMmNaZmtBQnJXQlRuTUc1MFZyb0MxN3hDekE0dWdmMjNqTEJOdGFGLUlwZ0ZxaGdSTk1sRTd5UWN1dm9HR3NFUmlMYndHMEZVMFlOdVlZQldUZ2tELVRn?oc=5",
-     "published": "2026-09-19T01:00:13Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    },
-    {
-     "id": "053f5c60e7b54218",
-     "title": "Anduril founder says he discussed Taiwan arms sale with Trump",
-     "url": "https://focustaiwan.tw/politics/202609190013",
-     "published": "2026-09-19T11:19:44Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "trump"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "fccf215e6029e2ac",
-     "title": "Defence firm Anduril says US delay on Taiwan arms sales affecting its business",
-     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNUS1zbnlmMUNZQU8teS1FUnNoOE1EMVNycDNJUVcyQ25QRGpyQk9WaVZPRG8zbzJCWlJSS3RDNHlqWmgzZkJibklPaVpGanBMQWc4LUFrN2s3NC1ieGpFVEMwY0w0eHhZckJ5NGNSZzQ3QnJPel9LeGdWclh0allIZDFHVTVta3k5Z1pwVlEzRlZSQzduNF9zNXhVaVlDQnFFX2VlTExZNnVrODVJUE9RbkJGZ0hzaV9MN1hkU3FxU0I?oc=5",
-     "published": "2026-09-19T13:11:42Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "78fc1893b178d40b",
-     "title": "US might postpone major Taiwan arms sales: report",
-     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/21/2003864623",
-     "published": "2026-09-21T00:00:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260921_c9a59f",
    "headline": "Taiwan win four golds at tug-of-war championship",
    "headline_source": "Taipei Times",
@@ -3099,7 +3451,7 @@
   {
    "id": "evt_20260920_c8eb4f",
    "headline": "史文警告台海成美中最危險引爆點 雙方恐一步步陷入「承諾陷阱」",
-   "headline_source": "i-meihua.com",
+   "headline_source": "梅花新聞網",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBRdkR3bENfYjJHbjVGSnpNb0RNajNPTEhScWNDRXF0QVNJZkt6c2JSYXNoUzdfNk9jaV83bE5KZDBYSUJhZi0yalgwUlZLMkpJeTM4VXJZelY?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-20T05:31:19Z",
@@ -3145,7 +3497,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "i-meihua.com",
+     "source_name": "梅花新聞網",
      "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3397,12 +3749,12 @@
    ]
   },
   {
-   "id": "evt_20260919_c8eb68",
-   "headline": "Taiwan wins senior women's 500kg tug of war title for 5th straight year",
+   "id": "evt_20260920_c8eb68",
+   "headline": "Taiwan wins 4 golds at World Outdoor Tug of War Championships",
    "headline_source": "中央社 CNA",
-   "headline_url": "https://focustaiwan.tw/sports/202609190003",
+   "headline_url": "https://focustaiwan.tw/sports/202609200003",
    "headline_lang": "en",
-   "first_seen": "2026-09-19T04:29:16Z",
+   "first_seen": "2026-09-20T03:38:19Z",
    "last_seen": "2026-09-20T03:38:19Z",
    "langs": [
     "en"
@@ -3412,11 +3764,11 @@
     "grade": "D",
     "d_reason": "state_only",
     "grade_label": "발표 단독",
-    "n_originals": 3,
+    "n_originals": 1,
     "n_unrated": 0,
-    "score": 25.9,
+    "score": 20.0,
     "n_independent": 1,
-    "n_articles": 3,
+    "n_articles": 1,
     "n_domains": 1,
     "blocs": [
      "tw_state"
@@ -3432,44 +3784,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "9ad4926f32ea52fa",
-     "54c1ab09c01ca8ce",
      "300ea30fe9807a4c"
     ]
    },
    "articles": [
-    {
-     "id": "9ad4926f32ea52fa",
-     "title": "Taiwan wins senior women's 500kg tug of war title for 5th straight year",
-     "url": "https://focustaiwan.tw/sports/202609190003",
-     "published": "2026-09-19T04:29:16Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "54c1ab09c01ca8ce",
-     "title": "Anduril founder urges Taiwan to expand defense production, exports",
-     "url": "https://focustaiwan.tw/politics/202609190010",
-     "published": "2026-09-19T09:41:36Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
     {
      "id": "300ea30fe9807a4c",
      "title": "Taiwan wins 4 golds at World Outdoor Tug of War Championships",
@@ -4344,6 +4662,67 @@
    ]
   },
   {
+   "id": "evt_20260919_790b63",
+   "headline": "《大西洋月刊》揭台海兵推激辯內幕! 美專家與台退將高雄冰店險爆肢體衝突| 國際",
+   "headline_source": "新頭殼",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rN3BOTHo5Wmc0a0ZMbnR3MUl0QnFvY2gyNHRaS3c1WU9YeFR4TjlVUEdLZHlBX3oxekd0bDZzWGFEMHVJSlIxdXgwRjVMUllERlVsN1AxX2pkdlU?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-19T09:58:37Z",
+   "last_seen": "2026-09-19T09:58:37Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f9265e88fb11c6b9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f9265e88fb11c6b9",
+     "title": "《大西洋月刊》揭台海兵推激辯內幕! 美專家與台退將高雄冰店險爆肢體衝突| 國際",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5rN3BOTHo5Wmc0a0ZMbnR3MUl0QnFvY2gyNHRaS3c1WU9YeFR4TjlVUEdLZHlBX3oxekd0bDZzWGFEMHVJSlIxdXgwRjVMUllERlVsN1AxX2pkdlU?oc=5",
+     "published": "2026-09-19T09:58:37Z",
+     "lang": "zh",
+     "entities": [
+      "kaohsiung",
+      "tabletop_wargame",
+      "taiwan_strait"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260919_cacfdb",
    "headline": "中共34機艦船台海周邊活動 國軍嚴密監控應處",
    "headline_source": "三立新聞",
@@ -4407,7 +4786,7 @@
   {
    "id": "evt_20260919_f7819f",
    "headline": "川習會後的台海戰略：三大動態指標",
-   "headline_source": "886.news",
+   "headline_source": "台灣新聞雲",
    "headline_url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5jMTdncjNJVlhwS0d1al9RZnFQLWQxOVZhVXlJblJMRUpPTS01ZHl6NVEtc0drY1gtV1FZSHFWMUJLQ3ZhY0g0?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-19T07:51:08Z",
@@ -4453,7 +4832,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "886.news",
+     "source_name": "台灣新聞雲",
      "source_domain": "886.news",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4761,63 +5140,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260919_ce946a",
-   "headline": "Taiwan tracks 20 Chinese military aircraft and 14 ships",
-   "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jdTVQSVNJV21TZTd4eWlWdDVtYU1pU014cGhfcHJTZjRqTkQ2V1lCWDluc1JBM1NyeWVHVjFaNVJGTk44VlVyMUxkejg5Nm5fTVlUNA?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-19T02:52:00Z",
-   "last_seen": "2026-09-19T02:52:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "8c3a0c73e3dca7f5"
-    ]
-   },
-   "articles": [
-    {
-     "id": "8c3a0c73e3dca7f5",
-     "title": "Taiwan tracks 20 Chinese military aircraft and 14 ships",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jdTVQSVNJV21TZTd4eWlWdDVtYU1pU014cGhfcHJTZjRqTkQ2V1lCWDluc1JBM1NyeWVHVjFaNVJGTk44VlVyMUxkejg5Nm5fTVlUNA?oc=5",
-     "published": "2026-09-19T02:52:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -6265,44 +6587,63 @@
    ]
   },
   {
-   "id": "evt_20260918_6c64ef",
-   "headline": "川習會下週登場 中共28機9艦大動作擾台",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE42NEo2TkJXOTI2V0ZBNTdrYXBFSHV6aExhbTdMeDBiT1JjV2FnWEtkc3owaE9iWlRvV0FTaEpCSTUyV0ZkclNqenhJb3F0bWJ5aURHYWR5TEhZd3ZTX2VwVtIBZkFVX3lxTE1GZnE1MHBOdWRTemhFZWNNNGN6c2NST2VjNlM2QXlWZ1dQOUxINEtwNVBveVdsdjh1NzB5Yzl4YWxubi05NTQySUhsXzNEODNpVXpyNGpBWXNzMkdvam1WNkFWN1RVdw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-18T01:57:00Z",
+   "id": "evt_20260918_38a7a2",
+   "headline": "Taiwan tracks 28 Chinese military aircraft, 9 ships",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZU0NMWVVmTjRUSk9PalZxLVF5bi1Wb2FhSWlTbUJ5bDZENS1ZQ3JCWTBuZno1QzY0c2U2RDZUTWRPblIyWkJGZTNCTS1FLVM2SnFBaA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-18T01:13:00Z",
    "last_seen": "2026-09-18T01:57:00Z",
    "langs": [
+    "en",
     "zh"
    ],
-   "cross_language": false,
+   "cross_language": true,
    "credibility": {
-    "grade": "C",
+    "grade": "B",
     "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
+    "grade_label": "개연적",
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "score": 55.7,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "66517c8b576eefa4",
      "6e960db8975a1db3"
     ]
    },
    "articles": [
+    {
+     "id": "66517c8b576eefa4",
+     "title": "Taiwan tracks 28 Chinese military aircraft, 9 ships",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5ZU0NMWVVmTjRUSk9PalZxLVF5bi1Wb2FhSWlTbUJ5bDZENS1ZQ3JCWTBuZno1QzY0c2U2RDZUTWRPblIyWkJGZTNCTS1FLVM2SnFBaA?oc=5",
+     "published": "2026-09-18T01:13:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "6e960db8975a1db3",
      "title": "川習會下週登場 中共28機9艦大動作擾台",
@@ -14252,6 +14593,66 @@
    ]
   },
   {
+   "id": "evt_20260914_62d701",
+   "headline": "昨中共遼寧號穿越台海 顧立雄：持續掌握動向",
+   "headline_source": "公視 PTS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0weVo0RTJBejAtM3JPVHJBVWlHSHp5VWc3Zk8tQVNrdmt0TGtNcURUZGFIQmRLbGphbGQ5UDk4aFBac1duWFN0NkhWQ3NWTnc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-14T07:00:00Z",
+   "last_seen": "2026-09-14T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "542e2f6eacd86b42"
+    ]
+   },
+   "articles": [
+    {
+     "id": "542e2f6eacd86b42",
+     "title": "昨中共遼寧號穿越台海 顧立雄：持續掌握動向",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE0weVo0RTJBejAtM3JPVHJBVWlHSHp5VWc3Zk8tQVNrdmt0TGtNcURUZGFIQmRLbGphbGQ5UDk4aFBac1duWFN0NkhWQ3NWTnc?oc=5",
+     "published": "2026-09-14T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "wellington_koo"
+     ],
+     "source_name": "公視 PTS",
+     "source_domain": "pts.org.tw",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 공영방송(편집권 독립)",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260914_0e3e66",
    "headline": "沖繩變天牽動台海安全 西南防衛可望減少中央地方摩擦",
    "headline_source": "自由時報",
@@ -15399,7 +15800,7 @@
   {
    "id": "evt_20260914_b36bbe",
    "headline": "Taiwan Strait 1958: The First Sidewinder Kill",
-   "headline_source": "MiGFlug",
+   "headline_source": "migflug.com",
    "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWC1aaFNRQTlZeWZBMHFMaU5pa3ZUSGY3aXlBU1NCZWRvNzJwMWp2T3I0bFhqMzdsX183UkFiYTgtUy1zek9NQUVLMWhYSDM0V09MeklNamkxMXdwbmJNSDRpcnJ1XzVrR0djS0RuVk1xOHBjMG1mM3JPUUttRU9JU1YwTkN5NUtJVkJGZWZKZ1V6UXVZOUFsV3psSQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-14T01:56:12Z",
@@ -15445,7 +15846,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "MiGFlug",
+     "source_name": "migflug.com",
      "source_domain": "migflug.com",
      "tier": "T5",
      "tier_label": "미분류",
