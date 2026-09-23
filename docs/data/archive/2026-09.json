@@ -1,7 +1,121 @@
 {
  "month": "2026-09",
- "n_events": 757,
+ "n_events": 758,
  "events": [
+  {
+   "id": "evt_20260923_fefbfa",
+   "headline": "Experts Warn of China’s Information Warfare, Urge Taiwan to Strengthen Psychological Defense",
+   "headline_source": "看中國 Vision Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhpRGhiV29qdGtsaWg1ZjltR0hma3kzOW1RZ2w5S2MzZGJCT0xVT0FXclJnbFJGRlNoaVJDZzNnWmFEZ3k1cHJhWUpxZnNhTThmWFl6VW5WdGczTG5ReXQtR3JEOG80ZFlQRjVGOThMbGRBLVE5UEZXYjNSSHViQUJfcm40NGRkVW1GZ0g5WXg0Ml9xQVhOaWhDNjhIS0p3SjhqZmNYNzlxb0k5WXhmVFFTc2FNbHpxLWVsQ3ZOREs5eHNpaXEtOS1BaElaX1U?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-23T19:32:48Z",
+   "last_seen": "2026-09-23T19:32:48Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d0f94da53b77425e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d0f94da53b77425e",
+     "title": "Experts Warn of China’s Information Warfare, Urge Taiwan to Strengthen Psychological Defense",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQVmhpRGhiV29qdGtsaWg1ZjltR0hma3kzOW1RZ2w5S2MzZGJCT0xVT0FXclJnbFJGRlNoaVJDZzNnWmFEZ3k1cHJhWUpxZnNhTThmWFl6VW5WdGczTG5ReXQtR3JEOG80ZFlQRjVGOThMbGRBLVE5UEZXYjNSSHViQUJfcm40NGRkVW1GZ0g5WXg0Ml9xQVhOaWhDNjhIS0p3SjhqZmNYNzlxb0k5WXhmVFFTc2FNbHpxLWVsQ3ZOREs5eHNpaXEtOS1BaElaX1U?oc=5",
+     "published": "2026-09-23T19:32:48Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "看中國 Vision Times",
+     "source_domain": "visiontimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260923_e24cc4",
+   "headline": "Paraguay’s president urges UN to let Taiwan in, calls island’s exclusion ‘a stain’",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3368561/paraguays-president-urges-un-let-taiwan-calls-islands-exclusion-stain?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-09-23T19:01:59Z",
+   "last_seen": "2026-09-23T19:01:59Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ec5da6cb30c1159d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ec5da6cb30c1159d",
+     "title": "Paraguay’s president urges UN to let Taiwan in, calls island’s exclusion ‘a stain’",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3368561/paraguays-president-urges-un-let-taiwan-calls-islands-exclusion-stain?utm_source=rss_feed",
+     "published": "2026-09-23T19:01:59Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260923_352ce1",
    "headline": "McConnell urges Trump team to provide Taiwan military funding",
@@ -164,7 +278,6 @@
     ],
     "tw_west": [
      "78fc1893b178d40b",
-     "b2d4f68fb984c6e8",
      "1f5cddd31be99d89",
      "5cb2ee00d2bae13a",
      "26c412ef55040fd4",
@@ -188,22 +301,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "b2d4f68fb984c6e8",
-     "title": "Nearly half of Taiwanese lack confidence in US defence commitments, survey finds",
-     "url": "https://www.scmp.com/news/china/politics/article/3368265/nearly-half-taiwanese-lack-confidence-us-defence-commitments-survey-finds?utm_source=rss_feed",
-     "published": "2026-09-21T12:00:08Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
      "hedged": false
     },
     {
@@ -371,8 +468,8 @@
    "headline_source": "LINE TODAY",
    "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GRWFldXlSamx1bzgyT3E5MmR0ZGF0WDdFZ1pXaXZhb2M1WmkxUjZ2OTl2Y191dVJISWVxV29ITlJZaVlhWEhaQ1VWa2tDTms3aENQQUFB?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-23T12:16:49Z",
-   "last_seen": "2026-09-23T12:16:49Z",
+   "first_seen": "2026-09-23T12:26:56Z",
+   "last_seen": "2026-09-23T12:26:56Z",
    "langs": [
     "zh"
    ],
@@ -409,7 +506,7 @@
      "id": "5eab72f0aeafca74",
      "title": "FOCUS全球新聞／年內第二次「川習會」聚焦AI貿易與台海 美中保現狀就算成功 | TVBS",
      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5GRWFldXlSamx1bzgyT3E5MmR0ZGF0WDdFZ1pXaXZhb2M1WmkxUjZ2OTl2Y191dVJISWVxV29ITlJZaVlhWEhaQ1VWa2tDTms3aENQQUFB?oc=5",
-     "published": "2026-09-23T12:16:49Z",
+     "published": "2026-09-23T12:26:56Z",
      "lang": "zh",
      "entities": [
       "status_quo",
@@ -548,7 +645,7 @@
   {
    "id": "evt_20260923_b0fff3",
    "headline": "Taiwan Eyes Xi-Trump Talks, Seeks Continued US Military Support",
-   "headline_source": "Deccan Chronicle",
+   "headline_source": "deccanchronicle.com",
    "headline_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPdkNpN2xPcExDS3NxSm1EbVcwS0RjX3ZZeDh3QU1rYjBHeGJvajcyYVpON0RSRmJPYkd2eG1BNlpDOHUwUzZtOGhNLVBUMWdXaTh3ZEx4dEZCZXNFMGpPVHZHcUNWaG8zYlFqXzlkMzFUMVdieFJBU1hGTnNWZlhkd2tBRnFZLWZ4TndqYUNiMkMwZVNvS3o1cW4yQXU5ejhIZFJmLTJaVDlIVFVf0gGyAUFVX3lxTE9Wc2tGNW1CYmp0SlFhY2VYMWttNXlwTzFSdXFvUV9ETXNrMEZtOG9WUkppdW5JNlZOX2wtVmUxY2xaam5saFNXMVpOWFNQRThROGFfa3JtT2tEX0wxMFdzc2VYNEVpSXFQLWdOSS10WW0tcXhpWkpldzZkOWZXMDlkZFB3ZzNnUDVnckgxTHBHdUJKSHpEa0VWU2hOMUFYWmJwYUtGdFVEcWlFcEJuTVNsZWc?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-23T11:02:41Z",
@@ -595,7 +692,7 @@
       "trump",
       "us_military"
      ],
-     "source_name": "Deccan Chronicle",
+     "source_name": "deccanchronicle.com",
      "source_domain": "deccanchronicle.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1291,12 +1388,12 @@
    ]
   },
   {
-   "id": "evt_20260923_48822b",
-   "headline": "[中国新闻]台湾民调：逾六成民众支持扩大两岸民间交流",
-   "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GQzlXMHMxcjFpVl9nRndCMG1iaW5PeHFPU1BRVU4tR2Z3RTZ6TGpOV2RWQlVsR1ZkXzZLTllqdy1Sc3JNaVZmR2pLbllXbVA2UVo3bzJPQ2MwRTZXZEhfcUVaZFk0SHFib3Y0TG9wUmlzVDVPb1E?oc=5",
+   "id": "evt_20260922_48822b",
+   "headline": "台湾媒体年度调查：逾六成民众支持两岸扩大民间交流",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yUW04RzM4WFRNM3l1Q1Bsb04xZW1EaC1vNzNRMXdVaTB3YnF2dHp1Q3N3MExacHFvZjBoN0daNy1Zazl3aEdtVklTX3ZuTzRTeFBrZ3EtbGhsQzE5NC01dXctZC1Md2xkQkw2ZXZtUk03QQ?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-23T05:02:00Z",
+   "first_seen": "2026-09-22T07:06:43Z",
    "last_seen": "2026-09-23T05:02:00Z",
    "langs": [
     "zh"
@@ -1306,12 +1403,12 @@
     "grade": "D",
     "d_reason": "state_only",
     "grade_label": "발표 단독",
-    "n_originals": 1,
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 20.0,
+    "score": 25.8,
     "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "prc_state"
     ],
@@ -1325,11 +1422,30 @@
    },
    "perspectives": {
     "prc": [
+     "ef039eb677bd319a",
      "34d3c124299103fe"
     ],
     "tw_west": []
    },
    "articles": [
+    {
+     "id": "ef039eb677bd319a",
+     "title": "台湾媒体年度调查：逾六成民众支持两岸扩大民间交流",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yUW04RzM4WFRNM3l1Q1Bsb04xZW1EaC1vNzNRMXdVaTB3YnF2dHp1Q3N3MExacHFvZjBoN0daNy1Zazl3aEdtVklTX3ZuTzRTeFBrZ3EtbGhsQzE5NC01dXctZC1Md2xkQkw2ZXZtUk03QQ?oc=5",
+     "published": "2026-09-22T07:06:43Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    },
     {
      "id": "34d3c124299103fe",
      "title": "[中国新闻]台湾民调：逾六成民众支持扩大两岸民间交流",
@@ -1530,12 +1646,12 @@
    ]
   },
   {
-   "id": "evt_20260922_a1b0cd",
-   "headline": "歐盟挺台參與國際組織！強調2758號決議未提台灣 反對武力改變台海現況",
-   "headline_source": "三立新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JbmJvUGpuYl9GVGlPaWppUzRPaFF6dWxPdC1WZXFUc2dUdVhyakV5MlZxVmZZRlByTS1qNEpYcFhIZGE3NHlHUtIBTEFVX3lxTE5kbnB6b2piTWtaZ0pfSTdwMldNUURmMUdNU01aQjY4QlJBZktRakw5YnZsb1YzRTlFODgteWxLYjZVR3FxUUlhZFVrSFg?oc=5",
+   "id": "evt_20260923_0dba0c",
+   "headline": "2758號決議「沒提台灣」！歐盟挺台參與國際組織 反對武力改變台海現狀",
+   "headline_source": "鏡週刊",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92UFZBLTlrS2FWSGdFS0JfVHF0UVI1b2dxbVVKYXljbU0yeDFMZ0NTRkFqdmxKMnNzN3I2MmJ3UGdON1VRdEZYM0tvZjRIOEpTVG91bjV5Z3ZfUjjSAWBBVV95cUxQZVV4ZENmVFRtSXY3YzVPSHYzRUwxS3hpQ01oOFN4VUh0bHdoeVlkYjI1QjNTdWpSRlpxZno0R3FGOVZMbFpnMmRPdDdGdmdmNTNZTXBDM3llTXJqb05SQU8?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-22T21:42:00Z",
+   "first_seen": "2026-09-23T02:18:00Z",
    "last_seen": "2026-09-23T02:18:00Z",
    "langs": [
     "zh"
@@ -1547,10 +1663,10 @@
     "grade_label": "단일 출처",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 29.0,
+    "score": 25.8,
     "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
      "independent"
     ],
@@ -1558,36 +1674,16 @@
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "三立新聞 원고를 鏡週刊 가 전재 — 1곳으로 계산"
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "14f55fbf3fdee7b5",
      "a36a6c2b54f56a4a"
     ]
    },
    "articles": [
-    {
-     "id": "14f55fbf3fdee7b5",
-     "title": "歐盟挺台參與國際組織！強調2758號決議未提台灣 反對武力改變台海現況",
-     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1JbmJvUGpuYl9GVGlPaWppUzRPaFF6dWxPdC1WZXFUc2dUdVhyakV5MlZxVmZZRlByTS1qNEpYcFhIZGE3NHlHUtIBTEFVX3lxTE5kbnB6b2piTWtaZ0pfSTdwMldNUURmMUdNU01aQjY4QlJBZktRakw5YnZsb1YzRTlFODgteWxLYjZVR3FxUUlhZFVrSFg?oc=5",
-     "published": "2026-09-22T21:42:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "三立新聞",
-     "source_domain": "setn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    },
     {
      "id": "a36a6c2b54f56a4a",
      "title": "2758號決議「沒提台灣」！歐盟挺台參與國際組織 反對武力改變台海現狀",
@@ -2436,7 +2532,7 @@
   {
    "id": "evt_20260922_5ec6a5",
    "headline": "Two New Zealand Warships Transit Taiwan Strait Amid Rising Tensions With China",
-   "headline_source": "Marine Insight",
+   "headline_source": "marineinsight.com",
    "headline_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRHhQTEtPSkpCRV9zX0JGbzdFRmlfTlhHeUxfejAtZE1VQVBXa09qaWliOHRYWjNRN243N211UzU5dmQwc00tUDJnYzdveWVScWhrUDl4TGxqdk1kVzFKd25XVVJhNEM2czlWblNvb2gySEgxNE5MNFd3N2puMGExZ2dZRnBPSzRNOHVpUFRLaVBtOG93cFR4SE5OQ1U4UnBqOXY0bnYxZFVzUTdJckE?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-22T12:32:06Z",
@@ -2483,7 +2579,7 @@
       "taiwan_strait",
       "warship"
      ],
-     "source_name": "Marine Insight",
+     "source_name": "marineinsight.com",
      "source_domain": "marineinsight.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2737,12 +2833,12 @@
    ]
   },
   {
-   "id": "evt_20260922_a06b87",
-   "headline": "US tightens Japan, South Korea ties ahead of Trump-Xi summit",
+   "id": "evt_20260921_b086b9",
+   "headline": "US, Japan and South Korea launch economic-security talks before Xi summit",
    "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/plus/news/china/diplomacy/article/3368381/us-tightens-japan-south-korea-ties-ahead-trump-xi-summit?utm_source=rss_feed",
+   "headline_url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit?utm_source=rss_feed",
    "headline_lang": "en",
-   "first_seen": "2026-09-22T09:07:00Z",
+   "first_seen": "2026-09-21T20:22:31Z",
    "last_seen": "2026-09-22T09:07:00Z",
    "langs": [
     "en"
@@ -2752,11 +2848,11 @@
     "grade": "C",
     "d_reason": null,
     "grade_label": "단일 출처",
-    "n_originals": 1,
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 25.8,
+    "score": 30.7,
     "n_independent": 1,
-    "n_articles": 1,
+    "n_articles": 2,
     "n_domains": 1,
     "blocs": [
      "independent"
@@ -2771,10 +2867,27 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "b4b87120cc4e4347",
      "c43b62141492e920"
     ]
    },
    "articles": [
+    {
+     "id": "b4b87120cc4e4347",
+     "title": "US, Japan and South Korea launch economic-security talks before Xi summit",
+     "url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit?utm_source=rss_feed",
+     "published": "2026-09-21T20:22:31Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
     {
      "id": "c43b62141492e920",
      "title": "US tightens Japan, South Korea ties ahead of Trump-Xi summit",
@@ -3033,66 +3146,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 방송",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_2e6d6c",
-   "headline": "台湾媒体年度调查：逾六成民众支持两岸扩大民间交流",
-   "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yUW04RzM4WFRNM3l1Q1Bsb04xZW1EaC1vNzNRMXdVaTB3YnF2dHp1Q3N3MExacHFvZjBoN0daNy1Zazl3aEdtVklTX3ZuTzRTeFBrZ3EtbGhsQzE5NC01dXctZC1Md2xkQkw2ZXZtUk03QQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T07:06:43Z",
-   "last_seen": "2026-09-22T07:06:43Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "ef039eb677bd319a"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "ef039eb677bd319a",
-     "title": "台湾媒体年度调查：逾六成民众支持两岸扩大民间交流",
-     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4yUW04RzM4WFRNM3l1Q1Bsb04xZW1EaC1vNzNRMXdVaTB3YnF2dHp1Q3N3MExacHFvZjBoN0daNy1Zazl3aEdtVklTX3ZuTzRTeFBrZ3EtbGhsQzE5NC01dXctZC1Md2xkQkw2ZXZtUk03QQ?oc=5",
-     "published": "2026-09-22T07:06:43Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中國新聞網",
-     "source_domain": "chinanews.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 통신사",
      "hedged": false
     }
    ]
@@ -3676,7 +3729,7 @@
   {
    "id": "evt_20260922_541c09",
    "headline": "川習會前夕！ 美日韓外長聲明重申維護台海和平",
-   "headline_source": "mnews.tw",
+   "headline_source": "鏡新聞",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5rck55ZlhWaDNzWW5SRVY2N2x0bml4VERLMDQtR05iYXJEb2RSVnN6UFIwd09ydUNsWmJTRFdIazU2RS03VUVOdllBRDhDdFNjWUNlbEc0cHDSAV5BVV95cUxPeHYzWjU4LXlDcDd4dnFhdkozN0pxdnZCNVJsTVUzVGw4VzhMOE5XVEZXLTZXQmo4X2lnWS1UV0l4OEVYVmQ4THpzc1REOE00eDl2cTF3Smg4VVJkSlRB?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-22T05:40:00Z",
@@ -3722,7 +3775,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "mnews.tw",
+     "source_name": "鏡新聞",
      "source_domain": "mnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5078,7 +5131,7 @@
   {
    "id": "evt_20260922_4ae145",
    "headline": "中德外長通話王毅籲維護台海和平穩定- 股市爆料同學會",
-   "headline_source": "CMoney",
+   "headline_source": "cmoney.tw",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9URVd6YzIwcWthdEY0bVBFUlFabFVveTUyb1lhdDUxLWZlb1lqT2dKX29UYVpyTFFjUzVDbVRVZXp0dlh1WVRIYy1Ja2NXM1VGUHJMRWNYd0U?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-22T02:43:06Z",
@@ -5125,7 +5178,7 @@
       "taiwan_strait",
       "wang_yi"
      ],
-     "source_name": "CMoney",
+     "source_name": "cmoney.tw",
      "source_domain": "cmoney.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5858,142 +5911,6 @@
    ]
   },
   {
-   "id": "evt_20260921_360b9a",
-   "headline": "South Korea, US, Japan Urge North Korea to Return to Dialogue... Stress Importance of Peace in Taiwan Strait",
-   "headline_source": "SBS",
-   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MUnBoNEZkTnNfLUxFdHdqOUM0Q0FPb3djdl9iTTRtTmp0ZUJ0QTVIcFlrN2hfRHFjLWZhVncwWUtYMV9MWk0xbk9XWi0yZHRjRDRrcXgtUGlvOUZDTTR0MDFSQTBSeWRhTFlaTVpn?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-21T17:02:59Z",
-   "last_seen": "2026-09-21T21:22:24Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 28.9,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "SBS 원고를 SBS 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "54ba4d5de7270d1e",
-     "5d0068e57e524bad"
-    ]
-   },
-   "articles": [
-    {
-     "id": "54ba4d5de7270d1e",
-     "title": "South Korea, US, Japan Urge North Korea to Return to Dialogue... Stress Importance of Peace in Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MUnBoNEZkTnNfLUxFdHdqOUM0Q0FPb3djdl9iTTRtTmp0ZUJ0QTVIcFlrN2hfRHFjLWZhVncwWUtYMV9MWk0xbk9XWi0yZHRjRDRrcXgtUGlvOUZDTTR0MDFSQTBSeWRhTFlaTVpn?oc=5",
-     "published": "2026-09-21T17:02:59Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "SBS",
-     "source_domain": "sbs.co.kr",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "5d0068e57e524bad",
-     "title": "S. Korea, U.S., Japan Urge North Korea to Return to Dialogue and Emphasize Peace in Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Qc0RCLW9zSGJoNjh1TkJwS21pV3IwbFJuVWt5S0ZmbFB5UU1vX2FUWUlZZ2xIdkE5NzNEdGh1c0k1YTY0MTg1TmxTWWlVYk8tNHhUT0F3WGtUdDYwMllNa3ltNlpNUUtNV1h6WHV30gFmQVVfeXFMUFRpVHJZZW9INWc0dTVwVkxicjY0TTc1NUl4eTJnVVp3ZC1YX1dJQm1rRlBlQlNETzQwemQ1bmtFbEprNGpWVjlKUkRnQ3BXb3ZfNktZVzlzcVFhNGJ4VnpZVzU4SHdR?oc=5",
-     "published": "2026-09-21T21:22:24Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "SBS",
-     "source_domain": "sbs.co.kr",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260921_b086b9",
-   "headline": "US, Japan and South Korea launch economic-security talks before Xi summit",
-   "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit?utm_source=rss_feed",
-   "headline_lang": "en",
-   "first_seen": "2026-09-21T20:22:31Z",
-   "last_seen": "2026-09-21T20:22:31Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b4b87120cc4e4347"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b4b87120cc4e4347",
-     "title": "US, Japan and South Korea launch economic-security talks before Xi summit",
-     "url": "https://www.scmp.com/news/us/diplomacy/article/3368306/us-japan-and-south-korea-launch-economic-security-talks-xi-summit?utm_source=rss_feed",
-     "published": "2026-09-21T20:22:31Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260921_54dcd2",
    "headline": "Korea, U.S., Japan Oppose Unilateral Change in Taiwan Strait",
    "headline_source": "Seoul Economic Daily",
@@ -6167,6 +6084,66 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260921_360b9a",
+   "headline": "South Korea, US, Japan Urge North Korea to Return to Dialogue... Stress Importance of Peace in Taiwan Strait",
+   "headline_source": "SBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MUnBoNEZkTnNfLUxFdHdqOUM0Q0FPb3djdl9iTTRtTmp0ZUJ0QTVIcFlrN2hfRHFjLWZhVncwWUtYMV9MWk0xbk9XWi0yZHRjRDRrcXgtUGlvOUZDTTR0MDFSQTBSeWRhTFlaTVpn?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-21T17:02:59Z",
+   "last_seen": "2026-09-21T17:02:59Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.9,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "SBS 원고를 SBS 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "54ba4d5de7270d1e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "54ba4d5de7270d1e",
+     "title": "South Korea, US, Japan Urge North Korea to Return to Dialogue... Stress Importance of Peace in Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1MUnBoNEZkTnNfLUxFdHdqOUM0Q0FPb3djdl9iTTRtTmp0ZUJ0QTVIcFlrN2hfRHFjLWZhVncwWUtYMV9MWk0xbk9XWi0yZHRjRDRrcXgtUGlvOUZDTTR0MDFSQTBSeWRhTFlaTVpn?oc=5",
+     "published": "2026-09-21T17:02:59Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "SBS",
+     "source_domain": "sbs.co.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -12316,6 +12293,65 @@
    ]
   },
   {
+   "id": "evt_20260918_c26a84",
+   "headline": "台海戰爭澳洲不缺席？前總理斷言「美國肯定輸」：澳洲將承受後果| 國際焦點| 全球",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90RzluNW9fOFZLLUdEWEhCbFV5NnpZMTVEdXg5RGNhdUZPQm5GRjBRa1JSNWh4TFRMVF9sbTgtSHZoUFR3cnhjdWtLUHpNNlMw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-18T06:08:43Z",
+   "last_seen": "2026-09-18T06:08:43Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "23e13f5e7a7542ce"
+    ]
+   },
+   "articles": [
+    {
+     "id": "23e13f5e7a7542ce",
+     "title": "台海戰爭澳洲不缺席？前總理斷言「美國肯定輸」：澳洲將承受後果| 國際焦點| 全球",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE90RzluNW9fOFZLLUdEWEhCbFV5NnpZMTVEdXg5RGNhdUZPQm5GRjBRa1JSNWh4TFRMVF9sbTgtSHZoUFR3cnhjdWtLUHpNNlMw?oc=5",
+     "published": "2026-09-18T06:08:43Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260918_75799f",
    "headline": "林佳龍拋「台美共管中國」惹議 沈有忠：共同維護台海和平穩定",
    "headline_source": "蕃新聞",
@@ -15832,7 +15868,7 @@
   {
    "id": "evt_20260916_4a3dcc",
    "headline": "China’s Defense Minister Urges Restraint as Taiwan Tensions Rise",
-   "headline_source": "mezha.net",
+   "headline_source": "Межа. Новини України.",
    "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qa212RVRGUmZsRkxBa2pac1RLUmQ3VzVpSXFuakdSbVZKbkdhbUwtRVVlbVBCVkRQWm1LWTZpZ3c2UmtKeDdrb1JVY2N2c2g1REtnUmtjM2VuaEFuajVxSi0xTWF4X1JDTGtqNFB3?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-16T06:13:31Z",
@@ -15876,7 +15912,7 @@
      "published": "2026-09-16T06:13:31Z",
      "lang": "en",
      "entities": [],
-     "source_name": "mezha.net",
+     "source_name": "Межа. Новини України.",
      "source_domain": "mezha.net",
      "tier": "T5",
      "tier_label": "미분류",
@@ -16974,7 +17010,7 @@
   {
    "id": "evt_20260915_234592",
    "headline": "U.S. Allies and the Taiwan Strait",
-   "headline_source": "Strauss Center",
+   "headline_source": "strausscenter.org",
    "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ncjYwSW1xcVd3NTZUQ2NoRUhzTzAxVVpwWEFqY0F5ZjlkVWJ3bkdfT0R5dUZvdjBuNTA2LU5MamoySHpWSmhYVEJNRVdFaXpoNGtkMjZPN08zSTdJYjh2Q1A0NGtJbGJjNGo5OGVpbWdiZzd1UU5LSWFR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-15T19:07:05Z",
@@ -17020,7 +17056,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "Strauss Center",
+     "source_name": "strausscenter.org",
      "source_domain": "strausscenter.org",
      "tier": "T5",
      "tier_label": "미분류",
@@ -27682,7 +27718,7 @@
   {
    "id": "evt_20260910_98368f",
    "headline": "台北談安全、共軍同日上午出動！16架軍機出海、11架越台海中線 北部、中部、東部三向齊進",
-   "headline_source": "fountmedia.io",
+   "headline_source": "放言Fount Media",
    "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE11UWxHNURWeXMza3Jqb1JVOWxFTEhRS2REVjRpc215UVJmZjFzS1dXcUs3SUg2UmJyZDQ1ZmRRRmFReHBSbms4bG5oSFN3MHJ0R0E?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-10T07:00:00Z",
@@ -27732,7 +27768,7 @@
       "taipei",
       "taiwan_strait"
      ],
-     "source_name": "fountmedia.io",
+     "source_name": "放言Fount Media",
      "source_domain": "fountmedia.io",
      "tier": "T5",
      "tier_label": "미분류",
