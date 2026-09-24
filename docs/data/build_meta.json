@@ -1,27 +1,28 @@
 {
- "updated": "2026-09-24T11:50:34Z",
+ "updated": "2026-09-24T17:14:44Z",
  "checked": "2026-09-24",
- "duration_sec": 35.9,
+ "duration_sec": 32.0,
  "rolling_days": 14,
- "n_events": 482,
- "n_articles": 536,
+ "n_events": 481,
+ "n_articles": 537,
  "grades": {
-  "D": 248,
-  "C": 201,
-  "B": 33
+  "C": 200,
+  "D": 249,
+  "A": 1,
+  "B": 31
  },
- "cross_language_events": 2,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-09"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 19,
-  "T2": 214,
-  "T3": 99,
-  "T4": 18,
-  "T5": 155,
+  "T1": 20,
+  "T2": 213,
+  "T3": 100,
+  "T4": 22,
+  "T5": 150,
   "TA": 3
  },
  "t1_domains": [
@@ -29,6 +30,7 @@
   "bloomberg.com",
   "kyodonews.net",
   "pts.org.tw",
+  "reuters.com",
   "rfi.fr",
   "yna.co.kr"
  ],
@@ -42,7 +44,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 32,
-   "newest": "2026-09-24T08:52:39+00:00",
+   "newest": "2026-09-24T12:46:33+00:00",
    "stale": false,
    "error": null
   },
@@ -53,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 35,
-   "n_adopted": 11,
-   "newest": "2026-09-24T09:23:39+00:00",
+   "n_entries": 39,
+   "n_adopted": 13,
+   "newest": "2026-09-24T12:00:04+00:00",
    "stale": false,
    "error": null
   },
@@ -80,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 82,
-   "newest": "2026-09-24T10:20:47+00:00",
+   "n_adopted": 80,
+   "newest": "2026-09-24T14:04:54+00:00",
    "stale": false,
    "error": null
   },
@@ -94,7 +96,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 6,
-   "newest": "2026-09-24T06:41:37+00:00",
+   "newest": "2026-09-24T16:48:23+00:00",
    "stale": false,
    "error": null
   },
@@ -106,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-09-24T11:20:00+00:00",
+   "n_adopted": 17,
+   "newest": "2026-09-24T17:03:36+00:00",
    "stale": false,
    "error": null
   },
@@ -118,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
-   "n_adopted": 4,
-   "newest": "2026-09-24T11:11:41+00:00",
+   "n_entries": 43,
+   "n_adopted": 3,
+   "newest": "2026-09-24T13:15:49+00:00",
    "stale": false,
    "error": null
   },
@@ -131,9 +133,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
+   "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-09-24T00:00:00+00:00",
+   "newest": "2026-09-25T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -146,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-24T11:18:20+00:00",
+   "newest": "2026-09-24T16:44:16+00:00",
    "stale": false,
    "error": null
   },
@@ -159,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-24T11:13:00+00:00",
+   "newest": "2026-09-24T12:46:00+00:00",
    "stale": false,
    "error": null
   },
@@ -185,7 +187,7 @@
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-09-17T23:57:53+00:00",
+   "newest": "2026-09-24T17:11:31+00:00",
    "stale": false,
    "error": null
   },
@@ -196,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 107,
+   "n_entries": 106,
    "n_adopted": 0,
-   "newest": "2026-09-24T11:36:22+00:00",
+   "newest": "2026-09-24T17:07:57+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-24T11:39:16+00:00",
+   "newest": "2026-09-24T17:08:50+00:00",
    "stale": false,
    "error": null
   },
@@ -233,19 +235,19 @@
    "name": "Global Taiwan Institute",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 10,
-   "n_adopted": 2,
+   "n_adopted": 1,
    "newest": "2026-09-16T12:54:02+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   }
  ],
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 17,
+   "n_articles": 16,
    "sample_title": "多國聲明支持台海和平 外交部歡迎國際持續關切 | 中央廣播電臺"
   },
   {
@@ -289,11 +291,6 @@
    "sample_title": "1101 台泥- 呼叫于北辰快抽乾台海或填滿台泥砂漿阻擋解放軍登島- 股市爆料同學會"
   },
   {
-   "domain": "ctee.com.tw",
-   "n_articles": 3,
-   "sample_title": "美日韓外長重申維持台海穩定- 日報"
-  },
-  {
    "domain": "news.nextapple.com",
    "n_articles": 3,
    "sample_title": "美國日本韓國聯合重申台海和平穩定重要性 總統府：民主夥伴合作維持秩序"
@@ -314,6 +311,11 @@
    "sample_title": "搶先川習會！日本首相高市早苗訪美 擬22日會晤川普協調對中與台海局勢"
   },
   {
+   "domain": "indiatoday.in",
+   "n_articles": 2,
+   "sample_title": "Trump-Xi White House talks extend trade truce as AI, Taiwan tensions loom"
+  },
+  {
    "domain": "dotdotnews.com",
    "n_articles": 2,
    "sample_title": "國防部：統一將根除「台獨」禍根亂源消弭台海戰火隱患- 兩岸"
@@ -329,6 +331,11 @@
    "sample_title": "搶在川習會之前 日本先關切台海區域安全"
   },
   {
+   "domain": "ctee.com.tw",
+   "n_articles": 2,
+   "sample_title": "美日韓外長重申維持台海穩定- 日報"
+  },
+  {
    "domain": "cdns.com.tw",
    "n_articles": 2,
    "sample_title": "美日韓重申台海和平穩定"
@@ -337,11 +344,6 @@
    "domain": "militarywatchmagazine.com",
    "n_articles": 2,
    "sample_title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles Du"
-  },
-  {
-   "domain": "ftnn.com.tw",
-   "n_articles": 2,
-   "sample_title": "川習二會前夕！美日韓外長聯合聲明重申「台海和平穩定」 總統府回應了"
   }
  ]
 }
