@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-24T17:14:44Z",
+ "updated": "2026-09-24T21:33:26Z",
  "checked": "2026-09-24",
- "duration_sec": 32.0,
+ "duration_sec": 32.7,
  "rolling_days": 14,
- "n_events": 481,
- "n_articles": 537,
+ "n_events": 483,
+ "n_articles": 540,
  "grades": {
-  "C": 200,
+  "C": 202,
   "D": 249,
   "A": 1,
   "B": 31
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 213,
+  "T2": 215,
   "T3": 100,
-  "T4": 22,
-  "T5": 150,
+  "T4": 21,
+  "T5": 152,
   "TA": 3
  },
  "t1_domains": [
@@ -43,7 +43,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 32,
+   "n_adopted": 33,
    "newest": "2026-09-24T12:46:33+00:00",
    "stale": false,
    "error": null
@@ -56,7 +56,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 39,
-   "n_adopted": 13,
+   "n_adopted": 12,
    "newest": "2026-09-24T12:00:04+00:00",
    "stale": false,
    "error": null
@@ -81,9 +81,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 99,
    "n_adopted": 80,
-   "newest": "2026-09-24T14:04:54+00:00",
+   "newest": "2026-09-24T19:08:46+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-09-24T16:48:23+00:00",
+   "n_adopted": 5,
+   "newest": "2026-09-24T16:55:00+00:00",
    "stale": false,
    "error": null
   },
@@ -109,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 17,
-   "newest": "2026-09-24T17:03:36+00:00",
+   "newest": "2026-09-24T17:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-24T16:44:16+00:00",
+   "newest": "2026-09-24T21:30:12+00:00",
    "stale": false,
    "error": null
   },
@@ -187,7 +187,7 @@
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-09-24T17:11:31+00:00",
+   "newest": "2026-09-24T21:20:49+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 106,
+   "n_entries": 108,
    "n_adopted": 0,
-   "newest": "2026-09-24T17:07:57+00:00",
+   "newest": "2026-09-24T21:01:25+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +211,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-09-24T08:26:19+00:00",
+   "newest": "2026-09-24T19:02:36+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-24T17:08:50+00:00",
+   "newest": "2026-09-24T21:15:56+00:00",
    "stale": false,
    "error": null
   },
@@ -276,6 +276,16 @@
    "sample_title": "一年內第3度！紐西蘭軍艦9/18過航台海 解放軍：全程跟監警戒"
   },
   {
+   "domain": "cmoney.tw",
+   "n_articles": 4,
+   "sample_title": "中美白宮會談提台海習近平畫紅線：慎重處理台灣問題、堅持反台獨- 股市爆料同學會"
+  },
+  {
+   "domain": "news.nextapple.com",
+   "n_articles": 4,
+   "sample_title": "川習二會｜習近平白宮會川普談台海、中東 促美方「反對台獨」並盼美伊重返談判"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 4,
    "sample_title": "川習會牽動台海局勢 梁文傑：挺台力量仍然強大"
@@ -284,16 +294,6 @@
    "domain": "orientaldaily.on.cc",
    "n_articles": 4,
    "sample_title": "新西蘭最大補給艦 年內3度穿越台海"
-  },
-  {
-   "domain": "cmoney.tw",
-   "n_articles": 3,
-   "sample_title": "1101 台泥- 呼叫于北辰快抽乾台海或填滿台泥砂漿阻擋解放軍登島- 股市爆料同學會"
-  },
-  {
-   "domain": "news.nextapple.com",
-   "n_articles": 3,
-   "sample_title": "美國日本韓國聯合重申台海和平穩定重要性 總統府：民主夥伴合作維持秩序"
   },
   {
    "domain": "upmedia.mg",
