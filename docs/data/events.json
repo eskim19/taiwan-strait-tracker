@@ -1,6 +1,578 @@
 {
- "updated": "2026-09-25T11:54:51Z",
+ "updated": "2026-09-25T17:15:26Z",
  "events": [
+  {
+   "id": "evt_20260922_1fd58c",
+   "headline": "Taiwan is watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
+   "headline_source": "AP",
+   "headline_url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTRwS21NLW91VjNPdmFDcEcyZU9ySVJieTBkVGRXZ1p0OFhqd0ZobkZwTW01bW82MGw2OTZfcDQxdG1vUENsRmFKNjNjbTl6a1FPejhWZHZTSWJGVkdUSjBTN0d1NHFYVWNoZy13ZE1TM19qb29qWFFCOUNoQm5KNXlrYWpQY3Z2UzdDVlBVSUpNYjQybFdoTGxPeGo?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-22T16:33:33Z",
+   "last_seen": "2026-09-25T15:41:28Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "A",
+    "d_reason": null,
+    "grade_label": "검증됨",
+    "n_originals": 5,
+    "n_unrated": 0,
+    "score": 96.9,
+    "n_independent": 5,
+    "n_articles": 7,
+    "n_domains": 7,
+    "blocs": [
+     "independent",
+     "prc_state",
+     "tw_state",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 5곳",
+     "최고 등급 통신사·공영",
+     "2개 언어권에서 확인",
+     "중국·대만 양측 모두 보도",
+     "정부·군 공식 발표 인용",
+     "Reuters 원고를 中央社 CNA 가 전재 — 1곳으로 계산",
+     "新頭殼 원고를 聚財網 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "23eb21e5a4847985"
+    ],
+    "tw_west": [
+     "26c412ef55040fd4",
+     "780a91bc2c881906",
+     "6b515480b8ba9099",
+     "74e13e9fb0089146",
+     "6f15aa46e80b831b",
+     "69f64f8910e31640"
+    ]
+   },
+   "articles": [
+    {
+     "id": "26c412ef55040fd4",
+     "title": "【禁聞】中東換台海？ 傳習將要求川普停止對台軍售",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OVXMwRmVqSlUtM2Z6VkJHWW90NkdYY09TRGd4aHZsX1pWUGJSZ01qbGpSX0JGU0ZLN2Qxa1lCa09RVnR1QlVlZWdjU2xuNWY0NnltOXNXcExTa0hSQ1JxV9IBZkFVX3lxTE1EM3BHT2lhRGNGbGwzRGt4dk9ibnd5ZmZKLVJQTmRTLU5vLTVPTC1ORVd0anA1ek1pNThjRDJ4WEc2RVZyekFseXFidVZwUjlLZmhFekVrVXFLektVZnlRS1ZVaV9sQQ?oc=5",
+     "published": "2026-09-22T16:33:33Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    },
+    {
+     "id": "780a91bc2c881906",
+     "title": "Taiwan is watching closely as Xi and Trump meet and hopes US will keep up its arms sales",
+     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTRwS21NLW91VjNPdmFDcEcyZU9ySVJieTBkVGRXZ1p0OFhqd0ZobkZwTW01bW82MGw2OTZfcDQxdG1vUENsRmFKNjNjbTl6a1FPejhWZHZTSWJGVkdUSjBTN0d1NHFYVWNoZy13ZE1TM19qb29qWFFCOUNoQm5KNXlrYWpQY3Z2UzdDVlBVSUpNYjQybFdoTGxPeGo?oc=5",
+     "published": "2026-09-23T07:03:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "trump"
+     ],
+     "source_name": "AP",
+     "source_domain": "apnews.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "23eb21e5a4847985",
+     "title": "Mainland reiterates opposition to arms sales to Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LbEhBajU0elBrM1RMNmpjdVQtZUN4NG95bHU5YUZPdWROM0JkLV9LSWhiV2R3QWdQNW0ydndPamFmNUNwdlNQMmRObC1adlhjblhQQ3JpYUtpSnUyWFVKQk5UM25MNnNsal9ZN2t3WV96b2lzZnE1OVNZc19yQQ?oc=5",
+     "published": "2026-09-23T14:16:15Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "China Daily",
+     "source_domain": "chinadaily.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 영문지",
+     "hedged": false
+    },
+    {
+     "id": "6b515480b8ba9099",
+     "title": "Chinese defence ministry urges 'extreme caution' over arms sales to Taiwan ahead of Trump-Xi summit",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUJ6eGxzbTYzQkJTMXFqWnhZYU1BakkxZDBONmZEVnV4bkJPMU0tb2w0MEluVF8wSWptWmR0dUNpX1pHbW5YLXRHSnRONnZEYkpRSWNhb1ZRUzlFTDYzdlFnWE5uVy1meDhudTZJUXQ4bVpPckFvRVlveGZuSnpyUVpBa0Faazh6Qm4zSnRXbi1vbDNJS1JsT291enRieEk?oc=5",
+     "published": "2026-09-24T04:40:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "trump"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "74e13e9fb0089146",
+     "title": "Retired U.S. admiral urges Taiwan arms sales after Trump-Xi summit",
+     "url": "https://focustaiwan.tw/politics/202609250005",
+     "published": "2026-09-25T05:41:18Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "trump"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "6f15aa46e80b831b",
+     "title": "美前眾議員指AI產業受台海關係牽動 籲加速對台軍售",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1VR00xVTVObjhyTDQ2cjBPZWZQaDFUaDBoRWQtMlcxVTJfUGZZdWdxMkktTS02MDFvRDRvWm04RUw2dnBaT0FfWm1jYzc?oc=5",
+     "published": "2026-09-25T14:16:16Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聚財網",
+     "source_domain": "news.wearn.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "69f64f8910e31640",
+     "title": "美前眾議員指AI產業受台海關係牽動籲加速對台軍售| 國際",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TcktPMndMdVhncnczbXJ1X0d3VTFmWl9JQm9xbXFrZE8wM0d6NElfb01rNmJEOVAxTmJSRnp3R2dhb2pIQ2Z2OWdYQmdTS3U4LTVjVXNHTXNOZHc?oc=5",
+     "published": "2026-09-25T15:41:28Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260925_6916b3",
+   "headline": "川習會再掀台海緊張！台灣民間「自救演練」悄悄常態化",
+   "headline_source": "TVBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DYTItODNSbWJ4Ni1QZFJWVnFmZFF3VUNUVXh1a015NS1GQVhiRjhzc29rcXVJdDRoTC1YYTdEUWJSaUpGRDJoVUhqRldIOWc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T14:00:00Z",
+   "last_seen": "2026-09-25T14:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a24b5c880762b6e6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a24b5c880762b6e6",
+     "title": "川習會再掀台海緊張！台灣民間「自救演練」悄悄常態化",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9DYTItODNSbWJ4Ni1QZFJWVnFmZFF3VUNUVXh1a015NS1GQVhiRjhzc29rcXVJdDRoTC1YYTdEUWJSaUpGRDJoVUhqRldIOWc?oc=5",
+     "published": "2026-09-25T14:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "rehearsal",
+      "taiwan_strait"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260924_603fe7",
+   "headline": "Trump, Xi extend trade truce and vow AI talks amid Taiwan tensions - CHOSUNBIZ",
+   "headline_source": "조선일보",
+   "headline_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0pRcC1fYy1JX1hFeGV6TW03enk0QWZwODZCZWhrVmJNRmtKbzhTVGx1Vm15RHp6LVZPNW00aUI1X05BWVVzcmhucDhiNmFFVWdac0gxam45NHBtYXJDZ0d0S0Zadk1kcnIxMWxqdmdNWDU5OXpvLXhjcXdjbHpxMGFhYVEtTFRG0gGcAUFVX3lxTE1HYW5Ea1VNejB3M3NsQXVRQzNwMnF4cTg5dXVIeTZIdDdYanhVMlN1NmJnczZKOURvWkZLU2xZclVrcnQxd0pCZVVEMjhucWZoUHBJUG1fQXdJVFllbEc5WDNyRVk3R3Y4cGR2S19MMExRQ21ac0ptck1JOVR0aE5uUWE3Smx5QjN2cUNGQTNmTlREMWdJeHJtb0tlbA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-24T12:46:33Z",
+   "last_seen": "2026-09-25T13:37:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 31.8,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "조선일보 원고를 India Today 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5342235d05b4e683",
+     "aba190377c89dc29"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5342235d05b4e683",
+     "title": "Trump-Xi White House talks extend trade truce as AI, Taiwan tensions loom",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb05vSU5sMnR2enFqWmFlcndJZnc5bExzMzFiMWhQdUgxdHJfMEg0b2JPUHRMNzd0SjdkNkxQV3dxbVpnaUN2VEJ1bEdZNEVic2gzOThsWmVJU05EbGw1YzJXeWs3eGVSMUx3ZVRXbnlUQVB5TVNnNnBrRWlSdUhpTm84VjllaDBza2dtR1hIZmRRcmxPU2Y5TWM0TnNrVkZvWC1mc1N2d2hZVlI4cHgxcm5xcWVYd211R3k3V1JzR2xIZ9IBxwFBVV95cUxOMDNlcmo2OXo0YVExSUhGbE5oZlZRVElUbjZPdTRzazZyZ3JWZldwX3pYbG5mLWlZcTZ3NF9aTVBRZFlxVWJmOURTNENGN3BiazR4S1cydWNYVzBJNnVqVjZyN19xZWd1ZDJDMEliZ2dWbTZsdWoydXFVYXpZdWFOblY2bG9rVFZGQW5xbVp3YTgwYms0VWhSbk85M0JmVHByS1hOOUNMb0NDQkxUMlJvVXhXaldMdzV4aDFrZnlDRVZzSkY0Nk5R?oc=5",
+     "published": "2026-09-24T12:46:33Z",
+     "lang": "en",
+     "entities": [
+      "trump"
+     ],
+     "source_name": "India Today",
+     "source_domain": "indiatoday.in",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "aba190377c89dc29",
+     "title": "Trump, Xi extend trade truce and vow AI talks amid Taiwan tensions - CHOSUNBIZ",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY0pRcC1fYy1JX1hFeGV6TW03enk0QWZwODZCZWhrVmJNRmtKbzhTVGx1Vm15RHp6LVZPNW00aUI1X05BWVVzcmhucDhiNmFFVWdac0gxam45NHBtYXJDZ0d0S0Zadk1kcnIxMWxqdmdNWDU5OXpvLXhjcXdjbHpxMGFhYVEtTFRG0gGcAUFVX3lxTE1HYW5Ea1VNejB3M3NsQXVRQzNwMnF4cTg5dXVIeTZIdDdYanhVMlN1NmJnczZKOURvWkZLU2xZclVrcnQxd0pCZVVEMjhucWZoUHBJUG1fQXdJVFllbEc5WDNyRVk3R3Y4cGR2S19MMExRQ21ac0ptck1JOVR0aE5uUWE3Smx5QjN2cUNGQTNmTlREMWdJeHJtb0tlbA?oc=5",
+     "published": "2026-09-25T13:37:00Z",
+     "lang": "en",
+     "entities": [
+      "trump"
+     ],
+     "source_name": "조선일보",
+     "source_domain": "chosun.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260925_7053d2",
+   "headline": "記者編輯部| 【湯紹成專欄】習近平訪美與台海議題雙邊繼續「留白」",
+   "headline_source": "梅花新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xQmR4QlZzcld0NDNBRFE1aFdwYUxIdnh4UU9mcEd3M2Jlb3RsUkdEY0lXRDJUZkZIaDNPOUFXc0JxVmFlUHRLUVpiVXhQV2pQYUo2OFhOM2Q?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T13:35:00Z",
+   "last_seen": "2026-09-25T13:35:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "13a8192e0e5a1b98"
+    ]
+   },
+   "articles": [
+    {
+     "id": "13a8192e0e5a1b98",
+     "title": "記者編輯部| 【湯紹成專欄】習近平訪美與台海議題雙邊繼續「留白」",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9xQmR4QlZzcld0NDNBRFE1aFdwYUxIdnh4UU9mcEd3M2Jlb3RsUkdEY0lXRDJUZkZIaDNPOUFXc0JxVmFlUHRLUVpiVXhQV2pQYUo2OFhOM2Q?oc=5",
+     "published": "2026-09-25T13:35:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "梅花新聞網",
+     "source_domain": "i-meihua.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260925_7712af",
+   "headline": "捷克總統聯大談台海籲中國促俄羅斯停止侵略- 國際",
+   "headline_source": "華視",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWaUliazBYemc5bV9aNzFqVDFBQ0JabDRhWlVKMkVYMjlaV21paGtUdDJKZDIxeUdZRWN0cFVZRFhXX0F2ckF0aEpxa1VjSTd3bFkxSGtWMlA0VExCM2pKb1BKQ1VRRi1FRWtKLTZzMUp1X2t0LWo0TA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T13:30:00Z",
+   "last_seen": "2026-09-25T13:30:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d5107ba6193485d8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d5107ba6193485d8",
+     "title": "捷克總統聯大談台海籲中國促俄羅斯停止侵略- 國際",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBWaUliazBYemc5bV9aNzFqVDFBQ0JabDRhWlVKMkVYMjlaV21paGtUdDJKZDIxeUdZRWN0cFVZRFhXX0F2ckF0aEpxa1VjSTd3bFkxSGtWMlA0VExCM2pKb1BKQ1VRRi1FRWtKLTZzMUp1X2t0LWo0TA?oc=5",
+     "published": "2026-09-25T13:30:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "華視",
+     "source_domain": "cts.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260925_ff9123",
+   "headline": "Video | Trump-Xi Summit: Taiwan Tensions, Trade & A Lavish White House Dinner",
+   "headline_source": "NDTV",
+   "headline_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnZfNFBFeFVHVGpQY2lYVnNQQ0sxbWk2d0xvaW0yTE44R2hOak9CUzlCbXhJLWlWOEotaVp4WUlWRGQzS0VhdGlmOEp2aE5CcmluU1pHS1AwbHZfNnVLdmdmQ0t6ZWI2aFBUamoydmZVc1BrdDYwQTVGTkRCaWlWUTFGeWdYMjVDZmNTTEIwRXpsUzF0azVid2x4RHotMV9tMUE?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-25T13:15:00Z",
+   "last_seen": "2026-09-25T13:15:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "accf51b88f30e8c9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "accf51b88f30e8c9",
+     "title": "Video | Trump-Xi Summit: Taiwan Tensions, Trade & A Lavish White House Dinner",
+     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYnZfNFBFeFVHVGpQY2lYVnNQQ0sxbWk2d0xvaW0yTE44R2hOak9CUzlCbXhJLWlWOEotaVp4WUlWRGQzS0VhdGlmOEp2aE5CcmluU1pHS1AwbHZfNnVLdmdmQ0t6ZWI2aFBUamoydmZVc1BrdDYwQTVGTkRCaWlWUTFGeWdYMjVDZmNTTEIwRXpsUzF0azVid2x4RHotMV9tMUE?oc=5",
+     "published": "2026-09-25T13:15:00Z",
+     "lang": "en",
+     "entities": [
+      "trump"
+     ],
+     "source_name": "NDTV",
+     "source_domain": "ndtv.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260925_52022b",
+   "headline": "自由開講》從南島先民雙體船到現代沱江艦 構築台海的「海上拒止」與不對稱作戰",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aVTdNZnRveGpKOGhWQkZSbFNNQzVHWjVBaFg2djRhNlRvVTF3dGhGelFtZF9sbGdDeHhTeFgySFhIYUFRVWxka29Oa25Fci05cWxVMUxRcHkyajFmWTFjSnR30gFnQVVfeXFMTW53QXJTV2t3X0FUUkM3MW43Z09hZW9MNTlDZ0JxMzY1UFlYRldpQW9wNWY1eGgxS3Jvel9iRjIyYVFQZENqTmRnR0lVVG1fM2NvSFdkaWE0TFJlYUFCeDFfbEtmZmwwOA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T12:00:00Z",
+   "last_seen": "2026-09-25T12:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "54c791a072f001c2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "54c791a072f001c2",
+     "title": "自由開講》從南島先民雙體船到現代沱江艦 構築台海的「海上拒止」與不對稱作戰",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5aVTdNZnRveGpKOGhWQkZSbFNNQzVHWjVBaFg2djRhNlRvVTF3dGhGelFtZF9sbGdDeHhTeFgySFhIYUFRVWxka29Oa25Fci05cWxVMUxRcHkyajFmWTFjSnR30gFnQVVfeXFMTW53QXJTV2t3X0FUUkM3MW43Z09hZW9MNTlDZ0JxMzY1UFlYRldpQW9wNWY1eGgxS3Jvel9iRjIyYVFQZENqTmRnR0lVVG1fM2NvSFdkaWE0TFJlYUFCeDFfbEtmZmwwOA?oc=5",
+     "published": "2026-09-25T12:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20260925_b6c64c",
    "headline": "Mid-Autumn symphony concert in Beijing celebrates shared cultural roots across Taiwan Strait",
@@ -426,6 +998,67 @@
    ]
   },
   {
+   "id": "evt_20260925_8892e1",
+   "headline": "美中核心利益對撞 剖析川習會台海攻防2／二戰盟友是「中華民國」 習近平扯中美並肩偷換概念？",
+   "headline_source": "mnews.tw",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rT1NoZFlWV3ZwZWxOVVNPVzZOTEl1d3p1NUNqSjJJVWZaeEN0OVNpU1NNWjBzZElxVzE0cE4xUW9DMTQ5elJDejgwbVZVTFRhTXgzblBLbXrSAV5BVV95cUxQdWZUQ1RSeHRGTWdWbHBzakEwMzZaZTR6ZE1zZ2hqQkFla21UdkhxbHFsVTlCR3ktT2ZyWGFKNzRhaV9tUktSRl9PdURaWjQzY08yQlJRTU1KRDdVQVJn?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T10:15:00Z",
+   "last_seen": "2026-09-25T10:15:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3ee2d5f43b1d4577"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3ee2d5f43b1d4577",
+     "title": "美中核心利益對撞 剖析川習會台海攻防2／二戰盟友是「中華民國」 習近平扯中美並肩偷換概念？",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rT1NoZFlWV3ZwZWxOVVNPVzZOTEl1d3p1NUNqSjJJVWZaeEN0OVNpU1NNWjBzZElxVzE0cE4xUW9DMTQ5elJDejgwbVZVTFRhTXgzblBLbXrSAV5BVV95cUxQdWZUQ1RSeHRGTWdWbHBzakEwMzZaZTR6ZE1zZ2hqQkFla21UdkhxbHFsVTlCR3ktT2ZyWGFKNzRhaV9tUktSRl9PdURaWjQzY08yQlJRTU1KRDdVQVJn?oc=5",
+     "published": "2026-09-25T10:15:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "mnews.tw",
+     "source_domain": "mnews.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260925_de926b",
    "headline": "Trump hosts Xi at state dinner amid Taiwan tensions, Iran nuclear threat",
    "headline_source": "Fox News",
@@ -486,9 +1119,70 @@
    ]
   },
   {
+   "id": "evt_20260925_acb370",
+   "headline": "美中核心利益對撞 剖析川習會台海攻防1／川習會北京掌握優勢？ 戰略專家：確立美中兩強鼎立局面",
+   "headline_source": "mnews.tw",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TGVTT3hhMHV3NWF6dEo1ZmRUcmhrcV8xMHp5X0lUMm5LdDBiNlNqSGhlTDdCWXJ6YkxYSmpnRFZ5M1cyWXVMOHhhSnd0a2IxU1RWaXIyTmnSAV5BVV95cUxOV29wTTZoOEhqNE9QQWNFalBlTXprQmdLYXJzblNNR0VqSmE2SHZQTzBENkVlMlNVWjRXWi13dnZUZ1FFc1dYaUZQeWpZVm1xTXQ1elg2UVFDQXhiNHpn?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T10:10:00Z",
+   "last_seen": "2026-09-25T10:10:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "14e0a8ed1daebb9e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "14e0a8ed1daebb9e",
+     "title": "美中核心利益對撞 剖析川習會台海攻防1／川習會北京掌握優勢？ 戰略專家：確立美中兩強鼎立局面",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE81TGVTT3hhMHV3NWF6dEo1ZmRUcmhrcV8xMHp5X0lUMm5LdDBiNlNqSGhlTDdCWXJ6YkxYSmpnRFZ5M1cyWXVMOHhhSnd0a2IxU1RWaXIyTmnSAV5BVV95cUxOV29wTTZoOEhqNE9QQWNFalBlTXprQmdLYXJzblNNR0VqSmE2SHZQTzBENkVlMlNVWjRXWi13dnZUZ1FFc1dYaUZQeWpZVm1xTXQ1elg2UVFDQXhiNHpn?oc=5",
+     "published": "2026-09-25T10:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "beijing",
+      "taiwan_strait"
+     ],
+     "source_name": "mnews.tw",
+     "source_domain": "mnews.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260925_3ce535",
    "headline": "美中核心利益對撞 剖析川習會台海攻防4／川習會「神秘少女」坐第一排 竟是川普15歲外孫女",
-   "headline_source": "鏡新聞",
+   "headline_source": "mnews.tw",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9Wd1VBVlg2U0xhT3VfUEhZSVhvRWUxbUpWa24zNGV1X2hDSlRpVk9xbEFMYjNLQXU1Z2k3WEU0SDJDdDhmSHhvSDJ4b1M1bXBsRXBYbjNFbTHSAV5BVV95cUxNeEVUTzNONFFNLWE3d1prQTNsSlBOQzB0NWRXVEFnV0kwd09vTmFPSElDT0ZqTURVSTBNbjNfVjJGdjlOTHBmOHdzeE9FcFEzSkhmc3J4RmhSc3psRjBR?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-25T09:30:00Z",
@@ -535,7 +1229,7 @@
       "taiwan_strait",
       "trump"
      ],
-     "source_name": "鏡新聞",
+     "source_name": "mnews.tw",
      "source_domain": "mnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -723,6 +1417,68 @@
    ]
   },
   {
+   "id": "evt_20260925_041f8a",
+   "headline": "美中核心利益對撞 剖析川習會台海攻防5／川普帶習近平逛白宮廊道 拿自動筆酸拜登引爆笑聲",
+   "headline_source": "mnews.tw",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZRVlrY0gyY2pNMEhFZ3g5eDNXVHhrX0pwWUVBQ2pMQWVCQ1RwZzBvcTZ2T0ZoUE9NVXhxZGM0cW1pM1FweE9zaWpFUWl1RlhTbFZhbDBGaVHSAV5BVV95cUxPVjhFQW9ndmtZSlFkdmRuX0d4V1laOUdtXzA3NENRejdYLU1ENG1Nd3V2U0gwMlZKUzVFa3oyUlhncEpib0Z3SXdrMnBVZjF1V09BUjRkaDFoWWc4ejNR?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T08:30:00Z",
+   "last_seen": "2026-09-25T08:30:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b3810678de63e99a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b3810678de63e99a",
+     "title": "美中核心利益對撞 剖析川習會台海攻防5／川普帶習近平逛白宮廊道 拿自動筆酸拜登引爆笑聲",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZRVlrY0gyY2pNMEhFZ3g5eDNXVHhrX0pwWUVBQ2pMQWVCQ1RwZzBvcTZ2T0ZoUE9NVXhxZGM0cW1pM1FweE9zaWpFUWl1RlhTbFZhbDBGaVHSAV5BVV95cUxPVjhFQW9ndmtZSlFkdmRuX0d4V1laOUdtXzA3NENRejdYLU1ENG1Nd3V2U0gwMlZKUzVFa3oyUlhncEpib0Z3SXdrMnBVZjF1V09BUjRkaDFoWWc4ejNR?oc=5",
+     "published": "2026-09-25T08:30:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "xi_jinping"
+     ],
+     "source_name": "mnews.tw",
+     "source_domain": "mnews.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260925_9cce03",
    "headline": "習近平訪美｜習特會後中美競爭可以有邊界 台海呢？",
    "headline_source": "香港01",
@@ -786,7 +1542,7 @@
    "id": "evt_20260925_a6321c",
    "headline": "Taiwan thanks Czech president for support of UN principles in Taiwan Strait",
    "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MRUJSQ0hWZWI4YXJsUi1HUG1CN3NXLUQwVTh6SjVxbEZxQ0ViNWdDWTNwMGVHRnduNllORVlTdHZPQzBaU2Y2U05oYmRZeFkwaDV1Rm9aYjM?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6SV84bUJ6TTVjVDgzbHhYakNpSVRYbnlrWW9yNkFhZVZ0OUNFRlNoZXE3UHVFNTY4TjduOXpmVXdsS2xmVWNnX2RLRU1RZ0o0dUxoaQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-25T05:59:00Z",
    "last_seen": "2026-09-25T05:59:00Z",
@@ -824,7 +1580,7 @@
     {
      "id": "4393588c11d91b8c",
      "title": "Taiwan thanks Czech president for support of UN principles in Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9MRUJSQ0hWZWI4YXJsUi1HUG1CN3NXLUQwVTh6SjVxbEZxQ0ViNWdDWTNwMGVHRnduNllORVlTdHZPQzBaU2Y2U05oYmRZeFkwaDV1Rm9aYjM?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFB6SV84bUJ6TTVjVDgzbHhYakNpSVRYbnlrWW9yNkFhZVZ0OUNFRlNoZXE3UHVFNTY4TjduOXpmVXdsS2xmVWNnX2RLRU1RZ0o0dUxoaQ?oc=5",
      "published": "2026-09-25T05:59:00Z",
      "lang": "en",
      "entities": [
@@ -901,9 +1657,89 @@
    ]
   },
   {
+   "id": "evt_20260925_0a7d48",
+   "headline": "聯大期間多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益",
+   "headline_source": "ETtoday新聞雲",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuU0RDbjBqN1Jvc0dpUUJ6U1I5UXVyaGhRRUdkSUp6dzJKdHVJQWJtQVVSOXAteXo2TVp4RDNRY3dsR3docXZOdEtkRFNhNWxWTWVHT3IyMWdEOHFoUGfSAUtBVV95cUxNUWFPVmlkbVZUSDdiN3dWam13VGJ0TjVZMXRXN211Y0tCclVxTW11cTJoWGxpZzNHc3hNaTkyQ2hQZElFTS03RDg5d0E?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T02:28:00Z",
+   "last_seen": "2026-09-25T05:48:02Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.5,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "ETtoday新聞雲 원고를 LINE TODAY 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1f51f1c4618e0a17",
+     "19ef2cf131ee412f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1f51f1c4618e0a17",
+     "title": "聯大期間多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBuU0RDbjBqN1Jvc0dpUUJ6U1I5UXVyaGhRRUdkSUp6dzJKdHVJQWJtQVVSOXAteXo2TVp4RDNRY3dsR3docXZOdEtkRFNhNWxWTWVHT3IyMWdEOHFoUGfSAUtBVV95cUxNUWFPVmlkbVZUSDdiN3dWam13VGJ0TjVZMXRXN211Y0tCclVxTW11cTJoWGxpZzNHc3hNaTkyQ2hQZElFTS03RDg5d0E?oc=5",
+     "published": "2026-09-25T02:28:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "ETtoday新聞雲",
+     "source_domain": "ettoday.net",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "19ef2cf131ee412f",
+     "title": "聯合國大會多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益 | 太報",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIbFRqaU5fX2N1aTVXSVF0TW1zY21GQm9aSWEwdzZxZE81YmFwSzdWWlRhc0I4cVV4MFVCU3BDUm1ZNHluZkFoLWQ0SE5oMWRHMDRoZ3hR?oc=5",
+     "published": "2026-09-25T05:48:02Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "LINE TODAY",
+     "source_domain": "today.line.me",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260925_4d5694",
    "headline": "川普、習近平2度會面 鄭麗文籲賴清德提降低台海風險方案、打開兩岸對話大門",
-   "headline_source": "知新聞",
+   "headline_source": "knews.com.tw",
    "headline_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LcEEwaFRoSklnYXpQUkRqcjdmLVdzdlBnbGRQRmxUX0RWYk01VFVDa2g5Z1doYjZrT3dsUzMxVmZMUkMyOFBJa2l2T1VHMy1FQlNZVGthMHAyYi11TDlYQzhfMWRlaXR2elhzV0lGNA?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-25T05:43:00Z",
@@ -952,221 +1788,13 @@
       "trump",
       "xi_jinping"
      ],
-     "source_name": "知新聞",
+     "source_name": "knews.com.tw",
      "source_domain": "knews.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_b1f3ac",
-   "headline": "Chinese defence ministry urges 'extreme caution' over arms sales to Taiwan ahead of Trump-Xi summit",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUJ6eGxzbTYzQkJTMXFqWnhZYU1BakkxZDBONmZEVnV4bkJPMU0tb2w0MEluVF8wSWptWmR0dUNpX1pHbW5YLXRHSnRONnZEYkpRSWNhb1ZRUzlFTDYzdlFnWE5uVy1meDhudTZJUXQ4bVpPckFvRVlveGZuSnpyUVpBa0Faazh6Qm4zSnRXbi1vbDNJS1JsT291enRieEk?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-22T06:27:00Z",
-   "last_seen": "2026-09-25T05:41:18Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "A",
-    "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 6,
-    "n_unrated": 0,
-    "score": 92.8,
-    "n_independent": 5,
-    "n_articles": 8,
-    "n_domains": 6,
-    "blocs": [
-     "independent",
-     "prc_state",
-     "tw_state"
-    ],
-    "top_tier": "T1",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 5곳",
-     "최고 등급 통신사·공영",
-     "2개 언어권에서 확인",
-     "중국·대만 양측 모두 보도",
-     "정부·군 공식 발표 인용",
-     "Japan Times 원고를 Taiwan News 가 전재 — 1곳으로 계산",
-     "Reuters 원고를 中央社 CNA 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "23eb21e5a4847985"
-    ],
-    "tw_west": [
-     "3e9eaabc31f19e4a",
-     "26c412ef55040fd4",
-     "bd1665054900c344",
-     "0c57d4ef36e09823",
-     "072f9483c6740fa9",
-     "6b515480b8ba9099",
-     "74e13e9fb0089146"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3e9eaabc31f19e4a",
-     "title": "China’s Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXNudEhjYkFjNlJlZl9xZ0JtNExmVzhzWUYtMDZZQjhTU3hCbi1MbndSVVJYNWNBaHJtQjRueGJzRjB4Zl9zLUFzZ2ItVlR5SV9mdTVVd3g1eFRqcGIyRmtkUlE1UHJwQ0xxYjNVU3Fhc3cySHFFQnA2dlYyM3NuWDlUQWxGNUlPaUNnV3ZteDhhOXJjczREYmwxRTdpZE1HUDlCWGlwVUc?oc=5",
-     "published": "2026-09-22T06:27:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "trump"
-     ],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "26c412ef55040fd4",
-     "title": "【禁聞】中東換台海？ 傳習將要求川普停止對台軍售",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OVXMwRmVqSlUtM2Z6VkJHWW90NkdYY09TRGd4aHZsX1pWUGJSZ01qbGpSX0JGU0ZLN2Qxa1lCa09RVnR1QlVlZWdjU2xuNWY0NnltOXNXcExTa0hSQ1JxV9IBZkFVX3lxTE1EM3BHT2lhRGNGbGwzRGt4dk9ibnd5ZmZKLVJQTmRTLU5vLTVPTC1ORVd0anA1ek1pNThjRDJ4WEc2RVZyekFseXFidVZwUjlLZmhFekVrVXFLektVZnlRS1ZVaV9sQQ?oc=5",
-     "published": "2026-09-22T16:33:33Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "新唐人 NTD",
-     "source_domain": "ntdtv.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
-     "hedged": false
-    },
-    {
-     "id": "bd1665054900c344",
-     "title": "Xi expected to press Trump to curb Taiwan arms sales",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8teWVydDdGYWZYNzNZVm1PUnNiQktSeEdiQUVBbjB5YXFCcy1aVTh1WThxYWRmR29OcGlibFMyWVRZdUNRUmNjZEFxRV9MVG9na2xfZQ?oc=5",
-     "published": "2026-09-23T04:38:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "trump"
-     ],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "0c57d4ef36e09823",
-     "title": "Taiwan's new armored vehicle makes live-fire media debut",
-     "url": "https://focustaiwan.tw/politics/202609230013",
-     "published": "2026-09-23T08:04:13Z",
-     "lang": "en",
-     "entities": [
-      "live_fire"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "23eb21e5a4847985",
-     "title": "Mainland reiterates opposition to arms sales to Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1LbEhBajU0elBrM1RMNmpjdVQtZUN4NG95bHU5YUZPdWROM0JkLV9LSWhiV2R3QWdQNW0ydndPamFmNUNwdlNQMmRObC1adlhjblhQQ3JpYUtpSnUyWFVKQk5UM25MNnNsal9ZN2t3WV96b2lzZnE1OVNZc19yQQ?oc=5",
-     "published": "2026-09-23T14:16:15Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "China Daily",
-     "source_domain": "chinadaily.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 영문지",
-     "hedged": false
-    },
-    {
-     "id": "072f9483c6740fa9",
-     "title": "U.S. arms sales to Taiwan a complex issue, still under review: Rubio",
-     "url": "https://focustaiwan.tw/politics/202609240005",
-     "published": "2026-09-24T03:15:03Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "6b515480b8ba9099",
-     "title": "Chinese defence ministry urges 'extreme caution' over arms sales to Taiwan ahead of Trump-Xi summit",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUJ6eGxzbTYzQkJTMXFqWnhZYU1BakkxZDBONmZEVnV4bkJPMU0tb2w0MEluVF8wSWptWmR0dUNpX1pHbW5YLXRHSnRONnZEYkpRSWNhb1ZRUzlFTDYzdlFnWE5uVy1meDhudTZJUXQ4bVpPckFvRVlveGZuSnpyUVpBa0Faazh6Qm4zSnRXbi1vbDNJS1JsT291enRieEk?oc=5",
-     "published": "2026-09-24T04:40:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "trump"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "74e13e9fb0089146",
-     "title": "Retired U.S. admiral urges Taiwan arms sales after Trump-Xi summit",
-     "url": "https://focustaiwan.tw/politics/202609250005",
-     "published": "2026-09-25T05:41:18Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "trump"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -1236,7 +1864,7 @@
   {
    "id": "evt_20260925_ff1156",
    "headline": "台灣運彩AI分析》亞運棒球台海大戰！中華台北迎戰中國 關鍵一役全力搶勝",
-   "headline_source": "ltsports.com.tw",
+   "headline_source": "麗台運動報",
    "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wS2ZHZGUzSl9YendIdmJsM2p1WWN6cnhvLXJMY1BFSnRoNElCMVVLMG55QVN6UWVMbldRREVhUUZWZjhhSnJTX2VXMWJuczNlamI1cg?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-25T05:25:12Z",
@@ -1283,7 +1911,7 @@
       "taipei",
       "taiwan_strait"
      ],
-     "source_name": "ltsports.com.tw",
+     "source_name": "麗台運動報",
      "source_domain": "ltsports.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1361,66 +1989,6 @@
      "entities": [],
      "source_name": "Agenzia Nova",
      "source_domain": "agenzianova.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260925_0a7d48",
-   "headline": "聯合國大會多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益 | 太報",
-   "headline_source": "LINE TODAY",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIbFRqaU5fX2N1aTVXSVF0TW1zY21GQm9aSWEwdzZxZE81YmFwSzdWWlRhc0I4cVV4MFVCU3BDUm1ZNHluZkFoLWQ0SE5oMWRHMDRoZ3hR?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-25T04:48:01Z",
-   "last_seen": "2026-09-25T04:48:01Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "19ef2cf131ee412f"
-    ]
-   },
-   "articles": [
-    {
-     "id": "19ef2cf131ee412f",
-     "title": "聯合國大會多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益 | 太報",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBIbFRqaU5fX2N1aTVXSVF0TW1zY21GQm9aSWEwdzZxZE81YmFwSzdWWlRhc0I4cVV4MFVCU3BDUm1ZNHluZkFoLWQ0SE5oMWRHMDRoZ3hR?oc=5",
-     "published": "2026-09-25T04:48:01Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "LINE TODAY",
-     "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -2313,67 +2881,45 @@
    ]
   },
   {
-   "id": "evt_20260924_060dea",
-   "headline": "中美白宮會談提台海 習近平畫紅線：慎重處理台灣問題、堅持反台獨",
-   "headline_source": "ETtoday新聞雲",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4TjFEZlJCN04xRVJWVzVoWE5vZmJSQUxpMnYxS3RWYkxFQkxaaWZGMVFSeWFpaVpacC1ZVXBobkoteFhYTTZFT2RRT1FzQnVJekcxTEE4QkZEaEFhWGfSAUtBVV95cUxQcE9sa2FMTDhIYUR2dzdnNGpScGxLTk5wTjJlY1dhZmVCbEJ5UWRPQ1ExQ21QbmZpODVBQlJkeWd3NDV6UDExT2o1ZzQ?oc=5",
+   "id": "evt_20260924_c3c95f",
+   "headline": "中美白宮會談提台海習近平畫紅線：慎重處理台灣問題、堅持反台獨- 股市爆料同學會",
+   "headline_source": "CMoney",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1keV80TkE1b1poa3VSb2FzUl85T2VOdmpNSW5FV3ZfTm5tTWpPUjVzS1E1WjNwYUpNX0dhdGpkRHYwV3JuZnJ3MzMtVW91WG5oRlo1cTBpenU?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-24T16:58:00Z",
+   "first_seen": "2026-09-24T19:08:46Z",
    "last_seen": "2026-09-24T19:08:46Z",
    "langs": [
     "zh"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
     "n_originals": 1,
-    "n_unrated": 0,
-    "score": 27.9,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
      "unknown"
     ],
-    "top_tier": "T2",
+    "top_tier": "T5",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "ETtoday新聞雲 원고를 CMoney 가 전재 — 1곳으로 계산"
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "94e5ec0387894209",
      "d9a4428a9f3a4403"
     ]
    },
    "articles": [
-    {
-     "id": "94e5ec0387894209",
-     "title": "中美白宮會談提台海 習近平畫紅線：慎重處理台灣問題、堅持反台獨",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4TjFEZlJCN04xRVJWVzVoWE5vZmJSQUxpMnYxS3RWYkxFQkxaaWZGMVFSeWFpaVpacC1ZVXBobkoteFhYTTZFT2RRT1FzQnVJekcxTEE4QkZEaEFhWGfSAUtBVV95cUxQcE9sa2FMTDhIYUR2dzdnNGpScGxLTk5wTjJlY1dhZmVCbEJ5UWRPQ1ExQ21QbmZpODVBQlJkeWd3NDV6UDExT2o1ZzQ?oc=5",
-     "published": "2026-09-24T16:58:00Z",
-     "lang": "zh",
-     "entities": [
-      "independence",
-      "taiwan_strait",
-      "xi_jinping"
-     ],
-     "source_name": "ETtoday新聞雲",
-     "source_domain": "ettoday.net",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "d9a4428a9f3a4403",
      "title": "中美白宮會談提台海習近平畫紅線：慎重處理台灣問題、堅持反台獨- 股市爆料同學會",
@@ -2633,66 +3179,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260924_603fe7",
-   "headline": "Trump-Xi White House talks extend trade truce as AI, Taiwan tensions loom",
-   "headline_source": "India Today",
-   "headline_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb05vSU5sMnR2enFqWmFlcndJZnc5bExzMzFiMWhQdUgxdHJfMEg0b2JPUHRMNzd0SjdkNkxQV3dxbVpnaUN2VEJ1bEdZNEVic2gzOThsWmVJU05EbGw1YzJXeWs3eGVSMUx3ZVRXbnlUQVB5TVNnNnBrRWlSdUhpTm84VjllaDBza2dtR1hIZmRRcmxPU2Y5TWM0TnNrVkZvWC1mc1N2d2hZVlI4cHgxcm5xcWVYd211R3k3V1JzR2xIZ9IBxwFBVV95cUxOMDNlcmo2OXo0YVExSUhGbE5oZlZRVElUbjZPdTRzazZyZ3JWZldwX3pYbG5mLWlZcTZ3NF9aTVBRZFlxVWJmOURTNENGN3BiazR4S1cydWNYVzBJNnVqVjZyN19xZWd1ZDJDMEliZ2dWbTZsdWoydXFVYXpZdWFOblY2bG9rVFZGQW5xbVp3YTgwYms0VWhSbk85M0JmVHByS1hOOUNMb0NDQkxUMlJvVXhXaldMdzV4aDFrZnlDRVZzSkY0Nk5R?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-24T12:46:33Z",
-   "last_seen": "2026-09-24T12:46:33Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "5342235d05b4e683"
-    ]
-   },
-   "articles": [
-    {
-     "id": "5342235d05b4e683",
-     "title": "Trump-Xi White House talks extend trade truce as AI, Taiwan tensions loom",
-     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQb05vSU5sMnR2enFqWmFlcndJZnc5bExzMzFiMWhQdUgxdHJfMEg0b2JPUHRMNzd0SjdkNkxQV3dxbVpnaUN2VEJ1bEdZNEVic2gzOThsWmVJU05EbGw1YzJXeWs3eGVSMUx3ZVRXbnlUQVB5TVNnNnBrRWlSdUhpTm84VjllaDBza2dtR1hIZmRRcmxPU2Y5TWM0TnNrVkZvWC1mc1N2d2hZVlI4cHgxcm5xcWVYd211R3k3V1JzR2xIZ9IBxwFBVV95cUxOMDNlcmo2OXo0YVExSUhGbE5oZlZRVElUbjZPdTRzazZyZ3JWZldwX3pYbG5mLWlZcTZ3NF9aTVBRZFlxVWJmOURTNENGN3BiazR4S1cydWNYVzBJNnVqVjZyN19xZWd1ZDJDMEliZ2dWbTZsdWoydXFVYXpZdWFOblY2bG9rVFZGQW5xbVp3YTgwYms0VWhSbk85M0JmVHByS1hOOUNMb0NDQkxUMlJvVXhXaldMdzV4aDFrZnlDRVZzSkY0Nk5R?oc=5",
-     "published": "2026-09-24T12:46:33Z",
-     "lang": "en",
-     "entities": [
-      "trump"
-     ],
-     "source_name": "India Today",
-     "source_domain": "indiatoday.in",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -3244,7 +3730,7 @@
   {
    "id": "evt_20260924_529f07",
    "headline": "Trump and Xi clash over AI dominance amid Taiwan tensions",
-   "headline_source": "Bankingnews",
+   "headline_source": "bankingnews.gr",
    "headline_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVHNvRm1ubVI2VUloOGhrN3d6TGhvX2R2R3BOMGtlT0MwRWdEcFdJZDRSejN0Nm9jZEIzTXZ5TXpZOHEtbEp3QVcwOHRLX1I3dlNBWTBRUlk4NVhkVGlHc1ZBUXo3d19EbGZrWHBlNU5icUIwbEgtRG1CMFpjUGJqemxYMHUxbE5FN3p3dnIzS21rUU9JQmY3cWVfSml5cDVKcUUxYXh1TjhtXzFw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-24T08:52:39Z",
@@ -3290,7 +3776,7 @@
      "entities": [
       "trump"
      ],
-     "source_name": "Bankingnews",
+     "source_name": "bankingnews.gr",
      "source_domain": "bankingnews.gr",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4405,6 +4891,86 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260923_b1f3ac",
+   "headline": "Taiwan's new armored vehicle makes live-fire media debut",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202609230013",
+   "headline_lang": "en",
+   "first_seen": "2026-09-23T08:04:13Z",
+   "last_seen": "2026-09-24T03:15:03Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 32.6,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0c57d4ef36e09823",
+     "072f9483c6740fa9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0c57d4ef36e09823",
+     "title": "Taiwan's new armored vehicle makes live-fire media debut",
+     "url": "https://focustaiwan.tw/politics/202609230013",
+     "published": "2026-09-23T08:04:13Z",
+     "lang": "en",
+     "entities": [
+      "live_fire"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "072f9483c6740fa9",
+     "title": "U.S. arms sales to Taiwan a complex issue, still under review: Rubio",
+     "url": "https://focustaiwan.tw/politics/202609240005",
+     "published": "2026-09-24T03:15:03Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -5928,7 +6494,7 @@
   {
    "id": "evt_20260923_78f558",
    "headline": "川習二會/台海問題若美國轉「戰略清晰」 徐和謙：將對台產生根本影響",
-   "headline_source": "i-meihua.com",
+   "headline_source": "梅花新聞網",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE4tTXNmeldJOTFlYXJhUUZmU3V3TGdpWlo2MTJVdm1HMXB1QkV1dm1VUk1sZlNuMTZBRWlSOVpLelBoeThpa1g3X0liUXR1MlFHcEZORzZyRzY?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-23T11:30:00Z",
@@ -5974,7 +6540,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "i-meihua.com",
+     "source_name": "梅花新聞網",
      "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -6701,6 +7267,106 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260920_43edb2",
+   "headline": "US might postpone major Taiwan arms sales: report",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3OE02bFRJcHRIajh5TVVvOXozUnBhR1pIVEtlZDVESzd3aFdLM295b3R4Z2ZaT25CZFlQbDlnY1I5NXEyOGpxbTR4WVUxZ0JBMHl5YWpvZWJCWF9QaWVDZXVEOHkwV255TDMwb2F4bHlNRkJFTUpJdlpB?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-20T16:00:00Z",
+   "last_seen": "2026-09-23T04:38:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 51.3,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "Japan Times 원고를 Taiwan News 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "78fc1893b178d40b",
+     "3e9eaabc31f19e4a",
+     "bd1665054900c344"
+    ]
+   },
+   "articles": [
+    {
+     "id": "78fc1893b178d40b",
+     "title": "US might postpone major Taiwan arms sales: report",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3OE02bFRJcHRIajh5TVVvOXozUnBhR1pIVEtlZDVESzd3aFdLM295b3R4Z2ZaT25CZFlQbDlnY1I5NXEyOGpxbTR4WVUxZ0JBMHl5YWpvZWJCWF9QaWVDZXVEOHkwV255TDMwb2F4bHlNRkJFTUpJdlpB?oc=5",
+     "published": "2026-09-20T16:00:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "3e9eaabc31f19e4a",
+     "title": "China’s Xi expected to press Trump to halt Taiwan arms sales under 1982 agreement",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMXNudEhjYkFjNlJlZl9xZ0JtNExmVzhzWUYtMDZZQjhTU3hCbi1MbndSVVJYNWNBaHJtQjRueGJzRjB4Zl9zLUFzZ2ItVlR5SV9mdTVVd3g1eFRqcGIyRmtkUlE1UHJwQ0xxYjNVU3Fhc3cySHFFQnA2dlYyM3NuWDlUQWxGNUlPaUNnV3ZteDhhOXJjczREYmwxRTdpZE1HUDlCWGlwVUc?oc=5",
+     "published": "2026-09-22T06:27:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "trump"
+     ],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "bd1665054900c344",
+     "title": "Xi expected to press Trump to curb Taiwan arms sales",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8teWVydDdGYWZYNzNZVm1PUnNiQktSeEdiQUVBbjB5YXFCcy1aVTh1WThxYWRmR29OcGlibFMyWVRZdUNRUmNjZEFxRV9MVG9na2xfZQ?oc=5",
+     "published": "2026-09-23T04:38:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "trump"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -8709,84 +9375,6 @@
    ]
   },
   {
-   "id": "evt_20260922_8ccf38",
-   "headline": "美日韓重申台海和平重要性 總統府：誠摯感謝",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Va2V6X0diVFZjbUItTW5nR2Zvczl4ZF9MTEFqQ3JYMHFtcjdLV3FicnJuc1NXNHZfUE9HRDZaRHFMYy1lUGZIN2RUSHJISnZM0gFWQVVfeXFMUGdlQWhibVNsaUdocy01RUNJQkpkRjZEb2dpcF9JUHYwbDVfanJmNklOTnJ0c0FYcENFaHcxbjN1ZmU0MFg0YWFmQVpqSzAtQkZENVdwa2c?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T03:31:02Z",
-   "last_seen": "2026-09-22T06:32:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 40.6,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "f9710157b11dee18",
-     "7836634595794207"
-    ]
-   },
-   "articles": [
-    {
-     "id": "f9710157b11dee18",
-     "title": "美日韓重申台海和平重要性 總統府：誠摯感謝",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Va2V6X0diVFZjbUItTW5nR2Zvczl4ZF9MTEFqQ3JYMHFtcjdLV3FicnJuc1NXNHZfUE9HRDZaRHFMYy1lUGZIN2RUSHJISnZM0gFWQVVfeXFMUGdlQWhibVNsaUdocy01RUNJQkpkRjZEb2dpcF9JUHYwbDVfanJmNklOTnJ0c0FYcENFaHcxbjN1ZmU0MFg0YWFmQVpqSzAtQkZENVdwa2c?oc=5",
-     "published": "2026-09-22T03:31:02Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "7836634595794207",
-     "title": "美日韓重申台海和平重要性 台灣：是國際共識",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8wdWlUam1JRzcyMEFrRUFZa0ZMRkN6bEhiQm5XeVI5U2xZZVhhc0xKREpRMFNEQWZHb05lYUtlS2Vwa25CWk1CcmozUWNqamFVbzlqYUttVXEyZzU1UW1KONIBZkFVX3lxTE8zTVhRVDBOcUtGNUJ4UTJwYzhnZUY2MXZWM2MxaC1mS1ZvR3NsOF9icGxYYTgzZC02alNjTWFCUFJnYzBsbC03cHQyZnJMVDdtVUsyeFBpS1F6dHA5UXB4eDg4eEJCZw?oc=5",
-     "published": "2026-09-22T06:32:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "大紀元 Epoch Times",
-     "source_domain": "epochtimes.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260922_290bfc",
    "headline": "美國日本韓國聯合重申台海和平穩定重要性 總統府：民主夥伴合作維持秩序",
    "headline_source": "壹蘋新聞網",
@@ -9154,110 +9742,6 @@
      ],
      "source_name": "鏡新聞",
      "source_domain": "mnews.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260919_0661b2",
-   "headline": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
-   "headline_source": "CNBC",
-   "headline_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORERRMUFMT0NhSmVXdXM2ekpOZXZUb1N4dXFCZll0MnAwY0xTMmR2LWdJQ2hBc2Y4S2YydU9FM0ZFUWVBTVJCa3Q2MzkzSGQ0dE9LdUZYMzE3dW0tRDktV21hbXhwOVN4S1lFZGxBU1ZWVUFWMGQtYTdnbE1NRkFsMDZ4ZFJsNDVIQlNGZ29VLWtYUG9YSDdmNHJZZlR6dkp1X2YwMNIBqgFBVV95cUxNTVQteUlQMWJ6TlZFT3B5VFZoRXc2U2ZoT0pyRFIyc2dlQllmY2xOVWliejU4VTN3aWFaaWI2OVdKSlBhQ09iWFowM3FJWHAzZWFjWmpUYWdReGo3b2V3OFFlSS1fR2JhRVhmRU13MjNyS3VVTjBTLXdwQ2xpY3RnRUg5aXNrQndNQ0duNDRQTllEMXB2LVFjU3ZEVVlYVUxXYXZTRnZsZHpYUQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-19T09:05:24Z",
-   "last_seen": "2026-09-22T05:16:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
-    "n_unrated": 1,
-    "score": 63.3,
-    "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "741567a1e10a2bf1",
-     "78fc1893b178d40b",
-     "84222a5b1d3d1f38"
-    ]
-   },
-   "articles": [
-    {
-     "id": "741567a1e10a2bf1",
-     "title": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
-     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORERRMUFMT0NhSmVXdXM2ekpOZXZUb1N4dXFCZll0MnAwY0xTMmR2LWdJQ2hBc2Y4S2YydU9FM0ZFUWVBTVJCa3Q2MzkzSGQ0dE9LdUZYMzE3dW0tRDktV21hbXhwOVN4S1lFZGxBU1ZWVUFWMGQtYTdnbE1NRkFsMDZ4ZFJsNDVIQlNGZ29VLWtYUG9YSDdmNHJZZlR6dkp1X2YwMNIBqgFBVV95cUxNTVQteUlQMWJ6TlZFT3B5VFZoRXc2U2ZoT0pyRFIyc2dlQllmY2xOVWliejU4VTN3aWFaaWI2OVdKSlBhQ09iWFowM3FJWHAzZWFjWmpUYWdReGo3b2V3OFFlSS1fR2JhRVhmRU13MjNyS3VVTjBTLXdwQ2xpY3RnRUg5aXNrQndNQ0duNDRQTllEMXB2LVFjU3ZEVVlYVUxXYXZTRnZsZHpYUQ?oc=5",
-     "published": "2026-09-19T09:05:24Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "CNBC",
-     "source_domain": "cnbc.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "78fc1893b178d40b",
-     "title": "US might postpone major Taiwan arms sales: report",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA3OE02bFRJcHRIajh5TVVvOXozUnBhR1pIVEtlZDVESzd3aFdLM295b3R4Z2ZaT25CZFlQbDlnY1I5NXEyOGpxbTR4WVUxZ0JBMHl5YWpvZWJCWF9QaWVDZXVEOHkwV255TDMwb2F4bHlNRkJFTUpJdlpB?oc=5",
-     "published": "2026-09-20T16:00:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "84222a5b1d3d1f38",
-     "title": "川習二會倒數！台海、軍售成焦點習近平、川普將如何出招- 兩岸",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1QS04Z2oxYkY2NDBCM1ZuVG9RSmtORk1mOGhQTWlHSm4waWVPeW40YzJ5TVgtQ29JcnFBb05ZNnh4S3RielgzR0xEbjhpMkg5SzdsMmRYUHF4dmFnaGsw?oc=5",
-     "published": "2026-09-22T05:16:00Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "taiwan_strait",
-      "trump",
-      "xi_jinping"
-     ],
-     "source_name": "工商時報",
-     "source_domain": "ctee.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -10063,6 +10547,65 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260922_cfdb60",
+   "headline": "美日韓重申台海和平重要性 總統府：誠摯感謝",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Va2V6X0diVFZjbUItTW5nR2Zvczl4ZF9MTEFqQ3JYMHFtcjdLV3FicnJuc1NXNHZfUE9HRDZaRHFMYy1lUGZIN2RUSHJISnZM0gFWQVVfeXFMUGdlQWhibVNsaUdocy01RUNJQkpkRjZEb2dpcF9JUHYwbDVfanJmNklOTnJ0c0FYcENFaHcxbjN1ZmU0MFg0YWFmQVpqSzAtQkZENVdwa2c?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-22T03:31:02Z",
+   "last_seen": "2026-09-22T03:31:02Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f9710157b11dee18"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f9710157b11dee18",
+     "title": "美日韓重申台海和平重要性 總統府：誠摯感謝",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1Va2V6X0diVFZjbUItTW5nR2Zvczl4ZF9MTEFqQ3JYMHFtcjdLV3FicnJuc1NXNHZfUE9HRDZaRHFMYy1lUGZIN2RUSHJISnZM0gFWQVVfeXFMUGdlQWhibVNsaUdocy01RUNJQkpkRjZEb2dpcF9JUHYwbDVfanJmNklOTnJ0c0FYcENFaHcxbjN1ZmU0MFg0YWFmQVpqSzAtQkZENVdwa2c?oc=5",
+     "published": "2026-09-22T03:31:02Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -16319,6 +16862,68 @@
    ]
   },
   {
+   "id": "evt_20260919_0661b2",
+   "headline": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
+   "headline_source": "CNBC",
+   "headline_url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORERRMUFMT0NhSmVXdXM2ekpOZXZUb1N4dXFCZll0MnAwY0xTMmR2LWdJQ2hBc2Y4S2YydU9FM0ZFUWVBTVJCa3Q2MzkzSGQ0dE9LdUZYMzE3dW0tRDktV21hbXhwOVN4S1lFZGxBU1ZWVUFWMGQtYTdnbE1NRkFsMDZ4ZFJsNDVIQlNGZ29VLWtYUG9YSDdmNHJZZlR6dkp1X2YwMNIBqgFBVV95cUxNTVQteUlQMWJ6TlZFT3B5VFZoRXc2U2ZoT0pyRFIyc2dlQllmY2xOVWliejU4VTN3aWFaaWI2OVdKSlBhQ09iWFowM3FJWHAzZWFjWmpUYWdReGo3b2V3OFFlSS1fR2JhRVhmRU13MjNyS3VVTjBTLXdwQ2xpY3RnRUg5aXNrQndNQ0duNDRQTllEMXB2LVFjU3ZEVVlYVUxXYXZTRnZsZHpYUQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-19T09:05:24Z",
+   "last_seen": "2026-09-19T09:05:24Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 1,
+    "score": 63.3,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "741567a1e10a2bf1"
+    ]
+   },
+   "articles": [
+    {
+     "id": "741567a1e10a2bf1",
+     "title": "Defense firm Anduril says U.S. delay on Taiwan arms sales affecting its business",
+     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORERRMUFMT0NhSmVXdXM2ekpOZXZUb1N4dXFCZll0MnAwY0xTMmR2LWdJQ2hBc2Y4S2YydU9FM0ZFUWVBTVJCa3Q2MzkzSGQ0dE9LdUZYMzE3dW0tRDktV21hbXhwOVN4S1lFZGxBU1ZWVUFWMGQtYTdnbE1NRkFsMDZ4ZFJsNDVIQlNGZ29VLWtYUG9YSDdmNHJZZlR6dkp1X2YwMNIBqgFBVV95cUxNTVQteUlQMWJ6TlZFT3B5VFZoRXc2U2ZoT0pyRFIyc2dlQllmY2xOVWliejU4VTN3aWFaaWI2OVdKSlBhQ09iWFowM3FJWHAzZWFjWmpUYWdReGo3b2V3OFFlSS1fR2JhRVhmRU13MjNyS3VVTjBTLXdwQ2xpY3RnRUg5aXNrQndNQ0duNDRQTllEMXB2LVFjU3ZEVVlYVUxXYXZTRnZsZHpYUQ?oc=5",
+     "published": "2026-09-19T09:05:24Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "CNBC",
+     "source_domain": "cnbc.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260919_eb810b",
    "headline": "US warship sails through Taiwan strait amid China tensions",
    "headline_source": "Arab News",
@@ -17039,6 +17644,68 @@
    ]
   },
   {
+   "id": "evt_20260918_545b17",
+   "headline": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US",
+   "headline_source": "AP",
+   "headline_url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVJ6VjcwYkdQMlhNaU9lM0VHMDEzMHdqNzNlQ3YyU1JJRmdPYl9sTkRPN3JNWEpfOXJoNWxYQnlrb3JQRUxhNk1zN2RKam9jY3lfMmd0aEM2Sl9COTIyR0FKdDN6ODNnYl9DS3pHeS1GYUVBdV8xaHgzZVZDMDFHbEZHNUcySlpMMnB5ckx2UDlETDRnRlpuZ3hTY05kZm92aXdveXZ4Y2k?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-18T19:47:17Z",
+   "last_seen": "2026-09-18T19:47:17Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8961fd21a190bea4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8961fd21a190bea4",
+     "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeVJ6VjcwYkdQMlhNaU9lM0VHMDEzMHdqNzNlQ3YyU1JJRmdPYl9sTkRPN3JNWEpfOXJoNWxYQnlrb3JQRUxhNk1zN2RKam9jY3lfMmd0aEM2Sl9COTIyR0FKdDN6ODNnYl9DS3pHeS1GYUVBdV8xaHgzZVZDMDFHbEZHNUcySlpMMnB5ckx2UDlETDRnRlpuZ3hTY05kZm92aXdveXZ4Y2k?oc=5",
+     "published": "2026-09-18T19:47:17Z",
+     "lang": "en",
+     "entities": [
+      "drone",
+      "military_drill",
+      "rehearsal",
+      "trump"
+     ],
+     "source_name": "AP",
+     "source_domain": "apnews.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260918_01a311",
    "headline": "Continental Hedging and the Limits of Maritime Interdiction in Taiwan Strait Deterrence",
    "headline_source": "debuglies.com",
@@ -17089,69 +17756,6 @@
      ],
      "source_name": "debuglies.com",
      "source_domain": "debuglies.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260918_545b17",
-   "headline": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US",
-   "headline_source": "ABC News - Breaking News, Latest News and Videos",
-   "headline_url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0prWDNuWTM1NVltYTd6RV9hWHc5UmlnMnZuV3I5blRpZEh1Zng1dndsSG10S1FNWU1sODhETEdtQ3NaX2dBVHpTeVlzVnhKeDdNV2lYSW1WZk5sRjEtZVVUNjZpb01GUUYwMnpZREM1eFRWYUgyb1BGRWpfeUYzdk9mU3RnY3VJVUJteEZUUzBkZHRDaGRtWGNEeUVjNFd1ZkkwSUhETHFFQ3Vw0gGyAUFVX3lxTE9Jelh4ZkNxYjQ5ZzllYkNMUngza1RPTmZOSzlET0RqNUVYYV8ycm5VeTRmNnNnMjk3aU5reHBoNmliOHZKaEJGYmdXbDRrbzB3NHc4emtoTWhtZ3I3SU9GYTltNkdHMzNZbkxQQUktMHc2bnFQSDJsbXJKVnpxY0FESDVjZzNUOTdMZlBoMnduZjB2N01USmF2XzN6ZHBDRDl3ZWVQcUkzSmZNQmZ4aXc4QkE?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-18T13:16:07Z",
-   "last_seen": "2026-09-18T13:16:07Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "8961fd21a190bea4"
-    ]
-   },
-   "articles": [
-    {
-     "id": "8961fd21a190bea4",
-     "title": "Taiwan holds first joint military drills using attack drones ahead of Trump-Xi summit in the US",
-     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY0prWDNuWTM1NVltYTd6RV9hWHc5UmlnMnZuV3I5blRpZEh1Zng1dndsSG10S1FNWU1sODhETEdtQ3NaX2dBVHpTeVlzVnhKeDdNV2lYSW1WZk5sRjEtZVVUNjZpb01GUUYwMnpZREM1eFRWYUgyb1BGRWpfeUYzdk9mU3RnY3VJVUJteEZUUzBkZHRDaGRtWGNEeUVjNFd1ZkkwSUhETHFFQ3Vw0gGyAUFVX3lxTE9Jelh4ZkNxYjQ5ZzllYkNMUngza1RPTmZOSzlET0RqNUVYYV8ycm5VeTRmNnNnMjk3aU5reHBoNmliOHZKaEJGYmdXbDRrbzB3NHc4emtoTWhtZ3I3SU9GYTltNkdHMzNZbkxQQUktMHc2bnFQSDJsbXJKVnpxY0FESDVjZzNUOTdMZlBoMnduZjB2N01USmF2XzN6ZHBDRDl3ZWVQcUkzSmZNQmZ4aXc4QkE?oc=5",
-     "published": "2026-09-18T13:16:07Z",
-     "lang": "en",
-     "entities": [
-      "drone",
-      "military_drill",
-      "rehearsal",
-      "trump"
-     ],
-     "source_name": "ABC News - Breaking News, Latest News and Videos",
-     "source_domain": "abcnews.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -21335,6 +21939,64 @@
    ]
   },
   {
+   "id": "evt_20260916_4a3dcc",
+   "headline": "China’s Defense Minister Urges Restraint as Taiwan Tensions Rise",
+   "headline_source": "Межа. Новини України.",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qa212RVRGUmZsRkxBa2pac1RLUmQ3VzVpSXFuakdSbVZKbkdhbUwtRVVlbVBCVkRQWm1LWTZpZ3c2UmtKeDdrb1JVY2N2c2g1REtnUmtjM2VuaEFuajVxSi0xTWF4X1JDTGtqNFB3?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-16T07:00:00Z",
+   "last_seen": "2026-09-16T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "bd892105a946707a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "bd892105a946707a",
+     "title": "China’s Defense Minister Urges Restraint as Taiwan Tensions Rise",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qa212RVRGUmZsRkxBa2pac1RLUmQ3VzVpSXFuakdSbVZKbkdhbUwtRVVlbVBCVkRQWm1LWTZpZ3c2UmtKeDdrb1JVY2N2c2g1REtnUmtjM2VuaEFuajVxSi0xTWF4X1JDTGtqNFB3?oc=5",
+     "published": "2026-09-16T07:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Межа. Новини України.",
+     "source_domain": "mezha.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260916_379c3b",
    "headline": "香山論壇｜前駐美大使：統一帶來台海穩定 對美國亦有利",
    "headline_source": "am730",
@@ -21557,64 +22219,6 @@
     {
      "id": "5834a07759c9cb49",
      "title": "China’s Defense Minister Urges Restraint as Taiwan Tensions Rise | Ukraine news - #Mezha",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qa212RVRGUmZsRkxBa2pac1RLUmQ3VzVpSXFuakdSbVZKbkdhbUwtRVVlbVBCVkRQWm1LWTZpZ3c2UmtKeDdrb1JVY2N2c2g1REtnUmtjM2VuaEFuajVxSi0xTWF4X1JDTGtqNFB3?oc=5",
-     "published": "2026-09-16T06:13:31Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Межа. Новини України.",
-     "source_domain": "mezha.net",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260916_4a3dcc",
-   "headline": "China’s Defense Minister Urges Restraint as Taiwan Tensions Rise",
-   "headline_source": "Межа. Новини України.",
-   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qa212RVRGUmZsRkxBa2pac1RLUmQ3VzVpSXFuakdSbVZKbkdhbUwtRVVlbVBCVkRQWm1LWTZpZ3c2UmtKeDdrb1JVY2N2c2g1REtnUmtjM2VuaEFuajVxSi0xTWF4X1JDTGtqNFB3?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-16T06:13:31Z",
-   "last_seen": "2026-09-16T06:13:31Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "bd892105a946707a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "bd892105a946707a",
-     "title": "China’s Defense Minister Urges Restraint as Taiwan Tensions Rise",
      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qa212RVRGUmZsRkxBa2pac1RLUmQ3VzVpSXFuakdSbVZKbkdhbUwtRVVlbVBCVkRQWm1LWTZpZ3c2UmtKeDdrb1JVY2N2c2g1REtnUmtjM2VuaEFuajVxSi0xTWF4X1JDTGtqNFB3?oc=5",
      "published": "2026-09-16T06:13:31Z",
      "lang": "en",
@@ -22717,7 +23321,7 @@
   {
    "id": "evt_20260915_234592",
    "headline": "U.S. Allies and the Taiwan Strait",
-   "headline_source": "Strauss Center",
+   "headline_source": "strausscenter.org",
    "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5ncjYwSW1xcVd3NTZUQ2NoRUhzTzAxVVpwWEFqY0F5ZjlkVWJ3bkdfT0R5dUZvdjBuNTA2LU5MamoySHpWSmhYVEJNRVdFaXpoNGtkMjZPN08zSTdJYjh2Q1A0NGtJbGJjNGo5OGVpbWdiZzd1UU5LSWFR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-15T19:07:05Z",
@@ -22763,7 +23367,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "Strauss Center",
+     "source_name": "strausscenter.org",
      "source_domain": "strausscenter.org",
      "tier": "T5",
      "tier_label": "미분류",
@@ -22944,65 +23548,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260915_ccd929",
-   "headline": "The Perils of Mind-Reading in the Taiwan Strait",
-   "headline_source": "The Diplomat",
-   "headline_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkNmekJwVlVTMUwwdkFIZlhVNjVJZlJxek8wTTlMdHAwQ3Fta2FhQjBuZ0hiU0xiUlZiUkg3YUtqQ2I4WkdFb3FGY3Y4c1k2ZVRSdzJFZkthRmpCTEFXa09aOTlncWVwNTY0b1JGMDJ6R3QyOGpvdlhFTGE5cmZGWDcwY3dBRTg?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-15T15:46:25Z",
-   "last_seen": "2026-09-15T15:46:25Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 26.9,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "TA",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 분석기관"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b99621a2bbce4151"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b99621a2bbce4151",
-     "title": "The Perils of Mind-Reading in the Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkNmekJwVlVTMUwwdkFIZlhVNjVJZlJxek8wTTlMdHAwQ3Fta2FhQjBuZ0hiU0xiUlZiUkg3YUtqQ2I4WkdFb3FGY3Y4c1k2ZVRSdzJFZkthRmpCTEFXa09aOTlncWVwNTY0b1JGMDJ6R3QyOGpvdlhFTGE5cmZGWDcwY3dBRTg?oc=5",
-     "published": "2026-09-15T15:46:25Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "The Diplomat",
-     "source_domain": "thediplomat.com",
-     "tier": "TA",
-     "tier_label": "분석기관",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -23971,6 +24516,65 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260915_ccd929",
+   "headline": "The Perils of Mind-Reading in the Taiwan Strait",
+   "headline_source": "The Diplomat",
+   "headline_url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkNmekJwVlVTMUwwdkFIZlhVNjVJZlJxek8wTTlMdHAwQ3Fta2FhQjBuZ0hiU0xiUlZiUkg3YUtqQ2I4WkdFb3FGY3Y4c1k2ZVRSdzJFZkthRmpCTEFXa09aOTlncWVwNTY0b1JGMDJ6R3QyOGpvdlhFTGE5cmZGWDcwY3dBRTg?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-15T07:00:00Z",
+   "last_seen": "2026-09-15T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 26.9,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "TA",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 분석기관"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b99621a2bbce4151"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b99621a2bbce4151",
+     "title": "The Perils of Mind-Reading in the Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZkNmekJwVlVTMUwwdkFIZlhVNjVJZlJxek8wTTlMdHAwQ3Fta2FhQjBuZ0hiU0xiUlZiUkg3YUtqQ2I4WkdFb3FGY3Y4c1k2ZVRSdzJFZkthRmpCTEFXa09aOTlncWVwNTY0b1JGMDJ6R3QyOGpvdlhFTGE5cmZGWDcwY3dBRTg?oc=5",
+     "published": "2026-09-15T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "The Diplomat",
+     "source_domain": "thediplomat.com",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -30557,128 +31161,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260911_a41553",
-   "headline": "习赴美倒数13天 共军200页绝密惊现美国！川普两拒沙特急电；普京竟出手营救英大使？【两岸要闻】",
-   "headline_source": "soundofhope.org",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zRWdJOU9oWG5DSmZQdlFRcjJnU25ubTZRdzlsSHdsSDAzUkl0d3ZqMmZmU1VxLXNmUDJxRGtjWjB2Vk16TDZxSGdhUEJBcVlN?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-11T15:22:05Z",
-   "last_seen": "2026-09-11T15:22:05Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9655dc9e1d644397"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9655dc9e1d644397",
-     "title": "习赴美倒数13天 共军200页绝密惊现美国！川普两拒沙特急电；普京竟出手营救英大使？【两岸要闻】",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1zRWdJOU9oWG5DSmZQdlFRcjJnU25ubTZRdzlsSHdsSDAzUkl0d3ZqMmZmU1VxLXNmUDJxRGtjWjB2Vk16TDZxSGdhUEJBcVlN?oc=5",
-     "published": "2026-09-11T15:22:05Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "soundofhope.org",
-     "source_domain": "soundofhope.org",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260911_2de06a",
-   "headline": "The first step in cross-Straits civil discourse on 'one country, two systems' policy: Hai Feng",
-   "headline_source": "環球時報 Global Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DdHIyM2w2ZjJnQ3Z3RnlHYUZrdmhySVBENHNoTE44OF9NZmljUktmclJDMXNnUTVCVnRVc0JwYXhRUmh1WWVaMnJic25wZlBGSy1oQXAyQ0dvY0FVQkRuZmNB?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-11T14:26:00Z",
-   "last_seen": "2026-09-11T14:26:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "6edd2935e6822842"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "6edd2935e6822842",
-     "title": "The first step in cross-Straits civil discourse on 'one country, two systems' policy: Hai Feng",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9DdHIyM2w2ZjJnQ3Z3RnlHYUZrdmhySVBENHNoTE44OF9NZmljUktmclJDMXNnUTVCVnRVc0JwYXhRUmh1WWVaMnJic25wZlBGSy1oQXAyQ0dvY0FVQkRuZmNB?oc=5",
-     "published": "2026-09-11T14:26:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
      "hedged": false
     }
    ]
