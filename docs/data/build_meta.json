@@ -1,15 +1,15 @@
 {
- "updated": "2026-09-25T05:01:35Z",
+ "updated": "2026-09-25T11:54:51Z",
  "checked": "2026-09-25",
  "duration_sec": 33.3,
  "rolling_days": 14,
- "n_events": 489,
- "n_articles": 550,
+ "n_events": 500,
+ "n_articles": 560,
  "grades": {
-  "C": 205,
-  "D": 250,
-  "B": 33,
-  "A": 1
+  "D": 258,
+  "C": 209,
+  "A": 1,
+  "B": 32
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 221,
+  "T2": 223,
   "T3": 103,
   "T4": 20,
-  "T5": 153,
+  "T5": 161,
   "TA": 3
  },
  "t1_domains": [
@@ -43,8 +43,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 33,
-   "newest": "2026-09-25T03:48:00+00:00",
+   "n_adopted": 38,
+   "newest": "2026-09-25T11:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 18,
-   "newest": "2026-09-25T02:58:50+00:00",
+   "n_entries": 45,
+   "n_adopted": 14,
+   "newest": "2026-09-25T10:18:45+00:00",
    "stale": false,
    "error": null
   },
@@ -69,7 +69,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
+   "n_adopted": 1,
    "newest": "2026-09-22T01:50:30+00:00",
    "stale": false,
    "error": null
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 84,
-   "newest": "2026-09-25T04:51:52+00:00",
+   "n_adopted": 80,
+   "newest": "2026-09-25T11:27:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-09-24T16:55:00+00:00",
+   "n_adopted": 6,
+   "newest": "2026-09-25T10:32:51+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
-   "newest": "2026-09-25T00:30:00+00:00",
+   "n_adopted": 15,
+   "newest": "2026-09-25T06:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 3,
-   "newest": "2026-09-25T04:21:14+00:00",
+   "n_entries": 51,
+   "n_adopted": 4,
+   "newest": "2026-09-25T07:49:28+00:00",
    "stale": false,
    "error": null
   },
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-09-25T04:43:09+00:00",
+   "n_adopted": 2,
+   "newest": "2026-09-25T11:26:13+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-25T04:44:00+00:00",
+   "newest": "2026-09-25T09:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +200,7 @@
    "http": 200,
    "n_entries": 114,
    "n_adopted": 0,
-   "newest": "2026-09-25T04:50:19+00:00",
+   "newest": "2026-09-25T11:29:37+00:00",
    "stale": false,
    "error": null
   },
@@ -211,9 +211,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 16,
+   "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-25T04:02:54+00:00",
+   "newest": "2026-09-25T11:22:48+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-25T04:22:10+00:00",
+   "newest": "2026-09-25T11:23:59+00:00",
    "stale": false,
    "error": null
   },
@@ -261,6 +261,11 @@
    "sample_title": "川習二會/台海問題若美國轉「戰略清晰」 徐和謙：將對台產生根本影響"
   },
   {
+   "domain": "mnews.tw",
+   "n_articles": 6,
+   "sample_title": "美中核心利益對撞剖析川習會台海攻防2／二戰盟友是「中華民國」 習近平扯中美並肩偷換概念？"
+  },
+  {
    "domain": "fountmedia.io",
    "n_articles": 6,
    "sample_title": "川習會前美日韓先聯手表態挺台！重申台海和平重要、支持台灣參與國際組織美國再保證日韓「核保護傘」"
@@ -271,24 +276,24 @@
    "sample_title": "新西蘭軍艦過航台海 解放軍全程跟監警戒"
   },
   {
+   "domain": "cmoney.tw",
+   "n_articles": 5,
+   "sample_title": "台海冲突冲突全球受害 巴拉圭“站在台湾这一边”(图)"
+  },
+  {
    "domain": "ctinews.com",
    "n_articles": 5,
    "sample_title": "一年內第3度！紐西蘭軍艦9/18過航台海 解放軍：全程跟監警戒"
   },
   {
-   "domain": "cmoney.tw",
+   "domain": "ctee.com.tw",
    "n_articles": 4,
-   "sample_title": "中美白宮會談提台海習近平畫紅線：慎重處理台灣問題、堅持反台獨- 股市爆料同學會"
+   "sample_title": "川習會牽動台海局勢 台積電或將受惠「隱藏AI交易」"
   },
   {
    "domain": "news.nextapple.com",
    "n_articles": 4,
    "sample_title": "川習二會｜習近平白宮會川普談台海、中東 促美方「反對台獨」並盼美伊重返談判"
-  },
-  {
-   "domain": "mnews.tw",
-   "n_articles": 4,
-   "sample_title": "川習會牽動台海局勢 梁文傑：挺台力量仍然強大"
   },
   {
    "domain": "upmedia.mg",
@@ -304,11 +309,6 @@
    "domain": "orientaldaily.on.cc",
    "n_articles": 3,
    "sample_title": "新西蘭最大補給艦 年內3度穿越台海"
-  },
-  {
-   "domain": "cmmedia.com.tw",
-   "n_articles": 3,
-   "sample_title": "搶先川習會！日本首相高市早苗訪美 擬22日會晤川普協調對中與台海局勢"
   },
   {
    "domain": "indiatoday.in",
@@ -331,11 +331,6 @@
    "sample_title": "搶在川習會之前 日本先關切台海區域安全"
   },
   {
-   "domain": "ctee.com.tw",
-   "n_articles": 2,
-   "sample_title": "美日韓外長重申維持台海穩定- 日報"
-  },
-  {
    "domain": "cdns.com.tw",
    "n_articles": 2,
    "sample_title": "美日韓重申台海和平穩定"
@@ -344,6 +339,11 @@
    "domain": "militarywatchmagazine.com",
    "n_articles": 2,
    "sample_title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles Du"
+  },
+  {
+   "domain": "ftnn.com.tw",
+   "n_articles": 2,
+   "sample_title": "川習二會前夕！美日韓外長聯合聲明重申「台海和平穩定」 總統府回應了"
   }
  ]
 }
