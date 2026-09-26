@@ -1,17 +1,17 @@
 {
- "updated": "2026-09-26T05:03:08Z",
+ "updated": "2026-09-26T11:29:00Z",
  "checked": "2026-09-26",
- "duration_sec": 37.8,
+ "duration_sec": 34.1,
  "rolling_days": 14,
  "n_events": 508,
- "n_articles": 566,
+ "n_articles": 569,
  "grades": {
+  "C": 217,
   "B": 32,
-  "C": 216,
-  "D": 259,
-  "A": 1
+  "A": 1,
+  "D": 258
  },
- "cross_language_events": 2,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-09"
@@ -19,9 +19,9 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 21,
-  "T2": 226,
+  "T2": 230,
   "T3": 103,
-  "T4": 16,
+  "T4": 15,
   "T5": 167,
   "TA": 3
  },
@@ -44,7 +44,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 37,
+   "n_adopted": 30,
    "newest": "2026-09-25T13:37:00+00:00",
    "stale": false,
    "error": null
@@ -56,8 +56,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 41,
-   "n_adopted": 16,
+   "n_entries": 40,
+   "n_adopted": 15,
    "newest": "2026-09-26T02:38:00+00:00",
    "stale": false,
    "error": null
@@ -71,7 +71,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 2,
-   "newest": "2026-09-25T13:28:29+00:00",
+   "newest": "2026-09-25T03:06:18+00:00",
    "stale": false,
    "error": null
   },
@@ -83,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 80,
-   "newest": "2026-09-26T04:56:00+00:00",
+   "n_adopted": 79,
+   "newest": "2026-09-26T09:27:18+00:00",
    "stale": false,
    "error": null
   },
@@ -96,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-09-25T15:28:00+00:00",
+   "n_adopted": 5,
+   "newest": "2026-09-25T20:15:06+00:00",
    "stale": false,
    "error": null
   },
@@ -109,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-09-26T03:05:00+00:00",
+   "n_adopted": 18,
+   "newest": "2026-09-26T05:33:00+00:00",
    "stale": false,
    "error": null
   },
@@ -121,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 35,
-   "n_adopted": 3,
-   "newest": "2026-09-25T13:11:46+00:00",
+   "n_entries": 45,
+   "n_adopted": 5,
+   "newest": "2026-09-26T10:01:33+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-09-26T05:00:12+00:00",
+   "newest": "2026-09-26T10:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-26T03:25:00+00:00",
+   "newest": "2026-09-26T08:35:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,7 +201,7 @@
    "http": 200,
    "n_entries": 114,
    "n_adopted": 0,
-   "newest": "2026-09-26T04:31:03+00:00",
+   "newest": "2026-09-26T11:13:29+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +214,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-25T16:01:54+00:00",
+   "newest": "2026-09-26T07:21:30+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-26T04:28:58+00:00",
+   "newest": "2026-09-26T10:56:00+00:00",
    "stale": false,
    "error": null
   },
@@ -248,8 +248,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 17,
-   "sample_title": "聯合國大會多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益 | 太報"
+   "n_articles": 18,
+   "sample_title": "討論牆 | 新聞360》台灣飛彈震撼全曝光！共軍「致命威脅」專家破解"
   },
   {
    "domain": "mnews.tw",
@@ -332,19 +332,19 @@
    "sample_title": "國防部：統一將根除「台獨」禍根亂源消弭台海戰火隱患- 兩岸"
   },
   {
-   "domain": "taiwanhot.net",
+   "domain": "realcleardefense.com",
    "n_articles": 2,
-   "sample_title": "日韓英法等8國聯合聲明支持台海和平穩定 外交部：續與民主夥伴深化合作"
+   "sample_title": "What Happens After Deterrence Over Taiwan Fails?"
+  },
+  {
+   "domain": "turnnewsapp.com",
+   "n_articles": 2,
+   "sample_title": "美日韓聯合重申 維持台海和平"
   },
   {
    "domain": "militarywatchmagazine.com",
    "n_articles": 2,
    "sample_title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles Du"
-  },
-  {
-   "domain": "ftnn.com.tw",
-   "n_articles": 2,
-   "sample_title": "川習二會前夕！美日韓外長聯合聲明重申「台海和平穩定」 總統府回應了"
   }
  ]
 }
