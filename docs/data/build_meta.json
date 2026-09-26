@@ -1,15 +1,15 @@
 {
- "updated": "2026-09-26T16:26:45Z",
+ "updated": "2026-09-26T21:13:22Z",
  "checked": "2026-09-26",
  "duration_sec": 33.4,
  "rolling_days": 14,
  "n_events": 513,
- "n_articles": 571,
+ "n_articles": 570,
  "grades": {
-  "C": 221,
+  "C": 222,
   "D": 261,
   "A": 1,
-  "B": 30
+  "B": 29
  },
  "cross_language_events": 1,
  "tension_error": null,
@@ -18,14 +18,15 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 21,
-  "T2": 229,
+  "T1": 22,
+  "T2": 228,
   "T3": 102,
   "T4": 16,
-  "T5": 169,
+  "T5": 168,
   "TA": 3
  },
  "t1_domains": [
+  "afp.com",
   "aljazeera.com",
   "apnews.com",
   "bloomberg.com",
@@ -44,8 +45,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 28,
-   "newest": "2026-09-25T13:15:00+00:00",
+   "n_adopted": 32,
+   "newest": "2026-09-25T13:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -56,7 +57,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 44,
+   "n_entries": 45,
    "n_adopted": 14,
    "newest": "2026-09-26T16:06:00+00:00",
    "stale": false,
@@ -70,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 1,
+   "n_adopted": 2,
    "newest": "2026-09-25T03:06:18+00:00",
    "stale": false,
    "error": null
@@ -83,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 76,
-   "newest": "2026-09-26T14:21:38+00:00",
+   "n_adopted": 73,
+   "newest": "2026-09-26T20:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +97,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
+   "n_adopted": 5,
    "newest": "2026-09-26T14:02:00+00:00",
    "stale": false,
    "error": null
@@ -109,7 +110,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
+   "n_adopted": 13,
    "newest": "2026-09-26T14:31:00+00:00",
    "stale": false,
    "error": null
@@ -136,7 +137,7 @@
    "http": 200,
    "n_entries": 43,
    "n_adopted": 0,
-   "newest": "2026-09-26T00:00:00+00:00",
+   "newest": "2026-09-27T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-09-26T15:00:08+00:00",
+   "newest": "2026-09-26T19:07:53+00:00",
    "stale": false,
    "error": null
   },
@@ -201,7 +202,7 @@
    "http": 200,
    "n_entries": 114,
    "n_adopted": 0,
-   "newest": "2026-09-26T14:55:45+00:00",
+   "newest": "2026-09-26T21:03:02+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-26T15:49:57+00:00",
+   "newest": "2026-09-26T20:57:54+00:00",
    "stale": false,
    "error": null
   },
@@ -317,14 +318,14 @@
    "sample_title": "新西蘭最大補給艦 年內3度穿越台海"
   },
   {
-   "domain": "knews.com.tw",
-   "n_articles": 2,
-   "sample_title": "聯大國際友邦發聲挺台！林佳龍致謝：台海和平穩定符合各國共同利益"
-  },
-  {
    "domain": "indiatoday.in",
    "n_articles": 2,
    "sample_title": "Trump-Xi White House talks extend trade truce as AI, Taiwan tensions loom"
+  },
+  {
+   "domain": "knews.com.tw",
+   "n_articles": 2,
+   "sample_title": "聯大國際友邦發聲挺台！林佳龍致謝：台海和平穩定符合各國共同利益"
   },
   {
    "domain": "dotdotnews.com",
