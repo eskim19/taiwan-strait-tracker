@@ -1,32 +1,31 @@
 {
- "updated": "2026-09-26T21:13:22Z",
+ "updated": "2026-09-26T23:39:15Z",
  "checked": "2026-09-26",
- "duration_sec": 33.4,
+ "duration_sec": 36.1,
  "rolling_days": 14,
- "n_events": 513,
- "n_articles": 570,
+ "n_events": 515,
+ "n_articles": 573,
  "grades": {
-  "C": 222,
+  "B": 31,
   "D": 261,
-  "A": 1,
-  "B": 29
+  "C": 222,
+  "A": 1
  },
- "cross_language_events": 1,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-09"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 22,
-  "T2": 228,
+  "T1": 21,
+  "T2": 232,
   "T3": 102,
   "T4": 16,
   "T5": 168,
   "TA": 3
  },
  "t1_domains": [
-  "afp.com",
   "aljazeera.com",
   "apnews.com",
   "bloomberg.com",
@@ -57,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
-   "n_adopted": 14,
-   "newest": "2026-09-26T16:06:00+00:00",
+   "n_entries": 46,
+   "n_adopted": 15,
+   "newest": "2026-09-26T20:21:00+00:00",
    "stale": false,
    "error": null
   },
@@ -84,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 73,
-   "newest": "2026-09-26T20:10:00+00:00",
+   "n_adopted": 71,
+   "newest": "2026-09-26T21:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-09-26T14:31:00+00:00",
+   "n_adopted": 12,
+   "newest": "2026-09-26T21:36:00+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-09-26T19:07:53+00:00",
+   "newest": "2026-09-26T23:04:55+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-26T08:35:00+00:00",
+   "newest": "2026-09-26T23:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-26T20:57:54+00:00",
+   "newest": "2026-09-26T22:51:57+00:00",
    "stale": false,
    "error": null
   },
@@ -249,8 +248,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
-   "sample_title": "討論牆 | 新聞360》台灣飛彈震撼全曝光！共軍「致命威脅」專家破解"
+   "n_articles": 17,
+   "sample_title": "聯合國大會多國發言挺台 林佳龍致謝：台海和平穩定符合各國共同利益 | 太報"
   },
   {
    "domain": "mnews.tw",
@@ -313,11 +312,6 @@
    "sample_title": "紐證補給艦及護衞艦過航台海 印太部署一環"
   },
   {
-   "domain": "orientaldaily.on.cc",
-   "n_articles": 3,
-   "sample_title": "新西蘭最大補給艦 年內3度穿越台海"
-  },
-  {
    "domain": "indiatoday.in",
    "n_articles": 2,
    "sample_title": "Trump-Xi White House talks extend trade truce as AI, Taiwan tensions loom"
@@ -333,11 +327,6 @@
    "sample_title": "國防部：統一將根除「台獨」禍根亂源消弭台海戰火隱患- 兩岸"
   },
   {
-   "domain": "taiwanhot.net",
-   "n_articles": 2,
-   "sample_title": "日韓英法等8國聯合聲明支持台海和平穩定 外交部：續與民主夥伴深化合作"
-  },
-  {
    "domain": "realcleardefense.com",
    "n_articles": 2,
    "sample_title": "What Happens After Deterrence Over Taiwan Fails?"
@@ -346,6 +335,16 @@
    "domain": "turnnewsapp.com",
    "n_articles": 2,
    "sample_title": "美日韓聯合重申 維持台海和平"
+  },
+  {
+   "domain": "militarywatchmagazine.com",
+   "n_articles": 2,
+   "sample_title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles Du"
+  },
+  {
+   "domain": "ftnn.com.tw",
+   "n_articles": 2,
+   "sample_title": "川習二會前夕！美日韓外長聯合聲明重申「台海和平穩定」 總統府回應了"
   }
  ]
 }
