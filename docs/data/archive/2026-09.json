@@ -1,15 +1,15 @@
 {
  "month": "2026-09",
- "n_events": 894,
+ "n_events": 902,
  "events": [
   {
    "id": "evt_20260927_5aa028",
-   "headline": "US ‘very much’ understands Taiwan’s defence needs, Taipei official says",
-   "headline_source": "Straits Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVRsdkFUbVVTekRnQVM1NFYzSUdQSG5YV2pFcUpKekdQYnlHWVVZOEZCamJlcmZxUjZlX2tpNmZWNVprYUtVdXNpdFRTRlBZeUFfLUxwRzJfeEVpd1ZoU1VGMi1FbGhoOHJqSzU0cWJQUUdhQ1g2MWNNSlRVSE9oX0sxN21ud0NJTWxNUk1fTWFCSXE1VkRiZW1zSjhuaEQzcERUaTNRRXllcWg1cHREMg?oc=5",
+   "headline": "Trump-Xi meeting: US ‘very much’ understands Taiwan’s defense needs, Taipei official says",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/28/2003865008",
    "headline_lang": "en",
-   "first_seen": "2026-09-27T02:47:00Z",
-   "last_seen": "2026-09-27T09:35:00Z",
+   "first_seen": "2026-09-27T03:10:42Z",
+   "last_seen": "2026-09-28T00:00:00Z",
    "langs": [
     "en"
    ],
@@ -18,12 +18,12 @@
     "grade": "C",
     "d_reason": null,
     "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 30.9,
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 31.5,
     "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 3,
+    "n_domains": 3,
     "blocs": [
      "independent",
      "unknown"
@@ -33,32 +33,33 @@
     "reasons": [
      "독립 출처 1곳",
      "최고 등급 주요 일간",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+     "Taipei Times 원고를 WTVB·Modern Diplomacy 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
      "29d2891de74694f4",
-     "b46d550777c148bf"
+     "b46d550777c148bf",
+     "4a6151e41632b6e4"
     ]
    },
    "articles": [
     {
      "id": "29d2891de74694f4",
      "title": "US ‘very much’ understands Taiwan’s defence needs, Taipei official says",
-     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOLVRsdkFUbVVTekRnQVM1NFYzSUdQSG5YV2pFcUpKekdQYnlHWVVZOEZCamJlcmZxUjZlX2tpNmZWNVprYUtVdXNpdFRTRlBZeUFfLUxwRzJfeEVpd1ZoU1VGMi1FbGhoOHJqSzU0cWJQUUdhQ1g2MWNNSlRVSE9oX0sxN21ud0NJTWxNUk1fTWFCSXE1VkRiZW1zSjhuaEQzcERUaTNRRXllcWg1cHREMg?oc=5",
-     "published": "2026-09-27T02:47:00Z",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbDRFUHo0TnZCMmllVjNwcUFkcTlUaHlTbFA4Y25zQk1JTW5POWt3N0pORkxvWW5GNldFRHl0bkw5bXNUVU5VSkEtVEcxY3RYMnpwa1FHV2hCWi1qWHRvM1EwQ241UDJaanZ2eUpJb2c2S2xMcnR6QXF4MmJNSWNZdTFSS3BwOUlWSzRLRW94Y0hIMy1idEpyWXdXMmRxbXM?oc=5",
+     "published": "2026-09-27T03:10:42Z",
      "lang": "en",
      "entities": [
       "taipei"
      ],
-     "source_name": "Straits Times",
-     "source_domain": "straitstimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
+     "source_name": "WTVB",
+     "source_domain": "wtvbam.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     },
@@ -78,6 +79,380 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "4a6151e41632b6e4",
+     "title": "Trump-Xi meeting: US ‘very much’ understands Taiwan’s defense needs, Taipei official says",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/09/28/2003865008",
+     "published": "2026-09-28T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taipei",
+      "trump"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260928_fa0547",
+   "headline": "Taiwan to build more anti-ship missiles",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/front/archives/2026/09/28/2003864997",
+   "headline_lang": "en",
+   "first_seen": "2026-09-28T00:00:00Z",
+   "last_seen": "2026-09-28T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9857626f4d68f18e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9857626f4d68f18e",
+     "title": "Taiwan to build more anti-ship missiles",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/09/28/2003864997",
+     "published": "2026-09-28T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "missile"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260928_779182",
+   "headline": "Guermantes Lailari On Taiwan: Taiwan’s Sweet Potato Roots of Defiance: Shattering China’s Post-Invasion Blueprint",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/28/2003864991",
+   "headline_lang": "en",
+   "first_seen": "2026-09-28T00:00:00Z",
+   "last_seen": "2026-09-28T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e4574c669338f388"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e4574c669338f388",
+     "title": "Guermantes Lailari On Taiwan: Taiwan’s Sweet Potato Roots of Defiance: Shattering China’s Post-Invasion Blueprint",
+     "url": "https://www.taipeitimes.com/News/editorials/archives/2026/09/28/2003864991",
+     "published": "2026-09-28T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "invasion"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260928_1dcd05",
+   "headline": "Notes from Central Taiwan: The environmental cost of a war over Taiwan",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/feat/archives/2026/09/28/2003864996",
+   "headline_lang": "en",
+   "first_seen": "2026-09-28T00:00:00Z",
+   "last_seen": "2026-09-28T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "c12646b6fae8abf2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c12646b6fae8abf2",
+     "title": "Notes from Central Taiwan: The environmental cost of a war over Taiwan",
+     "url": "https://www.taipeitimes.com/News/feat/archives/2026/09/28/2003864996",
+     "published": "2026-09-28T00:00:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260927_15c20c",
+   "headline": "陸委會：川習會台海議題 習近平未突破",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mc0ZaZ1U1VE1aTEk1SXlxVXRiX0NxeUIwdGF3bzVacWU1TmQzUUYzU0JRWXNsX0Q0MFFjUHg4a2xteGxDRl83TFpwZXFUdW1ETHI5SUhKOUjSAVhBVV95cUxNZnNGWmdVNVRNWkxJNUl5cVV0Yl9DcXlCMHRhd281WnFlNU5kM1FGM1NCUVlzbF9ENDBRY1B4OGtsbXhsQ0ZfN0xacGVxVHVtRExyOUlISjlI?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-27T16:00:00Z",
+   "last_seen": "2026-09-27T16:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "435bd47b59e3e702"
+    ]
+   },
+   "articles": [
+    {
+     "id": "435bd47b59e3e702",
+     "title": "陸委會：川習會台海議題 習近平未突破",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mc0ZaZ1U1VE1aTEk1SXlxVXRiX0NxeUIwdGF3bzVacWU1TmQzUUYzU0JRWXNsX0Q0MFFjUHg4a2xteGxDRl83TFpwZXFUdW1ETHI5SUhKOUjSAVhBVV95cUxNZnNGWmdVNVRNWkxJNUl5cVV0Yl9DcXlCMHRhd281WnFlNU5kM1FGM1NCUVlzbF9ENDBRY1B4OGtsbXhsQ0ZfN0xacGVxVHVtRExyOUlISjlI?oc=5",
+     "published": "2026-09-27T16:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "mac",
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260927_a69aef",
+   "headline": "川習二會未改美中競爭 郭育仁：台海慎防灰色地帶",
+   "headline_source": "大紀元 Epoch Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UQjBtQktoa3ZsX0R3ZVMxdFNVRnBrMW85MmFzM09xeTVZMkFqa053ZDN5UVN3RmJLX19ENzVuYWtmcm1FYWoxaVRHV19OTnF4azRNZmVuYzdTc2xnMVV4c9IBZkFVX3lxTE1YU3VZZzNFZFhLQzZkYVJ5OTc2TV8zR1lodUpfVTlMUEdIY09ONGwwU04xb0VrWVR3TFYxSVBiMU1CbnJJY28xTUQzMDBRZ0FfWEdNa21hazVKS1NDYVFzdEt6QmZUQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-27T15:52:00Z",
+   "last_seen": "2026-09-27T15:52:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e492c1340f55417d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e492c1340f55417d",
+     "title": "川習二會未改美中競爭 郭育仁：台海慎防灰色地帶",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UQjBtQktoa3ZsX0R3ZVMxdFNVRnBrMW85MmFzM09xeTVZMkFqa053ZDN5UVN3RmJLX19ENzVuYWtmcm1FYWoxaVRHV19OTnF4azRNZmVuYzdTc2xnMVV4c9IBZkFVX3lxTE1YU3VZZzNFZFhLQzZkYVJ5OTc2TV8zR1lodUpfVTlMUEdIY09ONGwwU04xb0VrWVR3TFYxSVBiMU1CbnJJY28xTUQzMDBRZ0FfWEdNa21hazVKS1NDYVFzdEt6QmZUQQ?oc=5",
+     "published": "2026-09-27T15:52:00Z",
+     "lang": "zh",
+     "entities": [
+      "gray_zone",
+      "taiwan_strait"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260927_facf0d",
+   "headline": "川習二會後台海走向 余宗基提3大觀察指標",
+   "headline_source": "大紀元 Epoch Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94R1dDbEZKekpfMVczZHJsOUcyTHR6RF9SOVphbU41bmNIQVRZX1FjSk0yd0pEOEJpaHpXcEJLZUVSeEZoc0dlM0xiTXdlT2ZjU3lXNXBBTlhQeFdEM3Q4VtIBZkFVX3lxTE1CNTl4VHpDbDROUU5VUEFMSjV6Qk1ocHlHWnFLVG5LemVXUk1IbEV5b3UzLTlBSlNpN21jM09nQzBPYkd5T193eWM0SE9xN2ZZcEFLcUV0MnlIQWNTNmNNVlNGa2pDdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-27T15:49:00Z",
+   "last_seen": "2026-09-27T15:49:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "7b54b253edbecffc"
+    ]
+   },
+   "articles": [
+    {
+     "id": "7b54b253edbecffc",
+     "title": "川習二會後台海走向 余宗基提3大觀察指標",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE94R1dDbEZKekpfMVczZHJsOUcyTHR6RF9SOVphbU41bmNIQVRZX1FjSk0yd0pEOEJpaHpXcEJLZUVSeEZoc0dlM0xiTXdlT2ZjU3lXNXBBTlhQeFdEM3Q4VtIBZkFVX3lxTE1CNTl4VHpDbDROUU5VUEFMSjV6Qk1ocHlHWnFLVG5LemVXUk1IbEV5b3UzLTlBSlNpN21jM09nQzBPYkd5T193eWM0SE9xN2ZZcEFLcUV0MnlIQWNTNmNNVlNGa2pDdw?oc=5",
+     "published": "2026-09-27T15:49:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -429,6 +804,66 @@
      "entities": [],
      "source_name": "Times of India",
      "source_domain": "timesofindia.indiatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260927_024358",
+   "headline": "川習會後美中台維持三不變 陸委會：國際共同支持台海和平| 政治焦點",
+   "headline_source": "太報 TaiSounds",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GWnpPNlRHV3dXQzF1R0JNWlJkNUQtaU8tbnRHNGFfenFkeUdZb29kd0tsMVg2Z1JBZWZnLXA3bjlBWU81cjE2NVllVXlsRUxTbTJ6VWI1clkzWEZJ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-27T05:08:01Z",
+   "last_seen": "2026-09-27T05:08:01Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "10e8b5c5dc07ee69"
+    ]
+   },
+   "articles": [
+    {
+     "id": "10e8b5c5dc07ee69",
+     "title": "川習會後美中台維持三不變 陸委會：國際共同支持台海和平| 政治焦點",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9GWnpPNlRHV3dXQzF1R0JNWlJkNUQtaU8tbnRHNGFfenFkeUdZb29kd0tsMVg2Z1JBZWZnLXA3bjlBWU81cjE2NVllVXlsRUxTbTJ6VWI1clkzWEZJ?oc=5",
+     "published": "2026-09-27T05:08:01Z",
+     "lang": "zh",
+     "entities": [
+      "mac",
+      "taiwan_strait"
+     ],
+     "source_name": "太報 TaiSounds",
+     "source_domain": "taisounds.com",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -1072,7 +1507,7 @@
      "id": "6b515480b8ba9099",
      "title": "Chinese defence ministry urges 'extreme caution' over arms sales to Taiwan ahead of Trump-Xi summit",
      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdUJ6eGxzbTYzQkJTMXFqWnhZYU1BakkxZDBONmZEVnV4bkJPMU0tb2w0MEluVF8wSWptWmR0dUNpX1pHbW5YLXRHSnRONnZEYkpRSWNhb1ZRUzlFTDYzdlFnWE5uVy1meDhudTZJUXQ4bVpPckFvRVlveGZuSnpyUVpBa0Faazh6Qm4zSnRXbi1vbDNJS1JsT291enRieEk?oc=5",
-     "published": "2026-09-24T09:00:45Z",
+     "published": "2026-09-24T09:12:46Z",
      "lang": "en",
      "entities": [
       "arms_sale",
@@ -2173,7 +2608,7 @@
     "reasons": [
      "독립 출처 1곳",
      "최고 등급 주요 일간",
-     "조선일보 원고를 India Today 가 전재 — 1곳으로 계산"
+     "조선일보 원고를 indiatoday.in 가 전재 — 1곳으로 계산"
     ]
    },
    "perspectives": {
@@ -2193,7 +2628,7 @@
      "entities": [
       "trump"
      ],
-     "source_name": "India Today",
+     "source_name": "indiatoday.in",
      "source_domain": "indiatoday.in",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2398,6 +2833,66 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260925_0b446b",
+   "headline": "【一線探秘】2027共軍期限逼近：四大預言齊指台海變局",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44UE85Mk12VDFYb0ZBZ0Y4SjRud3ViVFl3blE1ejJiU1k5Qnc5S21vaG5sZFplLUJiV0lrOWpDQlRsS24teEEzUm1fR0hlNU9jWjJpZGlQOHlKV2oxZnpBb9IBZkFVX3lxTE5xdkV0VlJmcVd5eDdJYVdROS1jUnBNZkpOOEVyTmlKSTVIdGhDbHQ2T3h3cjZVTXJ0Ui1oeklWS296azR1d0ZvRzNnVFpJbXdxODk0MnFXWW0wVVNXUXZWaXRnQVI0dw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-25T12:32:00Z",
+   "last_seen": "2026-09-25T12:32:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0021aa8d8215cd7a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0021aa8d8215cd7a",
+     "title": "【一線探秘】2027共軍期限逼近：四大預言齊指台海變局",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44UE85Mk12VDFYb0ZBZ0Y4SjRud3ViVFl3blE1ejJiU1k5Qnc5S21vaG5sZFplLUJiV0lrOWpDQlRsS24teEEzUm1fR0hlNU9jWjJpZGlQOHlKV2oxZnpBb9IBZkFVX3lxTE5xdkV0VlJmcVd5eDdJYVdROS1jUnBNZkpOOEVyTmlKSTVIdGhDbHQ2T3h3cjZVTXJ0Ui1oeklWS296azR1d0ZvRzNnVFpJbXdxODk0MnFXWW0wVVNXUXZWaXRnQVI0dw?oc=5",
+     "published": "2026-09-25T12:32:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -3673,7 +4168,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "LINE TODAY",
+     "source_name": "today.line.me",
      "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4408,66 +4903,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260925_0b446b",
-   "headline": "【一線探秘】2027共軍期限逼近：四大預言齊指台海變局",
-   "headline_source": "新唐人 NTD",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44UE85Mk12VDFYb0ZBZ0Y4SjRud3ViVFl3blE1ejJiU1k5Qnc5S21vaG5sZFplLUJiV0lrOWpDQlRsS24teEEzUm1fR0hlNU9jWjJpZGlQOHlKV2oxZnpBb9IBZkFVX3lxTE5xdkV0VlJmcVd5eDdJYVdROS1jUnBNZkpOOEVyTmlKSTVIdGhDbHQ2T3h3cjZVTXJ0Ui1oeklWS296azR1d0ZvRzNnVFpJbXdxODk0MnFXWW0wVVNXUXZWaXRnQVI0dw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-25T00:47:10Z",
-   "last_seen": "2026-09-25T00:47:10Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "partisan",
-    "grade_label": "성향 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 16.5,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T4",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 성향 매체"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "0021aa8d8215cd7a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "0021aa8d8215cd7a",
-     "title": "【一線探秘】2027共軍期限逼近：四大預言齊指台海變局",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44UE85Mk12VDFYb0ZBZ0Y4SjRud3ViVFl3blE1ejJiU1k5Qnc5S21vaG5sZFplLUJiV0lrOWpDQlRsS24teEEzUm1fR0hlNU9jWjJpZGlQOHlKV2oxZnpBb9IBZkFVX3lxTE5xdkV0VlJmcVd5eDdJYVdROS1jUnBNZkpOOEVyTmlKSTVIdGhDbHQ2T3h3cjZVTXJ0Ui1oeklWS296azR1d0ZvRzNnVFpJbXdxODk0MnFXWW0wVVNXUXZWaXRnQVI0dw?oc=5",
-     "published": "2026-09-25T00:47:10Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "新唐人 NTD",
-     "source_domain": "ntdtv.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -6841,6 +7276,67 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260924_4eae46",
+   "headline": "歐洲及印太夥伴外長聲明反對單方面改變台海現狀 外交部致謝",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JR0JGZUFZQWJvUmhSd3RsLTFnZWo5NVhBZi1NQ1ZuTThpWjBKdFotMkY0LXp5c1VXSTFvck84d0JuLWhxcWhhUjBPRVkyZVMwTnJ1dTFvQ3hCdzFrZENELVc2SjEwQU1DclHSAW9BVV95cUxNd1l0Z0sxQnU5NXdLUWJRTHNBel9yRTU1WjZSa3BNczluMEhNUWpfbFBqTEdwel9RZ2lwdzBaZXdpNnF1bGQzekFlSnEzSVJRa21lUlR3dkw2SjJIdDFVM1FiR1RhN0t0VzdKbElDMW8?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-24T03:11:03Z",
+   "last_seen": "2026-09-24T03:11:03Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 32.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "정부·군 공식 발표 인용"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "68137253c73845d7"
+    ]
+   },
+   "articles": [
+    {
+     "id": "68137253c73845d7",
+     "title": "歐洲及印太夥伴外長聲明反對單方面改變台海現狀 外交部致謝",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5JR0JGZUFZQWJvUmhSd3RsLTFnZWo5NVhBZi1NQ1ZuTThpWjBKdFotMkY0LXp5c1VXSTFvck84d0JuLWhxcWhhUjBPRVkyZVMwTnJ1dTFvQ3hCdzFrZENELVc2SjEwQU1DclHSAW9BVV95cUxNd1l0Z0sxQnU5NXdLUWJRTHNBel9yRTU1WjZSa3BNczluMEhNUWpfbFBqTEdwel9RZ2lwdzBaZXdpNnF1bGQzekFlSnEzSVJRa21lUlR3dkw2SjJIdDFVM1FiR1RhN0t0VzdKbElDMW8?oc=5",
+     "published": "2026-09-24T03:11:03Z",
+     "lang": "zh",
+     "entities": [
+      "status_quo",
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
@@ -11825,7 +12321,7 @@
    "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-21T05:34:00Z",
-   "last_seen": "2026-09-22T04:12:20Z",
+   "last_seen": "2026-09-22T04:11:55Z",
    "langs": [
     "en"
    ],
@@ -11919,8 +12415,8 @@
     {
      "id": "130fde0345c8d632",
      "title": "Two New Zealand naval ships transit Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE94SnlXUTB2azR1Tk1JVkRUN1dWV1BVdUJFTF83UWloVEw3a25YdEJ2MC1pa0I3TVNFTWJaZHZCRjF0clJfcGFiZ3F0MA?oc=5",
-     "published": "2026-09-22T04:12:20Z",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CSDFhMV9mZGw4QlNkaTRaaGQ2LUthWlhJWVk1b0w3bUVIOVpnRDBVdFZibVdMNGJUbFlfVDAzT2h3aWo2SGdvejU1MA?oc=5",
+     "published": "2026-09-22T04:11:55Z",
      "lang": "en",
      "entities": [
       "taiwan_strait"
@@ -16157,7 +16653,7 @@
   {
    "id": "evt_20260921_99cdaa",
    "headline": "Why Luckin Coffee struggles to cross the Taiwan Strait",
-   "headline_source": "ThinkChina",
+   "headline_source": "thinkchina.sg",
    "headline_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3QtNkFyV1FzYTNZT3VEaUZpdTAtOVZnXzZkendvQnllSHJNMmtCak01c2pySTFKQU5LTDhUbUVLb2Fyc1JIWmdPQVFaZTlqSm5uTmQtNWpzNWZhUzdZVFJKTFQ3dE5tWVkzODQyMnNzcmpMakRDeE41VGs4WGdZUnRFckNHWE1V?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-21T05:38:41Z",
@@ -16203,7 +16699,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "ThinkChina",
+     "source_name": "thinkchina.sg",
      "source_domain": "thinkchina.sg",
      "tier": "T5",
      "tier_label": "미분류",
