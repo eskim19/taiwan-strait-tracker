@@ -1,28 +1,28 @@
 {
- "updated": "2026-09-30T05:36:41Z",
+ "updated": "2026-09-30T12:39:24Z",
  "checked": "2026-09-30",
- "duration_sec": 35.8,
+ "duration_sec": 34.5,
  "rolling_days": 14,
- "n_events": 467,
- "n_articles": 517,
+ "n_events": 456,
+ "n_articles": 507,
  "grades": {
-  "D": 238,
-  "B": 23,
-  "C": 205,
+  "B": 25,
+  "D": 230,
+  "C": 200,
   "A": 1
  },
- "cross_language_events": 2,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-09"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 17,
-  "T2": 213,
-  "T3": 86,
+  "T1": 18,
+  "T2": 208,
+  "T3": 90,
   "T4": 20,
-  "T5": 157,
+  "T5": 148,
   "TA": 3
  },
  "t1_domains": [
@@ -30,6 +30,7 @@
   "aljazeera.com",
   "apnews.com",
   "bloomberg.com",
+  "dw.com",
   "kyodonews.net",
   "pts.org.tw",
   "reuters.com",
@@ -45,8 +46,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 26,
-   "newest": "2026-09-29T06:52:15+00:00",
+   "n_adopted": 25,
+   "newest": "2026-09-30T10:17:22+00:00",
    "stale": false,
    "error": null
   },
@@ -57,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
-   "n_adopted": 25,
-   "newest": "2026-09-30T03:13:50+00:00",
+   "n_entries": 55,
+   "n_adopted": 28,
+   "newest": "2026-09-30T10:46:11+00:00",
    "stale": false,
    "error": null
   },
@@ -85,7 +86,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 60,
-   "newest": "2026-09-30T03:55:00+00:00",
+   "newest": "2026-09-30T11:56:42+00:00",
    "stale": false,
    "error": null
   },
@@ -98,7 +99,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-09-30T04:30:00+00:00",
+   "newest": "2026-09-30T07:47:34+00:00",
    "stale": false,
    "error": null
   },
@@ -110,8 +111,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-09-30T03:52:38+00:00",
+   "n_adopted": 11,
+   "newest": "2026-09-30T11:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
-   "n_adopted": 4,
-   "newest": "2026-09-30T04:12:17+00:00",
+   "n_entries": 55,
+   "n_adopted": 5,
+   "newest": "2026-09-30T11:25:50+00:00",
    "stale": false,
    "error": null
   },
@@ -132,14 +133,14 @@
    "id": "taipeitimes",
    "name": "Taipei Times",
    "critical": false,
-   "status": "error",
-   "health": "error",
-   "http": 403,
-   "n_entries": 0,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 50,
    "n_adopted": 0,
-   "newest": null,
+   "newest": "2026-09-30T00:00:00+00:00",
    "stale": false,
-   "error": "HTTP 403"
+   "error": null
   },
   {
    "id": "scmp_china",
@@ -150,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-09-30T04:00:08+00:00",
+   "newest": "2026-09-30T12:30:10+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-09-30T04:38:00+00:00",
+   "newest": "2026-09-30T12:12:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,7 +203,7 @@
    "http": 200,
    "n_entries": 103,
    "n_adopted": 0,
-   "newest": "2026-09-30T05:00:06+00:00",
+   "newest": "2026-09-30T12:00:45+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +216,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-09-30T05:24:52+00:00",
+   "newest": "2026-09-30T11:01:58+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-09-30T05:05:35+00:00",
+   "newest": "2026-09-30T12:05:45+00:00",
    "stale": false,
    "error": null
   },
@@ -249,13 +250,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 19,
-   "sample_title": "討論牆 | 美日韓三國發表反中國改變台海現狀聲明滿1年 習近平訪美仍無法撼動"
-  },
-  {
-   "domain": "i-meihua.com",
-   "n_articles": 9,
-   "sample_title": "民調：6成5認兩岸關係持續惡化、7成7認未來3年台海無戰事"
+   "n_articles": 20,
+   "sample_title": "中共又搞事！十一前夕「大陣仗軍機擾台」 最新情況曝光 | 民視新聞網"
   },
   {
    "domain": "mnews.tw",
@@ -263,8 +259,13 @@
    "sample_title": "美中核心利益對撞剖析川習會台海攻防2／二戰盟友是「中華民國」 習近平扯中美並肩偷換概念？"
   },
   {
+   "domain": "i-meihua.com",
+   "n_articles": 8,
+   "sample_title": "民調：6成5認兩岸關係持續惡化、7成7認未來3年台海無戰事"
+  },
+  {
    "domain": "cmoney.tw",
-   "n_articles": 6,
+   "n_articles": 7,
    "sample_title": "6407 相互 - 藏人访客曝预言中国分裂？台海2028成关键(图) - 股市爆料同學會"
   },
   {
@@ -273,19 +274,9 @@
    "sample_title": "倪永傑：兩岸進入“順勢而統”的新時代"
   },
   {
-   "domain": "n.yam.com",
-   "n_articles": 4,
-   "sample_title": "東海、台海、南海緊張升溫 陸方改變態度將盡快簽署兩軍危機溝通與預防備忘錄"
-  },
-  {
    "domain": "mirrordaily.news",
    "n_articles": 4,
    "sample_title": "台海議題未成川習會交易焦點 國安人士揭美中「高頻溝通、高強競爭」新常態"
-  },
-  {
-   "domain": "ctee.com.tw",
-   "n_articles": 4,
-   "sample_title": "川習會牽動台海局勢 台積電或將受惠「隱藏AI交易」"
   },
   {
    "domain": "fountmedia.io",
@@ -293,9 +284,14 @@
    "sample_title": "川習會前美日韓先聯手表態挺台！重申台海和平重要、支持台灣參與國際組織美國再保證日韓「核保護傘」"
   },
   {
-   "domain": "worldjournal.com",
+   "domain": "n.yam.com",
    "n_articles": 3,
-   "sample_title": "陸委會沈有忠：習近平擬突破台海議題 未如願"
+   "sample_title": "東海、台海、南海緊張升溫 陸方改變態度將盡快簽署兩軍危機溝通與預防備忘錄"
+  },
+  {
+   "domain": "ctee.com.tw",
+   "n_articles": 3,
+   "sample_title": "川習會牽動台海局勢 台積電或將受惠「隱藏AI交易」"
   },
   {
    "domain": "moneyweekly.com.tw",
@@ -308,14 +304,19 @@
    "sample_title": "川習二會｜習近平白宮會川普談台海、中東 促美方「反對台獨」並盼美伊重返談判"
   },
   {
-   "domain": "upmedia.mg",
-   "n_articles": 3,
-   "sample_title": "蕭美琴接受英媒專訪談台海 反駁「挑釁者」說：真正挑釁的是北京"
+   "domain": "bankingnews.gr",
+   "n_articles": 2,
+   "sample_title": "Xi's purges in the Chinese military - Risk of uncontrolled conflict with Taiwan"
   },
   {
    "domain": "moderndiplomacy.eu",
    "n_articles": 2,
    "sample_title": "Taiwan deepens drone push as China pressure drives defence overhaul"
+  },
+  {
+   "domain": "worldjournal.com",
+   "n_articles": 2,
+   "sample_title": "陸委會沈有忠：習近平擬突破台海議題 未如願"
   },
   {
    "domain": "mobile01.com",
