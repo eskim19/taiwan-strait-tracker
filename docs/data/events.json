@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-01T10:12:23Z",
+ "updated": "2026-10-01T18:27:51Z",
  "events": [
+  {
+   "id": "evt_20261001_0f9670",
+   "headline": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-10-01T14:00:31Z",
+   "last_seen": "2026-10-01T14:00:31Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "58f5a26e1e427c2c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "58f5a26e1e427c2c",
+     "title": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+     "url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
+     "published": "2026-10-01T14:00:31Z",
+     "lang": "en",
+     "entities": [
+      "missile",
+      "taiwan_strait"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261001_091c43",
    "headline": "【即時短評】台海安全豈能寄望於習近平健不健康？",
@@ -385,11 +445,11 @@
   },
   {
    "id": "evt_20261001_04214c",
-   "headline": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn?oc=5",
+   "headline": "U.S. sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+   "headline_source": "Japan Times",
+   "headline_url": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/us-taiwan-invasion-timeline/",
    "headline_lang": "en",
-   "first_seen": "2026-10-01T05:02:00Z",
+   "first_seen": "2026-10-01T06:21:00Z",
    "last_seen": "2026-10-01T06:21:00Z",
    "langs": [
     "en"
@@ -419,29 +479,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "d09d8c75f5b38cb1",
      "09f3e0ce2ebde54b"
     ]
    },
    "articles": [
-    {
-     "id": "d09d8c75f5b38cb1",
-     "title": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn?oc=5",
-     "published": "2026-10-01T05:02:00Z",
-     "lang": "en",
-     "entities": [
-      "invasion"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": true
-    },
     {
      "id": "09f3e0ce2ebde54b",
      "title": "U.S. sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
@@ -989,109 +1030,6 @@
    ]
   },
   {
-   "id": "evt_20260930_a29a32",
-   "headline": "台灣版「抓特務」 共軍政委潛伏30年還考陸官、受美訓| 歷史揭密",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PWEhsdzFJcTM2N01xZXRKRkVEc2ZTQ29UeFBHNGVId2xKdkk1NmpLb3YxS1dQQWFCd3JEWk9Zb3ZNd0VUZ01oRlhYM0NRSHM2WExVMHRHNA?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-30T04:12:17Z",
-   "last_seen": "2026-09-30T23:30:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
-    "n_unrated": 0,
-    "score": 63.8,
-    "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "tw_state"
-    ],
-    "top_tier": "T2",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "정부·군 공식 발표 인용"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "188023b98c97af0d",
-     "38061f72bffc01cc",
-     "10c777c77b609943"
-    ]
-   },
-   "articles": [
-    {
-     "id": "188023b98c97af0d",
-     "title": "Military holds half-scale National Day aerial rehearsal in Taipei",
-     "url": "https://focustaiwan.tw/politics/202609300005",
-     "published": "2026-09-30T04:12:17Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal",
-      "taipei"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "38061f72bffc01cc",
-     "title": "Defense ministry mum on alleged Philippines warship donation plan",
-     "url": "https://focustaiwan.tw/politics/202609300013",
-     "published": "2026-09-30T09:38:40Z",
-     "lang": "en",
-     "entities": [
-      "plan_navy",
-      "warship"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "10c777c77b609943",
-     "title": "台灣版「抓特務」 共軍政委潛伏30年還考陸官、受美訓| 歷史揭密",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5PWEhsdzFJcTM2N01xZXRKRkVEc2ZTQ29UeFBHNGVId2xKdkk1NmpLb3YxS1dQQWFCd3JEWk9Zb3ZNd0VUZ01oRlhYM0NRSHM2WExVMHRHNA?oc=5",
-     "published": "2026-09-30T23:30:00Z",
-     "lang": "zh",
-     "entities": [
-      "pla"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260930_5dc4c1",
    "headline": "美技術+台造船 美台暗中聯手布局台海無人艇",
    "headline_source": "新唐人 NTD",
@@ -1599,6 +1537,88 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260930_5f78b7",
+   "headline": "Military holds half-scale National Day aerial rehearsal in Taipei",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202609300005",
+   "headline_lang": "en",
+   "first_seen": "2026-09-30T04:12:17Z",
+   "last_seen": "2026-09-30T09:38:40Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 30.4,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "188023b98c97af0d",
+     "38061f72bffc01cc"
+    ]
+   },
+   "articles": [
+    {
+     "id": "188023b98c97af0d",
+     "title": "Military holds half-scale National Day aerial rehearsal in Taipei",
+     "url": "https://focustaiwan.tw/politics/202609300005",
+     "published": "2026-09-30T04:12:17Z",
+     "lang": "en",
+     "entities": [
+      "rehearsal",
+      "taipei"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "38061f72bffc01cc",
+     "title": "Defense ministry mum on alleged Philippines warship donation plan",
+     "url": "https://focustaiwan.tw/politics/202609300013",
+     "published": "2026-09-30T09:38:40Z",
+     "lang": "en",
+     "entities": [
+      "plan_navy",
+      "warship"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
@@ -2398,9 +2418,9 @@
   },
   {
    "id": "evt_20260930_dcff73",
-   "headline": "Taiwan plans US$850 million munition spend to prepare for potential PLA blockade",
+   "headline": "Taiwan plans US$850 million ammunition spend to prepare for potential PLA blockade",
    "headline_source": "SCMP",
-   "headline_url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWRmX05BWlk2YUlra181TXFNWWNtM3AzX3Qxc3NhQWxZOEhuaEtCQ0RuNWlYX2JtbENwNWVZLTBTNWV6dDByeXl3QXhxSzIzVGJ6bWFtSm8wdU9SUmgwMS1paXk1akV4TWZxaHlaQ0VlOW41VnFMSWxwQWxzeUNHaXZjY1BPY2dfblNYUnZMQW9iTmxzYm9NOW9kaDVMVjR1djYxeUhNVUlRX3h1Q1lmY2IxaVdCNWpJS2UwUFBmelV5UlJ5Wk5pYlpwa9IBywFBVV95cUxQUDVTbk9CX0t6UUtPejdvZEhaX1ZWZ0lfUnNRY2VpTnpiS3NSdG5HTnpNYkdZTWpVVkVjbGVmRWdtbzRXaEMtME9BVXhrOGVsZmFnRVBHNm5zNUlNX19zODFQTVBnelZ6WnBsQ3FGRHlVZGVuNVY5bXBtZVB5S1Z0dnZtTXBEU1Nocm5BZG5KaU1qNFpDV0lSdlFTaFBkc2hVNl9pUFRVOWV5dm9sdy10SkRxdXdOMGlvektIWEI5bTRHVUd5NU05M2J6cw?oc=5",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3369212/taiwan-plans-us850-million-ammunition-spend-prepare-potential-pla-blockade?utm_source=rss_feed",
    "headline_lang": "en",
    "first_seen": "2026-09-30T02:00:17Z",
    "last_seen": "2026-09-30T02:00:17Z",
@@ -2432,30 +2452,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "803e60d722b5e226",
      "4ab11643db8ae8b2"
     ]
    },
    "articles": [
-    {
-     "id": "803e60d722b5e226",
-     "title": "Taiwan plans US$850 million munition spend to prepare for potential PLA blockade",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQMWRmX05BWlk2YUlra181TXFNWWNtM3AzX3Qxc3NhQWxZOEhuaEtCQ0RuNWlYX2JtbENwNWVZLTBTNWV6dDByeXl3QXhxSzIzVGJ6bWFtSm8wdU9SUmgwMS1paXk1akV4TWZxaHlaQ0VlOW41VnFMSWxwQWxzeUNHaXZjY1BPY2dfblNYUnZMQW9iTmxzYm9NOW9kaDVMVjR1djYxeUhNVUlRX3h1Q1lmY2IxaVdCNWpJS2UwUFBmelV5UlJ5Wk5pYlpwa9IBywFBVV95cUxQUDVTbk9CX0t6UUtPejdvZEhaX1ZWZ0lfUnNRY2VpTnpiS3NSdG5HTnpNYkdZTWpVVkVjbGVmRWdtbzRXaEMtME9BVXhrOGVsZmFnRVBHNm5zNUlNX19zODFQTVBnelZ6WnBsQ3FGRHlVZGVuNVY5bXBtZVB5S1Z0dnZtTXBEU1Nocm5BZG5KaU1qNFpDV0lSdlFTaFBkc2hVNl9pUFRVOWV5dm9sdy10SkRxdXdOMGlvektIWEI5bTRHVUd5NU05M2J6cw?oc=5",
-     "published": "2026-09-30T02:00:17Z",
-     "lang": "en",
-     "entities": [
-      "blockade",
-      "pla"
-     ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    },
     {
      "id": "4ab11643db8ae8b2",
      "title": "Taiwan plans US$850 million ammunition spend to prepare for potential PLA blockade",
@@ -27584,206 +27584,6 @@
      ],
      "source_name": "armyrecognition.com",
      "source_domain": "armyrecognition.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260917_95f803",
-   "headline": "台湾青年点赞大陆免费拍摄资源：AI时代，两岸青年想一起拍点新的",
-   "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUHBMaW1HQUhIVjl2Ry00a1VBdGJ5TUphQnRldXA0WFVXLS1aRnQ0QmJ0MHhJS3ktOG01QlNmRnZPMjhUdngxb0xiV1pCMUhBWjA0MEE4Ml9nZHpjbHVCQkNGRXdSVTBiZUs1cEZyaWdYVERHZk5LVk03SnNTQQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-17T13:28:00Z",
-   "last_seen": "2026-09-17T13:28:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "724031259d0d22e8"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "724031259d0d22e8",
-     "title": "台湾青年点赞大陆免费拍摄资源：AI时代，两岸青年想一起拍点新的",
-     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBMUHBMaW1HQUhIVjl2Ry00a1VBdGJ5TUphQnRldXA0WFVXLS1aRnQ0QmJ0MHhJS3ktOG01QlNmRnZPMjhUdngxb0xiV1pCMUhBWjA0MEE4Ml9nZHpjbHVCQkNGRXdSVTBiZUs1cEZyaWdYVERHZk5LVk03SnNTQQ?oc=5",
-     "published": "2026-09-17T13:28:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中國新聞網",
-     "source_domain": "chinanews.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260917_e09740",
-   "headline": "Taiwan's Coast Guard confirms donation of patrol vessel to Philippines",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://focustaiwan.tw/politics/202609170015",
-   "headline_lang": "en",
-   "first_seen": "2026-09-17T09:42:19Z",
-   "last_seen": "2026-09-17T12:56:39Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 22.6,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 1,
-    "blocs": [
-     "tw_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3faa8d0d9d28e561",
-     "33e263809d547716"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3faa8d0d9d28e561",
-     "title": "Taiwan's Coast Guard confirms donation of patrol vessel to Philippines",
-     "url": "https://focustaiwan.tw/politics/202609170015",
-     "published": "2026-09-17T09:42:19Z",
-     "lang": "en",
-     "entities": [
-      "coast_guard"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "33e263809d547716",
-     "title": "Eastern Taiwan drill simulates magnitude 7.3 earthquake",
-     "url": "https://focustaiwan.tw/society/202609170023",
-     "published": "2026-09-17T12:56:39Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260917_8485e9",
-   "headline": "Taiwan Reports Major Chinese Air Incursion Ahead of Planned Trump-Xi Summit",
-   "headline_source": "streamlinefeed.co.ke",
-   "headline_url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjVIendPX0FjWTNselVvekU2allGa1FPNXR5emRZZWtvQWlIVmRrOEZjZ1l1dzZyMHV4NDFtYmZRVHNXUGRza01NY05CLWlYUUtUNUxoeWt5bTR2V1EyeWZrN1hjZy1XVUFxNHVGMGRsYUYtY2dKVUF2eFVlLV9yb1NhNU50N2ZSd2daRXlsY0RQM2RqVTFQaWJJZzg3d0VIZXdYN3ZmYWpwb3Q4X0E?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-17T10:22:59Z",
-   "last_seen": "2026-09-17T10:22:59Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "25cdf20d6f4fe67d"
-    ]
-   },
-   "articles": [
-    {
-     "id": "25cdf20d6f4fe67d",
-     "title": "Taiwan Reports Major Chinese Air Incursion Ahead of Planned Trump-Xi Summit",
-     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUjVIendPX0FjWTNselVvekU2allGa1FPNXR5emRZZWtvQWlIVmRrOEZjZ1l1dzZyMHV4NDFtYmZRVHNXUGRza01NY05CLWlYUUtUNUxoeWt5bTR2V1EyeWZrN1hjZy1XVUFxNHVGMGRsYUYtY2dKVUF2eFVlLV9yb1NhNU50N2ZSd2daRXlsY0RQM2RqVTFQaWJJZzg3d0VIZXdYN3ZmYWpwb3Q4X0E?oc=5",
-     "published": "2026-09-17T10:22:59Z",
-     "lang": "en",
-     "entities": [
-      "incursion",
-      "trump"
-     ],
-     "source_name": "streamlinefeed.co.ke",
-     "source_domain": "streamlinefeed.co.ke",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",

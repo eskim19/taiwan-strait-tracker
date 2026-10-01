@@ -1,7 +1,67 @@
 {
  "month": "2026-10",
- "n_events": 14,
+ "n_events": 15,
  "events": [
+  {
+   "id": "evt_20261001_0f9670",
+   "headline": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-10-01T14:00:31Z",
+   "last_seen": "2026-10-01T14:00:31Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "58f5a26e1e427c2c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "58f5a26e1e427c2c",
+     "title": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+     "url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
+     "published": "2026-10-01T14:00:31Z",
+     "lang": "en",
+     "entities": [
+      "missile",
+      "taiwan_strait"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261001_091c43",
    "headline": "【即時短評】台海安全豈能寄望於習近平健不健康？",
@@ -386,11 +446,11 @@
   },
   {
    "id": "evt_20261001_04214c",
-   "headline": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn?oc=5",
+   "headline": "U.S. sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+   "headline_source": "Japan Times",
+   "headline_url": "https://www.japantimes.co.jp/news/2026/10/01/asia-pacific/us-taiwan-invasion-timeline/",
    "headline_lang": "en",
-   "first_seen": "2026-10-01T05:02:00Z",
+   "first_seen": "2026-10-01T06:21:00Z",
    "last_seen": "2026-10-01T06:21:00Z",
    "langs": [
     "en"
@@ -420,29 +480,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "d09d8c75f5b38cb1",
      "09f3e0ce2ebde54b"
     ]
    },
    "articles": [
-    {
-     "id": "d09d8c75f5b38cb1",
-     "title": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn?oc=5",
-     "published": "2026-10-01T05:02:00Z",
-     "lang": "en",
-     "entities": [
-      "invasion"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": true
-    },
     {
      "id": "09f3e0ce2ebde54b",
      "title": "U.S. sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
