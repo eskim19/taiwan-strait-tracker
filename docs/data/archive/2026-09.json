@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 985,
+ "n_events": 987,
  "events": [
   {
    "id": "evt_20260930_dcff73",
@@ -2752,6 +2752,70 @@
    ]
   },
   {
+   "id": "evt_20260929_c6c277",
+   "headline": "共軍3架軍機、5艘軍艦、4艘公務船在台海周邊活動 1架軍機越過海峽中線",
+   "headline_source": "放言Fount Media",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02ZVBsa2tFOE0xeVBWS0Z6MnlKbm85ZnNkNEVKeGFmS3NhbG4xMlJBZ1JPQ3N0UXlDc0N0Wjg3MGdFVENHTmVSaDM1djFTSF9vLVE?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-29T04:43:48Z",
+   "last_seen": "2026-09-29T04:43:48Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "aaafdcff08d4df69"
+    ]
+   },
+   "articles": [
+    {
+     "id": "aaafdcff08d4df69",
+     "title": "共軍3架軍機、5艘軍艦、4艘公務船在台海周邊活動 1架軍機越過海峽中線",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02ZVBsa2tFOE0xeVBWS0Z6MnlKbm85ZnNkNEVKeGFmS3NhbG4xMlJBZ1JPQ3N0UXlDc0N0Wjg3MGdFVENHTmVSaDM1djFTSF9vLVE?oc=5",
+     "published": "2026-09-29T04:43:48Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "median_line",
+      "pla",
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "放言Fount Media",
+     "source_domain": "fountmedia.io",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260929_ceabe0",
    "headline": "Taiwan Detects 3 Chinese Military Aircraft, 6 Warships Near Island; One Enters Air Defence Zone",
    "headline_source": "Patrika News",
@@ -2993,6 +3057,66 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260929_ede05c",
+   "headline": "“月是故乡明”2026海峡两岸（漳州）中秋晚会在福建漳州西湖上演",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcTJZT21DOHE1eHRaMHZXV2pwVVhMSE1BU19fYzNYaV93TjVCQmtVellQUzhlZG84R3JpTm9IYXJ2NmY1S1VCWGNvUXl2VTZ1eU1fZW1ES3ZKMVB2Zl96X3FYeXMwWTFCaWU5WVVId3lpQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-29T01:37:41Z",
+   "last_seen": "2026-09-29T01:37:41Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "103d48c63ba62154"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "103d48c63ba62154",
+     "title": "“月是故乡明”2026海峡两岸（漳州）中秋晚会在福建漳州西湖上演",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5OcTJZT21DOHE1eHRaMHZXV2pwVVhMSE1BU19fYzNYaV93TjVCQmtVellQUzhlZG84R3JpTm9IYXJ2NmY1S1VCWGNvUXl2VTZ1eU1fZW1ES3ZKMVB2Zl96X3FYeXMwWTFCaWU5WVVId3lpQQ?oc=5",
+     "published": "2026-09-29T01:37:41Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
      "hedged": false
     }
    ]
@@ -3868,7 +3992,7 @@
   {
    "id": "evt_20260928_13ddb6",
    "headline": "Why China Keeps Testing Taiwan With Daily Air And Naval Sort",
-   "headline_source": "ИФЗ РАН",
+   "headline_source": "geosirius.ifz.ru",
    "headline_url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNdTRzcU1wNEpULTYta2RzcEZqMURqSU1VLU5WZEs0SDJxcTFNeFYyNnkzdkU1LVNuRVhiOXl5SV8wWWs4TWVnMDFkeWpGZVNRb1RyV0tDX0NsTHJ4M09ETW9BWW9NYW9NZVlBYU1rODQtZEJBNUJiUXE2d21tT2lRRw?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-28T10:47:46Z",
@@ -3912,7 +4036,7 @@
      "published": "2026-09-28T10:47:46Z",
      "lang": "en",
      "entities": [],
-     "source_name": "ИФЗ РАН",
+     "source_name": "geosirius.ifz.ru",
      "source_domain": "geosirius.ifz.ru",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5446,86 +5570,6 @@
    ]
   },
   {
-   "id": "evt_20260927_5aa028",
-   "headline": "US 'very much' understands Taiwan's defence needs, Taipei official says",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSklOdXR1UFFJd0gyNmY0V2hjbnp4VU40WnpSWjdJSm5fU1MwNlpPSHU5WnpIcHNrcW0tSEVVbnZwMVVzMTVmN0s5Q0FiUnBjN1drdFdxUzNfNmNRVHhvNk1HNG9TdE42bjFHVlJNZURHMDZTb3MwTk5tY24zNmpZT1psWWxRTnpOUkFuRzFHUFUteXRuSmd0WFRWVGRKZnBkeE5Yakc0ZkxoTFhVajNuMWlPNzlaZw?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-27T02:44:00Z",
-   "last_seen": "2026-09-27T09:35:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 34.4,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "29d2891de74694f4",
-     "b46d550777c148bf"
-    ]
-   },
-   "articles": [
-    {
-     "id": "29d2891de74694f4",
-     "title": "US 'very much' understands Taiwan's defence needs, Taipei official says",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSklOdXR1UFFJd0gyNmY0V2hjbnp4VU40WnpSWjdJSm5fU1MwNlpPSHU5WnpIcHNrcW0tSEVVbnZwMVVzMTVmN0s5Q0FiUnBjN1drdFdxUzNfNmNRVHhvNk1HNG9TdE42bjFHVlJNZURHMDZTb3MwTk5tY24zNmpZT1psWWxRTnpOUkFuRzFHUFUteXRuSmd0WFRWVGRKZnBkeE5Yakc0ZkxoTFhVajNuMWlPNzlaZw?oc=5",
-     "published": "2026-09-27T02:44:00Z",
-     "lang": "en",
-     "entities": [
-      "taipei"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "b46d550777c148bf",
-     "title": "US Understands Taiwan’s Defense Needs, Taipei Says Amid Security Concerns",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOFdZbW5UZEQ0OWV2Q1VwNWtqdzEtRWhyTVNoa3RmbGNjWUs4V1ZGNGlqNzFSN1hBX3NIVHQzZVNzMmhxZUxCMl81UTVtS0l6VWttTXlFaVB2VjUwTzhOUmRGNDhpXzJkTGZhUDZZSUZmdnQ4UVJqYTdMZF9jVWloZXczS0FaMGFCMElVS0V2UWdwQ2hEUVBMcHFXRmIxVnRMaVBRQXdnbE5Cdm1WUnZJ?oc=5",
-     "published": "2026-09-27T09:35:00Z",
-     "lang": "en",
-     "entities": [
-      "taipei"
-     ],
-     "source_name": "Modern Diplomacy",
-     "source_domain": "moderndiplomacy.eu",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260927_6ea6b2",
    "headline": "川習會落幕台海未成焦點！國安人士揭美中新常態",
    "headline_source": "中國時報",
@@ -5953,6 +5997,67 @@
      "source_domain": "japantimes.co.jp",
      "tier": "T2",
      "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260927_5aa028",
+   "headline": "US 'very much' understands Taiwan's defence needs, Taipei official says",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSklOdXR1UFFJd0gyNmY0V2hjbnp4VU40WnpSWjdJSm5fU1MwNlpPSHU5WnpIcHNrcW0tSEVVbnZwMVVzMTVmN0s5Q0FiUnBjN1drdFdxUzNfNmNRVHhvNk1HNG9TdE42bjFHVlJNZURHMDZTb3MwTk5tY24zNmpZT1psWWxRTnpOUkFuRzFHUFUteXRuSmd0WFRWVGRKZnBkeE5Yakc0ZkxoTFhVajNuMWlPNzlaZw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-27T02:44:00Z",
+   "last_seen": "2026-09-27T02:44:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 34.4,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "29d2891de74694f4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "29d2891de74694f4",
+     "title": "US 'very much' understands Taiwan's defence needs, Taipei official says",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSklOdXR1UFFJd0gyNmY0V2hjbnp4VU40WnpSWjdJSm5fU1MwNlpPSHU5WnpIcHNrcW0tSEVVbnZwMVVzMTVmN0s5Q0FiUnBjN1drdFdxUzNfNmNRVHhvNk1HNG9TdE42bjFHVlJNZURHMDZTb3MwTk5tY24zNmpZT1psWWxRTnpOUkFuRzFHUFUteXRuSmd0WFRWVGRKZnBkeE5Yakc0ZkxoTFhVajNuMWlPNzlaZw?oc=5",
+     "published": "2026-09-27T02:44:00Z",
+     "lang": "en",
+     "entities": [
+      "taipei"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
@@ -11743,45 +11848,65 @@
    ]
   },
   {
-   "id": "evt_20260924_ad5bb7",
-   "headline": "MOFA hails support from 8 nations on Taiwan Strait status quo",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE4wTXltT2xLaUtleE9nUk95WVlTR2hHVjJMNVp6UFNSUEE4NDFMOFNnd2Q5Z2ZQdnZHUmlMQUtRSk5qREhWSVJYVDdHYmYzS0s5X2JZQzZuSQ?oc=5",
+   "id": "evt_20260923_ad5bb7",
+   "headline": "MOFA thanks eight countries for backing Taiwan Strait ‘status quo’",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vcFN1cG1yOFdLQ29CR2pTVG1XbnE5ekNpSGFCZ3VlQ2EtclZhZmRwUHpEYWZ3LVh3U2NKcmptNWZiQUhSRjFITGp5bFg4clZ0MzF4c1NRTzJBTzhqYnhpZWxRaHNWbU5fV1VZRnZuSzhKV3d4OTZPamNB?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-09-24T04:58:00Z",
+   "first_seen": "2026-09-23T16:00:00Z",
    "last_seen": "2026-09-24T04:58:00Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "score": 45.1,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
+     "independent",
      "tw_state"
     ],
-    "top_tier": "T3",
+    "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "대만 국영·정부 발표만 존재"
+     "독립 출처 2곳",
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "b19d3e2b1f6b561e",
      "73992e10916a6a50"
     ]
    },
    "articles": [
+    {
+     "id": "b19d3e2b1f6b561e",
+     "title": "MOFA thanks eight countries for backing Taiwan Strait ‘status quo’",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1vcFN1cG1yOFdLQ29CR2pTVG1XbnE5ekNpSGFCZ3VlQ2EtclZhZmRwUHpEYWZ3LVh3U2NKcmptNWZiQUhSRjFITGp5bFg4clZ0MzF4c1NRTzJBTzhqYnhpZWxRaHNWbU5fV1VZRnZuSzhKV3d4OTZPamNB?oc=5",
+     "published": "2026-09-23T16:00:00Z",
+     "lang": "en",
+     "entities": [
+      "status_quo",
+      "taiwan_strait"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
     {
      "id": "73992e10916a6a50",
      "title": "MOFA hails support from 8 nations on Taiwan Strait status quo",
@@ -16623,143 +16748,6 @@
    ]
   },
   {
-   "id": "evt_20260920_193f11",
-   "headline": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
-   "headline_source": "Bloomberg",
-   "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-20T07:00:00Z",
-   "last_seen": "2026-09-22T07:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 36.5,
-    "n_independent": 1,
-    "n_articles": 5,
-    "n_domains": 5,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영",
-     "Bloomberg 원고를 Japan Times·The Star·AFP 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "0346a065b9a53857",
-     "c8ca52fb1a4e43ef",
-     "ca1a99576ed66aa0",
-     "130fde0345c8d632",
-     "186f187f04fc2080"
-    ]
-   },
-   "articles": [
-    {
-     "id": "0346a065b9a53857",
-     "title": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
-     "published": "2026-09-20T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Bloomberg",
-     "source_domain": "bloomberg.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "c8ca52fb1a4e43ef",
-     "title": "New Zealand naval ships transit contested Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFZtbmZCMkhwQ20wUHNkcGQtYUlXYmpkaXA5aXJQV2Q5ME04VGEwaGhMVkRTMGJ4QjVBQkI2RFZDUUdpYzNZOEFpaHE4VkVkb21VdUhkbTNWT0xidWVtZmVWRWR0eWxNamhSNDBic1htRFNjSE1heFVVM0FlT1V4TU92RTN6MDE2S081RERwcnlWNWc?oc=5",
-     "published": "2026-09-21T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "ca1a99576ed66aa0",
-     "title": "New Zealand says naval ships made ‘routine’ transit of Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWdzSXIzTlhnNmpxM2RPZzZXbFZYVmZuSnkxLWZOOVRqMmpLa3Bhd09sT0NOT214dmhqZGwyUTdsbVY3ek5Hc0l3cnFFNEJ4bTZJQ3RYdzhRYzFCcDhZSHpyaURiRFp5N1k3aFZpOVF0QUxmelA4YXNIbk9wblNUT1pDbERYYXJKVnpxcGhubERjTmhsOWhPa3F6eW9mZEY4TExyTlUxeVlFc3M3QVItb3JiLWw4dzc3X0tzTzlyNU5QREc1N21RTw?oc=5",
-     "published": "2026-09-21T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "The Star",
-     "source_domain": "thestar.com.my",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "130fde0345c8d632",
-     "title": "Two New Zealand naval ships transit Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CSDFhMV9mZGw4QlNkaTRaaGQ2LUthWlhJWVk1b0w3bUVIOVpnRDBVdFZibVdMNGJUbFlfVDAzT2h3aWo2SGdvejU1MA?oc=5",
-     "published": "2026-09-22T04:11:55Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "AFP",
-     "source_domain": "afp.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "186f187f04fc2080",
-     "title": "Two New Zealand navy ships transit Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8xSld4bFZ3b0k0VV80R1VLdDczWE9xTTI2QnRicThTQjNnNkdaUzJrNUpkM09QUkRiM1NreENkQTZmU1NjNER3WFBKaVQ3UDJSeUJjT0ZBUzY5elBDdmtHUjgtT3pLSUYzcjN5bEMzZTljcEhVX0FQT25B?oc=5",
-     "published": "2026-09-22T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260922_e8e72b",
    "headline": "共軍4架次軍機、7艘軍艦、4艘公務船在台海周邊活動 3架次越過中線",
    "headline_source": "放言Fount Media",
@@ -17626,6 +17614,124 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260920_193f11",
+   "headline": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
+   "headline_source": "Bloomberg",
+   "headline_url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-20T07:00:00Z",
+   "last_seen": "2026-09-22T04:11:55Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 36.5,
+    "n_independent": 1,
+    "n_articles": 5,
+    "n_domains": 5,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영",
+     "Bloomberg 원고를 Japan Times·The Star·AFP 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0346a065b9a53857",
+     "c8ca52fb1a4e43ef",
+     "ca1a99576ed66aa0",
+     "130fde0345c8d632"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0346a065b9a53857",
+     "title": "NZ Says Naval Ships Made ‘Routine’ Transit of Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOYUhSQ3JwSFVwVWtQRTU4MkJPZUZnN2U2VTExRFhYY2dVRHB2SGMwWFkxOEZQdFllTE1jU2pGek9iYVJSUUJ6QUhhc240dVJSMUlDMlRkb2ZZNmRzTzlRb2FVbTVpZWVnMnpkMHpnMXBwSGpZS1ZpSjRUbEVnYlBVaVM5VlFWX2phQ09jbjA5Q19OeDlvMzJKZzJJWWltZjZiXzUwSFZaODd2UUI3czdR?oc=5",
+     "published": "2026-09-20T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Bloomberg",
+     "source_domain": "bloomberg.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "c8ca52fb1a4e43ef",
+     "title": "New Zealand naval ships transit contested Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPcFZtbmZCMkhwQ20wUHNkcGQtYUlXYmpkaXA5aXJQV2Q5ME04VGEwaGhMVkRTMGJ4QjVBQkI2RFZDUUdpYzNZOEFpaHE4VkVkb21VdUhkbTNWT0xidWVtZmVWRWR0eWxNamhSNDBic1htRFNjSE1heFVVM0FlT1V4TU92RTN6MDE2S081RERwcnlWNWc?oc=5",
+     "published": "2026-09-21T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ca1a99576ed66aa0",
+     "title": "New Zealand says naval ships made ‘routine’ transit of Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWdzSXIzTlhnNmpxM2RPZzZXbFZYVmZuSnkxLWZOOVRqMmpLa3Bhd09sT0NOT214dmhqZGwyUTdsbVY3ek5Hc0l3cnFFNEJ4bTZJQ3RYdzhRYzFCcDhZSHpyaURiRFp5N1k3aFZpOVF0QUxmelA4YXNIbk9wblNUT1pDbERYYXJKVnpxcGhubERjTmhsOWhPa3F6eW9mZEY4TExyTlUxeVlFc3M3QVItb3JiLWw4dzc3X0tzTzlyNU5QREc1N21RTw?oc=5",
+     "published": "2026-09-21T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "The Star",
+     "source_domain": "thestar.com.my",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "130fde0345c8d632",
+     "title": "Two New Zealand naval ships transit Taiwan Strait",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1CSDFhMV9mZGw4QlNkaTRaaGQ2LUthWlhJWVk1b0w3bUVIOVpnRDBVdFZibVdMNGJUbFlfVDAzT2h3aWo2SGdvejU1MA?oc=5",
+     "published": "2026-09-22T04:11:55Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "AFP",
+     "source_domain": "afp.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -21851,7 +21957,7 @@
   {
    "id": "evt_20260921_99cdaa",
    "headline": "Why Luckin Coffee struggles to cross the Taiwan Strait",
-   "headline_source": "thinkchina.sg",
+   "headline_source": "ThinkChina",
    "headline_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQd3QtNkFyV1FzYTNZT3VEaUZpdTAtOVZnXzZkendvQnllSHJNMmtCak01c2pySTFKQU5LTDhUbUVLb2Fyc1JIWmdPQVFaZTlqSm5uTmQtNWpzNWZhUzdZVFJKTFQ3dE5tWVkzODQyMnNzcmpMakRDeE41VGs4WGdZUnRFckNHWE1V?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-21T05:38:41Z",
@@ -21897,7 +22003,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "thinkchina.sg",
+     "source_name": "ThinkChina",
      "source_domain": "thinkchina.sg",
      "tier": "T5",
      "tier_label": "미분류",
