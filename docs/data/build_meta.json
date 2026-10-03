@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-03T05:22:23Z",
+ "updated": "2026-10-03T11:43:16Z",
  "checked": "2026-10-03",
- "duration_sec": 35.3,
+ "duration_sec": 33.1,
  "rolling_days": 14,
- "n_events": 476,
- "n_articles": 537,
+ "n_events": 470,
+ "n_articles": 533,
  "grades": {
+  "A": 2,
   "C": 209,
-  "D": 240,
-  "B": 26,
-  "A": 1
+  "D": 234,
+  "B": 25
  },
  "cross_language_events": 5,
  "tension_error": null,
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 227,
-  "T3": 82,
+  "T2": 228,
+  "T3": 81,
   "T4": 21,
-  "T5": 162,
+  "T5": 159,
   "TA": 3
  },
  "t1_domains": [
@@ -46,7 +46,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 22,
+   "n_adopted": 23,
    "newest": "2026-10-01T14:00:31+00:00",
    "stale": false,
    "error": null
@@ -58,8 +58,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 36,
+   "n_entries": 52,
+   "n_adopted": 37,
    "newest": "2026-10-03T03:15:58+00:00",
    "stale": false,
    "error": null
@@ -72,7 +72,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
+   "n_adopted": 2,
    "newest": "2026-10-02T12:57:31+00:00",
    "stale": false,
    "error": null
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 70,
-   "newest": "2026-10-03T02:16:00+00:00",
+   "n_adopted": 73,
+   "newest": "2026-10-03T08:36:35+00:00",
    "stale": false,
    "error": null
   },
@@ -98,8 +98,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-10-02T08:50:00+00:00",
+   "n_adopted": 6,
+   "newest": "2026-10-03T05:29:00+00:00",
    "stale": false,
    "error": null
   },
@@ -112,7 +112,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 17,
-   "newest": "2026-10-03T02:25:59+00:00",
+   "newest": "2026-10-03T05:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
-   "n_adopted": 3,
-   "newest": "2026-10-03T04:41:54+00:00",
+   "n_entries": 60,
+   "n_adopted": 5,
+   "newest": "2026-10-03T10:56:21+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-03T04:00:14+00:00",
+   "newest": "2026-10-03T11:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-03T04:32:00+00:00",
+   "newest": "2026-10-03T05:03:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 105,
    "n_adopted": 0,
-   "newest": "2026-10-03T05:15:39+00:00",
+   "newest": "2026-10-03T11:18:01+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +216,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-02T22:59:05+00:00",
+   "newest": "2026-10-03T11:20:21+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-03T04:58:43+00:00",
+   "newest": "2026-10-03T11:16:43+00:00",
    "stale": false,
    "error": null
   },
@@ -250,7 +250,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 17,
+   "n_articles": 16,
    "sample_title": "美中大國博弈再升級 2026東亞局勢研討會聚焦台海風險 | 太報"
   },
   {
@@ -324,6 +324,11 @@
    "sample_title": "大陸漁船東沙島附近作業 遭台海巡艦射水炮驅逐"
   },
   {
+   "domain": "news.cnyes.com",
+   "n_articles": 2,
+   "sample_title": "路透社：美國官員研判2027年共軍犯台可能性降低"
+  },
+  {
    "domain": "turkiyetoday.com",
    "n_articles": 2,
    "sample_title": "US sees China invasion of Taiwan unlikely before 2028: Report"
@@ -342,11 +347,6 @@
    "domain": "fakti.bg",
    "n_articles": 2,
    "sample_title": "Taiwan detects Chinese military aircraft and ships around island ᐉ News from Fak"
-  },
-  {
-   "domain": "militarywatchmagazine.com",
-   "n_articles": 2,
-   "sample_title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles Du"
   }
  ]
 }
