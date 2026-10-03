@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-02T22:17:23Z",
- "checked": "2026-10-02",
- "duration_sec": 35.0,
+ "updated": "2026-10-03T05:22:23Z",
+ "checked": "2026-10-03",
+ "duration_sec": 35.3,
  "rolling_days": 14,
- "n_events": 478,
- "n_articles": 539,
+ "n_events": 476,
+ "n_articles": 537,
  "grades": {
-  "C": 214,
-  "A": 1,
-  "B": 25,
-  "D": 238
+  "C": 209,
+  "D": 240,
+  "B": 26,
+  "A": 1
  },
- "cross_language_events": 3,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-09",
@@ -20,11 +20,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 20,
-  "T2": 228,
-  "T3": 84,
+  "T2": 227,
+  "T3": 82,
   "T4": 21,
-  "T5": 161,
-  "TA": 2
+  "T5": 162,
+  "TA": 3
  },
  "t1_domains": [
   "afp.com",
@@ -46,7 +46,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 23,
+   "n_adopted": 22,
    "newest": "2026-10-01T14:00:31+00:00",
    "stale": false,
    "error": null
@@ -58,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
+   "n_entries": 51,
    "n_adopted": 36,
-   "newest": "2026-10-02T19:31:53+00:00",
+   "newest": "2026-10-03T03:15:58+00:00",
    "stale": false,
    "error": null
   },
@@ -72,8 +72,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-10-02T06:03:00+00:00",
+   "n_adopted": 3,
+   "newest": "2026-10-02T12:57:31+00:00",
    "stale": false,
    "error": null
   },
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 71,
-   "newest": "2026-10-02T21:51:10+00:00",
+   "n_adopted": 70,
+   "newest": "2026-10-03T02:16:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,8 +111,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-10-02T14:31:00+00:00",
+   "n_adopted": 17,
+   "newest": "2026-10-03T02:25:59+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
+   "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-10-02T12:55:24+00:00",
+   "newest": "2026-10-03T04:41:54+00:00",
    "stale": false,
    "error": null
   },
@@ -150,8 +150,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-10-02T22:00:09+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-03T04:00:14+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-02T12:05:00+00:00",
+   "newest": "2026-10-03T04:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 102,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-10-02T21:47:07+00:00",
+   "newest": "2026-10-03T05:15:39+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +216,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-02T11:52:04+00:00",
+   "newest": "2026-10-02T22:59:05+00:00",
    "stale": false,
    "error": null
   },
@@ -228,8 +228,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 25,
-   "n_adopted": 1,
-   "newest": "2026-10-02T21:59:26+00:00",
+   "n_adopted": 0,
+   "newest": "2026-10-03T04:58:43+00:00",
    "stale": false,
    "error": null
   },
@@ -250,7 +250,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
+   "n_articles": 17,
    "sample_title": "美中大國博弈再升級 2026東亞局勢研討會聚焦台海風險 | 太報"
   },
   {
@@ -269,14 +269,14 @@
    "sample_title": "路透社：美國官員研判2027年共軍犯台可能性降低- 股市爆料同學會"
   },
   {
+   "domain": "worldjournal.com",
+   "n_articles": 5,
+   "sample_title": "台海巡驅離陸漁船暖心供35份餐點 網歪樓：給小卷吃"
+  },
+  {
    "domain": "fountmedia.io",
    "n_articles": 5,
    "sample_title": "共軍3架軍機、5艘軍艦、4艘公務船在台海周邊活動 1架軍機越過海峽中線"
-  },
-  {
-   "domain": "worldjournal.com",
-   "n_articles": 4,
-   "sample_title": "中漁船違法遭台海巡水砲驅離 國台辦：後果台方自負"
   },
   {
    "domain": "mirrordaily.news",
@@ -294,6 +294,11 @@
    "sample_title": "習近平臉綠了「共軍攻台計畫」12版本全到了Claude手上"
   },
   {
+   "domain": "ftnn.com.tw",
+   "n_articles": 3,
+   "sample_title": "中共十一國慶前夕37共機艦擾台 國軍嚴密監控應處"
+  },
+  {
    "domain": "hk.crntt.com",
    "n_articles": 3,
    "sample_title": "倪永傑：兩岸進入“順勢而統”的新時代"
@@ -309,14 +314,14 @@
    "sample_title": "川習二會｜習近平白宮會川普談台海、中東 促美方「反對台獨」並盼美伊重返談判"
   },
   {
+   "domain": "orientaldaily.on.cc",
+   "n_articles": 2,
+   "sample_title": "陸漁船東沙島旁作業 遭台海巡水炮驅離"
+  },
+  {
    "domain": "hk.on.cc",
    "n_articles": 2,
    "sample_title": "大陸漁船東沙島附近作業 遭台海巡艦射水炮驅逐"
-  },
-  {
-   "domain": "news.cnyes.com",
-   "n_articles": 2,
-   "sample_title": "路透社：美國官員研判2027年共軍犯台可能性降低"
   },
   {
    "domain": "turkiyetoday.com",
@@ -342,11 +347,6 @@
    "domain": "militarywatchmagazine.com",
    "n_articles": 2,
    "sample_title": "Republic of China Army Integrates U.S. HIMARS with Drones and Cruise Missiles Du"
-  },
-  {
-   "domain": "ftnn.com.tw",
-   "n_articles": 2,
-   "sample_title": "川習二會前夕！美日韓外長聯合聲明重申「台海和平穩定」 總統府回應了"
   }
  ]
 }
