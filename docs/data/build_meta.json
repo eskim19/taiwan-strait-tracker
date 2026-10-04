@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-04T18:39:52Z",
+ "updated": "2026-10-04T23:58:26Z",
  "checked": "2026-10-04",
- "duration_sec": 37.6,
+ "duration_sec": 35.7,
  "rolling_days": 14,
- "n_events": 455,
- "n_articles": 515,
+ "n_events": 456,
+ "n_articles": 513,
  "grades": {
+  "C": 206,
   "D": 226,
-  "C": 205,
   "A": 1,
   "B": 23
  },
@@ -20,7 +20,7 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 18,
-  "T2": 220,
+  "T2": 218,
   "T3": 73,
   "T4": 22,
   "T5": 155,
@@ -56,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 32,
-   "newest": "2026-10-04T09:00:00+00:00",
+   "n_entries": 53,
+   "n_adopted": 33,
+   "newest": "2026-10-04T13:40:13+00:00",
    "stale": false,
    "error": null
   },
@@ -83,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 75,
-   "newest": "2026-10-04T15:13:53+00:00",
+   "n_adopted": 72,
+   "newest": "2026-10-04T22:42:09+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +110,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 14,
-   "newest": "2026-10-04T11:24:00+00:00",
+   "newest": "2026-10-04T23:49:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-04T14:00:06+00:00",
+   "newest": "2026-10-04T22:00:17+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-04T17:30:00+00:00",
+   "newest": "2026-10-04T20:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 106,
+   "n_entries": 107,
    "n_adopted": 0,
-   "newest": "2026-10-04T14:10:08+00:00",
+   "newest": "2026-10-04T21:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -212,9 +212,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 18,
+   "n_entries": 19,
    "n_adopted": 0,
-   "newest": "2026-10-04T14:36:57+00:00",
+   "newest": "2026-10-04T22:11:33+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-04T18:34:30+00:00",
+   "newest": "2026-10-04T23:22:02+00:00",
    "stale": false,
    "error": null
   },
@@ -307,11 +307,6 @@
    "sample_title": "川習二會｜習近平白宮會川普談台海、中東 促美方「反對台獨」並盼美伊重返談判"
   },
   {
-   "domain": "orientaldaily.on.cc",
-   "n_articles": 2,
-   "sample_title": "陸漁船東沙島旁作業 遭台海巡水炮驅離"
-  },
-  {
    "domain": "hk.on.cc",
    "n_articles": 2,
    "sample_title": "大陸漁船東沙島附近作業 遭台海巡艦射水炮驅逐"
@@ -345,6 +340,11 @@
    "domain": "n.yam.com",
    "n_articles": 2,
    "sample_title": "東海、台海、南海緊張升溫 陸方改變態度將盡快簽署兩軍危機溝通與預防備忘錄"
+  },
+  {
+   "domain": "fakti.bg",
+   "n_articles": 2,
+   "sample_title": "Taiwan detects Chinese military aircraft and ships around island ᐉ News from Fak"
   }
  ]
 }
