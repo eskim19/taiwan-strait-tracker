@@ -1,7 +1,126 @@
 {
  "month": "2026-10",
- "n_events": 80,
+ "n_events": 83,
  "events": [
+  {
+   "id": "evt_20261004_00b339",
+   "headline": "三國演議-美中降溫 台海喘息（ 王智盛 ）1004",
+   "headline_source": "美洲台灣日報",
+   "headline_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZGc4Q3dJNFY5RTRDSVJVd1l2Y2Eyb0Fyb2JzMldGRHFDUWhsT2NOaFBwcksydzY2cHBOWFJmSlBXYmpZZURYUU5ZUlRKenFvRjhjYlRlQVM5U2dhbk1SUzNCcWhkVWdWUXI2VEFJbjUyREw3SGlF?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-04T11:54:17Z",
+   "last_seen": "2026-10-04T11:54:17Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d8076e88dc2a02d5"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d8076e88dc2a02d5",
+     "title": "三國演議-美中降溫 台海喘息（ 王智盛 ）1004",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZGc4Q3dJNFY5RTRDSVJVd1l2Y2Eyb0Fyb2JzMldGRHFDUWhsT2NOaFBwcksydzY2cHBOWFJmSlBXYmpZZURYUU5ZUlRKenFvRjhjYlRlQVM5U2dhbk1SUzNCcWhkVWdWUXI2VEFJbjUyREw3SGlF?oc=5",
+     "published": "2026-10-04T11:54:17Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "美洲台灣日報",
+     "source_domain": "taiwandaily.net",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261004_d0d4f7",
+   "headline": "旺報社評》台海降壓 台灣政治也該翻頁",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wb0NGbGJGVDhub3lJcEV3aVdrZDJtc01UWHdQNzJCYlN3ZmVmX0F2M250dS1RZk94YUktU1hDU01rR1ZVVEI5RVczMTg2RW1VUjhNR3JITmFsTkp0MjlxN3B2RHhZQUE?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-04T09:09:34Z",
+   "last_seen": "2026-10-04T09:09:34Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8149e720a9b76405"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8149e720a9b76405",
+     "title": "旺報社評》台海降壓 台灣政治也該翻頁",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0wb0NGbGJGVDhub3lJcEV3aVdrZDJtc01UWHdQNzJCYlN3ZmVmX0F2M250dS1RZk94YUktU1hDU01rR1ZVVEI5RVczMTg2RW1VUjhNR3JITmFsTkp0MjlxN3B2RHhZQUE?oc=5",
+     "published": "2026-10-04T09:09:34Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261004_84ada3",
    "headline": "今無共機擾台 7艘次共艦在台海周邊活動",
@@ -1404,6 +1523,65 @@
    ]
   },
   {
+   "id": "evt_20261002_c57e81",
+   "headline": "布達佩斯論壇登場賴怡忠：歐洲應更關注台海安全| 綜合 | 要聞",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3dzZKNE5lVU5ySkRjOXhVS1VLT3MyVmxqVlVESzN5b3RmMDhpVmhtNzZuZW1wcTcwa1BvVFk0bURNTG1kRWhQREd1SW5JMWZH?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-02T12:35:10Z",
+   "last_seen": "2026-10-02T12:35:10Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5a4cfd64d23c7781"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5a4cfd64d23c7781",
+     "title": "布達佩斯論壇登場賴怡忠：歐洲應更關注台海安全| 綜合 | 要聞",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3dzZKNE5lVU5ySkRjOXhVS1VLT3MyVmxqVlVESzN5b3RmMDhpVmhtNzZuZW1wcTcwa1BvVFk0bURNTG1kRWhQREd1SW5JMWZH?oc=5",
+     "published": "2026-10-02T12:35:10Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261002_9de3b4",
    "headline": "布達佩斯論壇登場賴怡忠：歐洲應更關注台海安全| 國際",
    "headline_source": "中央社 CNA",
@@ -1897,7 +2075,7 @@
       "beijing",
       "invasion"
      ],
-     "source_name": "Arise News",
+     "source_name": "arise.tv",
      "source_domain": "arise.tv",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4162,7 +4340,7 @@
     "reasons": [
      "등급표에 없는 매체만 보도",
      "최고 등급 미분류",
-     "Informat.ro 원고를 latestly.com 가 전재 — 1곳으로 계산",
+     "Informat.ro 원고를 LatestLY 가 전재 — 1곳으로 계산",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
@@ -4203,7 +4381,7 @@
       "invasion",
       "xi_jinping"
      ],
-     "source_name": "latestly.com",
+     "source_name": "LatestLY",
      "source_domain": "latestly.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -4476,11 +4654,11 @@
   },
   {
    "id": "evt_20261001_2c37ee",
-   "headline": "US sees China invasion of Taiwan unlikely before 2028",
-   "headline_source": "Latest news from Azerbaijan",
-   "headline_url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV3M5R3ZEVnVGeGFvd0ZVWlB0eWZ3Y2hpZ19nU3ZiVWRuQWwzUFU4RWk4MG5xLTZzOHA5eTlTYWlBa2tzZmhGQlBObG5yVWh5dTNhN2MzWTRfUWwxdVMweDkxOWJmNXJ3QjlWN0dudlFIM2t4ZWRlUDlZNlo2UnM?oc=5",
+   "headline": "US sees China invasion of Taiwan unlikely before 2028: Report",
+   "headline_source": "Türkiye Today",
+   "headline_url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbUFKMmF5ekJab3V2XzI0VGlUWWpIZV9vLXFMTHJna3ItcnVWUVppWjl6YWI3cVppVjk3c3dUZ2tuLXhyWGxOZEdxOXFscDRxbkg2TEUwS0xROUtQRDhDYl9HUU1odVhrZkUzNWVod3c5R0wtY3lYYlhIbWh3dk0yR1cyR25hdVpTdTRLaXEydTg5SlhBMjNMb0RBOTM5MmhFS2Y3OFF3?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-01T07:23:32Z",
+   "first_seen": "2026-10-01T07:49:19Z",
    "last_seen": "2026-10-01T07:49:19Z",
    "langs": [
     "en"
@@ -4511,29 +4689,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "97bfdf3beadba49c",
      "73854ca1b89f0eee"
     ]
    },
    "articles": [
-    {
-     "id": "97bfdf3beadba49c",
-     "title": "US sees China invasion of Taiwan unlikely before 2028",
-     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PV3M5R3ZEVnVGeGFvd0ZVWlB0eWZ3Y2hpZ19nU3ZiVWRuQWwzUFU4RWk4MG5xLTZzOHA5eTlTYWlBa2tzZmhGQlBObG5yVWh5dTNhN2MzWTRfUWwxdVMweDkxOWJmNXJ3QjlWN0dudlFIM2t4ZWRlUDlZNlo2UnM?oc=5",
-     "published": "2026-10-01T07:23:32Z",
-     "lang": "en",
-     "entities": [
-      "invasion"
-     ],
-     "source_name": "Latest news from Azerbaijan",
-     "source_domain": "news.az",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "73854ca1b89f0eee",
      "title": "US sees China invasion of Taiwan unlikely before 2028: Report",
@@ -4677,11 +4836,11 @@
   },
   {
    "id": "evt_20261001_12c0cf",
-   "headline": "中國單日出動37機艦擾台 國軍嚴密監控應處",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMGxNUGttQzVtS28xa2xGek1UTDVSVUJERGc3Nm4wS1pRZ3RzMGw1cUg4ZXF1OFQ1djB4cU5tUU9GVk85MnpfYlFKZHVQZmVXLTNieERDblZxUlFDa0ozcdIBZkFVX3lxTE16S1ZhU1BMMVhRcTJ4cWhXQ0VIN0cwNzNTbGp1WlMzV0puaUpaQjdfWkp3VXBEX25MRzJXcFFrUHF4TXFuVmVjckdIRC1HdmVpRDhmOUIzY0ZsbWotTDJFQ3BCbXpHZw?oc=5",
+   "headline": "中共37機艦船台海周邊活動 國軍嚴密監控應處",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeEFXcXVyeDFobG1Ub0Y0ZXhJdlRDQXRKeVkwcWhKdmthd2FJcURGSXBNZ2MzcW9SVDVLV3puazg0Wm1WbUllUXdSQ29aTlZYUXhndHkxZXdGd9IBX0FVX3lxTE1ORWo5eTR1YTNaNmRGLTFLOGJXVGVCVGVQaWVmQU02MkhUQURUaU42dzJudlp1cFdMakZCMzFLb2dISWppTC1lRXVaWE9FRVhNbjF5Z1kzQk5BcVk3cEc0?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-10-01T02:16:00Z",
+   "first_seen": "2026-10-01T02:22:37Z",
    "last_seen": "2026-10-01T04:48:00Z",
    "langs": [
     "zh"
@@ -4713,33 +4872,12 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "3a132e4971eaeca4",
      "14223745d17ee01d",
      "6258314a4f9a9adf",
      "561b314ef2f18ba6"
     ]
    },
    "articles": [
-    {
-     "id": "3a132e4971eaeca4",
-     "title": "中國單日出動37機艦擾台 國軍嚴密監控應處",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfMGxNUGttQzVtS28xa2xGek1UTDVSVUJERGc3Nm4wS1pRZ3RzMGw1cUg4ZXF1OFQ1djB4cU5tUU9GVk85MnpfYlFKZHVQZmVXLTNieERDblZxUlFDa0ozcdIBZkFVX3lxTE16S1ZhU1BMMVhRcTJ4cWhXQ0VIN0cwNzNTbGp1WlMzV0puaUpaQjdfWkp3VXBEX25MRzJXcFFrUHF4TXFuVmVjckdIRC1HdmVpRDhmOUIzY0ZsbWotTDJFQ3BCbXpHZw?oc=5",
-     "published": "2026-10-01T02:16:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "roc_military"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
     {
      "id": "14223745d17ee01d",
      "title": "中共37機艦船台海周邊活動 國軍嚴密監控應處",
