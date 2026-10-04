@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-03T21:20:39Z",
- "checked": "2026-10-03",
- "duration_sec": 56.5,
+ "updated": "2026-10-04T05:58:19Z",
+ "checked": "2026-10-04",
+ "duration_sec": 31.0,
  "rolling_days": 14,
- "n_events": 472,
- "n_articles": 535,
+ "n_events": 460,
+ "n_articles": 523,
  "grades": {
-  "C": 212,
-  "D": 234,
+  "C": 203,
+  "D": 231,
   "A": 2,
   "B": 24
  },
@@ -20,9 +20,9 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 19,
-  "T2": 231,
-  "T3": 81,
-  "T4": 21,
+  "T2": 221,
+  "T3": 77,
+  "T4": 22,
   "T5": 158,
   "TA": 3
  },
@@ -45,7 +45,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 25,
+   "n_adopted": 22,
    "newest": "2026-10-02T02:52:00+00:00",
    "stale": false,
    "error": null
@@ -57,9 +57,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
-   "n_adopted": 36,
-   "newest": "2026-10-03T03:15:58+00:00",
+   "n_entries": 51,
+   "n_adopted": 34,
+   "newest": "2026-10-03T04:07:52+00:00",
    "stale": false,
    "error": null
   },
@@ -71,7 +71,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
+   "n_adopted": 3,
    "newest": "2026-10-03T09:19:27+00:00",
    "stale": false,
    "error": null
@@ -84,8 +84,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 77,
-   "newest": "2026-10-03T17:28:12+00:00",
+   "n_adopted": 75,
+   "newest": "2026-10-04T03:14:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,7 +111,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 15,
-   "newest": "2026-10-03T15:05:33+00:00",
+   "newest": "2026-10-04T03:14:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +122,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 39,
+   "n_entries": 42,
    "n_adopted": 5,
-   "newest": "2026-10-03T11:26:24+00:00",
+   "newest": "2026-10-04T05:08:51+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +150,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-03T14:00:12+00:00",
+   "newest": "2026-10-04T04:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +163,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-03T05:03:00+00:00",
+   "newest": "2026-10-04T05:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,9 +200,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 106,
+   "n_entries": 104,
    "n_adopted": 0,
-   "newest": "2026-10-03T14:43:11+00:00",
+   "newest": "2026-10-04T05:11:25+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +215,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-03T14:27:33+00:00",
+   "newest": "2026-10-04T04:57:20+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +228,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-03T21:02:22+00:00",
+   "newest": "2026-10-04T05:28:38+00:00",
    "stale": false,
    "error": null
   },
@@ -255,7 +255,7 @@
   {
    "domain": "i-meihua.com",
    "n_articles": 10,
-   "sample_title": "台海若衝突...智庫揭動員萬艘船撤僑、東協成員國被迫與北京談判"
+   "sample_title": "2028恐成台海新危機轉折點 《外交事務》：習近平耐心恐告罄"
   },
   {
    "domain": "mnews.tw",
@@ -273,6 +273,11 @@
    "sample_title": "台海巡驅離陸漁船暖心供35份餐點 網歪樓：給小卷吃"
   },
   {
+   "domain": "ctee.com.tw",
+   "n_articles": 5,
+   "sample_title": "中美結構性競爭持續學者：雙方穩定不等於台海壓力下降- 兩岸"
+  },
+  {
    "domain": "fountmedia.io",
    "n_articles": 5,
    "sample_title": "共軍3架軍機、5艘軍艦、4艘公務船在台海周邊活動 1架軍機越過海峽中線"
@@ -283,11 +288,6 @@
    "sample_title": "台海議題未成川習會交易焦點 國安人士揭美中「高頻溝通、高強競爭」新常態"
   },
   {
-   "domain": "ctee.com.tw",
-   "n_articles": 4,
-   "sample_title": "政務次長吳志中：維護台海穩定須建立三個支柱- 要聞"
-  },
-  {
    "domain": "mobile01.com",
    "n_articles": 3,
    "sample_title": "習近平臉綠了「共軍攻台計畫」12版本全到了Claude手上"
@@ -296,11 +296,6 @@
    "domain": "ftnn.com.tw",
    "n_articles": 3,
    "sample_title": "中共十一國慶前夕37共機艦擾台 國軍嚴密監控應處"
-  },
-  {
-   "domain": "hk.crntt.com",
-   "n_articles": 3,
-   "sample_title": "倪永傑：兩岸進入“順勢而統”的新時代"
   },
   {
    "domain": "moneyweekly.com.tw",
@@ -336,6 +331,11 @@
    "domain": "bankingnews.gr",
    "n_articles": 2,
    "sample_title": "Xi's purges in the Chinese military - Risk of uncontrolled conflict with Taiwan"
+  },
+  {
+   "domain": "hk.crntt.com",
+   "n_articles": 2,
+   "sample_title": "倪永傑：兩岸進入“順勢而統”的新時代"
   },
   {
    "domain": "bairdmaritime.com",
