@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 991,
+ "n_events": 992,
  "events": [
   {
    "id": "evt_20260930_0f9670",
@@ -540,7 +540,7 @@
   {
    "id": "evt_20260930_1409d2",
    "headline": "Xi's purges in the Chinese military - Risk of uncontrolled conflict with Taiwan",
-   "headline_source": "Bankingnews",
+   "headline_source": "bankingnews.gr",
    "headline_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTThscGtBNDFhWDNjT2ZxNDhzVEhlVmdZLXYta1hMU3VfSGdKZXU5NTFHbnI4ekVhWndXY0pnTUlNaUMtOGFaeGtaWXBZTk1kNERjTUFwVEFOU0swN3lHSUFWaTJra2pOR2VKUi1ibElTZGtva05TQzl0dWppV1ZDZ1Vhd3ZDY010UzJRczI2cHBxRU9kT3U1Yjk1YkdkVkN1M0V5dUdYNGZCZ1hEODhKX2ZIZVVXTU9RS2tsZWVKV0xSN1RrN2xF?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-09-30T10:46:11Z",
@@ -584,7 +584,7 @@
      "published": "2026-09-30T10:46:11Z",
      "lang": "en",
      "entities": [],
-     "source_name": "Bankingnews",
+     "source_name": "bankingnews.gr",
      "source_domain": "bankingnews.gr",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1259,6 +1259,65 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260930_7f595f",
+   "headline": "Taiwan taps US tech for sea drones to fend off China's vast maritime fleet",
+   "headline_source": "Nikkei",
+   "headline_url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHMyWDVwUmYxSUQweUhtdVhJaEFvSDdrY2NvazhNazd5STZkR3pLaTdRWkNHYTU4TkMwU2FjUHc2NEtpLWpiS2MxZGZBWmJiYjJuU3pXSjdsd3FEeHF0OUd0Y1hCS0NvQTFIR3lldDFFZ0VFRzE4cWtmTHB5MmRrUVYyczhFQ0w5YkdLbjlUY0poYUR2UGRJVTdyOUhtZzhJRFZaT1BHVm5yMm54LXB1bUdWbGx2RjFCb0hIQS0wWG9fSWVRSHJ3dFA1UWQybjVhbmc?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-30T04:30:00Z",
+   "last_seen": "2026-09-30T04:30:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f003c57cabf7810d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f003c57cabf7810d",
+     "title": "Taiwan taps US tech for sea drones to fend off China's vast maritime fleet",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOaHMyWDVwUmYxSUQweUhtdVhJaEFvSDdrY2NvazhNazd5STZkR3pLaTdRWkNHYTU4TkMwU2FjUHc2NEtpLWpiS2MxZGZBWmJiYjJuU3pXSjdsd3FEeHF0OUd0Y1hCS0NvQTFIR3lldDFFZ0VFRzE4cWtmTHB5MmRrUVYyczhFQ0w5YkdLbjlUY0poYUR2UGRJVTdyOUhtZzhJRFZaT1BHVm5yMm54LXB1bUdWbGx2RjFCb0hIQS0wWG9fSWVRSHJ3dFA1UWQybjVhbmc?oc=5",
+     "published": "2026-09-30T04:30:00Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Nikkei",
+     "source_domain": "nikkei.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -3620,90 +3679,6 @@
    ]
   },
   {
-   "id": "evt_20260928_497b4a",
-   "headline": "Beijing responds to Trump’s arms sales pitch amid Taiwan tensions",
-   "headline_source": "WION",
-   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXRUSWk4OGdHdHhkY2VlR29yV1VXX3VRVDJlbWdHMUNSaTBDbFJjSGxwd0VTd0lRUlFWT2RNNXJlcVpsblZzT29WV1AtTnRCbURJaURYcUFjR3dJd2szVnNSLU5md3NVQVJKd2xzM20yd1hEdk13TFg0Mmk1MnFRWnBDdHJDTnpHRXg5SVVtYUp5OU5Jdkw0QjYyN3dVMlJ6UGtOdGZKNWEyQTRlOEtGYU9Va1I4RTQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-09-28T11:05:00Z",
-   "last_seen": "2026-09-28T20:04:48Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 3,
-    "n_unrated": 2,
-    "score": 27.1,
-    "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "tw_state",
-     "unknown"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)",
-     "대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "79ee970e86f04e7c",
-     "cd88c02af3354828"
-    ]
-   },
-   "articles": [
-    {
-     "id": "79ee970e86f04e7c",
-     "title": "Beijing responds to Trump’s arms sales pitch amid Taiwan tensions",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXRUSWk4OGdHdHhkY2VlR29yV1VXX3VRVDJlbWdHMUNSaTBDbFJjSGxwd0VTd0lRUlFWT2RNNXJlcVpsblZzT29WV1AtTnRCbURJaURYcUFjR3dJd2szVnNSLU5md3NVQVJKd2xzM20yd1hEdk13TFg0Mmk1MnFRWnBDdHJDTnpHRXg5SVVtYUp5OU5Jdkw0QjYyN3dVMlJ6UGtOdGZKNWEyQTRlOEtGYU9Va1I4RTQ?oc=5",
-     "published": "2026-09-28T11:05:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "beijing",
-      "trump"
-     ],
-     "source_name": "WION",
-     "source_domain": "wionews.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "cd88c02af3354828",
-     "title": "WATCH: Trump says Perdue 'was probably talking about Taiwan' in saying Trump offered Xi arms sales",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZTlGNUpQOHpVNTdkVXliUXR4WTNZbWVvOGNyMnR6cjcxdnEwRjRMX0ZoRkFXTTY2Nld5d0JqOHNTU3FVMG5takJfUFN1RS1tdGZKamVrR1FLLVNrS3o5UHhMcWFjcGZfV0dZUk1BXzVhSnJuMExYbFlQWGtNUHlfbVRiZF85UVltNzB0M3ZtdW4tcFdCTEhEOE9xNzc1Q1N1NFgwSDJEOWdSYWEyRktEUF9Jd0VpMWlZSGdrSUhkUlBncGU1eE5zUThXWUJoUdIB0wFBVV95cUxNeXdtME9sYzBTcEhXd3Q2dzZnSnZZTV9CWFBnVGg4bDRTdmREcFpvRWJIZklOY0txOFpLZEN5YlNidi1GMDdyX2JNWS1hcDY3aHl4cnA0ZGhnWlF5YVJJVnBHVU9saUt1cGc2WWNGUnRwRlJpS0ZVZWx1TDlmelpyMVFIcG5JR1JlX3c5SVRFVnRrVDNoV25uY1NDSjBCOHZXc0lOUWFITmxBX005R25MbnpvOHRSLV9EU2owSU9hTmoyY2s4dEh3YW4wOUQxSjJaU3ZV?oc=5",
-     "published": "2026-09-28T20:04:48Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale",
-      "trump"
-     ],
-     "source_name": "PBS",
-     "source_domain": "pbs.org",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260928_418891",
    "headline": "中国海警位台东海域开展执法巡查 台湾岛中央山脉清晰可见",
    "headline_source": "環球網",
@@ -4059,6 +4034,70 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260928_497b4a",
+   "headline": "Beijing responds to Trump’s arms sales pitch amid Taiwan tensions",
+   "headline_source": "wionews.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXRUSWk4OGdHdHhkY2VlR29yV1VXX3VRVDJlbWdHMUNSaTBDbFJjSGxwd0VTd0lRUlFWT2RNNXJlcVpsblZzT29WV1AtTnRCbURJaURYcUFjR3dJd2szVnNSLU5md3NVQVJKd2xzM20yd1hEdk13TFg0Mmk1MnFRWnBDdHJDTnpHRXg5SVVtYUp5OU5Jdkw0QjYyN3dVMlJ6UGtOdGZKNWEyQTRlOEtGYU9Va1I4RTQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-28T11:05:00Z",
+   "last_seen": "2026-09-28T11:05:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 3,
+    "n_unrated": 2,
+    "score": 27.1,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "tw_state",
+     "unknown"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "79ee970e86f04e7c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "79ee970e86f04e7c",
+     "title": "Beijing responds to Trump’s arms sales pitch amid Taiwan tensions",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOZXRUSWk4OGdHdHhkY2VlR29yV1VXX3VRVDJlbWdHMUNSaTBDbFJjSGxwd0VTd0lRUlFWT2RNNXJlcVpsblZzT29WV1AtTnRCbURJaURYcUFjR3dJd2szVnNSLU5md3NVQVJKd2xzM20yd1hEdk13TFg0Mmk1MnFRWnBDdHJDTnpHRXg5SVVtYUp5OU5Jdkw0QjYyN3dVMlJ6UGtOdGZKNWEyQTRlOEtGYU9Va1I4RTQ?oc=5",
+     "published": "2026-09-28T11:05:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "beijing",
+      "trump"
+     ],
+     "source_name": "wionews.com",
+     "source_domain": "wionews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -11561,7 +11600,7 @@
   {
    "id": "evt_20260924_d548b6",
    "headline": "8國聯合聲明點名台海！反對任何單方面改變現狀 外交部：深化民主夥伴合作",
-   "headline_source": "財訊",
+   "headline_source": "wealth.com.tw",
    "headline_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oQ2tCd3VZYnliUVVKd3dtWlZrSFpCMlhsbUxTQk1PblNoSGRRVUUtSERCYnRBX0t1QV80dDJiSE1YX1VLdFY4THNYaTkwakJpVnJ5d1pIRkN5eG9NS09rN1VmT0ZIRW1CVl9nRW1ad1FGSzdtZ1dKTFkwVQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-24T07:00:00Z",
@@ -11609,7 +11648,7 @@
       "status_quo",
       "taiwan_strait"
      ],
-     "source_name": "財訊",
+     "source_name": "wealth.com.tw",
      "source_domain": "wealth.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -17731,7 +17770,6 @@
     "tw_west": [
      "0346a065b9a53857",
      "c8ca52fb1a4e43ef",
-     "ca1a99576ed66aa0",
      "130fde0345c8d632"
     ]
    },
@@ -17769,24 +17807,6 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "ca1a99576ed66aa0",
-     "title": "New Zealand says naval ships made ‘routine’ transit of Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbWdzSXIzTlhnNmpxM2RPZzZXbFZYVmZuSnkxLWZOOVRqMmpLa3Bhd09sT0NOT214dmhqZGwyUTdsbVY3ek5Hc0l3cnFFNEJ4bTZJQ3RYdzhRYzFCcDhZSHpyaURiRFp5N1k3aFZpOVF0QUxmelA4YXNIbk9wblNUT1pDbERYYXJKVnpxcGhubERjTmhsOWhPa3F6eW9mZEY4TExyTlUxeVlFc3M3QVItb3JiLWw4dzc3X0tzTzlyNU5QREc1N21RTw?oc=5",
-     "published": "2026-09-21T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "The Star",
-     "source_domain": "thestar.com.my",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     },

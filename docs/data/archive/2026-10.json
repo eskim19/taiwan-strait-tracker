@@ -1,15 +1,271 @@
 {
  "month": "2026-10",
- "n_events": 102,
+ "n_events": 107,
  "events": [
+  {
+   "id": "evt_20261006_8fe0b6",
+   "headline": "US defense experts to participate in meetings, war games in Taiwan joint assessment program",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/06/2003865473",
+   "headline_lang": "en",
+   "first_seen": "2026-10-06T00:00:00Z",
+   "last_seen": "2026-10-06T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "6dd7880b1f873cbe"
+    ]
+   },
+   "articles": [
+    {
+     "id": "6dd7880b1f873cbe",
+     "title": "US defense experts to participate in meetings, war games in Taiwan joint assessment program",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/06/2003865473",
+     "published": "2026-10-06T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "tabletop_wargame"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261005_98ab76",
+   "headline": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-10-05T11:36:36Z",
+   "last_seen": "2026-10-05T21:14:15Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 31.4,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8c95c878c94fb941",
+     "b1ee4883e9666f2a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8c95c878c94fb941",
+     "title": "Taiwan Receives First F-16V Fighter Jets from the US",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
+     "published": "2026-10-05T11:36:36Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "israeldefense.co.il",
+     "source_domain": "israeldefense.co.il",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b1ee4883e9666f2a",
+     "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
+     "published": "2026-10-05T21:14:15Z",
+     "lang": "en",
+     "entities": [
+      "reunification"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261005_a9e7aa",
+   "headline": "社論 /跟監賴清德之子 兩岸台海局勢進入高壓期",
+   "headline_source": "臺灣導報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CLU5GWFNscDdRMnc4RTBqXzhqUW53U1RLc0I2ZHFLbGxJRlR5MGxLby1PLWxBNnY3UmF1N3VyOGNHUVBGRmVXWFBNTE45WE1va250cQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-05T17:13:21Z",
+   "last_seen": "2026-10-05T17:13:21Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e7eb7fa4023eb70f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e7eb7fa4023eb70f",
+     "title": "社論 /跟監賴清德之子 兩岸台海局勢進入高壓期",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5CLU5GWFNscDdRMnc4RTBqXzhqUW53U1RLc0I2ZHFLbGxJRlR5MGxLby1PLWxBNnY3UmF1N3VyOGNHUVBGRmVXWFBNTE45WE1va250cQ?oc=5",
+     "published": "2026-10-05T17:13:21Z",
+     "lang": "zh",
+     "entities": [
+      "lai_chingte",
+      "taiwan_strait"
+     ],
+     "source_name": "臺灣導報",
+     "source_domain": "taiwanreports.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261005_c9fd5d",
+   "headline": "Report: US Eyes Expanded Role in Taiwan Defense",
+   "headline_source": "Newsmax",
+   "headline_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWJuV1JtTDZEOWxlS21SZ2UyM0Q5X0JfQW1fRm9iOU85WXUxWTBaTHFBLWFKajJQdGl1enl5VHIwdlA0YUZJNnFqY2FWd0IwN0loRzN2VDM2eFg2WWdOUnFia3Z1eWE0RWk2dVFrUUdOcm1mZWljd2Vld19kZ2RfdkV6SjNQODNIRGFnNDNGdG1Yang5RFU0dDFR?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-05T16:40:07Z",
+   "last_seen": "2026-10-05T16:40:07Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "da7bdb04409b253a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "da7bdb04409b253a",
+     "title": "Report: US Eyes Expanded Role in Taiwan Defense",
+     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNbWJuV1JtTDZEOWxlS21SZ2UyM0Q5X0JfQW1fRm9iOU85WXUxWTBaTHFBLWFKajJQdGl1enl5VHIwdlA0YUZJNnFqY2FWd0IwN0loRzN2VDM2eFg2WWdOUnFia3Z1eWE0RWk2dVFrUUdOcm1mZWljd2Vld19kZ2RfdkV6SjNQODNIRGFnNDNGdG1Yang5RFU0dDFR?oc=5",
+     "published": "2026-10-05T16:40:07Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Newsmax",
+     "source_domain": "newsmax.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261005_4ef82f",
    "headline": "闖東沙島水域遭台海巡水砲驅離 中船內部慘狀曝光",
-   "headline_source": "worldjournal.com",
+   "headline_source": "世界新聞網",
    "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHY2xLZWNaNlJheDhIWTVaTlcxWWpjLXFjWUFBLU1MTUVzdUVxX0paZnRwZ2ZPb25pM1pCYnBYQ0RGclRGSjJRZWp6U1BsYTVrN3UxSXpPbVVNTUlRNjlkb1ZB0gFnQVVfeXFMTmFTS0hYR0w5R1A1Tlp0dXZnNnVwMUpyMi1yZkNaVTFKb3BLOUVDalZqcVNQc1YyR2RjNktXNXBpRzVLTzEtWmFhcC1iT3VrQkhxYTdfY3RnVDJxT1lERldNdjA4dk9qaw?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-10-05T14:19:51Z",
-   "last_seen": "2026-10-05T14:19:51Z",
+   "first_seen": "2026-10-05T14:19:00Z",
+   "last_seen": "2026-10-05T14:19:00Z",
    "langs": [
     "zh"
    ],
@@ -46,73 +302,15 @@
      "id": "6deb74a0c4adf696",
      "title": "闖東沙島水域遭台海巡水砲驅離 中船內部慘狀曝光",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHY2xLZWNaNlJheDhIWTVaTlcxWWpjLXFjWUFBLU1MTUVzdUVxX0paZnRwZ2ZPb25pM1pCYnBYQ0RGclRGSjJRZWp6U1BsYTVrN3UxSXpPbVVNTUlRNjlkb1ZB0gFnQVVfeXFMTmFTS0hYR0w5R1A1Tlp0dXZnNnVwMUpyMi1yZkNaVTFKb3BLOUVDalZqcVNQc1YyR2RjNktXNXBpRzVLTzEtWmFhcC1iT3VrQkhxYTdfY3RnVDJxT1lERldNdjA4dk9qaw?oc=5",
-     "published": "2026-10-05T14:19:51Z",
+     "published": "2026-10-05T14:19:00Z",
      "lang": "zh",
      "entities": [
       "coast_guard",
       "pratas",
       "taiwan_strait"
      ],
-     "source_name": "worldjournal.com",
+     "source_name": "世界新聞網",
      "source_domain": "worldjournal.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261005_98ab76",
-   "headline": "Taiwan Receives First F-16V Fighter Jets from the US",
-   "headline_source": "israeldefense.co.il",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-05T11:36:36Z",
-   "last_seen": "2026-10-05T11:36:36Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "8c95c878c94fb941"
-    ]
-   },
-   "articles": [
-    {
-     "id": "8c95c878c94fb941",
-     "title": "Taiwan Receives First F-16V Fighter Jets from the US",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
-     "published": "2026-10-05T11:36:36Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "israeldefense.co.il",
-     "source_domain": "israeldefense.co.il",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -904,7 +1102,7 @@
   {
    "id": "evt_20261004_a9be8e",
    "headline": "台海安全未來3年挑戰重重？專訪德國訪台議員基瑟韋特：只能依靠自己「自立自強」",
-   "headline_source": "cw.com.tw",
+   "headline_source": "天下雜誌",
    "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5DQ0R3U3NKcmczSE14SlBxYWNMWHpLQURDMDViNjF6bjlyYlBhNzdhQW1LekVrbGx5bzl2U1hWZWJfb3ZkTUFtNmQ3OTM3Zw?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-04T14:00:00Z",
@@ -950,7 +1148,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "cw.com.tw",
+     "source_name": "天下雜誌",
      "source_domain": "cw.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1024,7 +1222,7 @@
   {
    "id": "evt_20261004_00b339",
    "headline": "三國演議-美中降溫 台海喘息（ 王智盛 ）1004",
-   "headline_source": "taiwandaily.net",
+   "headline_source": "美洲台灣日報",
    "headline_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9kZGc4Q3dJNFY5RTRDSVJVd1l2Y2Eyb0Fyb2JzMldGRHFDUWhsT2NOaFBwcksydzY2cHBOWFJmSlBXYmpZZURYUU5ZUlRKenFvRjhjYlRlQVM5U2dhbk1SUzNCcWhkVWdWUXI2VEFJbjUyREw3SGlF?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-04T11:54:17Z",
@@ -1070,7 +1268,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "taiwandaily.net",
+     "source_name": "美洲台灣日報",
      "source_domain": "taiwandaily.net",
      "tier": "T5",
      "tier_label": "미분류",
@@ -1801,290 +1999,6 @@
    ]
   },
   {
-   "id": "evt_20261001_a8352c",
-   "headline": "29년만에 새 전투기 받은 대만…美 F-16V 첫 인도분 2대 도착(종합)",
-   "headline_source": "연합뉴스",
-   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iQ1lZc2s0QWhiN3dMdV91OTVPaEt2d2VPN1pwbFhyV2c1cnZ3eDhBMzI0akM4T2lJT0hEVF95azY5UGM4WHRxY1cyQjd6a3hUdXhHUVItMS1qb3PSAWBBVV95cUxPd3lSa2tEQVg3WFR6T1JqWUZmdWFXMHZ4TEdPYU42R0VyclNQTmNvbk9iQjlFQkZ6R0NKRXZkV2pJSGVrb3NkS21NTXlRM0NwcE51cGlVU0t3OVVtTnFSZ3M?oc=5",
-   "headline_lang": "ko",
-   "first_seen": "2026-10-01T14:00:31Z",
-   "last_seen": "2026-10-03T07:05:05Z",
-   "langs": [
-    "en",
-    "ko",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "A",
-    "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 11,
-    "n_unrated": 2,
-    "score": 97.1,
-    "n_independent": 9,
-    "n_articles": 14,
-    "n_domains": 14,
-    "blocs": [
-     "independent",
-     "tw_state",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 9곳",
-     "최고 등급 통신사·공영",
-     "3개 언어권에서 확인",
-     "정부·군 공식 발표 인용",
-     "Nikkei 원고를 Dunya News·Outlook India·SSBCrack 가 전재 — 1곳으로 계산",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "58f5a26e1e427c2c",
-     "e95035ceead7cb71",
-     "be24eba055cf7c35",
-     "ef5ae458e9d21810",
-     "9d76944e3ffd8094",
-     "29c5b956d9c884a5",
-     "d4b78da81ae75ec0",
-     "aff8f7c0a01ee398",
-     "f7f17d0a1dc5717a",
-     "36e5a3f479272b74",
-     "3bf869b4758257e2",
-     "0e1d5305fb1685e4",
-     "2cf168e46e2326cf"
-    ]
-   },
-   "articles": [
-    {
-     "id": "58f5a26e1e427c2c",
-     "title": "Why US Himars missile shortfalls raise stakes for a potential Taiwan Strait conflict",
-     "url": "https://www.scmp.com/news/china/military/article/3369442/why-us-himars-missile-shortfalls-raise-stakes-potential-taiwan-strait-conflict?utm_source=rss_feed",
-     "published": "2026-10-01T14:00:31Z",
-     "lang": "en",
-     "entities": [
-      "missile",
-      "taiwan_strait"
-     ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    },
-    {
-     "id": "e95035ceead7cb71",
-     "title": "Taiwan receives first of 66 new F-16V fighter jets from US",
-     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRC05TXdHeEhEdFh3QjB0SDdhcTZMSUVFcDdaYzhHYUxZeWJSNW8wQVI3Sy1CdDRsOFh4SXl3Q1RyV09LUVllTjVYU2pHeHlGOTFocGxpQ0dCMVFUYkFEWkxfZGxHWVd3X05kcUdWX3p0SklYeTQ0V2EyRUFGcVF1X2NrTDR5SFJ2amMyXzRoT0NtbloxOEUyejB1aTNPbFRDay1iaVpUWjNtb2FOdEc1STJ5ekFzcHgtYWVqSzY1cWZHYmo2cXhGdFN0aw?oc=5",
-     "published": "2026-10-02T02:52:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Nikkei",
-     "source_domain": "nikkei.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "be24eba055cf7c35",
-     "title": "Taiwan receives new F-16V fighter jets from US to tackle China threat",
-     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTgtQ3lURnRLMUNxdl9mcW0ydjlQcExBbW9heHdVSUc1N09sU01vZmlyQlRrRTV6b3QwWWQ4NmcyUEZlUGRKT2pUdmIyLVlPeEotN1dFeXhiWktua2RoVm9vSU14bVlnQ0x6LVlvOFVQZ2JVbW03MUVIdk5OZGlMeUZrWFZFWHRXMU9Td0JXcUpzN0duN1dBVWIyb0w0VHFKR0UxMVlqLXfSAVZBVV95cUxPVVpQSGVfSnpUVktNSVZPeXVSWFBqUkhOV21jLWtxV2IyUFlzMEVtczNha25nVjZ6VnBrdXJ5bWJvMlh5enNzanBUSWtNcGNfMEVJUHMxUQ?oc=5",
-     "published": "2026-10-02T02:57:16Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Dunya News",
-     "source_domain": "dunyanews.tv",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "ef5ae458e9d21810",
-     "title": "台海作戰誰佔優勢？F-16 Block70更適合長時格鬥 要小心殲-16這點",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12WDFWLWdmUDZSUTlnMGEtU0xNZWg2NUpIWkZPb24wWmVuUmlWOFVWdDQzRXc1UU5UN1pENUlIUEdSQXdaZzRoQkwwTHBBSWlYREJFVXRyZWVEUDItZXRlNGZtUTNGNGEzZ3hZcnRR?oc=5",
-     "published": "2026-10-02T05:40:03Z",
-     "lang": "zh",
-     "entities": [
-      "j16",
-      "taiwan_strait"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "9d76944e3ffd8094",
-     "title": "29년만에 새 전투기 받은 대만…美 F-16V 첫 인도분 2대 도착(종합)",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iQ1lZc2s0QWhiN3dMdV91OTVPaEt2d2VPN1pwbFhyV2c1cnZ3eDhBMzI0akM4T2lJT0hEVF95azY5UGM4WHRxY1cyQjd6a3hUdXhHUVItMS1qb3PSAWBBVV95cUxPd3lSa2tEQVg3WFR6T1JqWUZmdWFXMHZ4TEdPYU42R0VyclNQTmNvbk9iQjlFQkZ6R0NKRXZkV2pJSGVrb3NkS21NTXlRM0NwcE51cGlVU0t3OVVtTnFSZ3M?oc=5",
-     "published": "2026-10-02T05:57:39Z",
-     "lang": "ko",
-     "entities": [],
-     "source_name": "연합뉴스",
-     "source_domain": "yna.co.kr",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "29c5b956d9c884a5",
-     "title": "As Chinese Military Pressure Grows, Taiwan Gets First F-16V Fighter Jets Under $8 Bn US Deal",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVdJMjFBLU40NE5rZmEyX1VLdjBseERfcDhpc2JXWVdkSUNJSTFMTGVNUzluOU9WTlBaWVRwdlNlZWZwRUo2WVl2LVloT3F1YnYzam5HcGRmc1U4V3I2WnZ0WU5yMlo1QUZGcXpocEh6a1JkRnhpWDFsaHQ3WnF4eW82ekxyb1IxZFBQNGtWOF9vN2toRk1KOWhXM3UzUEtPZ2tTeUd6QXBaZUxCTzNaOVBXLUE1ckRnLVVXYWNxYXZLTUhKSWhTNVVsd0NnUdIB2wFBVV95cUxNNWprZzN6M0FKODNpano2UFBrRHphNlNmMlhROXAxY3NoZTJTTDlBUGU3OUZNX242Q0ZrbHJSTk5maWRQN1hxdEdJZXJFelNrLXdPOVkyUFA2WnNQYVF3T1RfczhRX2cyYjRXREFabVF6OVhYWGFVQzZra1ZBQVRGR0RCdjZfeVc5ZDhZakJ6RjdwX2FoTzhXUFhSZ1RQakVQY05wSklDZjNEMlQyWjVkQ3RKeXI5OUVqOEMyZ0YwcHppbkIybHE2V2RhV2tBYlVGdWJJek1GejVXRGc?oc=5",
-     "published": "2026-10-02T06:39:44Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Outlook India",
-     "source_domain": "outlookindia.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "d4b78da81ae75ec0",
-     "title": "歡迎F-16V BLK70加入捍衛台海！賴清德曝作戰能力：持續掌握交付進度| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRFR0eGxwWWhUMGNPWkQxamhmUWx6UXpUZGs1dVBXSHcyS2lWY1dBZklJTHFONVpIek5JNGJ1dXlZOW1QQ1JRYTZXY1YxUDJOUXU5Zi1Wa2lMRkk?oc=5",
-     "published": "2026-10-02T08:07:20Z",
-     "lang": "zh",
-     "entities": [
-      "lai_chingte",
-      "taiwan_strait"
-     ],
-     "source_name": "新頭殼",
-     "source_domain": "newtalk.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "aff8f7c0a01ee398",
-     "title": "【首批2架F-16V抵台 賴清德發聲：強化國防提高武力侵台代價】 賴清德表示，「我要向國人強調，維護台海和平穩定，是政府堅定不移的目標。（#豬頭皮）",
-     "url": "https://news.google.com/rss/articles/CBMihgZBVV95cUxQTkMwM3MyNkFxYzBGNkRVYTE2YzA4UWJyMWNBMVRIVUFWWWxveXpQbnBmampaRzJKRFFTQ1pPQWh2MndhWkl6VXRGQnhrUjNKdWFOcXVvWEFMVWE2bWRaaEg3cVB5ZmMwOVBEVkZPQnVTUVE0ZXJVSXlHMXJVdmF0MjJzdjRxZGMzNUFSZWxFeGJWVGowTmhhcThvUHNUOWFCV0xzOEd4N01ZSkFJUDF4R1pfT1QxTTdJeHRNSTEyeDc2dGxSVjZOWkgyQ2JGcHJtLUs1VTBkT3NCZE04MkxyQmZLdHg0ZDlRMjNzdml2Qlk3VXR6M0loOWxpZTFBYWFiMFRQR1lISV9CVVg5NE5VSklGem5HcTlEaWF5SkRRS21KU2tFNnplcjM2U3V0TjdzZ3Z5b253aG93MXhpaHdOZUlzd01WVmRmdnpFTEx3dldxTlJrU2FiVTBRQ05XeDdBYmw4N003d0xVcTF6Q09LSFlVWEFuS3I4Q2I1SDVmSkp6Q2lDQkhOako0cVRvTzlGQlpXb2pvMm9oT01kYVpncFZBRjJkc3ZIQ1FfMVd5NFhLUEJWM0FISF9fSllpN2JWcDFBV244OG41S2pRdUNOVkJVLTNCcnVQeWJPV0Z6Ym4ydXFnR1FNV0t4UkdYMDUtM0FmSzEtdDIyNWxmbFhRakhiRTVsNmp1di1qY1RwWDFmRkk4blZtbUdCZG1TREtRb3ZHWWJMT2JaRUh4M0FMRHF4Rk42RENUNklnczhoOGQ4ODN5a3F1a2VKbGFPQkZJbllXUmdWM3ptbVRWV0RFb2M3ampjWlVlMDBoeXZYZ2VLc2FvWTRJRnMtNWRuWHV1bHBCdkVrRnp1ZG5yRjNGUVprR0xmN3VpZmREWVI2T0xCZUVjLVdsTzVISTVGUXJxWTRDN3dfRk4tNmxVaFpvMWcyc2FORnV2cGVJd1ZFQUx4WEQ4M3RhS0gzc05ma2ZrYmhRZ2JObm5GMVdHajU4NUM5b1M1UmQ5RTcxRThhVkF3Z0NxTVE?oc=5",
-     "published": "2026-10-02T08:31:43Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "lai_chingte",
-      "taiwan_strait"
-     ],
-     "source_name": "facebook.com",
-     "source_domain": "facebook.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "f7f17d0a1dc5717a",
-     "title": "Taiwan's first two F-16V fighter jets arrive to bolster defences against China",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQaDBDUmJjVTF4VzlsZDZaUzQ2b2E4ek9FZVdaS1pVVlN1SWhsSUFLLXI5bHMzYUZaWXpvQWVUbkdIMHNjYjdXeExVR2VzYWtqUHN0N2taSURuOTQ2dDdCYndVcWlzUkpMZk9wQ3lFaHVPU0UyOURFUnRIMkdVYWNOT2pGRE5FVllScVdiaVRZWjVFT3Jmczh2cjA5eFM2eWY3NFExMk5qd0JyblNWZkZDR3dpcHVkX2x2Vkd4ZWJjeTBmcGdTQlktMnNXZGpwOW1hX0hn?oc=5",
-     "published": "2026-10-02T10:10:16Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "36e5a3f479272b74",
-     "title": "Taiwan incorporates two new F-16s from the US in the midst of military modernization",
-     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1dzR1UwaGR0Z2ZhN2MwUzhTWU1OcHdGQ0d4TXh1QWhzZVYwQlFHV1dycjhpeC1qTkhKV3NaaUNGcFp3OGtuVU9UV3d2RGRTNlR3WjJzWFl1XzhaOERMd3lMaWM5aVd3WU9XaHAtUWZaenBCaGNXRTNLX1lWOEx5U3N2LXlJN0VjUkExSG9fWmZNNnBHMk9TUlFsMmlrbFFIZVNzV0luTE52Q0xXMi13bEVTZ0h6MlpLNXpTTUR3dkJhRjdqNFHSAcsBQVVfeXFMT01IVTJfZGhfUFV4VWRzWXlFbks0SVhldmRvV0t3RnFFVGdtWmZMN09sRlFIZWVvV0ZRbzNBRjlBVXlFVEdrbFF3d3J1bXJOR29fNnRTZEhfSnhWS1UzTng1bDQ3V1JaRG5MdmdoNW5nRmdJV3FMNENQZVdPcEMydmtuZW1odFNBSWkzY2NmUXp6Y1pQcTVpaW9wNWMweFV2VU95b2lCWWtOYV80UWNDakVQdGJ1MUdWcmlyOGFUTUE1N3V3VDhaTHpUc00?oc=5",
-     "published": "2026-10-02T10:26:42Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Demócrata",
-     "source_domain": "democrata.es",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "3bf869b4758257e2",
-     "title": "新聞360》F-16V BLK70反制共軍戰力曝！學者揭台灣關鍵優勢",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYmdxako3aW5jajljeHRpNkNSSHVfNER0MU9ITkVtUWY0U3d3T0dqdEFMVlNHbmR1Z3lXcVlkck96UUhyTnI3RVVaYVcyaFRzVWFnSjBscm5pbG90QVRPS2E4MGlqOHlOMHfSAW9BVV95cUxOT01fMTkwaWN4b2ExR19vejFYMzlVeVY0eVQtWkFVY2hTcDM0R0VLX0ljQXp1VGFlSVdRMjNxQVljME1ld1otOUJpZG1lT0M5bmg5NUZqNXNzdkxXYkkxVWtOVElPSUN6OTBjeDFTS0k?oc=5",
-     "published": "2026-10-02T11:17:20Z",
-     "lang": "zh",
-     "entities": [
-      "pla"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "0e1d5305fb1685e4",
-     "title": "Taiwan Gets First F-16V Block 70 Jets From US As China Steps Up Military Pressure Around Island",
-     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPc3kxMW5oVHV2MnRGRDJ4Wm81YUhTR3RaNzczTnJ0eUFRQXppbmZPWnlVQnZvVmxrTmFETjU3N05HcHR2bVNTbVMxRkZrVk5KMmlQYzdfQTlLOGtLeXo5aC1uNEcwQ1VXRHJCdDlSWHlMb2pIZ1dlbFlTRFA1RzRLQ0dMT1habTduRWU5TDNhekFoUkw2Y2pqU29MbkZpa3BvVEpreFREWG5ZbVhGUENJTFBYaWlaa2NEaUdqVnhMR0FvY3hHcVc1WS1GcTFVdjI4VWY1R2xUVGxXM1hkS2VnTUk3YWhRQ2d1MjZfYXkyVlRRalRZNDg4TFJRQWFjNG8tTTgwampB0gGLAkFVX3lxTFA0dzNhMzRia3BIaDM1ejhBTkZmN2JPbkRNcjJ2dmtQNjRSMVI4MWxHbnZpZW0wTlo1My15S19TZ3BqbTRQSVdiWEp0MHB2QWUyQ1FnOFJYemw4ZzhaRUhEM2N5Tlh2QmdVcEF5djd2ckJNRng4eDlvNjlpWEpLcGZFdW5CY2lzLWlyNmZrVnVJWFFfa29fd3ZWckpfWjRtUlZNTHUwSVQzUktOUFd3XzNBY2h5ekNmWTVlemViSXBfS2RnT040ZmdsejczTTRzTHo4Tk10M2lMSURZZi1pVGdaaXhZdi12dHFtcUNHQXRIY3BnVVdXTDZBZzh4RTIzaW41b2czUWxWdlVKMA?oc=5",
-     "published": "2026-10-02T19:31:53Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Times of India",
-     "source_domain": "timesofindia.indiatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "2cf168e46e2326cf",
-     "title": "Defense ministry releases images of jets escorting new F-16Vs",
-     "url": "https://focustaiwan.tw/politics/202610030010",
-     "published": "2026-10-03T07:05:05Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261003_6ce50a",
    "headline": "Taiwan-donated patrol vessel commissioned into Philippine Coast Guard",
    "headline_source": "中央社 CNA",
@@ -2202,44 +2116,63 @@
    ]
   },
   {
-   "id": "evt_20261003_149c47",
-   "headline": "中共5機13船艦擾台 國軍嚴密監控應處",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB5Y2hHVEpYZUhJQmdtbjh4Yi1Kd2FSZGRIYUVkYllWOWtTYlJoUFVsZHI5QXZGVS15eFkwNWxSOGJMVUNNV3VOZWdaTXY0azZhUTY5YjhPa3pIWXJGSmpzTdIBZkFVX3lxTE9yUHRMTXJGZXpKNmRteWF0MXdSbnFMc1J3aDVTT1NzSUxRQXBaX3R1TkFDejV5UUptdmc4eDBkYjc0YzJEdjFIOWctLVBaU2NZRXByd0ZPdWZJQ205Q2E0Wko3dzlXQQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-03T02:16:00Z",
+   "id": "evt_20261003_4c3f6c",
+   "headline": "Taiwan tracks 13 Chinese ships, 5 military aircraft",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTEp5QWhjLWhoWHRhN0JvanNjTTZ3YjMzVXNZVERsVVZIMTlMeTVCNno1MTd6LXh2Z05mZ3plSFlhdXpIOFgxaDNHX2ZLckdtWHFWQg?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-03T02:11:00Z",
    "last_seen": "2026-10-03T02:16:00Z",
    "langs": [
+    "en",
     "zh"
    ],
-   "cross_language": false,
+   "cross_language": true,
    "credibility": {
-    "grade": "C",
+    "grade": "B",
     "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
+    "grade_label": "개연적",
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "score": 54.8,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "ad2bce308faa88c5",
      "d44f1c47f9874e77"
     ]
    },
    "articles": [
+    {
+     "id": "ad2bce308faa88c5",
+     "title": "Taiwan tracks 13 Chinese ships, 5 military aircraft",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zTEp5QWhjLWhoWHRhN0JvanNjTTZ3YjMzVXNZVERsVVZIMTlMeTVCNno1MTd6LXh2Z05mZ3plSFlhdXpIOFgxaDNHX2ZLckdtWHFWQg?oc=5",
+     "published": "2026-10-03T02:11:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "d44f1c47f9874e77",
      "title": "中共5機13船艦擾台 國軍嚴密監控應處",
@@ -2324,9 +2257,70 @@
    ]
   },
   {
+   "id": "evt_20261003_14c571",
+   "headline": "中共18機艦船台海周邊活動國軍嚴密監控應處| 軍事 | 要聞",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zOTU2UFBRUmUyOWlGYXhyNmVlQ3hXeEpFcFIzSmlYNUN4aXEyaF9rQldKLXhVZDFCUVZsUUdxTlhYZzVqamRUQk45RUt6TDlwM2c?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-03T02:04:01Z",
+   "last_seen": "2026-10-03T02:04:01Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "997f7f5ed7baeced"
+    ]
+   },
+   "articles": [
+    {
+     "id": "997f7f5ed7baeced",
+     "title": "中共18機艦船台海周邊活動國軍嚴密監控應處| 軍事 | 要聞",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9zOTU2UFBRUmUyOWlGYXhyNmVlQ3hXeEpFcFIzSmlYNUN4aXEyaF9rQldKLXhVZDFCUVZsUUdxTlhYZzVqamRUQk45RUt6TDlwM2c?oc=5",
+     "published": "2026-10-03T02:04:01Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261003_08d4f3",
    "headline": "台海巡驅離陸漁船暖心供35份餐點 網歪樓：給小卷吃",
-   "headline_source": "worldjournal.com",
+   "headline_source": "世界新聞網",
    "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5tZ2pGSWhrS3l1NEVUMnFVdFNzR0lZSUlhVHBEaW55LThTamVrMHZfQ25vWjhjX3hGV2V4eFBtOC1jV0drVkVzcUl3eTNuTG5YR3pLRHl4bDVMY2phSHRCYTFn0gFnQVVfeXFMT05VN1BMbXpvbUdvRFVfY1Z5bDI4bGtOZWQ4RThfVlg4c3VjV196UWRFLUhOQVBTdlpkVVRpdG9ESVRudE1vcU92SjJqallDZ2J1UkpDYVd2S2JaaVNNZDZ2V1J1TFI3Zw?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-03T02:01:24Z",
@@ -2373,7 +2367,7 @@
       "coast_guard",
       "taiwan_strait"
      ],
-     "source_name": "worldjournal.com",
+     "source_name": "世界新聞網",
      "source_domain": "worldjournal.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -2506,9 +2500,306 @@
    ]
   },
   {
+   "id": "evt_20261002_a8352c",
+   "headline": "29년만에 새 전투기 받은 대만…美 F-16V 첫 인도분 2대 도착(종합)",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iQ1lZc2s0QWhiN3dMdV91OTVPaEt2d2VPN1pwbFhyV2c1cnZ3eDhBMzI0akM4T2lJT0hEVF95azY5UGM4WHRxY1cyQjd6a3hUdXhHUVItMS1qb3PSAWBBVV95cUxPd3lSa2tEQVg3WFR6T1JqWUZmdWFXMHZ4TEdPYU42R0VyclNQTmNvbk9iQjlFQkZ6R0NKRXZkV2pJSGVrb3NkS21NTXlRM0NwcE51cGlVU0t3OVVtTnFSZ3M?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-02T02:23:00Z",
+   "last_seen": "2026-10-02T19:31:53Z",
+   "langs": [
+    "en",
+    "ko",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "A",
+    "d_reason": null,
+    "grade_label": "검증됨",
+    "n_originals": 9,
+    "n_unrated": 2,
+    "score": 88.5,
+    "n_independent": 7,
+    "n_articles": 14,
+    "n_domains": 14,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 7곳",
+     "최고 등급 통신사·공영",
+     "3개 언어권에서 확인",
+     "Reuters 원고를 Straits Times·Defense News 가 전재 — 1곳으로 계산",
+     "Nikkei 원고를 Dunya News·outlookindia.com·firstpost.com 가 전재 — 1곳으로 계산",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f7f17d0a1dc5717a",
+     "e95035ceead7cb71",
+     "be24eba055cf7c35",
+     "ef5ae458e9d21810",
+     "9d76944e3ffd8094",
+     "29c5b956d9c884a5",
+     "d4b78da81ae75ec0",
+     "aff8f7c0a01ee398",
+     "36e5a3f479272b74",
+     "3bf869b4758257e2",
+     "78cd22e041dfa3a7",
+     "6661c9b5e4607885",
+     "3057e37465272227",
+     "0e1d5305fb1685e4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f7f17d0a1dc5717a",
+     "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defences against China",
+     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUDBaRXlpZ2hHM25HcFhLSkFKcVhnX3d2UzFlMlJlZ0hmejJfajVKRDFFR2FJLTVGOW9YZFpTRjlLSXpvQ082aE9hS3hydVRWeW5Uc09vTmI4akZGZmd0NTlsaS14c2ZXUkQwaTlCSzNUOXlHY2xPVjZEa0NQb3RzcFhHOXEyalVCV3pSZTdlWTNBUU5sR296eENjS3p0b0diUndTdzBZUF9hYlJVQkplODhnYlAzZnpHeG5WR2VCS2I5eU16?oc=5",
+     "published": "2026-10-02T02:23:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "e95035ceead7cb71",
+     "title": "Taiwan receives first of 66 new F-16V fighter jets from US",
+     "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRC05TXdHeEhEdFh3QjB0SDdhcTZMSUVFcDdaYzhHYUxZeWJSNW8wQVI3Sy1CdDRsOFh4SXl3Q1RyV09LUVllTjVYU2pHeHlGOTFocGxpQ0dCMVFUYkFEWkxfZGxHWVd3X05kcUdWX3p0SklYeTQ0V2EyRUFGcVF1X2NrTDR5SFJ2amMyXzRoT0NtbloxOEUyejB1aTNPbFRDay1iaVpUWjNtb2FOdEc1STJ5ekFzcHgtYWVqSzY1cWZHYmo2cXhGdFN0aw?oc=5",
+     "published": "2026-10-02T02:52:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Nikkei",
+     "source_domain": "nikkei.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "be24eba055cf7c35",
+     "title": "Taiwan receives new F-16V fighter jets from US to tackle China threat",
+     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVTgtQ3lURnRLMUNxdl9mcW0ydjlQcExBbW9heHdVSUc1N09sU01vZmlyQlRrRTV6b3QwWWQ4NmcyUEZlUGRKT2pUdmIyLVlPeEotN1dFeXhiWktua2RoVm9vSU14bVlnQ0x6LVlvOFVQZ2JVbW03MUVIdk5OZGlMeUZrWFZFWHRXMU9Td0JXcUpzN0duN1dBVWIyb0w0VHFKR0UxMVlqLXfSAVZBVV95cUxPVVpQSGVfSnpUVktNSVZPeXVSWFBqUkhOV21jLWtxV2IyUFlzMEVtczNha25nVjZ6VnBrdXJ5bWJvMlh5enNzanBUSWtNcGNfMEVJUHMxUQ?oc=5",
+     "published": "2026-10-02T02:57:16Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Dunya News",
+     "source_domain": "dunyanews.tv",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ef5ae458e9d21810",
+     "title": "台海作戰誰佔優勢？F-16 Block70更適合長時格鬥 要小心殲-16這點",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE12WDFWLWdmUDZSUTlnMGEtU0xNZWg2NUpIWkZPb24wWmVuUmlWOFVWdDQzRXc1UU5UN1pENUlIUEdSQXdaZzRoQkwwTHBBSWlYREJFVXRyZWVEUDItZXRlNGZtUTNGNGEzZ3hZcnRR?oc=5",
+     "published": "2026-10-02T05:40:03Z",
+     "lang": "zh",
+     "entities": [
+      "j16",
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "9d76944e3ffd8094",
+     "title": "29년만에 새 전투기 받은 대만…美 F-16V 첫 인도분 2대 도착(종합)",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iQ1lZc2s0QWhiN3dMdV91OTVPaEt2d2VPN1pwbFhyV2c1cnZ3eDhBMzI0akM4T2lJT0hEVF95azY5UGM4WHRxY1cyQjd6a3hUdXhHUVItMS1qb3PSAWBBVV95cUxPd3lSa2tEQVg3WFR6T1JqWUZmdWFXMHZ4TEdPYU42R0VyclNQTmNvbk9iQjlFQkZ6R0NKRXZkV2pJSGVrb3NkS21NTXlRM0NwcE51cGlVU0t3OVVtTnFSZ3M?oc=5",
+     "published": "2026-10-02T05:57:39Z",
+     "lang": "ko",
+     "entities": [],
+     "source_name": "연합뉴스",
+     "source_domain": "yna.co.kr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "29c5b956d9c884a5",
+     "title": "As Chinese Military Pressure Grows, Taiwan Gets First F-16V Fighter Jets Under $8 Bn US Deal",
+     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPVVdJMjFBLU40NE5rZmEyX1VLdjBseERfcDhpc2JXWVdkSUNJSTFMTGVNUzluOU9WTlBaWVRwdlNlZWZwRUo2WVl2LVloT3F1YnYzam5HcGRmc1U4V3I2WnZ0WU5yMlo1QUZGcXpocEh6a1JkRnhpWDFsaHQ3WnF4eW82ekxyb1IxZFBQNGtWOF9vN2toRk1KOWhXM3UzUEtPZ2tTeUd6QXBaZUxCTzNaOVBXLUE1ckRnLVVXYWNxYXZLTUhKSWhTNVVsd0NnUdIB2wFBVV95cUxNNWprZzN6M0FKODNpano2UFBrRHphNlNmMlhROXAxY3NoZTJTTDlBUGU3OUZNX242Q0ZrbHJSTk5maWRQN1hxdEdJZXJFelNrLXdPOVkyUFA2WnNQYVF3T1RfczhRX2cyYjRXREFabVF6OVhYWGFVQzZra1ZBQVRGR0RCdjZfeVc5ZDhZakJ6RjdwX2FoTzhXUFhSZ1RQakVQY05wSklDZjNEMlQyWjVkQ3RKeXI5OUVqOEMyZ0YwcHppbkIybHE2V2RhV2tBYlVGdWJJek1GejVXRGc?oc=5",
+     "published": "2026-10-02T06:39:44Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "outlookindia.com",
+     "source_domain": "outlookindia.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "d4b78da81ae75ec0",
+     "title": "歡迎F-16V BLK70加入捍衛台海！賴清德曝作戰能力：持續掌握交付進度| 政治",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRFR0eGxwWWhUMGNPWkQxamhmUWx6UXpUZGs1dVBXSHcyS2lWY1dBZklJTHFONVpIek5JNGJ1dXlZOW1QQ1JRYTZXY1YxUDJOUXU5Zi1Wa2lMRkk?oc=5",
+     "published": "2026-10-02T08:07:20Z",
+     "lang": "zh",
+     "entities": [
+      "lai_chingte",
+      "taiwan_strait"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "aff8f7c0a01ee398",
+     "title": "【首批2架F-16V抵台 賴清德發聲：強化國防提高武力侵台代價】 賴清德表示，「我要向國人強調，維護台海和平穩定，是政府堅定不移的目標。（#豬頭皮）",
+     "url": "https://news.google.com/rss/articles/CBMihgZBVV95cUxQTkMwM3MyNkFxYzBGNkRVYTE2YzA4UWJyMWNBMVRIVUFWWWxveXpQbnBmampaRzJKRFFTQ1pPQWh2MndhWkl6VXRGQnhrUjNKdWFOcXVvWEFMVWE2bWRaaEg3cVB5ZmMwOVBEVkZPQnVTUVE0ZXJVSXlHMXJVdmF0MjJzdjRxZGMzNUFSZWxFeGJWVGowTmhhcThvUHNUOWFCV0xzOEd4N01ZSkFJUDF4R1pfT1QxTTdJeHRNSTEyeDc2dGxSVjZOWkgyQ2JGcHJtLUs1VTBkT3NCZE04MkxyQmZLdHg0ZDlRMjNzdml2Qlk3VXR6M0loOWxpZTFBYWFiMFRQR1lISV9CVVg5NE5VSklGem5HcTlEaWF5SkRRS21KU2tFNnplcjM2U3V0TjdzZ3Z5b253aG93MXhpaHdOZUlzd01WVmRmdnpFTEx3dldxTlJrU2FiVTBRQ05XeDdBYmw4N003d0xVcTF6Q09LSFlVWEFuS3I4Q2I1SDVmSkp6Q2lDQkhOako0cVRvTzlGQlpXb2pvMm9oT01kYVpncFZBRjJkc3ZIQ1FfMVd5NFhLUEJWM0FISF9fSllpN2JWcDFBV244OG41S2pRdUNOVkJVLTNCcnVQeWJPV0Z6Ym4ydXFnR1FNV0t4UkdYMDUtM0FmSzEtdDIyNWxmbFhRakhiRTVsNmp1di1qY1RwWDFmRkk4blZtbUdCZG1TREtRb3ZHWWJMT2JaRUh4M0FMRHF4Rk42RENUNklnczhoOGQ4ODN5a3F1a2VKbGFPQkZJbllXUmdWM3ptbVRWV0RFb2M3ampjWlVlMDBoeXZYZ2VLc2FvWTRJRnMtNWRuWHV1bHBCdkVrRnp1ZG5yRjNGUVprR0xmN3VpZmREWVI2T0xCZUVjLVdsTzVISTVGUXJxWTRDN3dfRk4tNmxVaFpvMWcyc2FORnV2cGVJd1ZFQUx4WEQ4M3RhS0gzc05ma2ZrYmhRZ2JObm5GMVdHajU4NUM5b1M1UmQ5RTcxRThhVkF3Z0NxTVE?oc=5",
+     "published": "2026-10-02T08:31:43Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "lai_chingte",
+      "taiwan_strait"
+     ],
+     "source_name": "facebook.com",
+     "source_domain": "facebook.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "36e5a3f479272b74",
+     "title": "Taiwan incorporates two new F-16s from the US in the midst of military modernization",
+     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1dzR1UwaGR0Z2ZhN2MwUzhTWU1OcHdGQ0d4TXh1QWhzZVYwQlFHV1dycjhpeC1qTkhKV3NaaUNGcFp3OGtuVU9UV3d2RGRTNlR3WjJzWFl1XzhaOERMd3lMaWM5aVd3WU9XaHAtUWZaenBCaGNXRTNLX1lWOEx5U3N2LXlJN0VjUkExSG9fWmZNNnBHMk9TUlFsMmlrbFFIZVNzV0luTE52Q0xXMi13bEVTZ0h6MlpLNXpTTUR3dkJhRjdqNFHSAcsBQVVfeXFMT01IVTJfZGhfUFV4VWRzWXlFbks0SVhldmRvV0t3RnFFVGdtWmZMN09sRlFIZWVvV0ZRbzNBRjlBVXlFVEdrbFF3d3J1bXJOR29fNnRTZEhfSnhWS1UzTng1bDQ3V1JaRG5MdmdoNW5nRmdJV3FMNENQZVdPcEMydmtuZW1odFNBSWkzY2NmUXp6Y1pQcTVpaW9wNWMweFV2VU95b2lCWWtOYV80UWNDakVQdGJ1MUdWcmlyOGFUTUE1N3V3VDhaTHpUc00?oc=5",
+     "published": "2026-10-02T10:26:42Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Demócrata",
+     "source_domain": "democrata.es",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "3bf869b4758257e2",
+     "title": "新聞360》F-16V BLK70反制共軍戰力曝！學者揭台灣關鍵優勢",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYmdxako3aW5jajljeHRpNkNSSHVfNER0MU9ITkVtUWY0U3d3T0dqdEFMVlNHbmR1Z3lXcVlkck96UUhyTnI3RVVaYVcyaFRzVWFnSjBscm5pbG90QVRPS2E4MGlqOHlOMHfSAW9BVV95cUxOT01fMTkwaWN4b2ExR19vejFYMzlVeVY0eVQtWkFVY2hTcDM0R0VLX0ljQXp1VGFlSVdRMjNxQVljME1ld1otOUJpZG1lT0M5bmg5NUZqNXNzdkxXYkkxVWtOVElPSUN6OTBjeDFTS0k?oc=5",
+     "published": "2026-10-02T11:17:20Z",
+     "lang": "zh",
+     "entities": [
+      "pla"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "78cd22e041dfa3a7",
+     "title": "Taiwan gets first 2 of 66 US F-16V fighter jets after months of delays amid China threat",
+     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNc1YwZER5Skpqc0RXV2ZuTFNyQ1pxdUdQSVhKY1d5Vy0yTngzc0tKbFdHSk9sMGI0QnBMZ0pqQUxESjlucXlTQTBLUzUya1Nma2p2RmFVUjM2azFsNmNLZTl4X2N2dG93M21nZklZc214a0sxblIxelRfY3BENHQ4N1E1ekpTQXVXVW9QMTFZQmdjQ2xwakoyTXdBRmtLWGNmaU1BZGxiSEJKWFBnY21xY1NTakZHdURROUhhX2tkNGR0MGFwUkJIWmpHdUZCRFnSAdQBQVVfeXFMTl96eVJsQzlTVElWZk5ZTHRiaUhHR29KbEg3TmZJR2NmZFJ6ZHU0Sk96VEVvRUZfbVI1M1ZKZFJpNDBUQ0M2dnVDcFlOWHhDWE9pblJTVHMzczRkVXJESHZJVjRHSGExNDl1ZmdVVlh2dWdib0VuekhZQ2V0OWF0Y1FiY0F0c1JPQ0VNRzFWSkg0QWhEQVU1UlRyMFdjYlY1a1FfVkhqaWRtVGxjVDF5SXBybGh3RG1HSlRoR2FfRHJ2dWx2Nkg2cFdfS2RDTENTN01vYUM?oc=5",
+     "published": "2026-10-02T12:13:29Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "firstpost.com",
+     "source_domain": "firstpost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "6661c9b5e4607885",
+     "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQVVpqNlZIblBTMEdfMzNKNmxfWkVSeFQtaGJJUE9iWE9NZWVPUlo1NlhxZlBDR3hhRjJpYTdVYWhEbHlKbWktMF9lME1vOGFBMzZCM3YtOVRFUXZpaUFPbVJrZmZMY0RfZTE4NHRGeDRNWnNTZmpKZUxJN2g4Sy1Pcl9RZW5Vb25OMFBDdklqRnpacWloVlo4VXotclJGczlvemVuRTVjSUJXUmtPa09TZEdLMkJiSFdsOUx6RWYyM3drdWstS0RCaVh3Y2V1MlhycmhR?oc=5",
+     "published": "2026-10-02T14:15:53Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Defense News",
+     "source_domain": "defensenews.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "3057e37465272227",
+     "title": "Taiwan's first new F-16V fighter jets arrive to bolster defences against China",
+     "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQemotSUFPaElSNFZ4OHRwM2pXYktMUzh3QmJPcVR6QkdvdVJVbENTVVo1cmxUSUxRZnhjZExnWUhYQTlXT25GWTIwTG5OMGItZlRJeV9BejdXZ3h4U0YzZFByVGE2TmtBb2REeGlNVW82OUpvOUREQktUOHFlWkl0bUVXNUZFM1FTNy1OdDgxYjFDY1hxRFhqcVNVT3Q0QmtPUktoeEZscnpYQVFDcGlGUnpjUUt3T3d5Q0wzbzlzeEcwQWFINEtPNkpMbFYtejE4OEE?oc=5",
+     "published": "2026-10-02T18:08:57Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "0e1d5305fb1685e4",
+     "title": "Taiwan Gets First F-16V Block 70 Jets From US As China Steps Up Military Pressure Around Island",
+     "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPc3kxMW5oVHV2MnRGRDJ4Wm81YUhTR3RaNzczTnJ0eUFRQXppbmZPWnlVQnZvVmxrTmFETjU3N05HcHR2bVNTbVMxRkZrVk5KMmlQYzdfQTlLOGtLeXo5aC1uNEcwQ1VXRHJCdDlSWHlMb2pIZ1dlbFlTRFA1RzRLQ0dMT1habTduRWU5TDNhekFoUkw2Y2pqU29MbkZpa3BvVEpreFREWG5ZbVhGUENJTFBYaWlaa2NEaUdqVnhMR0FvY3hHcVc1WS1GcTFVdjI4VWY1R2xUVGxXM1hkS2VnTUk3YWhRQ2d1MjZfYXkyVlRRalRZNDg4TFJRQWFjNG8tTTgwampB0gGLAkFVX3lxTFA0dzNhMzRia3BIaDM1ejhBTkZmN2JPbkRNcjJ2dmtQNjRSMVI4MWxHbnZpZW0wTlo1My15S19TZ3BqbTRQSVdiWEp0MHB2QWUyQ1FnOFJYemw4ZzhaRUhEM2N5Tlh2QmdVcEF5djd2ckJNRng4eDlvNjlpWEpLcGZFdW5CY2lzLWlyNmZrVnVJWFFfa29fd3ZWckpfWjRtUlZNTHUwSVQzUktOUFd3XzNBY2h5ekNmWTVlemViSXBfS2RnT040ZmdsejczTTRzTHo4Tk10M2lMSURZZi1pVGdaaXhZdi12dHFtcUNHQXRIY3BnVVdXTDZBZzh4RTIzaW41b2czUWxWdlVKMA?oc=5",
+     "published": "2026-10-02T19:31:53Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Times of India",
+     "source_domain": "timesofindia.indiatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261002_7afcaf",
    "headline": "中漁船違法遭台海巡水砲驅離 國台辦：後果台方自負",
-   "headline_source": "worldjournal.com",
+   "headline_source": "世界新聞網",
    "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBNMnhqU202ZVBjUVVvQjRoc1NmcnZBdmxxSC1LSlduWFFGblU4TlNRbTZaVTNkTEN1VENxbjlhVkR0SFAwRHFZUzB3ajg2OVNKa1ZJU2tSV25OOUkzaFVJNlBR0gFnQVVfeXFMTkxsOU9PUm5KZERKMHd4Y3Qzc1hmRlVEbk5iZGszTTlQSnhNbnVuQnI4UU5KS3J1T1JMSDJvTkZNYkF0QV9zY2toUmg4V19YSkE5WUxwRTJhS3RpTHZlc19pMTNVdVRiWQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-02T16:08:04Z",
@@ -2556,7 +2847,7 @@
       "taiwan_strait",
       "tao"
      ],
-     "source_name": "worldjournal.com",
+     "source_name": "世界新聞網",
      "source_domain": "worldjournal.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3269,6 +3560,7 @@
     "prc": [],
     "tw_west": [
      "896211df55e30cb9",
+     "f277c2ae53256209",
      "4b6559c4e8ce9486",
      "d09d8c75f5b38cb1",
      "d692729d12d35798"
@@ -3290,6 +3582,24 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": true
+    },
+    {
+     "id": "f277c2ae53256209",
+     "title": "U.S. sees Chinese invasion of Taiwan unlikely despite 2027 timeline, sources say",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ReU1nTGxMNW95QUF2RnFsVjRtQUZjQnZ5RC1pdWFuMlItS3dQaE1CUGtTZk4yZ3AzeUJBT2dTUkVob1J1MzZ4ZjhuRWdsWXJjQ2lWZXBHWHYwUWlxbmc?oc=5",
+     "published": "2026-10-01T09:41:22Z",
+     "lang": "en",
+     "entities": [
+      "invasion"
+     ],
+     "source_name": "아사히신문",
+     "source_domain": "asahi.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": true
     },
@@ -4976,6 +5286,66 @@
    ]
   },
   {
+   "id": "evt_20261001_0a9569",
+   "headline": "Why US missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+   "headline_source": "SCMP",
+   "headline_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGhHUS1QSTVWMlN5NWdGRXdDTXdSaWlFc0dwcGFYZ3M4VnBJanVlVUxJMTRHdHpaU3VxSUtVcEZ0NXltVG1iLUtVY1pGRXZxclg0QmhPa25hTnBxMERCekdTdVFnQndhMlh4aDBmeXU5eTJIOUhsY0xuYW9CSmhna1VVNm9FSlNvYnVmOHJkaGhISWJaTjl0NGRDcVdXb3lWNGlNYkhDT0ZjTHR5N2JIV3lsN24xcVRySjlybmhKalpHeDh4NzBfNDhtS19ma2l30gHQAUFVX3lxTE5lSDZidmJCVTc3cEptWElaNTRfV2Z0TExRY05wc3IxVDRvT1hHSXktbld6VHcxVmEwLUlTbWZKWU9lVkpjVmxlalIzcm80VzU1MmRvSy1JMm5paUllUG12QjdEejhValJERS0wbnZ3LVhsYmhEV0t0cjRPSlZ6WVhQQTNzNlZqc1o1eVVwS2U3eHIyQ1JGTWdENjN3S1QxbkVPc1RLcndfRHJHSmxoLUNyTTFKSjRsYmprZlhlUmc3Q25PQmNsVDNET2RWTmllcXU?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-01T14:00:31Z",
+   "last_seen": "2026-10-01T14:00:31Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5f6d32c9de9820cf"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5f6d32c9de9820cf",
+     "title": "Why US missile shortfalls raise stakes for a potential Taiwan Strait conflict",
+     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdGhHUS1QSTVWMlN5NWdGRXdDTXdSaWlFc0dwcGFYZ3M4VnBJanVlVUxJMTRHdHpaU3VxSUtVcEZ0NXltVG1iLUtVY1pGRXZxclg0QmhPa25hTnBxMERCekdTdVFnQndhMlh4aDBmeXU5eTJIOUhsY0xuYW9CSmhna1VVNm9FSlNvYnVmOHJkaGhISWJaTjl0NGRDcVdXb3lWNGlNYkhDT0ZjTHR5N2JIV3lsN24xcVRySjlybmhKalpHeDh4NzBfNDhtS19ma2l30gHQAUFVX3lxTE5lSDZidmJCVTc3cEptWElaNTRfV2Z0TExRY05wc3IxVDRvT1hHSXktbld6VHcxVmEwLUlTbWZKWU9lVkpjVmxlalIzcm80VzU1MmRvSy1JMm5paUllUG12QjdEejhValJERS0wbnZ3LVhsYmhEV0t0cjRPSlZ6WVhQQTNzNlZqc1o1eVVwS2U3eHIyQ1JGTWdENjN3S1QxbkVPc1RLcndfRHJHSmxoLUNyTTFKSjRsYmprZlhlUmc3Q25PQmNsVDNET2RWTmllcXU?oc=5",
+     "published": "2026-10-01T14:00:31Z",
+     "lang": "en",
+     "entities": [
+      "missile",
+      "taiwan_strait"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261001_a5dc0a",
    "headline": "习近平下令：共军不打仗了？范冰冰逃亡暴富，你的存款要归零！美地底秘密爆破锁定中共；卢比奥把伊朗外长扫地出门【两岸要闻】",
    "headline_source": "soundofhope.org",
@@ -5340,7 +5710,7 @@
   {
    "id": "evt_20261001_1fa80e",
    "headline": "Taiwan invasion unlikely before 2028, say US experts despite Xi’s independence crackdown call",
-   "headline_source": "Firstpost",
+   "headline_source": "firstpost.com",
    "headline_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOdVF1SEw0c1FQbElHTExXSHFpVzlkckNEcUhmTzlMZWVjeTRHQWtycjdFOV9vQmV0a29xc2l4T2N2QWE1ZUFEUjZJMXZrSWdBUk5UNVdPc0g4blJYQWlVdV94MVFraWJiVG8xVzRVMWFfaGpRejh1WllSaEJRM28ycUFGWGxjX3lTanJ4V1Y0dDZEN3FzQ1U1YzlWcmtnaDdrWU8zc2ZCdUs5TENsaTVCSktfSXBySk9MMnBjeEVMY01YcXhEb2NqemRDTHZYYnQzenFB0gHYAUFVX3lxTE1zN1JwaWZ3eVd5aUpDOHpoVl9mdW5fbFloUlJOTkVROTAyN3BBTFZsVllYOUdFWGtVNnFQT3pnbnZzRmwwdUZpWm1UcjJmWWtzUG85SEMwdEJtcTlRS205aGFyZmktWWE0eHJGRndpZklkQnJISkNObXFLUEc3MmtSdjhCMjZ0UzdyVGZ1TkN2aTJnVmN0bkswMjYxOTVTM2VOWEZwRnhKb0RfcmEtdFdEODU1OE9EaEQ1WFNIdWVGR0p2VVBON0M5aVFfSHBQZGpqN1g0Sng1UQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-10-01T11:14:58Z",
@@ -5386,7 +5756,7 @@
      "entities": [
       "invasion"
      ],
-     "source_name": "Firstpost",
+     "source_name": "firstpost.com",
      "source_domain": "firstpost.com",
      "tier": "T5",
      "tier_label": "미분류",
@@ -5922,6 +6292,91 @@
    ]
   },
   {
+   "id": "evt_20261001_12c0cf",
+   "headline": "中共37機艦船台海周邊活動 國軍嚴密監控應處",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeEFXcXVyeDFobG1Ub0Y0ZXhJdlRDQXRKeVkwcWhKdmthd2FJcURGSXBNZ2MzcW9SVDVLV3puazg0Wm1WbUllUXdSQ29aTlZYUXhndHkxZXdGd9IBX0FVX3lxTE1ORWo5eTR1YTNaNmRGLTFLOGJXVGVCVGVQaWVmQU02MkhUQURUaU42dzJudlp1cFdMakZCMzFLb2dISWppTC1lRXVaWE9FRVhNbjF5Z1kzQk5BcVk3cEc0?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-01T02:22:37Z",
+   "last_seen": "2026-10-01T04:48:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 4,
+    "n_unrated": 1,
+    "score": 66.3,
+    "n_independent": 3,
+    "n_articles": 4,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 3곳",
+     "최고 등급 주요 일간",
+     "정부·군 공식 발표 인용",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "14223745d17ee01d",
+     "561b314ef2f18ba6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "14223745d17ee01d",
+     "title": "中共37機艦船台海周邊活動 國軍嚴密監控應處",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeEFXcXVyeDFobG1Ub0Y0ZXhJdlRDQXRKeVkwcWhKdmthd2FJcURGSXBNZ2MzcW9SVDVLV3puazg0Wm1WbUllUXdSQ29aTlZYUXhndHkxZXdGd9IBX0FVX3lxTE1ORWo5eTR1YTNaNmRGLTFLOGJXVGVCVGVQaWVmQU02MkhUQURUaU42dzJudlp1cFdMakZCMzFLb2dISWppTC1lRXVaWE9FRVhNbjF5Z1kzQk5BcVk3cEc0?oc=5",
+     "published": "2026-10-01T02:22:37Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "561b314ef2f18ba6",
+     "title": "中共十一國慶前夕武嚇不減！37機艦連夜擾台 國防部嚴密監控應處",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FUmxWZm96bkMySkNpSkhBdGMzd1hpNms2eDBJZWpfdDhpX0FwRUVfZGNBdFJnVFdNX19rVHlWaFJhRl85d05LVHZ6Wk9ucVJzQnJLa2pOS2lsVmfSAWBBVV95cUxOWW0yeGJRdGZyVzFBY1Y4aDNJUEVtc2NnZ25ZZ1ozVjF4ZXZsOE5YOHVweUgweG54a1VhZkdVWXF6REJhdk40NHJRZVhHZlI5a0cwcGo5QlRKcTlGQ05FLWc?oc=5",
+     "published": "2026-10-01T04:48:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "tw_mnd"
+     ],
+     "source_name": "鏡週刊",
+     "source_domain": "mirrormedia.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261001_ab426c",
    "headline": "Danilo Taino warns China gradually eroding Taiwan Strait status quo",
    "headline_source": "Taiwan News",
@@ -6216,70 +6671,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261001_12c0cf",
-   "headline": "中共37機艦船台海周邊活動 國軍嚴密監控應處",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeEFXcXVyeDFobG1Ub0Y0ZXhJdlRDQXRKeVkwcWhKdmthd2FJcURGSXBNZ2MzcW9SVDVLV3puazg0Wm1WbUllUXdSQ29aTlZYUXhndHkxZXdGd9IBX0FVX3lxTE1ORWo5eTR1YTNaNmRGLTFLOGJXVGVCVGVQaWVmQU02MkhUQURUaU42dzJudlp1cFdMakZCMzFLb2dISWppTC1lRXVaWE9FRVhNbjF5Z1kzQk5BcVk3cEc0?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-01T02:22:37Z",
-   "last_seen": "2026-10-01T02:22:37Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 4,
-    "n_unrated": 1,
-    "score": 66.3,
-    "n_independent": 3,
-    "n_articles": 4,
-    "n_domains": 4,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간",
-     "정부·군 공식 발표 인용",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "14223745d17ee01d"
-    ]
-   },
-   "articles": [
-    {
-     "id": "14223745d17ee01d",
-     "title": "中共37機艦船台海周邊活動 國軍嚴密監控應處",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xeEFXcXVyeDFobG1Ub0Y0ZXhJdlRDQXRKeVkwcWhKdmthd2FJcURGSXBNZ2MzcW9SVDVLV3puazg0Wm1WbUllUXdSQ29aTlZYUXhndHkxZXdGd9IBX0FVX3lxTE1ORWo5eTR1YTNaNmRGLTFLOGJXVGVCVGVQaWVmQU02MkhUQURUaU42dzJudlp1cFdMakZCMzFLb2dISWppTC1lRXVaWE9FRVhNbjF5Z1kzQk5BcVk3cEc0?oc=5",
-     "published": "2026-10-01T02:22:37Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
