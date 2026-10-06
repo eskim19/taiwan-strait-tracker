@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-06T15:59:20Z",
+ "updated": "2026-10-06T22:40:55Z",
  "checked": "2026-10-06",
- "duration_sec": 33.4,
+ "duration_sec": 35.7,
  "rolling_days": 14,
- "n_events": 384,
- "n_articles": 429,
+ "n_events": 386,
+ "n_articles": 430,
  "grades": {
-  "D": 191,
-  "C": 178,
-  "B": 14,
+  "D": 192,
+  "C": 177,
+  "B": 16,
   "A": 1
  },
  "cross_language_events": 3,
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 10,
-  "T2": 192,
-  "T3": 56,
+  "T2": 191,
+  "T3": 58,
   "T4": 19,
-  "T5": 131,
+  "T5": 129,
   "TA": 2
  },
  "t1_domains": [
@@ -41,8 +41,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
-   "newest": "2026-10-05T03:50:00+00:00",
+   "n_adopted": 21,
+   "newest": "2026-10-06T21:53:24+00:00",
    "stale": false,
    "error": null
   },
@@ -53,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 31,
-   "newest": "2026-10-06T05:44:00+00:00",
+   "n_entries": 46,
+   "n_adopted": 29,
+   "newest": "2026-10-06T13:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -68,7 +68,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 3,
-   "newest": "2026-10-06T04:04:00+00:00",
+   "newest": "2026-10-06T03:58:49+00:00",
    "stale": false,
    "error": null
   },
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-10-06T14:33:27+00:00",
+   "n_adopted": 64,
+   "newest": "2026-10-06T20:31:51+00:00",
    "stale": false,
    "error": null
   },
@@ -93,8 +93,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-10-06T01:44:55+00:00",
+   "n_adopted": 5,
+   "newest": "2026-10-06T14:02:26+00:00",
    "stale": false,
    "error": null
   },
@@ -106,7 +106,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
+   "n_adopted": 3,
    "newest": "2026-10-06T14:43:00+00:00",
    "stale": false,
    "error": null
@@ -118,7 +118,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
+   "n_entries": 46,
    "n_adopted": 0,
    "newest": "2026-10-06T13:00:54+00:00",
    "stale": false,
@@ -131,9 +131,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 1,
-   "newest": "2026-10-06T00:00:00+00:00",
+   "n_entries": 50,
+   "n_adopted": 0,
+   "newest": "2026-10-07T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -145,8 +145,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 4,
-   "newest": "2026-10-06T14:00:09+00:00",
+   "n_adopted": 3,
+   "newest": "2026-10-06T21:59:33+00:00",
    "stale": false,
    "error": null
   },
@@ -196,9 +196,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-10-06T14:44:18+00:00",
+   "newest": "2026-10-06T22:01:51+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-06T15:14:28+00:00",
+   "newest": "2026-10-06T22:07:44+00:00",
    "stale": false,
    "error": null
   },
@@ -264,19 +264,19 @@
    "sample_title": "台美日相比 台立院預算中心：台海巡設備維持費遠低美日"
   },
   {
-   "domain": "mirrordaily.news",
+   "domain": "cmoney.tw",
    "n_articles": 5,
+   "sample_title": "6407 相互 - 藏人访客曝预言中国分裂？台海2028成关键(图) - 股市爆料同學會"
+  },
+  {
+   "domain": "mirrordaily.news",
+   "n_articles": 4,
    "sample_title": "林忠正專欄：台海「開戰即終戰」是歴史的偽命題- 鏡報"
   },
   {
    "domain": "ctee.com.tw",
-   "n_articles": 5,
+   "n_articles": 4,
    "sample_title": "從南海到海底電纜！台海若開戰澳智庫揭東協安全6大破口- 國際"
-  },
-  {
-   "domain": "cmoney.tw",
-   "n_articles": 5,
-   "sample_title": "6407 相互 - 藏人访客曝预言中国分裂？台海2028成关键(图) - 股市爆料同學會"
   },
   {
    "domain": "mobile01.com",
@@ -324,24 +324,24 @@
    "sample_title": "川普與習近平華府峰會：聚焦貿易、AI及台海議題"
   },
   {
+   "domain": "forth.news",
+   "n_articles": 1,
+   "sample_title": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russi"
+  },
+  {
    "domain": "israeldefense.co.il",
    "n_articles": 1,
    "sample_title": "Taiwan Receives First F-16V Fighter Jets from the US"
   },
   {
+   "domain": "waradana.com",
+   "n_articles": 1,
+   "sample_title": "U.S. and Japan Conduct Military Drills Near Taiwan Amid Rising Tensions with Chi"
+  },
+  {
    "domain": "taiwanreports.com",
    "n_articles": 1,
    "sample_title": "社論 /跟監賴清德之子 兩岸台海局勢進入高壓期"
-  },
-  {
-   "domain": "newsmax.com",
-   "n_articles": 1,
-   "sample_title": "Report: US Eyes Expanded Role in Taiwan Defense"
-  },
-  {
-   "domain": "cw.com.tw",
-   "n_articles": 1,
-   "sample_title": "台海安全未來3年挑戰重重？專訪德國訪台議員基瑟韋特：只能依靠自己「自立自強」"
   }
  ]
 }

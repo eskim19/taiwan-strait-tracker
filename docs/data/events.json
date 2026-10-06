@@ -1,6 +1,280 @@
 {
- "updated": "2026-10-06T15:59:20Z",
+ "updated": "2026-10-06T22:40:55Z",
  "events": [
+  {
+   "id": "evt_20261006_555c1b",
+   "headline": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russia",
+   "headline_source": "Forth.News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCUzh3TjFFMGRDNkpjZDRuZHJFVkVPZGREUmVqbDVsSllsSFZNYW00b1hMendJXzVEMXF0T2J1Y2t6SVo1eGowdFlRaXRLQ1JXYlhYV0o4ODRPY0VIc1p6WFhn?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-06T21:53:24Z",
+   "last_seen": "2026-10-06T21:53:24Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "901540025b4d4e0a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "901540025b4d4e0a",
+     "title": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russia",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCUzh3TjFFMGRDNkpjZDRuZHJFVkVPZGREUmVqbDVsSllsSFZNYW00b1hMendJXzVEMXF0T2J1Y2t6SVo1eGowdFlRaXRLQ1JXYlhYV0o4ODRPY0VIc1p6WFhn?oc=5",
+     "published": "2026-10-06T21:53:24Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Forth.News",
+     "source_domain": "forth.news",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261006_41ad4e",
+   "headline": "社評／自信的大陸台海和平的機會- 國際",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OT1M0V3BOOFlmQlBET3lZRmpLemhhaEJDd1RTUzZXSHdDeXVyeXhieXhrZ3FJaHh6Mmo0bldMaDhLUXFfZUtZSVBhZWFkUjhud2h4bEhKMkFHeEJPTEhZTldLYkdidzByclE?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-06T20:31:51Z",
+   "last_seen": "2026-10-06T20:31:51Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "52979696cda666e4"
+    ]
+   },
+   "articles": [
+    {
+     "id": "52979696cda666e4",
+     "title": "社評／自信的大陸台海和平的機會- 國際",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5OT1M0V3BOOFlmQlBET3lZRmpLemhhaEJDd1RTUzZXSHdDeXVyeXhieXhrZ3FJaHh6Mmo0bldMaDhLUXFfZUtZSVBhZWFkUjhud2h4bEhKMkFHeEJPTEhZTldLYkdidzByclE?oc=5",
+     "published": "2026-10-06T20:31:51Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261006_7699ae",
+   "headline": "China firmly opposes US arms sales to China's Taiwan region",
+   "headline_source": "CGTN",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM08yQjBRNmdacmRBa3Nhb012RTY5U2JoSHBtNWFmdHM4S2NOaG9CMC1BbEN6OTBYdExhalc4Q3ZYSG5vZ1pveUVHOGZLU21TZXprQkpmcjJPME05bTRMeGNFQ0hiZDJtS2tPckRjWVBJWm1hRzlLaVB5RVNJc21WcnJ1VFdFNG9iVlhwV1RYXzFmeXlOdjk0OW1FdFR5NXhwbEZjMXVBcnVuQjU0bXM2VXEwWGZSS0U?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-06T14:02:26Z",
+   "last_seen": "2026-10-06T14:02:26Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "432d0cfa8bcfb6c0"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "432d0cfa8bcfb6c0",
+     "title": "China firmly opposes US arms sales to China's Taiwan region",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM08yQjBRNmdacmRBa3Nhb012RTY5U2JoSHBtNWFmdHM4S2NOaG9CMC1BbEN6OTBYdExhalc4Q3ZYSG5vZ1pveUVHOGZLU21TZXprQkpmcjJPME05bTRMeGNFQ0hiZDJtS2tPckRjWVBJWm1hRzlLaVB5RVNJc21WcnJ1VFdFNG9iVlhwV1RYXzFmeXlOdjk0OW1FdFR5NXhwbEZjMXVBcnVuQjU0bXM2VXEwWGZSS0U?oc=5",
+     "published": "2026-10-06T14:02:26Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "CGTN",
+     "source_domain": "cgtn.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261005_8fcdfb",
+   "headline": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-10-05T11:36:36Z",
+   "last_seen": "2026-10-06T13:30:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 1,
+    "score": 50.5,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8c95c878c94fb941",
+     "b1ee4883e9666f2a",
+     "786390b85a5e514f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8c95c878c94fb941",
+     "title": "Taiwan Receives First F-16V Fighter Jets from the US",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
+     "published": "2026-10-05T11:36:36Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Israel Defense",
+     "source_domain": "israeldefense.co.il",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b1ee4883e9666f2a",
+     "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
+     "published": "2026-10-05T21:14:15Z",
+     "lang": "en",
+     "entities": [
+      "reunification"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
+    {
+     "id": "786390b85a5e514f",
+     "title": "Taiwan’s new F-16V fighter jets have landed – what now?",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWNlM0NCV1dWV0MtYWdORXMzdlRCandwU2xaM2x5bTEweExxZllkSkpZdTh3VHM4Y2ZzVDlXcC1PaktlNnJzcXFEQ1JpMDlwR0tDOHZfYk9kWmxSams3ek9IODUzSHlPaTlpbkNwcGlEeU56X1BSRnh6eGM3Y0RUOTczSjVVc3l2QlNMQmZn?oc=5",
+     "published": "2026-10-06T13:30:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261006_649bed",
    "headline": "台美日相比 台立院預算中心：台海巡設備維持費遠低美日",
@@ -66,7 +340,7 @@
    "id": "evt_20261006_babd92",
    "headline": "US firm to make battle-tested drones in Taiwan, boosting supply chain resilience",
    "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/military/article/3369929/us-firm-make-battle-tested-drones-taiwan-boosting-supply-chain-resilience?utm_source=rss_feed",
+   "headline_url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUIzSlNoRlBLaWt4bTRaaFRjYjhyd0lDX1hmVEZwRmhwY3ZlTDl6NERlNlpCSERCUlRFeUJsVkFwdmd0U1JEQ0FpNkk5NE9WTW5xNDVPZUdNN3ZVRjFxYmIzQlBraTVzSk1DaGVaaElfMUR6WC1vNWx5eDBHd3lfaENvVGZ1Yi11Z1gwamVoeHFWdnNmSFRya1NiNHBHWUpGOE44dHlqMGNQd1ByWnYzVFBtMVJhQTU4bEFnRVpUYUhvZU9SVml2RVF30gHKAUFVX3lxTE81OTh1OVI1dXBlaFJ1aFo5dE90Y003emI4TnhHcXlwVER0aklHc2U3aUtJQUlsVkFseTFqbC1tZkp0blNhUGt1S3piQlVLQkxKcl9SUEQ5RUVxdnlmeXR2SWVFVjFTSU01bi1EU2pwUnBZX0kyM1lMU210eS0zOHRFMVFoOHUtZDBFb1BEMTlwSDZ6R1FQSGZ4TExRQjNTc1pEazFKV2RQT2RRbmtZNGZoZ3VDbEJrUVNjQ0tXX3JtZnZObzVBcDRSSmc?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-10-06T13:00:09Z",
    "last_seen": "2026-10-06T13:00:09Z",
@@ -104,7 +378,7 @@
     {
      "id": "ed1b707d67a4a635",
      "title": "US firm to make battle-tested drones in Taiwan, boosting supply chain resilience",
-     "url": "https://www.scmp.com/news/china/military/article/3369929/us-firm-make-battle-tested-drones-taiwan-boosting-supply-chain-resilience?utm_source=rss_feed",
+     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPLUIzSlNoRlBLaWt4bTRaaFRjYjhyd0lDX1hmVEZwRmhwY3ZlTDl6NERlNlpCSERCUlRFeUJsVkFwdmd0U1JEQ0FpNkk5NE9WTW5xNDVPZUdNN3ZVRjFxYmIzQlBraTVzSk1DaGVaaElfMUR6WC1vNWx5eDBHd3lfaENvVGZ1Yi11Z1gwamVoeHFWdnNmSFRya1NiNHBHWUpGOE44dHlqMGNQd1ByWnYzVFBtMVJhQTU4bEFnRVpUYUhvZU9SVml2RVF30gHKAUFVX3lxTE81OTh1OVI1dXBlaFJ1aFo5dE90Y003emI4TnhHcXlwVER0aklHc2U3aUtJQUlsVkFseTFqbC1tZkp0blNhUGt1S3piQlVLQkxKcl9SUEQ5RUVxdnlmeXR2SWVFVjFTSU01bi1EU2pwUnBZX0kyM1lMU210eS0zOHRFMVFoOHUtZDBFb1BEMTlwSDZ6R1FQSGZ4TExRQjNTc1pEazFKV2RQT2RRbmtZNGZoZ3VDbEJrUVNjQ0tXX3JtZnZObzVBcDRSSmc?oc=5",
      "published": "2026-10-06T13:00:09Z",
      "lang": "en",
      "entities": [
@@ -117,6 +391,67 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261006_02db23",
+   "headline": "U.S. and Japan Conduct Military Drills Near Taiwan Amid Rising Tensions with China",
+   "headline_source": "وردنا",
+   "headline_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUFiSnRfck1Pak9SZWRQeWVmM3NsUVk4akZjcENaMlJYTE50d0dBSERTbjdHUjZHZmhXR0NFU0txM2JLZGx5MktMQlZhYnVuV2VIZVdUU0pMcVNhUGIyR3VuVWRwX0VDT3kzcVh4UDY4TXVJajZWdndOajV6LWF3TFlBVFBFSVhSSXM1c3YzLUN1YWkwbTNpYTJJSng0ak1UNVkyQmJNTlB6b2wwcEZwM3IwSDVPd2o1cEdTUDZMaVlIdw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-06T12:20:55Z",
+   "last_seen": "2026-10-06T12:20:55Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3d89a92e6519deca"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3d89a92e6519deca",
+     "title": "U.S. and Japan Conduct Military Drills Near Taiwan Amid Rising Tensions with China",
+     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOLUFiSnRfck1Pak9SZWRQeWVmM3NsUVk4akZjcENaMlJYTE50d0dBSERTbjdHUjZHZmhXR0NFU0txM2JLZGx5MktMQlZhYnVuV2VIZVdUU0pMcVNhUGIyR3VuVWRwX0VDT3kzcVh4UDY4TXVJajZWdndOajV6LWF3TFlBVFBFSVhSSXM1c3YzLUN1YWkwbTNpYTJJSng0ak1UNVkyQmJNTlB6b2wwcEZwM3IwSDVPd2o1cEdTUDZMaVlIdw?oc=5",
+     "published": "2026-10-06T12:20:55Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "وردنا",
+     "source_domain": "waradana.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -856,84 +1191,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261005_98ab76",
-   "headline": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
-   "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
-   "headline_lang": "en",
-   "first_seen": "2026-10-05T11:36:36Z",
-   "last_seen": "2026-10-05T21:14:15Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 31.4,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "8c95c878c94fb941",
-     "b1ee4883e9666f2a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "8c95c878c94fb941",
-     "title": "Taiwan Receives First F-16V Fighter Jets from the US",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
-     "published": "2026-10-05T11:36:36Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "israeldefense.co.il",
-     "source_domain": "israeldefense.co.il",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "b1ee4883e9666f2a",
-     "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
-     "published": "2026-10-05T21:14:15Z",
-     "lang": "en",
-     "entities": [
-      "reunification"
-     ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
      "hedged": false
     }
    ]
@@ -1961,7 +2218,7 @@
   {
    "id": "evt_20261004_e6b30c",
    "headline": "US assesses China not planning to invade Taiwan in 2027",
-   "headline_source": "politiko.com.ph",
+   "headline_source": "Politiko",
    "headline_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeEtGcGdKdmUzUVQwNTBsUnYwSkJTbTZTS091aDNLNXFWd1RyeTUzTGxFbkhoTEk3M1pEQ0NVOE1JRHVGWThNVkUtUWtZZlZMa0xyNGtuZUJnRjBHUGxfMjFrQlhnUVNoRnpIZ1YtZlJFeVV2S083MDdjNEliZzhhTWlBcUg?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-10-04T13:40:13Z",
@@ -2007,7 +2264,7 @@
      "entities": [
       "invasion"
      ],
-     "source_name": "politiko.com.ph",
+     "source_name": "Politiko",
      "source_domain": "politiko.com.ph",
      "tier": "T5",
      "tier_label": "미분류",
@@ -3415,12 +3672,12 @@
    ]
   },
   {
-   "id": "evt_20260930_a8352c",
-   "headline": "專訪德國國會議員：台海2027至29年極具挑戰",
-   "headline_source": "Deutsche Welle",
-   "headline_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY1lma0d0QUpqclU1WUEzTm5ON3ViTVMtVDd3ZW1MLWZnY3lVM0FnUmJnb1FPQ1N5YjBFSkpJemNGMFpVTGJPU25EYjhsTnhqa1ZnU2pjLTJnQmtsaGY3S0ZvY2FVQjBfN1FhaWhJSzJvNTRvd1I2Smo2TklvdnpRajlCbHhGSnJKR2NfU3BTYVZaQWVxY0twbnU3TkVXenI1Rk1Tdmx0eVlCODdLR1Y0WkZJVHVRakVZYTVrNGtmRzZJMy1PamhUbW5RZTZSaXQ2bDFOY3Z4d0gyM2h5LWpUWTN1ZWdQemlJMWFuTDliOEMyLTRpUG42MWFXOURyOEdHU2NkRk84LW5NWllMaGExNms2bGwwTTjSAZcCQVVfeXFMTWtXWDBWVWpReFRYb3pualVETzdRYkk4cUlEZ2pJNGhkSjVmZVVmbEdFNlNBYnIwSFQ0dGdyM3V0bjJ0TjlmZ09IUENua1h2RTg4cEpiMEJ6cVZpb2R3SFJMMUFJWmNIUmJHQzFmYTQ4TlF2T3dGZmxCSjFLS0FXV1ktZEswcU4wWERvbV80TGp6U0FmM0I1M1ZZSzIxM1Q3eXpnNGxqS1N5S0k3SDlWYTVKUnhyMzFSaUQ1VTFLOURRbWtBR0ZaZXBWNDdPQ0R6aW5ENGpMbTNLLVJ2aTROSXpkWnh1ZGxZS3k0aVY4NTZ2X3Y5VlRnamhXX3Frckw3bHJPSzdSckl2dG5Nc3ZUa2N3R0xnLWd3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-30T09:46:23Z",
+   "id": "evt_20261002_a8352c",
+   "headline": "29년만에 새 전투기 받은 대만…美 F-16V 첫 인도분 2대 도착(종합)",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9iQ1lZc2s0QWhiN3dMdV91OTVPaEt2d2VPN1pwbFhyV2c1cnZ3eDhBMzI0akM4T2lJT0hEVF95azY5UGM4WHRxY1cyQjd6a3hUdXhHUVItMS1qb3PSAWBBVV95cUxPd3lSa2tEQVg3WFR6T1JqWUZmdWFXMHZ4TEdPYU42R0VyclNQTmNvbk9iQjlFQkZ6R0NKRXZkV2pJSGVrb3NkS21NTXlRM0NwcE51cGlVU0t3OVVtTnFSZ3M?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-02T02:23:00Z",
    "last_seen": "2026-10-02T19:31:53Z",
    "langs": [
     "en",
@@ -3432,12 +3689,12 @@
     "grade": "A",
     "d_reason": null,
     "grade_label": "검증됨",
-    "n_originals": 9,
+    "n_originals": 8,
     "n_unrated": 1,
-    "score": 91.9,
-    "n_independent": 8,
-    "n_articles": 13,
-    "n_domains": 13,
+    "score": 88.5,
+    "n_independent": 7,
+    "n_articles": 12,
+    "n_domains": 12,
     "blocs": [
      "independent",
      "unknown"
@@ -3445,7 +3702,7 @@
     "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 8곳",
+     "독립 출처 7곳",
      "최고 등급 통신사·공영",
      "3개 언어권에서 확인",
      "Reuters 원고를 Straits Times·Defense News 가 전재 — 1곳으로 계산",
@@ -3456,7 +3713,6 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "fe5cc5709a52e336",
      "f7f17d0a1dc5717a",
      "e95035ceead7cb71",
      "ef5ae458e9d21810",
@@ -3472,24 +3728,6 @@
     ]
    },
    "articles": [
-    {
-     "id": "fe5cc5709a52e336",
-     "title": "專訪德國國會議員：台海2027至29年極具挑戰",
-     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY1lma0d0QUpqclU1WUEzTm5ON3ViTVMtVDd3ZW1MLWZnY3lVM0FnUmJnb1FPQ1N5YjBFSkpJemNGMFpVTGJPU25EYjhsTnhqa1ZnU2pjLTJnQmtsaGY3S0ZvY2FVQjBfN1FhaWhJSzJvNTRvd1I2Smo2TklvdnpRajlCbHhGSnJKR2NfU3BTYVZaQWVxY0twbnU3TkVXenI1Rk1Tdmx0eVlCODdLR1Y0WkZJVHVRakVZYTVrNGtmRzZJMy1PamhUbW5RZTZSaXQ2bDFOY3Z4d0gyM2h5LWpUWTN1ZWdQemlJMWFuTDliOEMyLTRpUG42MWFXOURyOEdHU2NkRk84LW5NWllMaGExNms2bGwwTTjSAZcCQVVfeXFMTWtXWDBWVWpReFRYb3pualVETzdRYkk4cUlEZ2pJNGhkSjVmZVVmbEdFNlNBYnIwSFQ0dGdyM3V0bjJ0TjlmZ09IUENua1h2RTg4cEpiMEJ6cVZpb2R3SFJMMUFJWmNIUmJHQzFmYTQ4TlF2T3dGZmxCSjFLS0FXV1ktZEswcU4wWERvbV80TGp6U0FmM0I1M1ZZSzIxM1Q3eXpnNGxqS1N5S0k3SDlWYTVKUnhyMzFSaUQ1VTFLOURRbWtBR0ZaZXBWNDdPQ0R6aW5ENGpMbTNLLVJ2aTROSXpkWnh1ZGxZS3k0aVY4NTZ2X3Y5VlRnamhXX3Frckw3bHJPSzdSckl2dG5Nc3ZUa2N3R0xnLWd3?oc=5",
-     "published": "2026-09-30T09:46:23Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "Deutsche Welle",
-     "source_domain": "dw.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "f7f17d0a1dc5717a",
      "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defences against China",
@@ -6706,11 +6944,11 @@
   },
   {
    "id": "evt_20261001_27e4c0",
-   "headline": "U.S. sees invasion of Taiwan unlikely in 2027 despite Xi timeline, sources say",
-   "headline_source": "Japan Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUgyV2x4Q00tRTNpYy1udkNCMV9yUEpmeUNGWnF4MENDTVVPZjBVTU02T25VUkJWZVItU2UxN3ZQR3I5Um9oT19hTlVNMF9QQVg0aHJFMXRJX052OElWWWY5UktCS3E3NmlkdVM3dzdRUklvbkxWZ0dteXhGeWRjYmF2UlRMSXVEZnJJX3g0OA?oc=5",
+   "headline": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
+   "headline_source": "New York Post",
+   "headline_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUhQQkxpejdhelhYTXpXRDFJcDBkNFVBTUliRUpMbTlKNy14ZDdIbGtXdU5wYU92Mm52eUZxRVprWmpZNlY5UHRvWUdNeDdwTEVNTFBnNWlmdzdlbWRWR3h6NDZLaGd1bkpfLTE3WjFLNUlwSU4taFo3NnpueEk2b3NNTDRsbXQ3SXJGb21qcTlDZWtSYktDRHdxMlRvT1hKc1ZYLThQd3ZLVy1pR2ZpSV9iRDlFNzMz?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-01T06:21:00Z",
+   "first_seen": "2026-10-01T08:10:00Z",
    "last_seen": "2026-10-01T10:37:49Z",
    "langs": [
     "en"
@@ -6741,66 +6979,28 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "d5bc6f665da263b8",
-     "896211df55e30cb9",
-     "f277c2ae53256209",
+     "f911f5e47c47b27f",
      "4b6559c4e8ce9486"
     ]
    },
    "articles": [
     {
-     "id": "d5bc6f665da263b8",
-     "title": "U.S. sees invasion of Taiwan unlikely in 2027 despite Xi timeline, sources say",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPTUgyV2x4Q00tRTNpYy1udkNCMV9yUEpmeUNGWnF4MENDTVVPZjBVTU02T25VUkJWZVItU2UxN3ZQR3I5Um9oT19hTlVNMF9QQVg0aHJFMXRJX052OElWWWY5UktCS3E3NmlkdVM3dzdRUklvbkxWZ0dteXhGeWRjYmF2UlRMSXVEZnJJX3g0OA?oc=5",
-     "published": "2026-10-01T06:21:00Z",
+     "id": "f911f5e47c47b27f",
+     "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
+     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUhQQkxpejdhelhYTXpXRDFJcDBkNFVBTUliRUpMbTlKNy14ZDdIbGtXdU5wYU92Mm52eUZxRVprWmpZNlY5UHRvWUdNeDdwTEVNTFBnNWlmdzdlbWRWR3h6NDZLaGd1bkpfLTE3WjFLNUlwSU4taFo3NnpueEk2b3NNTDRsbXQ3SXJGb21qcTlDZWtSYktDRHdxMlRvT1hKc1ZYLThQd3ZLVy1pR2ZpSV9iRDlFNzMz?oc=5",
+     "published": "2026-10-01T08:10:00Z",
      "lang": "en",
      "entities": [
       "invasion"
      ],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": true
-    },
-    {
-     "id": "896211df55e30cb9",
-     "title": "US assesses Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
-     "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNeEZ6dEhIMFhSY0wxcEVycHpfMG90dWhENnRocnI1cndrckNhVV9qVTVQNFdGYUdoOG45clVpT0hvTFF4M205QTRPZzdOYzJGbHlYME10THFDQ2ZpRGtoY1J6dXdsampkTkloRG5xdXVURElqUFhLM1NSTUZsUGtEc3Z3R0ZCZ3hrX1VkM2dua01TalFHNDJUd1B4S25GN0ExRXBIVV9pSnNCWGt5TmZRcW5sRlZfNmxGSDViMXExV29zQU14aURNd1ZtMTRyUdIBygFBVV95cUxONmxsUkRabzZjR3VDYXoxVXR5UElpckxLRWp6QkRaMi1XWmVXb3I2dzdJdEFkOGJMSHNQcnZMN0dHSHRzQU9xT2NhX2t5azA4cmZXcUh3THRLN2NtMDNLa203MlNvTzl0QjhDeElzT2lBT0J4WS0yZmxJSENGUVZxWkVnVG9HMWZNeU1wZHZ3eWJWaXd2Vkx0RmdhMF9WWTdoZmNOQ05YV2dFaTlPenBqak1jR09lVmFEWTZiTGIxMHJkMWhWWVlVc0ln?oc=5",
-     "published": "2026-10-01T08:00:00Z",
-     "lang": "en",
-     "entities": [
-      "invasion"
-     ],
-     "source_name": "thenews.com.pk",
-     "source_domain": "thenews.com.pk",
+     "source_name": "New York Post",
+     "source_domain": "nypost.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": true
-    },
-    {
-     "id": "f277c2ae53256209",
-     "title": "U.S. sees Chinese invasion of Taiwan unlikely despite 2027 timeline, sources say",
-     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5ReU1nTGxMNW95QUF2RnFsVjRtQUZjQnZ5RC1pdWFuMlItS3dQaE1CUGtTZk4yZ3AzeUJBT2dTUkVob1J1MzZ4ZjhuRWdsWXJjQ2lWZXBHWHYwUWlxbmc?oc=5",
-     "published": "2026-10-01T09:41:22Z",
-     "lang": "en",
-     "entities": [
-      "invasion"
-     ],
-     "source_name": "아사히신문",
-     "source_domain": "asahi.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": true
+     "hedged": false
     },
     {
      "id": "4b6559c4e8ce9486",
@@ -6825,11 +7025,11 @@
   },
   {
    "id": "evt_20261001_e7d3b3",
-   "headline": "U.S. officials increasingly view an invasion of Taiwan by China before 2028 as unlikely, despite Xi Jinping’s order to have the military ready by 2027",
-   "headline_source": "informat.ro",
-   "headline_url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUl9UeGk1cDduNzZoLWo1S3kySXdnaE5EcEk4SE9VZDJJWXlndm42TFRaNXROZzhETlV2YnR4bEV5Z3o4U3N2NmJJSHNyUG12ZkxKanpOeW9oR0lrTDhudTlsWFhLUE01alBsanlLSjFHaEFnWWpTWF9mdHduTVh6LVZCTjk4eWpYYTR2bkFuNkdPdUVtaE9DcmM5WQ?oc=5",
+   "headline": "Chinese Invasion of Taiwan Before 2028 Unlikely Despite Xi Jinping’s Military Readiness Order, US",
+   "headline_source": "LatestLY",
+   "headline_url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNNm8xZVJyTU0wR2E4alpELXlqbGlmSWJSY21nR21SLXlObTJ1Zm9FQklzZjc5NTZma0hXZWdmTXotZ2NrMmlGOHNoTXdQdDF2b2t4OEJidXlTdHZfaF9uaWdKRDl4eWVBSVZHRW5iSldEM0RndjllX2JCMmF2VUFsa1NiRlZlaTdJVllPSG1YQnFqdHpwb2d4dDE3YnlSQWJaWWNjUDFJcHhfaU5ESnA0ZUpKOG12V3hJYXVTRjBWaDZ1Z0RXV2wweDhHa3JRSUNvMWFfX3JRb3ladFprNmlOZlN2TWs0OW5Y0gHuAUFVX3lxTE90WGtWcm1pb0JtZWdPUVFsdzhMbE94V0Rab1VvNFpXU2p3YXNWZTF4VjZubnBwN2N6UnRKR0dqclZBbDcwZ3FPMVpHS24tVndUN001XzZhNzJ3Tm10dGF6YUtINW1YT0pBeFBwNXFHcTBkMFF4NjhwaFpMZGxlMjNHSmpxdTgwTTZ6TzI3c2lWTTFRN0stLUJCZFhjZUcwdUJ4a0lQd3ZZRTdIdjlBLXRjcEM4MXU1b1ltMk5teDFnWUVPVWd6bjYtYkRBZFVSTkkzQjJzUEpORjFyUVFFZUN6Mm5ucGVucGxTdUY2LWc?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-01T07:56:07Z",
+   "first_seen": "2026-10-01T09:55:17Z",
    "last_seen": "2026-10-01T09:55:17Z",
    "langs": [
     "en"
@@ -6860,30 +7060,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "1892fe3a0535ae88",
      "0e0f8d2983b4d914"
     ]
    },
    "articles": [
-    {
-     "id": "1892fe3a0535ae88",
-     "title": "U.S. officials increasingly view an invasion of Taiwan by China before 2028 as unlikely, despite Xi Jinping’s order to have the military ready by 2027",
-     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUl9UeGk1cDduNzZoLWo1S3kySXdnaE5EcEk4SE9VZDJJWXlndm42TFRaNXROZzhETlV2YnR4bEV5Z3o4U3N2NmJJSHNyUG12ZkxKanpOeW9oR0lrTDhudTlsWFhLUE01alBsanlLSjFHaEFnWWpTWF9mdHduTVh6LVZCTjk4eWpYYTR2bkFuNkdPdUVtaE9DcmM5WQ?oc=5",
-     "published": "2026-10-01T07:56:07Z",
-     "lang": "en",
-     "entities": [
-      "invasion",
-      "xi_jinping"
-     ],
-     "source_name": "informat.ro",
-     "source_domain": "informat.ro",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "0e0f8d2983b4d914",
      "title": "Chinese Invasion of Taiwan Before 2028 Unlikely Despite Xi Jinping’s Military Readiness Order, US",
@@ -7615,7 +7795,7 @@
   {
    "id": "evt_20261001_bb141f",
    "headline": "Xi Tightens Control Over Military and Rebuilds Forces as Prospects of a 2027 Taiwan Invasion Recede",
-   "headline_source": "economy.ac",
+   "headline_source": "https://economy.ac/",
    "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBqNmttXy1WUUVBdW4wTTJFeDF3dVByZDkwX0VxbllqRXpGZHplZ0hkdVlMeGZubERGRzV3SlI3S2hsRGl4cDg2cV9kU3JkSDJ1TzVabWVUTQ?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-10-01T03:18:59Z",
@@ -7661,7 +7841,7 @@
      "entities": [
       "invasion"
      ],
-     "source_name": "economy.ac",
+     "source_name": "https://economy.ac/",
      "source_domain": "economy.ac",
      "tier": "T5",
      "tier_label": "미분류",
@@ -7785,6 +7965,68 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261001_5832c2",
+   "headline": "中共37機艦船台海周邊活動 國軍嚴密監控",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sa19TeWpQU3JHZUtRbFdpbG53WjdPdHRzbkpOT1dBUnBRX3FaU3hLYmZmZGNaazM5Q2h2NDdqblQwYmg2Nmt1VDNINnZWcjlNT2ZqU3FYTQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-01T02:35:00Z",
+   "last_seen": "2026-10-01T02:35:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "42eeed8883f91027"
+    ]
+   },
+   "articles": [
+    {
+     "id": "42eeed8883f91027",
+     "title": "中共37機艦船台海周邊活動 國軍嚴密監控",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1sa19TeWpQU3JHZUtRbFdpbG53WjdPdHRzbkpOT1dBUnBRX3FaU3hLYmZmZGNaazM5Q2h2NDdqblQwYmg2Nmt1VDNINnZWcjlNT2ZqU3FYTQ?oc=5",
+     "published": "2026-10-01T02:35:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
@@ -8461,6 +8703,65 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "홍콩 친중공 매체",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260930_a096bd",
+   "headline": "專訪德國國會議員：台海2027至29年極具挑戰",
+   "headline_source": "Deutsche Welle",
+   "headline_url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY1lma0d0QUpqclU1WUEzTm5ON3ViTVMtVDd3ZW1MLWZnY3lVM0FnUmJnb1FPQ1N5YjBFSkpJemNGMFpVTGJPU25EYjhsTnhqa1ZnU2pjLTJnQmtsaGY3S0ZvY2FVQjBfN1FhaWhJSzJvNTRvd1I2Smo2TklvdnpRajlCbHhGSnJKR2NfU3BTYVZaQWVxY0twbnU3TkVXenI1Rk1Tdmx0eVlCODdLR1Y0WkZJVHVRakVZYTVrNGtmRzZJMy1PamhUbW5RZTZSaXQ2bDFOY3Z4d0gyM2h5LWpUWTN1ZWdQemlJMWFuTDliOEMyLTRpUG42MWFXOURyOEdHU2NkRk84LW5NWllMaGExNms2bGwwTTjSAZcCQVVfeXFMTWtXWDBWVWpReFRYb3pualVETzdRYkk4cUlEZ2pJNGhkSjVmZVVmbEdFNlNBYnIwSFQ0dGdyM3V0bjJ0TjlmZ09IUENua1h2RTg4cEpiMEJ6cVZpb2R3SFJMMUFJWmNIUmJHQzFmYTQ4TlF2T3dGZmxCSjFLS0FXV1ktZEswcU4wWERvbV80TGp6U0FmM0I1M1ZZSzIxM1Q3eXpnNGxqS1N5S0k3SDlWYTVKUnhyMzFSaUQ1VTFLOURRbWtBR0ZaZXBWNDdPQ0R6aW5ENGpMbTNLLVJ2aTROSXpkWnh1ZGxZS3k0aVY4NTZ2X3Y5VlRnamhXX3Frckw3bHJPSzdSckl2dG5Nc3ZUa2N3R0xnLWd3?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-30T09:46:23Z",
+   "last_seen": "2026-09-30T09:46:23Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "fe5cc5709a52e336"
+    ]
+   },
+   "articles": [
+    {
+     "id": "fe5cc5709a52e336",
+     "title": "專訪德國國會議員：台海2027至29年極具挑戰",
+     "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxPY1lma0d0QUpqclU1WUEzTm5ON3ViTVMtVDd3ZW1MLWZnY3lVM0FnUmJnb1FPQ1N5YjBFSkpJemNGMFpVTGJPU25EYjhsTnhqa1ZnU2pjLTJnQmtsaGY3S0ZvY2FVQjBfN1FhaWhJSzJvNTRvd1I2Smo2TklvdnpRajlCbHhGSnJKR2NfU3BTYVZaQWVxY0twbnU3TkVXenI1Rk1Tdmx0eVlCODdLR1Y0WkZJVHVRakVZYTVrNGtmRzZJMy1PamhUbW5RZTZSaXQ2bDFOY3Z4d0gyM2h5LWpUWTN1ZWdQemlJMWFuTDliOEMyLTRpUG42MWFXOURyOEdHU2NkRk84LW5NWllMaGExNms2bGwwTTjSAZcCQVVfeXFMTWtXWDBWVWpReFRYb3pualVETzdRYkk4cUlEZ2pJNGhkSjVmZVVmbEdFNlNBYnIwSFQ0dGdyM3V0bjJ0TjlmZ09IUENua1h2RTg4cEpiMEJ6cVZpb2R3SFJMMUFJWmNIUmJHQzFmYTQ4TlF2T3dGZmxCSjFLS0FXV1ktZEswcU4wWERvbV80TGp6U0FmM0I1M1ZZSzIxM1Q3eXpnNGxqS1N5S0k3SDlWYTVKUnhyMzFSaUQ1VTFLOURRbWtBR0ZaZXBWNDdPQ0R6aW5ENGpMbTNLLVJ2aTROSXpkWnh1ZGxZS3k0aVY4NTZ2X3Y5VlRnamhXX3Frckw3bHJPSzdSckl2dG5Nc3ZUa2N3R0xnLWd3?oc=5",
+     "published": "2026-09-30T09:46:23Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Deutsche Welle",
+     "source_domain": "dw.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -11568,67 +11869,6 @@
    ]
   },
   {
-   "id": "evt_20260928_cec564",
-   "headline": "中國軍力的蛻變：從台海到非洲，走向何方？",
-   "headline_source": "RFI",
-   "headline_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN0VJcWJteGlmZ2hSV3FhQm1aUjZ4bldwRlhzbUJEM0E5bzB1X2h4aW12QldGMnFBSDY4V3NRVElhdWxzVXVQVTA0T200RC0xenZNamt2b1QxalowazQwQVQyQWx4R1piMUs0YWpyVGp5QTc0bllLa1FmdmVfYjFfVGNDOEZpY2g1WWNCRHg1OWlOdWV3UkJveHZmUVl1bTlNbEdjdUZmaV96Umh3c1I2NTdKTm5iRkgyZHBWaUJFcWthX3FtYldIWGR6Mkt5ZlV5RGtOckVLQ2NPOU5IZHpQN2liZFZMak9IX0UxYXlKQzA3RWVDdXlzQVJrTmk3WDZCUHJZaFQxdUNoMXdsaFI5TW5pZGtEZlloRUhPMTI4RXE4RGt0X1VHMEFiem8wUUF3ejNuSjJtTWc?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-28T16:21:37Z",
-   "last_seen": "2026-09-28T16:21:37Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.3,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "0e8afa3224c99329"
-    ]
-   },
-   "articles": [
-    {
-     "id": "0e8afa3224c99329",
-     "title": "中國軍力的蛻變：從台海到非洲，走向何方？",
-     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN0VJcWJteGlmZ2hSV3FhQm1aUjZ4bldwRlhzbUJEM0E5bzB1X2h4aW12QldGMnFBSDY4V3NRVElhdWxzVXVQVTA0T200RC0xenZNamt2b1QxalowazQwQVQyQWx4R1piMUs0YWpyVGp5QTc0bllLa1FmdmVfYjFfVGNDOEZpY2g1WWNCRHg1OWlOdWV3UkJveHZmUVl1bTlNbEdjdUZmaV96Umh3c1I2NTdKTm5iRkgyZHBWaUJFcWthX3FtYldIWGR6Mkt5ZlV5RGtOckVLQ2NPOU5IZHpQN2liZFZMak9IX0UxYXlKQzA3RWVDdXlzQVJrTmk3WDZCUHJZaFQxdUNoMXdsaFI5TW5pZGtEZlloRUhPMTI4RXE4RGt0X1VHMEFiem8wUUF3ejNuSjJtTWc?oc=5",
-     "published": "2026-09-28T16:21:37Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "RFI",
-     "source_domain": "rfi.fr",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20260928_5cc273",
    "headline": "倪永傑：兩岸進入“順勢而統”的新時代",
    "headline_source": "中國評論新聞",
@@ -12158,6 +12398,67 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260928_cec564",
+   "headline": "中國軍力的蛻變：從台海到非洲，走向何方？",
+   "headline_source": "RFI",
+   "headline_url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN0VJcWJteGlmZ2hSV3FhQm1aUjZ4bldwRlhzbUJEM0E5bzB1X2h4aW12QldGMnFBSDY4V3NRVElhdWxzVXVQVTA0T200RC0xenZNamt2b1QxalowazQwQVQyQWx4R1piMUs0YWpyVGp5QTc0bllLa1FmdmVfYjFfVGNDOEZpY2g1WWNCRHg1OWlOdWV3UkJveHZmUVl1bTlNbEdjdUZmaV96Umh3c1I2NTdKTm5iRkgyZHBWaUJFcWthX3FtYldIWGR6Mkt5ZlV5RGtOckVLQ2NPOU5IZHpQN2liZFZMak9IX0UxYXlKQzA3RWVDdXlzQVJrTmk3WDZCUHJZaFQxdUNoMXdsaFI5TW5pZGtEZlloRUhPMTI4RXE4RGt0X1VHMEFiem8wUUF3ejNuSjJtTWc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-28T07:00:00Z",
+   "last_seen": "2026-09-28T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0e8afa3224c99329"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0e8afa3224c99329",
+     "title": "中國軍力的蛻變：從台海到非洲，走向何方？",
+     "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNN0VJcWJteGlmZ2hSV3FhQm1aUjZ4bldwRlhzbUJEM0E5bzB1X2h4aW12QldGMnFBSDY4V3NRVElhdWxzVXVQVTA0T200RC0xenZNamt2b1QxalowazQwQVQyQWx4R1piMUs0YWpyVGp5QTc0bllLa1FmdmVfYjFfVGNDOEZpY2g1WWNCRHg1OWlOdWV3UkJveHZmUVl1bTlNbEdjdUZmaV96Umh3c1I2NTdKTm5iRkgyZHBWaUJFcWthX3FtYldIWGR6Mkt5ZlV5RGtOckVLQ2NPOU5IZHpQN2liZFZMak9IX0UxYXlKQzA3RWVDdXlzQVJrTmk3WDZCUHJZaFQxdUNoMXdsaFI5TW5pZGtEZlloRUhPMTI4RXE4RGt0X1VHMEFiem8wUUF3ejNuSjJtTWc?oc=5",
+     "published": "2026-09-28T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "RFI",
+     "source_domain": "rfi.fr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -14713,6 +15014,67 @@
      "lang": "zh",
      "entities": [
       "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260926_7d22e3",
+   "headline": "吳志中：台海和平是國際利益 相信美會完成對台軍售案",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aDQ5RTJHekJ2MWlvaHhCcmdIc2RzUkJzdE1kWWFJM09GTWVWMEUzYWVxLWV5T2dMV1RyYU14NS1jSm42NG5ZMVhyMmV0TVVPMk5rWTI5NzFLUdIBX0FVX3lxTE93eUVRNFY4WS1zdE5RRlpDZC1yV3pKd21iMlA2TU5IUTNmZmZFdGcyem0xYVRQSzg5MENmS3RIc2ZIYlhGaVk4Z3d6M3NKbC0wRjI3OGgwR05sNjczNldz?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-26T07:00:00Z",
+   "last_seen": "2026-09-26T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f01ea425e87e81ac"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f01ea425e87e81ac",
+     "title": "吳志中：台海和平是國際利益 相信美會完成對台軍售案",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB2aDQ5RTJHekJ2MWlvaHhCcmdIc2RzUkJzdE1kWWFJM09GTWVWMEUzYWVxLWV5T2dMV1RyYU14NS1jSm42NG5ZMVhyMmV0TVVPMk5rWTI5NzFLUdIBX0FVX3lxTE93eUVRNFY4WS1zdE5RRlpDZC1yV3pKd21iMlA2TU5IUTNmZmZFdGcyem0xYVRQSzg5MENmS3RIc2ZIYlhGaVk4Z3d6M3NKbC0wRjI3OGgwR05sNjczNldz?oc=5",
+     "published": "2026-09-26T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
       "roc_military",
       "taiwan_strait"
      ],
@@ -19448,9 +19810,71 @@
    ]
   },
   {
+   "id": "evt_20260924_ac81cf",
+   "headline": "路透：中國軍方大整肅 習近平穩握軍權、台海戰備受矚",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpLWtGYzRzMklyYnc0NHphVDNBWUxNWEZvM2dGMXVxUlVDZjV6bUdMTXVWa29GZ1J4N2V1V0IzaGpIY19DVHpsZnRVMm5taEJkdVVPU0tEVW9vUdIBX0FVX3lxTE0ycU00WmZXY2pYTzAxa2NDeEZ2emZSWV8yd204NzF4aHlOUWJwVUE1S0ZkUVV1elV3RGJ2SUpmeHZsUTY1WmVwUzFNOGdMQWh6VjY4a0NYLW5xRFBsVDZz?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-24T07:00:00Z",
+   "last_seen": "2026-09-24T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e59b9dbb20d0fb33"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e59b9dbb20d0fb33",
+     "title": "路透：中國軍方大整肅 習近平穩握軍權、台海戰備受矚",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpLWtGYzRzMklyYnc0NHphVDNBWUxNWEZvM2dGMXVxUlVDZjV6bUdMTXVWa29GZ1J4N2V1V0IzaGpIY19DVHpsZnRVMm5taEJkdVVPU0tEVW9vUdIBX0FVX3lxTE0ycU00WmZXY2pYTzAxa2NDeEZ2emZSWV8yd204NzF4aHlOUWJwVUE1S0ZkUVV1elV3RGJ2SUpmeHZsUTY1WmVwUzFNOGdMQWh6VjY4a0NYLW5xRFBsVDZz?oc=5",
+     "published": "2026-09-24T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "roc_military",
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20260924_d548b6",
    "headline": "8國聯合聲明點名台海！反對任何單方面改變現狀 外交部：深化民主夥伴合作",
-   "headline_source": "wealth.com.tw",
+   "headline_source": "財訊",
    "headline_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9oQ2tCd3VZYnliUVVKd3dtWlZrSFpCMlhsbUxTQk1PblNoSGRRVUUtSERCYnRBX0t1QV80dDJiSE1YX1VLdFY4THNYaTkwakJpVnJ5d1pIRkN5eG9NS09rN1VmT0ZIRW1CVl9nRW1ad1FGSzdtZ1dKTFkwVQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-09-24T07:00:00Z",
@@ -19498,7 +19922,7 @@
       "status_quo",
       "taiwan_strait"
      ],
-     "source_name": "wealth.com.tw",
+     "source_name": "財訊",
      "source_domain": "wealth.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -23218,367 +23642,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_69471a",
-   "headline": "搶在川習會之前 日本先關切台海區域安全",
-   "headline_source": "鏡報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOWVqenRYZUx0dWJzQTNoV2h3SFB3V2hNb3BvdU5BZUR3ckRlaEgzNXRzV05FREU5YVM5X2d6dlFJa1JTQnN4SDA0UURLZWlScFE?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T22:20:00Z",
-   "last_seen": "2026-09-22T22:20:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "5244740f9013e230"
-    ]
-   },
-   "articles": [
-    {
-     "id": "5244740f9013e230",
-     "title": "搶在川習會之前 日本先關切台海區域安全",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9JOWVqenRYZUx0dWJzQTNoV2h3SFB3V2hNb3BvdU5BZUR3ckRlaEgzNXRzV05FREU5YVM5X2d6dlFJa1JTQnN4SDA0UURLZWlScFE?oc=5",
-     "published": "2026-09-22T22:20:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "鏡報",
-     "source_domain": "mirrordaily.news",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_f54ba3",
-   "headline": "美日韓外長重申維持台海穩定- 全球財經- 工商時報",
-   "headline_source": "中國時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mNl9BeTdINmhUdzlMYTZsYnlhSl9EbGZibkpTMlZsUGU4VTdFXzdwTnRGallSWXNZWDBSTGgwZUZNTEpkc3c3R2YzcVFmNV9ySjZwaFFUclhaeE1pLVI0T2lzWVN4dXhENUp3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T20:10:00Z",
-   "last_seen": "2026-09-22T20:10:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ddc44260a94e4092"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ddc44260a94e4092",
-     "title": "美日韓外長重申維持台海穩定- 全球財經- 工商時報",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5mNl9BeTdINmhUdzlMYTZsYnlhSl9EbGZibkpTMlZsUGU4VTdFXzdwTnRGallSWXNZWDBSTGgwZUZNTEpkc3c3R2YzcVFmNV9ySjZwaFFUclhaeE1pLVI0T2lzWVN4dXhENUp3?oc=5",
-     "published": "2026-09-22T20:10:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_4ceb2c",
-   "headline": "美日韓外長重申維持台海穩定- 日報",
-   "headline_source": "工商時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVmNpU1BNclZVMEZjbUxXeFFPMUJYQXVSMDRRd09wZjVkSW9WaVJ4RFdtSzhHV2NXQzdJTm5uMFR4Nk5GYXFWUS0zUXBWeWVTUXdIdWFITGZGV2E4cnVN?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T19:00:00Z",
-   "last_seen": "2026-09-22T19:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "f84e209cc72275e9"
-    ]
-   },
-   "articles": [
-    {
-     "id": "f84e209cc72275e9",
-     "title": "美日韓外長重申維持台海穩定- 日報",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVmNpU1BNclZVMEZjbUxXeFFPMUJYQXVSMDRRd09wZjVkSW9WaVJ4RFdtSzhHV2NXQzdJTm5uMFR4Nk5GYXFWUS0zUXBWeWVTUXdIdWFITGZGV2E4cnVN?oc=5",
-     "published": "2026-09-22T19:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "工商時報",
-     "source_domain": "ctee.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_1d3e70",
-   "headline": "川習會前 美日韓聯合挺台 三國外長重申維護台海和平穩定",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zV3N3UlJUYTlrWGNDTnl0OG9WR3loeUFIRFFzQVAxVUpzVlhkbVg1UjFveUtkZTk1c3FLQm11S2hQQXI3eFdvZ0FNQmp4RnJWdkJTZFMtbUhRUdIBX0FVX3lxTE9aRTNSTWgya19ZZU1VX2VHNlJvOVdFTVpfa0o2VHJLY25BLWNyZUp3bHU5bWJhWU53Rm94TmdncTl1aG8wbTNXYWJfLXVQc3UxVGJMSDdLaXRXVUhyRnpn?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T18:51:32Z",
-   "last_seen": "2026-09-22T18:51:32Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 32.0,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "201a2723c8c74fdb"
-    ]
-   },
-   "articles": [
-    {
-     "id": "201a2723c8c74fdb",
-     "title": "川習會前 美日韓聯合挺台 三國外長重申維護台海和平穩定",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8zV3N3UlJUYTlrWGNDTnl0OG9WR3loeUFIRFFzQVAxVUpzVlhkbVg1UjFveUtkZTk1c3FLQm11S2hQQXI3eFdvZ0FNQmp4RnJWdkJTZFMtbUhRUdIBX0FVX3lxTE9aRTNSTWgya19ZZU1VX2VHNlJvOVdFTVpfa0o2VHJLY25BLWNyZUp3bHU5bWJhWU53Rm94TmdncTl1aG8wbTNXYWJfLXVQc3UxVGJMSDdLaXRXVUhyRnpn?oc=5",
-     "published": "2026-09-22T18:51:32Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_233742",
-   "headline": "川習會前美日韓聲明「反對片面改變台海現狀」 總統府、外交部致謝",
-   "headline_source": "zmedia.com.tw",
-   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IWWNkZmFoN3FXZ0YtbFoxYjVseEFyVlNlbllwOTktdGI1NXNreHlYWWJZM0ktOUVfeE8wSkN1dmVlV25UMEJwajFmeHJubUVrY1ZfLUx4TjZ4dGM?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T17:15:00Z",
-   "last_seen": "2026-09-22T17:15:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 9.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": true,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "정부·군 공식 발표 인용",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "055590e6d33386a7"
-    ]
-   },
-   "articles": [
-    {
-     "id": "055590e6d33386a7",
-     "title": "川習會前美日韓聲明「反對片面改變台海現狀」 總統府、外交部致謝",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5IWWNkZmFoN3FXZ0YtbFoxYjVseEFyVlNlbllwOTktdGI1NXNreHlYWWJZM0ktOUVfeE8wSkN1dmVlV25UMEJwajFmeHJubUVrY1ZfLUx4TjZ4dGM?oc=5",
-     "published": "2026-09-22T17:15:00Z",
-     "lang": "zh",
-     "entities": [
-      "status_quo",
-      "taiwan_strait"
-     ],
-     "source_name": "zmedia.com.tw",
-     "source_domain": "zmedia.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260922_50dbd9",
-   "headline": "府： 台海和平是國際共識 與民主夥伴合作提升防衛力",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43SzF4QUF2Wks2STliOGgwTUQxemtWdHR1X1ptcHV5UkR6VmN4emR3QzdEd0tBOEROVjA0WHh4M3dhVXRFbmJDdVhoNFZldU9KOFFZ0gFYQVVfeXFMT1VkYkU1ZWczRVJGMWpZcUFUZ1cyMmtfZ05BNDI1UDhhSUZxal81ZURzYTBkUldhN2VOYUxoT1NOdngwTUhvc2pjQjV3aXdUMTZUbXZPUF96NQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-22T16:00:00Z",
-   "last_seen": "2026-09-22T16:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "f0e893a23cad7729"
-    ]
-   },
-   "articles": [
-    {
-     "id": "f0e893a23cad7729",
-     "title": "府： 台海和平是國際共識 與民主夥伴合作提升防衛力",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE43SzF4QUF2Wks2STliOGgwTUQxemtWdHR1X1ptcHV5UkR6VmN4emR3QzdEd0tBOEROVjA0WHh4M3dhVXRFbmJDdVhoNFZldU9KOFFZ0gFYQVVfeXFMT1VkYkU1ZWczRVJGMWpZcUFUZ1cyMmtfZ05BNDI1UDhhSUZxal81ZURzYTBkUldhN2VOYUxoT1NOdngwTUhvc2pjQjV3aXdUMTZUbXZPUF96NQ?oc=5",
-     "published": "2026-09-22T16:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
