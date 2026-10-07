@@ -1,15 +1,612 @@
 {
  "month": "2026-10",
- "n_events": 130,
+ "n_events": 138,
  "events": [
+  {
+   "id": "evt_20261007_c78665",
+   "headline": "Coast Guard 'Friendship Fleet' arrives in Palau, to meet with president",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202610070010",
+   "headline_lang": "en",
+   "first_seen": "2026-10-07T05:12:32Z",
+   "last_seen": "2026-10-07T05:12:32Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "253f7c14abfbbdef"
+    ]
+   },
+   "articles": [
+    {
+     "id": "253f7c14abfbbdef",
+     "title": "Coast Guard 'Friendship Fleet' arrives in Palau, to meet with president",
+     "url": "https://focustaiwan.tw/politics/202610070010",
+     "published": "2026-10-07T05:12:32Z",
+     "lang": "en",
+     "entities": [
+      "coast_guard"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261005_65a52f",
+   "headline": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-10-05T11:36:36Z",
+   "last_seen": "2026-10-07T03:58:34Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 5,
+    "n_unrated": 1,
+    "score": 74.9,
+    "n_independent": 3,
+    "n_articles": 6,
+    "n_domains": 5,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 3곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "Israel Defense 원고를 The Defense Post 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8c95c878c94fb941",
+     "eb168f92b5c44255",
+     "b1ee4883e9666f2a",
+     "786390b85a5e514f",
+     "97117900b92af2b0",
+     "2da3cf735cf29a5c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8c95c878c94fb941",
+     "title": "Taiwan Receives First F-16V Fighter Jets from the US",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
+     "published": "2026-10-05T11:36:36Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Israel Defense",
+     "source_domain": "israeldefense.co.il",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "eb168f92b5c44255",
+     "title": "US Transfers Taiwan’s First F-16V Block 70 Fighter Jets",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1SRjE0VVNvdlZIRHFxbkNUYnZMN2JySldRd3FLWm1wbWZSdUdwQXJkWkFyU3ZtZE00eGc5TTdZRDhGamh5YS1md1BIMVRuQ2MwS3I1Rk9Vb3luLVB3cWFURHpPbTkyZTVacHJF0gFwQVVfeXFMTzVxdklta0g1YVpHaEZ6RW9SY2dKN3lEaDYzUUFUczdXNzBhOENuSnBHM0FrREVWR3Fwd3BBc1pfajB5Q2Z4aEZfTzJNYWFUaHZPNWE3Um1VcGRsN3FUdXhPNEE2RjVid3FtU2szT0F0bA?oc=5",
+     "published": "2026-10-05T14:24:35Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "The Defense Post",
+     "source_domain": "thedefensepost.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b1ee4883e9666f2a",
+     "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
+     "published": "2026-10-05T21:14:15Z",
+     "lang": "en",
+     "entities": [
+      "reunification"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
+    {
+     "id": "786390b85a5e514f",
+     "title": "Taiwan’s new F-16V fighter jets have landed – what now?",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWNlM0NCV1dWV0MtYWdORXMzdlRCandwU2xaM2x5bTEweExxZllkSkpZdTh3VHM4Y2ZzVDlXcC1PaktlNnJzcXFEQ1JpMDlwR0tDOHZfYk9kWmxSams3ek9IODUzSHlPaTlpbkNwcGlEeU56X1BSRnh6eGM3Y0RUOTczSjVVc3l2QlNMQmZn?oc=5",
+     "published": "2026-10-06T13:30:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "97117900b92af2b0",
+     "title": "金正恩插手台海！不滿F-16V抵台 北韓嗆美：準備好與中國對抗？",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCQVduTk9qNjNnZ2RVa1Y3d2dyNnhhVGxMMHlic3E1dkx5Rl9JUnB3dktJM29jZzdkT0tlYWg5VmtlbGJCSk5VSFJiM0UwamZiMXZ2RWFXRmdENnhmOUpxMEVVdUFZZ9IBa0FVX3lxTFBYZHhpa0ZvMFdveFZQbWlSQkJoV25VY190QmVCaWRYWEl6WTBuNGlZMkdwREpHTDVWa1BVZnlNbDdINUF2bWxhRi0wVzgwOU4waTRQTTEtVENXeVdmRVJCQzctb3N2aUZZeWl3?oc=5",
+     "published": "2026-10-07T02:49:09Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "2da3cf735cf29a5c",
+     "title": "自己派兵援俄卻管台海！ 北韓批美交付F-16V「門口埋炸彈」",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0xbkZncVJIUTJoVHlIaC1OSWJ4Y2JjaDV6VWZqcGNoS1JKelgtejM4RzFvczdOU09UYmluUVlKajJiNnc0b2VrX3hibWhvcncwcUNoQldjZThkTzZmbHo1YUdOYVpQUdIBa0FVX3lxTE90M3NYRVhSTDhtOWZPaXZhdklpeXhOZl9sZ053QkZ0bVgzNHlrMUF6d2tjZlluYm5McHJfaGp4OWJRWkZTTno1RzhIT2pmRU9qRFJqWW9kX005dlFfMXg2Ny11T3VwWUVjTENZ?oc=5",
+     "published": "2026-10-07T03:58:34Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261007_b6f2f4",
+   "headline": "Missing the Forest for the Trees in Taiwan’s Defense Preparations",
+   "headline_source": "The Diplomat",
+   "headline_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkhnalRvLTRfOGFoSkxGLVVQVnZ4dEViNkdBTmhxUUtob2x0MERCTTE2UUhERi1WSEN4WlU2OVV5azAwVE9TLTQ1bVIweHd1N2hQdkFZSGwwQTFTVzhzNkhFNGRra0hRNm9GUzdyWUxVSGpNQVhlUVhaNVJZYzRwTmllOW05bng1MHZkcnBpWDFuYmpRLURGTWdyWFRjQQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-07T03:22:25Z",
+   "last_seen": "2026-10-07T03:22:25Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 26.9,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "TA",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 분석기관"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "65aed1011310def6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "65aed1011310def6",
+     "title": "Missing the Forest for the Trees in Taiwan’s Defense Preparations",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTkhnalRvLTRfOGFoSkxGLVVQVnZ4dEViNkdBTmhxUUtob2x0MERCTTE2UUhERi1WSEN4WlU2OVV5azAwVE9TLTQ1bVIweHd1N2hQdkFZSGwwQTFTVzhzNkhFNGRra0hRNm9GUzdyWUxVSGpNQVhlUVhaNVJZYzRwTmllOW05bng1MHZkcnBpWDFuYmpRLURGTWdyWFRjQQ?oc=5",
+     "published": "2026-10-07T03:22:25Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "The Diplomat",
+     "source_domain": "thediplomat.com",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261006_7699ae",
+   "headline": "Taiwan says it has not heard new US arms sales will be carved into smaller chunks",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW0xLUFaNnFsQlVVWncxZTZWYWx2YzhEb0xGa1NJXzBLeThjcWxDOTRhNFA2bkI0NHJkOUFQN2o3bTNTZDF6b1V5WWtqRXBFZ3RkMzM3czE4cXZteHFZbWpIT0JNWG1nRXJBN2N5RHZIdzBPZlN1WVhpWGVJdG9DTjVaMFJ5T01NajlhR0hBRTBCa0NLd0dvdGl3Tm9Xd0p4SEpvSGJuWDFVQ1dRdkJsSFNyUEhrcTA5akt6YUYyQQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-06T02:13:00Z",
+   "last_seen": "2026-10-07T02:36:00Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "A",
+    "d_reason": null,
+    "grade_label": "검증됨",
+    "n_originals": 7,
+    "n_unrated": 2,
+    "score": 86.6,
+    "n_independent": 4,
+    "n_articles": 8,
+    "n_domains": 7,
+    "blocs": [
+     "independent",
+     "prc_state",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 4곳",
+     "최고 등급 통신사·공영",
+     "2개 언어권에서 확인",
+     "CGTN 원고를 環球時報 Global Times 가 전재 — 1곳으로 계산",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "432d0cfa8bcfb6c0",
+     "aa4fb8389bcd455d"
+    ],
+    "tw_west": [
+     "e4685332b7d73e18",
+     "9031ebe17953da9e",
+     "bde57758d1b76026",
+     "8164b0c855109b28",
+     "883dba445f57a91a",
+     "7238c783afe7ffda"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e4685332b7d73e18",
+     "title": "Taiwan says it has not heard new US arms sales will be carved into smaller chunks",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW0xLUFaNnFsQlVVWncxZTZWYWx2YzhEb0xGa1NJXzBLeThjcWxDOTRhNFA2bkI0NHJkOUFQN2o3bTNTZDF6b1V5WWtqRXBFZ3RkMzM3czE4cXZteHFZbWpIT0JNWG1nRXJBN2N5RHZIdzBPZlN1WVhpWGVJdG9DTjVaMFJ5T01NajlhR0hBRTBCa0NLd0dvdGl3Tm9Xd0p4SEpvSGJuWDFVQ1dRdkJsSFNyUEhrcTA5akt6YUYyQQ?oc=5",
+     "published": "2026-10-06T02:13:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "432d0cfa8bcfb6c0",
+     "title": "China firmly opposes US arms sales to China's Taiwan region",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM08yQjBRNmdacmRBa3Nhb012RTY5U2JoSHBtNWFmdHM4S2NOaG9CMC1BbEN6OTBYdExhalc4Q3ZYSG5vZ1pveUVHOGZLU21TZXprQkpmcjJPME05bTRMeGNFQ0hiZDJtS2tPckRjWVBJWm1hRzlLaVB5RVNJc21WcnJ1VFdFNG9iVlhwV1RYXzFmeXlOdjk0OW1FdFR5NXhwbEZjMXVBcnVuQjU0bXM2VXEwWGZSS0U?oc=5",
+     "published": "2026-10-06T14:02:26Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "CGTN",
+     "source_domain": "cgtn.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    },
+    {
+     "id": "9031ebe17953da9e",
+     "title": "Taiwan Arms Sale Backlog, September 2026 Update",
+     "url": "https://tsm.schar.gmu.edu/taiwan-arms-sale-backlog-september-2026-update/?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-arms-sale-backlog-september-2026-update",
+     "published": "2026-10-07T00:22:06Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "Taiwan Security Monitor (GMU)",
+     "source_domain": "gmu.edu",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "aa4fb8389bcd455d",
+     "title": "China firmly opposes US arms sales to China's Taiwan region: spokesperson",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUTk5TnJTWWFieDZhOVBPeWpiZ29UNmw2dURKUVFJVXhNNXBVMFp2Y0xhc2hQWE0wQ3hZZkh4N1J0VEtWRlRuRHl2NWN0NTE1Wnc3NlZwWjZnNVh1WXQ2dmJR?oc=5",
+     "published": "2026-10-07T00:44:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
+     "hedged": false
+    },
+    {
+     "id": "bde57758d1b76026",
+     "title": "北韓批美對台軍售加劇台海緊張 促華府三思後果",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0wNzVKRzVCNXF4QzIxSVBpUVRfUl9wb2txQUVBOFJveURZRHlscUdWR2p3SW1YdldmNmJyTWV1LTBZMkEyb05Pb0dxM1EzM3h5Vm9ZeW12Y0Nvd9IBX0FVX3lxTE1CYTJLZnpPQXFZOFlHbGFZQkdydERPYmhsSDBBOUVCdWVURWhBU0Y2dTFEbzhxRGtRQldrTDZoZzJDTGdwdlVTY0c5Yk1lR3NXYkZkdUZFMWViaUZpREtN?oc=5",
+     "published": "2026-10-07T01:36:36Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "8164b0c855109b28",
+     "title": "干卿底事？北韓開砲批美對台軍售加劇台海緊張| 國際焦點| 全球",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15TWZoR0VBUGhVOUtKRE9iSWxQV2tuZ2VQMnE2bk93Mm1CcmhlVk1WUnE2b3FXLVVheGd6dWdCOFpuNmFETmZnejdZTFZqQTkw?oc=5",
+     "published": "2026-10-07T02:13:26Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "883dba445f57a91a",
+     "title": "管到台海來？北韓開嗆美國對台軍售：真要為台灣對抗中國？",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNN0xsN3B4SWJ6Ym10UXc5WDVocTk3YnZoWU0wODNKeFZiRnBaeWQtd0VJTkJLOGNSMGpiemdRM3hIX3RhMFRjdF9MRFo1dndLRmVNMnd3akdERzVwVW1CWEVpaDZiSWJOZ3VZMnAwVHpUZmRvaWd4VDVqNHlzS0ViMERMRlpPWHc0Ync?oc=5",
+     "published": "2026-10-07T02:17:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "壹蘋新聞網",
+     "source_domain": "news.nextapple.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "7238c783afe7ffda",
+     "title": "北韓罕見就台海警告華府：10年對台軍售逾美金390億元 正把區域推向對抗",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE84aXVuMG42OHBlQWtwaFN0Z0cxN1BYdGhwOEtnQnFjbnZwczFDSlVlODFibjBsZ2NZVkJUajNDZnIzaDRDdkJ5UUloLThnZVJnRFJqUktsVEs?oc=5",
+     "published": "2026-10-07T02:36:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "coast_guard",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "梅花新聞網",
+     "source_domain": "i-meihua.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261007_7244aa",
+   "headline": "War game highlights Taiwan response to Chinese communications attacks",
+   "headline_source": "Washington Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMllDeXFJTGRKMTJFc2ZhUWw5bWt4VjVVdU9TLXBrVWNMd1g3b1UyVHZUcmI4Z0ItV0tNOXFWNk9mckIwaXNPWmFQb2VlYzN4U3ZCQmhoclkwbmF1STFmS0F3T0l6d2EyR19fMC1CQXM0U2ZhSVdWQ0M3bWZ6eFUyUkZsSkZsTVBfMjhKV2NLYUx6TVhwaVF4OU9jdTM1SFptMngxWEtIR0o0UW9HWG03elVnQ2pDdw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-07T00:24:54Z",
+   "last_seen": "2026-10-07T00:24:54Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2c17509a5de6f62d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2c17509a5de6f62d",
+     "title": "War game highlights Taiwan response to Chinese communications attacks",
+     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMllDeXFJTGRKMTJFc2ZhUWw5bWt4VjVVdU9TLXBrVWNMd1g3b1UyVHZUcmI4Z0ItV0tNOXFWNk9mckIwaXNPWmFQb2VlYzN4U3ZCQmhoclkwbmF1STFmS0F3T0l6d2EyR19fMC1CQXM0U2ZhSVdWQ0M3bWZ6eFUyUkZsSkZsTVBfMjhKV2NLYUx6TVhwaVF4OU9jdTM1SFptMngxWEtIR0o0UW9HWG03elVnQ2pDdw?oc=5",
+     "published": "2026-10-07T00:24:54Z",
+     "lang": "en",
+     "entities": [
+      "tabletop_wargame"
+     ],
+     "source_name": "Washington Times",
+     "source_domain": "washingtontimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "미국 보수 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261006_d1a9e4",
+   "headline": "陸文浩觀點：台海軍事觀察，應從「大軍演」朝向「長期消耗與多方向競爭」時代",
+   "headline_source": "風傳媒",
+   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fc0NtYlVRa0w4aWhCblY1N1BvYk9oYS1rSUt3NTR2d3FLM3lHaDNJZkNFVFBXQVdpb0NCbi1paVpYOUtnS2cwY2JjT2RUZw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-06T22:50:00Z",
+   "last_seen": "2026-10-06T22:50:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d3af84a65f890df5"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d3af84a65f890df5",
+     "title": "陸文浩觀點：台海軍事觀察，應從「大軍演」朝向「長期消耗與多方向競爭」時代",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1fc0NtYlVRa0w4aWhCblY1N1BvYk9oYS1rSUt3NTR2d3FLM3lHaDNJZkNFVFBXQVdpb0NCbi1paVpYOUtnS2cwY2JjT2RUZw?oc=5",
+     "published": "2026-10-06T22:50:00Z",
+     "lang": "zh",
+     "entities": [
+      "plan_navy",
+      "taiwan_strait"
+     ],
+     "source_name": "風傳媒",
+     "source_domain": "storm.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261006_555c1b",
    "headline": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russia",
    "headline_source": "Forth.News",
    "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCUzh3TjFFMGRDNkpjZDRuZHJFVkVPZGREUmVqbDVsSllsSFZNYW00b1hMendJXzVEMXF0T2J1Y2t6SVo1eGowdFlRaXRLQ1JXYlhYV0o4ODRPY0VIc1p6WFhn?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-06T21:53:24Z",
-   "last_seen": "2026-10-06T21:53:24Z",
+   "first_seen": "2026-10-06T21:55:37Z",
+   "last_seen": "2026-10-06T21:55:37Z",
    "langs": [
     "en"
    ],
@@ -46,7 +643,7 @@
      "id": "901540025b4d4e0a",
      "title": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russia",
      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCUzh3TjFFMGRDNkpjZDRuZHJFVkVPZGREUmVqbDVsSllsSFZNYW00b1hMendJXzVEMXF0T2J1Y2t6SVo1eGowdFlRaXRLQ1JXYlhYV0o4ODRPY0VIc1p6WFhn?oc=5",
-     "published": "2026-10-06T21:53:24Z",
+     "published": "2026-10-06T21:55:37Z",
      "lang": "en",
      "entities": [
       "taiwan_strait"
@@ -122,155 +719,60 @@
    ]
   },
   {
-   "id": "evt_20261006_7699ae",
-   "headline": "China firmly opposes US arms sales to China's Taiwan region",
-   "headline_source": "CGTN",
-   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM08yQjBRNmdacmRBa3Nhb012RTY5U2JoSHBtNWFmdHM4S2NOaG9CMC1BbEN6OTBYdExhalc4Q3ZYSG5vZ1pveUVHOGZLU21TZXprQkpmcjJPME05bTRMeGNFQ0hiZDJtS2tPckRjWVBJWm1hRzlLaVB5RVNJc21WcnJ1VFdFNG9iVlhwV1RYXzFmeXlOdjk0OW1FdFR5NXhwbEZjMXVBcnVuQjU0bXM2VXEwWGZSS0U?oc=5",
+   "id": "evt_20261006_13957f",
+   "headline": "The US makes a Taiwan NMESIS missile mess for China",
+   "headline_source": "Washington Examiner",
+   "headline_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhpXzZJLU1jeWliM08tWW5wZENRQ0lnQ1FfY0VSVGhsa3pBMW8xLTRSdVJPb0t1V3NjOXNEQVRUM1UyNWJCU09GTzhvclVyc1dYMzB4Ti1yWFFRQ1NyejgxTU42TXFBeHU0OU94VFphS0dQRElXZ08ydUl6WURoMHdkQ0ZmQ0ZQcWlSR013eDQzT0RQTDRvSVJGRk1YRnBReDRpSVNkQjV6ZGpKTjlDNkRHQ21adUtiM0E?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-06T14:02:26Z",
-   "last_seen": "2026-10-06T14:02:26Z",
+   "first_seen": "2026-10-06T17:34:00Z",
+   "last_seen": "2026-10-06T17:34:00Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
     "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
     "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
     "n_articles": 1,
     "n_domains": 1,
     "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "432d0cfa8bcfb6c0"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "432d0cfa8bcfb6c0",
-     "title": "China firmly opposes US arms sales to China's Taiwan region",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM08yQjBRNmdacmRBa3Nhb012RTY5U2JoSHBtNWFmdHM4S2NOaG9CMC1BbEN6OTBYdExhalc4Q3ZYSG5vZ1pveUVHOGZLU21TZXprQkpmcjJPME05bTRMeGNFQ0hiZDJtS2tPckRjWVBJWm1hRzlLaVB5RVNJc21WcnJ1VFdFNG9iVlhwV1RYXzFmeXlOdjk0OW1FdFR5NXhwbEZjMXVBcnVuQjU0bXM2VXEwWGZSS0U?oc=5",
-     "published": "2026-10-06T14:02:26Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "CGTN",
-     "source_domain": "cgtn.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261005_8fcdfb",
-   "headline": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
-   "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
-   "headline_lang": "en",
-   "first_seen": "2026-10-05T11:36:36Z",
-   "last_seen": "2026-10-06T13:30:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 3,
-    "n_unrated": 1,
-    "score": 50.5,
-    "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
      "unknown"
     ],
-    "top_tier": "T2",
+    "top_tier": "T5",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "8c95c878c94fb941",
-     "b1ee4883e9666f2a",
-     "786390b85a5e514f"
+     "52a10d2dbc8cd81f"
     ]
    },
    "articles": [
     {
-     "id": "8c95c878c94fb941",
-     "title": "Taiwan Receives First F-16V Fighter Jets from the US",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE45X0lPZlZtYXdvNi1pQm84VTNiTjV5S3ppUm1RWVF0RE5WdTdnbXRaeG1ldy1XY1JmSnA3Qkp0cG5HekwzTFJ4cnZWVHJldjQtZXQtdlBJSHc?oc=5",
-     "published": "2026-10-05T11:36:36Z",
+     "id": "52a10d2dbc8cd81f",
+     "title": "The US makes a Taiwan NMESIS missile mess for China",
+     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQdkhpXzZJLU1jeWliM08tWW5wZENRQ0lnQ1FfY0VSVGhsa3pBMW8xLTRSdVJPb0t1V3NjOXNEQVRUM1UyNWJCU09GTzhvclVyc1dYMzB4Ti1yWFFRQ1NyejgxTU42TXFBeHU0OU94VFphS0dQRElXZ08ydUl6WURoMHdkQ0ZmQ0ZQcWlSR013eDQzT0RQTDRvSVJGRk1YRnBReDRpSVNkQjV6ZGpKTjlDNkRHQ21adUtiM0E?oc=5",
+     "published": "2026-10-06T17:34:00Z",
      "lang": "en",
-     "entities": [],
-     "source_name": "Israel Defense",
-     "source_domain": "israeldefense.co.il",
+     "entities": [
+      "missile"
+     ],
+     "source_name": "Washington Examiner",
+     "source_domain": "washingtonexaminer.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "b1ee4883e9666f2a",
-     "title": "Mainland Chinese favour diplomacy to achieve Taiwan reunification with caveats: survey",
-     "url": "https://www.scmp.com/news/china/diplomacy/article/3369842/mainland-chinese-favour-diplomacy-achieve-taiwan-reunification-caveats-survey?utm_source=rss_feed",
-     "published": "2026-10-05T21:14:15Z",
-     "lang": "en",
-     "entities": [
-      "reunification"
-     ],
-     "source_name": "SCMP",
-     "source_domain": "scmp.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    },
-    {
-     "id": "786390b85a5e514f",
-     "title": "Taiwan’s new F-16V fighter jets have landed – what now?",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWNlM0NCV1dWV0MtYWdORXMzdlRCandwU2xaM2x5bTEweExxZllkSkpZdTh3VHM4Y2ZzVDlXcC1PaktlNnJzcXFEQ1JpMDlwR0tDOHZfYk9kWmxSams3ek9IODUzSHlPaTlpbkNwcGlEeU56X1BSRnh6eGM3Y0RUOTczSjVVc3l2QlNMQmZn?oc=5",
-     "published": "2026-10-06T13:30:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Straits Times",
-     "source_domain": "straitstimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -576,6 +1078,66 @@
    ]
   },
   {
+   "id": "evt_20261006_7980ac",
+   "headline": "習近平快看！美民調稱中國民眾傾「和平處理」台海問題 51%認動武只會惡化",
+   "headline_source": "民視新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbmlkTV9RTk4zNEVtd3JMdFJGbGtWdFRLeTJNc2Z6czlMa21GZkZBOG5VSzl4T1NRU2tHdzBMQUdySnJmWXVwTC00MzlrUVZMTTdHbWJIa2xkeUQ5Yk5HdQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-06T07:40:02Z",
+   "last_seen": "2026-10-06T07:40:02Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "73a038b2f13c8aa6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "73a038b2f13c8aa6",
+     "title": "習近平快看！美民調稱中國民眾傾「和平處理」台海問題 51%認動武只會惡化",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbmlkTV9RTk4zNEVtd3JMdFJGbGtWdFRLeTJNc2Z6czlMa21GZkZBOG5VSzl4T1NRU2tHdzBMQUdySnJmWXVwTC00MzlrUVZMTTdHbWJIa2xkeUQ5Yk5HdQ?oc=5",
+     "published": "2026-10-06T07:40:02Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261006_a0124e",
    "headline": "談台海地緣政治衝突 AMD蘇姿丰：台灣對全球半導體產業至關重要",
    "headline_source": "自由時報",
@@ -631,6 +1193,65 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261006_c71060",
+   "headline": "대만 총리 \"해경의 중국 어선 물대포 공격은 주권 수호\"",
+   "headline_source": "연합뉴스",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9COEJ2V0ViOUtacGFhX3ZGYXYtRGhlUzQtZGhyVTVrQ2oxMlVHdzdVMlJUMUFMLThtSzJmaHIwS0hpUUpOYkprWEdEQmE4bzBJUGxlTnVMWVczQknSAWBBVV95cUxQbzEwMUxSbWZ0R2lQZThYN0xDU2xlT3FjQmZHVnkxdVFudkVlRWtmUHJUU1M5dDFwNDQ2R0hoTGlENDZQSlZzWWZKRk5IaGZYb2dJeHNIX1daekdMWlo1R04?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-06T06:33:14Z",
+   "last_seen": "2026-10-06T06:33:14Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f9cb2b4170e51a1c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f9cb2b4170e51a1c",
+     "title": "대만 총리 \"해경의 중국 어선 물대포 공격은 주권 수호\"",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9COEJ2V0ViOUtacGFhX3ZGYXYtRGhlUzQtZGhyVTVrQ2oxMlVHdzdVMlJUMUFMLThtSzJmaHIwS0hpUUpOYkprWEdEQmE4bzBJUGxlTnVMWVczQknSAWBBVV95cUxQbzEwMUxSbWZ0R2lQZThYN0xDU2xlT3FjQmZHVnkxdVFudkVlRWtmUHJUU1M5dDFwNDQ2R0hoTGlENDZQSlZzWWZKRk5IaGZYb2dJeHNIX1daekdMWlo1R04?oc=5",
+     "published": "2026-10-06T06:33:14Z",
+     "lang": "ko",
+     "entities": [
+      "coast_guard"
+     ],
+     "source_name": "연합뉴스",
+     "source_domain": "yna.co.kr",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -3716,12 +4337,11 @@
     "tw_west": [
      "f7f17d0a1dc5717a",
      "e95035ceead7cb71",
+     "405d68c2b780febf",
      "ef5ae458e9d21810",
      "9d76944e3ffd8094",
      "29c5b956d9c884a5",
-     "d4b78da81ae75ec0",
      "36e5a3f479272b74",
-     "3bf869b4758257e2",
      "78cd22e041dfa3a7",
      "6661c9b5e4607885",
      "3057e37465272227",
@@ -3754,6 +4374,22 @@
      "entities": [],
      "source_name": "Nikkei",
      "source_domain": "nikkei.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "405d68c2b780febf",
+     "title": "New F-16V fighter jets arrive in Taiwan to bolster defenses",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBrd1VsV2pTZnA5Yy15UmFsSzVvSEhIVmFHVU9oY29qNGFRUnkzSmdFTjBJdmo2QzJkdk43Z0VOTEZvcGtTWDdvVlYzejJUSnFtYkpxRmR3?oc=5",
+     "published": "2026-10-02T03:10:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "아사히신문",
+     "source_domain": "asahi.com",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -3813,25 +4449,6 @@
      "hedged": false
     },
     {
-     "id": "d4b78da81ae75ec0",
-     "title": "歡迎F-16V BLK70加入捍衛台海！賴清德曝作戰能力：持續掌握交付進度| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xRFR0eGxwWWhUMGNPWkQxamhmUWx6UXpUZGs1dVBXSHcyS2lWY1dBZklJTHFONVpIek5JNGJ1dXlZOW1QQ1JRYTZXY1YxUDJOUXU5Zi1Wa2lMRkk?oc=5",
-     "published": "2026-10-02T08:07:20Z",
-     "lang": "zh",
-     "entities": [
-      "lai_chingte",
-      "taiwan_strait"
-     ],
-     "source_name": "新頭殼",
-     "source_domain": "newtalk.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
      "id": "36e5a3f479272b74",
      "title": "Taiwan incorporates two new F-16s from the US in the midst of military modernization",
      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOb1dzR1UwaGR0Z2ZhN2MwUzhTWU1OcHdGQ0d4TXh1QWhzZVYwQlFHV1dycjhpeC1qTkhKV3NaaUNGcFp3OGtuVU9UV3d2RGRTNlR3WjJzWFl1XzhaOERMd3lMaWM5aVd3WU9XaHAtUWZaenBCaGNXRTNLX1lWOEx5U3N2LXlJN0VjUkExSG9fWmZNNnBHMk9TUlFsMmlrbFFIZVNzV0luTE52Q0xXMi13bEVTZ0h6MlpLNXpTTUR3dkJhRjdqNFHSAcsBQVVfeXFMT01IVTJfZGhfUFV4VWRzWXlFbks0SVhldmRvV0t3RnFFVGdtWmZMN09sRlFIZWVvV0ZRbzNBRjlBVXlFVEdrbFF3d3J1bXJOR29fNnRTZEhfSnhWS1UzTng1bDQ3V1JaRG5MdmdoNW5nRmdJV3FMNENQZVdPcEMydmtuZW1odFNBSWkzY2NmUXp6Y1pQcTVpaW9wNWMweFV2VU95b2lCWWtOYV80UWNDakVQdGJ1MUdWcmlyOGFUTUE1N3V3VDhaTHpUc00?oc=5",
@@ -3845,24 +4462,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "3bf869b4758257e2",
-     "title": "新聞360》F-16V BLK70反制共軍戰力曝！學者揭台灣關鍵優勢",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnYmdxako3aW5jajljeHRpNkNSSHVfNER0MU9ITkVtUWY0U3d3T0dqdEFMVlNHbmR1Z3lXcVlkck96UUhyTnI3RVVaYVcyaFRzVWFnSjBscm5pbG90QVRPS2E4MGlqOHlOMHfSAW9BVV95cUxOT01fMTkwaWN4b2ExR19vejFYMzlVeVY0eVQtWkFVY2hTcDM0R0VLX0ljQXp1VGFlSVdRMjNxQVljME1ld1otOUJpZG1lT0M5bmg5NUZqNXNzdkxXYkkxVWtOVElPSUN6OTBjeDFTS0k?oc=5",
-     "published": "2026-10-02T11:17:20Z",
-     "lang": "zh",
-     "entities": [
-      "pla"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     },
     {
@@ -5740,6 +6339,63 @@
    ]
   },
   {
+   "id": "evt_20261002_5ccf56",
+   "headline": "Taiwan tracks 15 Chinese ships, 6 military aircraft",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBbW94QTBRdVA5WFZES081bmx3SmYydWlmYVFWZHB2akpndUkzd1V6TzR4NjJzeWhpclk1NGFUWFdKbkp1VHpUWDlVOWxHMUFjQWRkaA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-02T02:24:00Z",
+   "last_seen": "2026-10-02T02:24:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8e34b99c8be23f73"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8e34b99c8be23f73",
+     "title": "Taiwan tracks 15 Chinese ships, 6 military aircraft",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBBbW94QTBRdVA5WFZES081bmx3SmYydWlmYVFWZHB2akpndUkzd1V6TzR4NjJzeWhpclk1NGFUWFdKbkp1VHpUWDlVOWxHMUFjQWRkaA?oc=5",
+     "published": "2026-10-02T02:24:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261002_a2c434",
    "headline": "賴清德連任中共恐攻台？顧立雄曝1關鍵 | NOWNEWS今日新聞",
    "headline_source": "LINE TODAY",
@@ -6945,12 +7601,12 @@
   },
   {
    "id": "evt_20261001_27e4c0",
-   "headline": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
-   "headline_source": "New York Post",
-   "headline_url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUhQQkxpejdhelhYTXpXRDFJcDBkNFVBTUliRUpMbTlKNy14ZDdIbGtXdU5wYU92Mm52eUZxRVprWmpZNlY5UHRvWUdNeDdwTEVNTFBnNWlmdzdlbWRWR3h6NDZLaGd1bkpfLTE3WjFLNUlwSU4taFo3NnpueEk2b3NNTDRsbXQ3SXJGb21qcTlDZWtSYktDRHdxMlRvT1hKc1ZYLThQd3ZLVy1pR2ZpSV9iRDlFNzMz?oc=5",
+   "headline": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-01T08:10:00Z",
-   "last_seen": "2026-10-01T10:37:49Z",
+   "first_seen": "2026-10-01T10:37:49Z",
+   "last_seen": "2026-10-01T11:06:36Z",
    "langs": [
     "en"
    ],
@@ -6980,29 +7636,11 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "f911f5e47c47b27f",
-     "4b6559c4e8ce9486"
+     "4b6559c4e8ce9486",
+     "d09d8c75f5b38cb1"
     ]
    },
    "articles": [
-    {
-     "id": "f911f5e47c47b27f",
-     "title": "US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline",
-     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTUhQQkxpejdhelhYTXpXRDFJcDBkNFVBTUliRUpMbTlKNy14ZDdIbGtXdU5wYU92Mm52eUZxRVprWmpZNlY5UHRvWUdNeDdwTEVNTFBnNWlmdzdlbWRWR3h6NDZLaGd1bkpfLTE3WjFLNUlwSU4taFo3NnpueEk2b3NNTDRsbXQ3SXJGb21qcTlDZWtSYktDRHdxMlRvT1hKc1ZYLThQd3ZLVy1pR2ZpSV9iRDlFNzMz?oc=5",
-     "published": "2026-10-01T08:10:00Z",
-     "lang": "en",
-     "entities": [
-      "invasion"
-     ],
-     "source_name": "New York Post",
-     "source_domain": "nypost.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "4b6559c4e8ce9486",
      "title": "US Sees Chinese Invasion Of Taiwan Unlikely In 2027 Despite Beijing’s Military Timeline",
@@ -7021,6 +7659,24 @@
      "bloc_label": "미분류",
      "bias": null,
      "hedged": false
+    },
+    {
+     "id": "d09d8c75f5b38cb1",
+     "title": "EXCLUSIVE: US sees Chinese invasion of Taiwan unlikely next year despite 2027 timeline, sources say",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUndXVDZTcEFDQWtURXgyY2xhOUh2OTYyQml2YWNSTVN0Unh0cVZfMElHOFo4RnRSZG9OTzR6QzhySElfendhdnVYZDlkM0pwZXd3RkJaaFhjbm95RVBZWHZ1TExod3JUZFZ5WVVrUnBQZ2ZSanZ3cHVla3A2XzZqdGZ2MUtGejNZcG8xczFER2JraHFyUV84RGd2SmxWOEFhYm9vdnI5RkZnSkQzTGhKcEpfUWpCbWp6TTVFbE5KbTNXd19SOUxn?oc=5",
+     "published": "2026-10-01T11:06:36Z",
+     "lang": "en",
+     "entities": [
+      "invasion"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": true
     }
    ]
   },

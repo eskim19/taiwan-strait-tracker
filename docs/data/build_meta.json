@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-06T22:40:55Z",
- "checked": "2026-10-06",
- "duration_sec": 35.7,
+ "updated": "2026-10-07T06:04:41Z",
+ "checked": "2026-10-07",
+ "duration_sec": 33.2,
  "rolling_days": 14,
- "n_events": 386,
- "n_articles": 430,
+ "n_events": 387,
+ "n_articles": 441,
  "grades": {
-  "D": 192,
-  "C": 177,
-  "B": 16,
-  "A": 1
+  "D": 188,
+  "B": 17,
+  "C": 180,
+  "A": 2
  },
- "cross_language_events": 3,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-09",
@@ -19,12 +19,12 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 10,
-  "T2": 191,
-  "T3": 58,
+  "T1": 13,
+  "T2": 196,
+  "T3": 59,
   "T4": 19,
-  "T5": 129,
-  "TA": 2
+  "T5": 128,
+  "TA": 4
  },
  "t1_domains": [
   "dw.com",
@@ -41,8 +41,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 21,
-   "newest": "2026-10-06T21:53:24+00:00",
+   "n_adopted": 20,
+   "newest": "2026-10-06T21:55:37+00:00",
    "stale": false,
    "error": null
   },
@@ -53,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 29,
-   "newest": "2026-10-06T13:30:00+00:00",
+   "n_entries": 48,
+   "n_adopted": 32,
+   "newest": "2026-10-07T03:22:25+00:00",
    "stale": false,
    "error": null
   },
@@ -67,8 +67,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-10-06T03:58:49+00:00",
+   "n_adopted": 4,
+   "newest": "2026-10-06T10:32:13+00:00",
    "stale": false,
    "error": null
   },
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 64,
-   "newest": "2026-10-06T20:31:51+00:00",
+   "n_adopted": 58,
+   "newest": "2026-10-07T05:58:38+00:00",
    "stale": false,
    "error": null
   },
@@ -93,8 +93,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-10-06T14:02:26+00:00",
+   "n_adopted": 6,
+   "newest": "2026-10-07T00:44:00+00:00",
    "stale": false,
    "error": null
   },
@@ -106,8 +106,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-10-06T14:43:00+00:00",
+   "n_adopted": 2,
+   "newest": "2026-10-07T02:59:00+00:00",
    "stale": false,
    "error": null
   },
@@ -118,9 +118,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 0,
-   "newest": "2026-10-06T13:00:54+00:00",
+   "n_entries": 55,
+   "n_adopted": 1,
+   "newest": "2026-10-07T05:12:32+00:00",
    "stale": false,
    "error": null
   },
@@ -146,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-10-06T21:59:33+00:00",
+   "newest": "2026-10-07T05:06:45+00:00",
    "stale": false,
    "error": null
   },
@@ -159,7 +159,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-06T10:28:00+00:00",
+   "newest": "2026-10-07T05:38:00+00:00",
    "stale": false,
    "error": null
   },
@@ -168,12 +168,12 @@
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
    "status": "ok",
-   "health": "stale",
+   "health": "ok",
    "http": 200,
    "n_entries": 10,
-   "n_adopted": 1,
-   "newest": "2026-09-22T01:08:04+00:00",
-   "stale": true,
+   "n_adopted": 2,
+   "newest": "2026-10-07T00:22:06+00:00",
+   "stale": false,
    "error": null
   },
   {
@@ -196,9 +196,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-10-06T22:01:51+00:00",
+   "newest": "2026-10-07T05:45:04+00:00",
    "stale": false,
    "error": null
   },
@@ -211,7 +211,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-06T10:05:22+00:00",
+   "newest": "2026-10-07T04:39:59+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-06T22:07:44+00:00",
+   "newest": "2026-10-07T05:54:10+00:00",
    "stale": false,
    "error": null
   },
@@ -245,13 +245,13 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 13,
+   "n_articles": 12,
    "sample_title": "台海若開打傳統軍艦不是重點？Google前執行長：將成無人機戰| TVBS"
   },
   {
    "domain": "i-meihua.com",
-   "n_articles": 10,
-   "sample_title": "比台海更危急？立陶宛恐成三戰導火線 美將軍：世上最動盪之地"
+   "n_articles": 11,
+   "sample_title": "北韓罕見就台海警告華府：10年對台軍售逾美金390億元 正把區域推向對抗"
   },
   {
    "domain": "mnews.tw",
@@ -279,14 +279,19 @@
    "sample_title": "從南海到海底電纜！台海若開戰澳智庫揭東協安全6大破口- 國際"
   },
   {
-   "domain": "mobile01.com",
-   "n_articles": 3,
-   "sample_title": "習近平臉綠了「共軍攻台計畫」12版本全到了Claude手上"
+   "domain": "news.nextapple.com",
+   "n_articles": 2,
+   "sample_title": "管到台海來？北韓開嗆美國對台軍售：真要為台灣對抗中國？"
   },
   {
    "domain": "firstpost.com",
    "n_articles": 2,
    "sample_title": "Taiwan gets first 2 of 66 US F-16V fighter jets after months of delays amid Chin"
+  },
+  {
+   "domain": "mobile01.com",
+   "n_articles": 2,
+   "sample_title": "習近平臉綠了「共軍攻台計畫」12版本全到了Claude手上"
   },
   {
    "domain": "news.cnyes.com",
@@ -324,24 +329,19 @@
    "sample_title": "川普與習近平華府峰會：聚焦貿易、AI及台海議題"
   },
   {
-   "domain": "forth.news",
-   "n_articles": 1,
-   "sample_title": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russi"
-  },
-  {
    "domain": "israeldefense.co.il",
    "n_articles": 1,
    "sample_title": "Taiwan Receives First F-16V Fighter Jets from the US"
   },
   {
-   "domain": "waradana.com",
+   "domain": "thedefensepost.com",
    "n_articles": 1,
-   "sample_title": "U.S. and Japan Conduct Military Drills Near Taiwan Amid Rising Tensions with Chi"
+   "sample_title": "US Transfers Taiwan’s First F-16V Block 70 Fighter Jets"
   },
   {
-   "domain": "taiwanreports.com",
+   "domain": "forth.news",
    "n_articles": 1,
-   "sample_title": "社論 /跟監賴清德之子 兩岸台海局勢進入高壓期"
+   "sample_title": "North Korea Accuses U.S. of Provoking Taiwan Strait, Reaffirms Support for Russi"
   }
  ]
 }
