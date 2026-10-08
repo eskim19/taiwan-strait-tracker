@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-07T20:39:19Z",
- "checked": "2026-10-07",
- "duration_sec": 33.3,
+ "updated": "2026-10-08T01:02:43Z",
+ "checked": "2026-10-08",
+ "duration_sec": 33.9,
  "rolling_days": 14,
- "n_events": 381,
- "n_articles": 432,
+ "n_events": 376,
+ "n_articles": 427,
  "grades": {
-  "C": 179,
-  "D": 184,
+  "C": 176,
+  "D": 182,
   "B": 15,
   "A": 3
  },
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 13,
-  "T2": 191,
-  "T3": 57,
+  "T2": 188,
+  "T3": 54,
   "T4": 19,
-  "T5": 127,
+  "T5": 128,
   "TA": 3
  },
  "t1_domains": [
@@ -55,7 +55,7 @@
    "http": 200,
    "n_entries": 49,
    "n_adopted": 31,
-   "newest": "2026-10-07T19:27:06+00:00",
+   "newest": "2026-10-07T19:26:35+00:00",
    "stale": false,
    "error": null
   },
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-10-07T20:30:02+00:00",
+   "n_adopted": 61,
+   "newest": "2026-10-07T23:07:00+00:00",
    "stale": false,
    "error": null
   },
@@ -107,7 +107,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 2,
-   "newest": "2026-10-07T12:15:00+00:00",
+   "newest": "2026-10-07T23:53:00+00:00",
    "stale": false,
    "error": null
   },
@@ -146,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 4,
-   "newest": "2026-10-07T19:27:59+00:00",
+   "newest": "2026-10-08T01:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -159,7 +159,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-07T12:29:00+00:00",
+   "newest": "2026-10-08T00:58:00+00:00",
    "stale": false,
    "error": null
   },
@@ -196,9 +196,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-10-07T15:43:04+00:00",
+   "newest": "2026-10-08T00:54:57+00:00",
    "stale": false,
    "error": null
   },
@@ -211,7 +211,7 @@
    "http": 200,
    "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-10-07T12:09:59+00:00",
+   "newest": "2026-10-08T00:53:46+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-07T20:27:47+00:00",
+   "newest": "2026-10-08T00:33:03+00:00",
    "stale": false,
    "error": null
   },
@@ -284,6 +284,11 @@
    "sample_title": "F-16V飛抵台灣之後：台海真正需要的，不是「尚勇」，而是更有戰略定力"
   },
   {
+   "domain": "arise.tv",
+   "n_articles": 2,
+   "sample_title": "North Korea Warns US Over Taiwan Military Support, Pledges To Back Russia"
+  },
+  {
    "domain": "news.nextapple.com",
    "n_articles": 2,
    "sample_title": "管到台海來？北韓開嗆美國對台軍售：真要為台灣對抗中國？"
@@ -327,11 +332,6 @@
    "domain": "moneyweekly.com.tw",
    "n_articles": 2,
    "sample_title": "川普與習近平華府峰會：聚焦貿易、AI及台海議題"
-  },
-  {
-   "domain": "arise.tv",
-   "n_articles": 1,
-   "sample_title": "North Korea Warns US Over Taiwan Military Support, Pledges To Back Russia"
   },
   {
    "domain": "hindustantimes.com",
