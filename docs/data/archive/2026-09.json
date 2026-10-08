@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 994,
+ "n_events": 995,
  "events": [
   {
    "id": "evt_20260930_a8352c",
@@ -972,6 +972,66 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 영문지",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260930_157dbd",
+   "headline": "Peace, stability across Taiwan Strait biggest common denominator between China, US - spokeswoman",
+   "headline_source": "Awani International",
+   "headline_url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORzR6ODZoWk9GQXdDc0RGYXFBb1FJLXVzTmQya09jc1ptMlRzWFJseHFCb1RERnRtbjMtZEZPWHN1eGNzZkFoWGRsaEFqMGRvTXhjaEt3SnZlR2lyRzI0YTM2ZnN2YU0xU2tfeHBkYXh2dHB2dVRycmg4MDFEWm83eDNjR2pOY2puRDhpdHhCSHhJR3lmLTB0clNQckNBaVU4Vk9XVnNjNXI3Ukk0SlRiYnpOSzhSYlNRNHd3dDNpdWFGQkNnU0gxeVZtek5wckdxX3NkUTlCR3g?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-09-30T07:00:00Z",
+   "last_seen": "2026-09-30T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1b4bbd5310ba8ebf"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1b4bbd5310ba8ebf",
+     "title": "Peace, stability across Taiwan Strait biggest common denominator between China, US - spokeswoman",
+     "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxORzR6ODZoWk9GQXdDc0RGYXFBb1FJLXVzTmQya09jc1ptMlRzWFJseHFCb1RERnRtbjMtZEZPWHN1eGNzZkFoWGRsaEFqMGRvTXhjaEt3SnZlR2lyRzI0YTM2ZnN2YU0xU2tfeHBkYXh2dHB2dVRycmg4MDFEWm83eDNjR2pOY2puRDhpdHhCSHhJR3lmLTB0clNQckNBaVU4Vk9XVnNjNXI3Ukk0SlRiYnpOSzhSYlNRNHd3dDNpdWFGQkNnU0gxeVZtek5wckdxX3NkUTlCR3g?oc=5",
+     "published": "2026-09-30T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Awani International",
+     "source_domain": "international.astroawani.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
