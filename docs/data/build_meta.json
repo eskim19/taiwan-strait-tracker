@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-10T17:22:24Z",
+ "updated": "2026-10-10T21:47:41Z",
  "checked": "2026-10-10",
- "duration_sec": 34.6,
+ "duration_sec": 30.0,
  "rolling_days": 14,
- "n_events": 343,
- "n_articles": 393,
+ "n_events": 344,
+ "n_articles": 397,
  "grades": {
-  "C": 159,
+  "D": 163,
+  "C": 157,
   "B": 22,
-  "D": 161,
-  "A": 1
+  "A": 2
  },
- "cross_language_events": 4,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-09",
@@ -20,9 +20,9 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 12,
-  "T2": 181,
-  "T3": 46,
-  "T4": 15,
+  "T2": 179,
+  "T3": 48,
+  "T4": 14,
   "T5": 116,
   "TA": 3
  },
@@ -53,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 41,
+   "n_entries": 43,
    "n_adopted": 26,
-   "newest": "2026-10-10T13:28:00+00:00",
+   "newest": "2026-10-10T19:33:47+00:00",
    "stale": false,
    "error": null
   },
@@ -67,8 +67,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-10-09T02:08:49+00:00",
+   "n_adopted": 4,
+   "newest": "2026-10-10T12:02:30+00:00",
    "stale": false,
    "error": null
   },
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-10-10T16:30:30+00:00",
+   "n_adopted": 62,
+   "newest": "2026-10-10T20:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -106,8 +106,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-10-10T03:04:38+00:00",
+   "n_adopted": 5,
+   "newest": "2026-10-10T08:02:29+00:00",
    "stale": false,
    "error": null
   },
@@ -118,7 +118,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
+   "n_entries": 25,
    "n_adopted": 0,
    "newest": "2026-10-10T11:27:08+00:00",
    "stale": false,
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-10T17:08:37+00:00",
+   "newest": "2026-10-10T21:12:04+00:00",
    "stale": false,
    "error": null
   },
@@ -269,9 +269,9 @@
    "sample_title": "台海戰爭風險被高估？美高官談習近平：代價太大就不會動手"
   },
   {
-   "domain": "fakti.bg",
+   "domain": "taiwandaily.net",
    "n_articles": 3,
-   "sample_title": "Taiwan increases defense spending to prevent war ᐉ News from Fakti.bg - World"
+   "sample_title": "紅朝禁聞-雙十節台海風雲突變 賴清德向習近平劃紅線 1010"
   },
   {
    "domain": "ctee.com.tw",
@@ -287,11 +287,6 @@
    "domain": "firstpost.com",
    "n_articles": 2,
    "sample_title": "Taiwan's president says increasing defence spending to 'deter war' as China ramp"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 2,
-   "sample_title": "尖鋒對話-國慶前夕 共軍共艦騷擾台灣周邊空、海域 1009"
   },
   {
    "domain": "news.cnyes.com",
@@ -329,19 +324,24 @@
    "sample_title": "6407 相互 - 藏人访客曝预言中国分裂？台海2028成关键(图) - 股市爆料同學會"
   },
   {
-   "domain": "cdns.com.tw",
+   "domain": "ntd.com",
    "n_articles": 1,
-   "sample_title": "諾貝爾和平獎落空 川普：台海沒開戰全靠我！"
+   "sample_title": "Taiwan President Says Island’s Defense Is Test of Global Rules Amid China Pressu"
+  },
+  {
+   "domain": "koreapost.co.kr",
+   "n_articles": 1,
+   "sample_title": "[이슈/ 대만 ‘종속 거부’에 중국 압박 강화 예고] 양안 관계, 억제와 대치 장기화 전망"
+  },
+  {
+   "domain": "fakti.bg",
+   "n_articles": 1,
+   "sample_title": "Taiwan increases defense spending to prevent war ᐉ News from Fakti.bg - World"
   },
   {
    "domain": "mainichi.jp",
    "n_articles": 1,
    "sample_title": "Taiwan's Lai urges defense boost, accuses China of changing status quo"
-  },
-  {
-   "domain": "news.ttv.com.tw",
-   "n_articles": 1,
-   "sample_title": "川普自認解決8場戰爭「應獲8座諾貝爾和平獎」 點名台海未開戰也靠他"
   }
  ]
 }
