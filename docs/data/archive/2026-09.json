@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 995,
+ "n_events": 996,
  "events": [
   {
    "id": "evt_20260930_a8352c",
@@ -1410,6 +1410,68 @@
      "lang": "zh",
      "entities": [
       "reunification",
+      "tao"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20260930_983a62",
+   "headline": "国台办：欢迎两岸同胞为“两制”台湾方案提建议",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iTHFoNnpoQV9yUVU2SDJuN1JPSmwwSzFDbkxuZWZ1dF9OODAya3ZmTUNtUUxYV19tRzZ1MlZzcHI1OXpEd1RTWU9DMkhhZGY1Q28zRnp4U0FoV0JKRjF1MnM3RG90YXBScGRmekE0RmU?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-09-30T04:02:34Z",
+   "last_seen": "2026-09-30T04:02:34Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 27.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "1d8fec62f67dc945"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "1d8fec62f67dc945",
+     "title": "国台办：欢迎两岸同胞为“两制”台湾方案提建议",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iTHFoNnpoQV9yUVU2SDJuN1JPSmwwSzFDbkxuZWZ1dF9OODAya3ZmTUNtUUxYV19tRzZ1MlZzcHI1OXpEd1RTWU9DMkhhZGY1Q28zRnp4U0FoV0JKRjF1MnM3RG90YXBScGRmekE0RmU?oc=5",
+     "published": "2026-09-30T04:02:34Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
       "tao"
      ],
      "source_name": "中國新聞網",
