@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-11T12:55:15Z",
+ "updated": "2026-10-11T19:35:10Z",
  "checked": "2026-10-11",
- "duration_sec": 34.7,
+ "duration_sec": 32.6,
  "rolling_days": 14,
- "n_events": 352,
- "n_articles": 409,
+ "n_events": 356,
+ "n_articles": 411,
  "grades": {
-  "D": 171,
+  "C": 155,
+  "D": 174,
   "B": 25,
-  "C": 154,
   "A": 2
  },
  "cross_language_events": 5,
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 12,
-  "T2": 182,
-  "T3": 57,
-  "T4": 13,
-  "T5": 116,
+  "T2": 183,
+  "T3": 58,
+  "T4": 11,
+  "T5": 119,
   "TA": 4
  },
  "t1_domains": [
@@ -54,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
-   "n_adopted": 28,
-   "newest": "2026-10-11T10:09:24+00:00",
+   "n_entries": 47,
+   "n_adopted": 30,
+   "newest": "2026-10-11T14:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -68,8 +68,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-10-11T06:32:00+00:00",
+   "n_adopted": 5,
+   "newest": "2026-10-11T08:25:08+00:00",
    "stale": false,
    "error": null
   },
@@ -81,8 +81,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-10-11T11:36:46+00:00",
+   "n_adopted": 63,
+   "newest": "2026-10-11T16:27:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 8,
-   "newest": "2026-10-11T12:40:17+00:00",
+   "newest": "2026-10-11T14:29:59+00:00",
    "stale": false,
    "error": null
   },
@@ -108,7 +108,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 4,
-   "newest": "2026-10-11T12:13:00+00:00",
+   "newest": "2026-10-11T14:40:14+00:00",
    "stale": false,
    "error": null
   },
@@ -119,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 35,
+   "n_entries": 25,
    "n_adopted": 1,
-   "newest": "2026-10-11T11:58:58+00:00",
+   "newest": "2026-10-11T12:39:01+00:00",
    "stale": false,
    "error": null
   },
@@ -132,9 +132,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 42,
-   "n_adopted": 0,
-   "newest": "2026-10-11T00:00:00+00:00",
+   "n_entries": 45,
+   "n_adopted": 2,
+   "newest": "2026-10-12T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 4,
-   "newest": "2026-10-11T12:00:07+00:00",
+   "newest": "2026-10-11T14:00:16+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 99,
+   "n_entries": 98,
    "n_adopted": 0,
-   "newest": "2026-10-11T11:58:25+00:00",
+   "newest": "2026-10-11T13:00:18+00:00",
    "stale": false,
    "error": null
   },
@@ -210,9 +210,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-10-10T23:31:35+00:00",
+   "newest": "2026-10-11T19:08:04+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-11T12:36:35+00:00",
+   "newest": "2026-10-11T18:47:57+00:00",
    "stale": false,
    "error": null
   },
@@ -245,14 +245,14 @@
  ],
  "unrated_domains": [
   {
+   "domain": "i-meihua.com",
+   "n_articles": 10,
+   "sample_title": "震懾「台獨」北京再出招 共軍4海域5處軍事行動 批賴清德「台灣之禍」"
+  },
+  {
    "domain": "today.line.me",
    "n_articles": 9,
    "sample_title": "討論牆 | 川普怨和平獎又落空 台海沒開戰也算他功勞"
-  },
-  {
-   "domain": "i-meihua.com",
-   "n_articles": 9,
-   "sample_title": "再拋震撼彈！兩岸和平統一不違《台灣關係法》 卡瓦納：為台開戰對美才是最大威脅"
   },
   {
    "domain": "worldjournal.com",
@@ -261,8 +261,8 @@
   },
   {
    "domain": "hk.crntt.com",
-   "n_articles": 4,
-   "sample_title": "雙十大會秀肌肉 台海巡展示美製無人機艇"
+   "n_articles": 6,
+   "sample_title": "譚耀南：中美框架趨穩定 有利台海和平"
   },
   {
    "domain": "taiwandaily.net",
@@ -278,6 +278,16 @@
    "domain": "ctee.com.tw",
    "n_articles": 3,
    "sample_title": "台美攜手打造無人機非紅供應鏈賴清德：台海和平攸關印太穩定- 要聞"
+  },
+  {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 2,
+   "sample_title": "North Korea’s New Missile Threat: What It Means for China, Taiwan and US Defense"
+  },
+  {
+   "domain": "cdns.com.tw",
+   "n_articles": 2,
+   "sample_title": "〈社論〉迴避中華民國憲法還想維持台海和平？"
   },
   {
    "domain": "upmedia.mg",
@@ -333,16 +343,6 @@
    "domain": "ua.news",
    "n_articles": 1,
    "sample_title": "Taiwan’s military volunteer staffing fell to 76.62% — South China Morning Post"
-  },
-  {
-   "domain": "ntd.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan President Says Island’s Defense Is Test of Global Rules Amid China Pressu"
-  },
-  {
-   "domain": "cdns.com.tw",
-   "n_articles": 1,
-   "sample_title": "諾貝爾和平獎落空 川普：台海沒開戰全靠我！"
   }
  ]
 }
