@@ -1,6 +1,6 @@
 {
  "month": "2026-10",
- "n_events": 269,
+ "n_events": 274,
  "events": [
   {
    "id": "evt_20261012_22a284",
@@ -114,6 +114,283 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261010_88aeab",
+   "headline": "回應賴總統雙十「山巔之城」演說 美國務院：樂見維護台海和平穩定承諾",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNR2ZadWUtOTQ0NENiZFhJRUl4SjUtb3lKa2gxMld2OEpfcWVVNmRnVnF3ZnNlOTBMS3RZcmJRRjdibVFiMWV5NE5aNkxBODhJS3o5Tm5vOU9mTU1tTzNYRdIBZkFVX3lxTE5nazZCUFdReXlVMmNhNUUxdkJDQVljWk9KcFNRcDdfWW9uc0tuS2FCckJOM2JadkRYMlJrZHg1Mkpta09pVG84d3o3dnBrLWcxRDVCcks3c1hFU1N0WnNISkdjUnhFUQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-10T16:23:00Z",
+   "last_seen": "2026-10-11T23:17:06Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 32.2,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "tw_state"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "自由時報 원고를 中央社 CNA·新唐人 NTD 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "38e0eaf7f00f1394",
+     "094762f2cc0ac764",
+     "6c0bc53d10396cbf"
+    ]
+   },
+   "articles": [
+    {
+     "id": "38e0eaf7f00f1394",
+     "title": "回應賴總統國慶演說美國務院：樂見維護台海和平穩定承諾| 政治",
+     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIWGlEYVlXX2RpNERBVDQyQ0FtbG40RnRXRlZiRXpYWm83WXpITXd4Y0NiY3RpWV9WbnJWVkNDZmtETDI0UXo3U1E4bENPanl5SFFNeW9xWExvT2F1aWs0?oc=5",
+     "published": "2026-10-10T16:23:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "094762f2cc0ac764",
+     "title": "回應賴總統雙十「山巔之城」演說 美國務院：樂見維護台海和平穩定承諾",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNR2ZadWUtOTQ0NENiZFhJRUl4SjUtb3lKa2gxMld2OEpfcWVVNmRnVnF3ZnNlOTBMS3RZcmJRRjdibVFiMWV5NE5aNkxBODhJS3o5Tm5vOU9mTU1tTzNYRdIBZkFVX3lxTE5nazZCUFdReXlVMmNhNUUxdkJDQVljWk9KcFNRcDdfWW9uc0tuS2FCckJOM2JadkRYMlJrZHg1Mkpta09pVG84d3o3dnBrLWcxRDVCcks3c1hFU1N0WnNISkdjUnhFUQ?oc=5",
+     "published": "2026-10-11T21:30:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "6c0bc53d10396cbf",
+     "title": "台總統雙十演說 美國務院：樂見維護台海和平",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1taTk3ek5WLXp4S3ZkNDRtLVRfMVFod3pYYmhUVWJpVWtKU25xd0hkN1M4d0p1NVJ5dGltRlBNQkd4VHVjOE9QYUNFLUc5VmpFYVZLdXJCOXUtdFdYU1o5SGh1V3Q?oc=5",
+     "published": "2026-10-11T23:17:06Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com.tw",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261011_c3cfbf",
+   "headline": "日93%能源經台海 台日論壇促科技與國防合作",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hZEZlNzFSWFZGNXhvN0ZHN2VuaWs1Qy1fa1ZDOHZsQVROOUQ3Z0o3VURUS3BTaC16UG1kek1FbVFHLVNQeTlCbWprdkRvNFB2S09pM3hFMFR1aTZyb3hHaXBuZWI?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-11T23:15:28Z",
+   "last_seen": "2026-10-11T23:15:28Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "15741a84bcadd1a3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "15741a84bcadd1a3",
+     "title": "日93%能源經台海 台日論壇促科技與國防合作",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1hZEZlNzFSWFZGNXhvN0ZHN2VuaWs1Qy1fa1ZDOHZsQVROOUQ3Z0o3VURUS3BTaC16UG1kek1FbVFHLVNQeTlCbWprdkRvNFB2S09pM3hFMFR1aTZyb3hHaXBuZWI?oc=5",
+     "published": "2026-10-11T23:15:28Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com.tw",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261011_9d3aa0",
+   "headline": "Kurt Campbell on US deterrence, the Quad, Aukus and Taiwan after Xi-Trump summit",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/diplomacy/article/3370485/kurt-campbell-us-deterrence-quad-aukus-and-taiwan-after-xi-trump-summit?utm_source=rss_feed",
+   "headline_lang": "en",
+   "first_seen": "2026-10-11T22:00:15Z",
+   "last_seen": "2026-10-11T22:00:15Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "59fb975748edf562"
+    ]
+   },
+   "articles": [
+    {
+     "id": "59fb975748edf562",
+     "title": "Kurt Campbell on US deterrence, the Quad, Aukus and Taiwan after Xi-Trump summit",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3370485/kurt-campbell-us-deterrence-quad-aukus-and-taiwan-after-xi-trump-summit?utm_source=rss_feed",
+     "published": "2026-10-11T22:00:15Z",
+     "lang": "en",
+     "entities": [
+      "trump"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261011_223405",
+   "headline": "賴雙十談話共軍批充斥政治算計- 兩岸新聞- 旺報",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVGNfYUFEUldZR1htbGI3WTZMYjRfQ3NuYTBfVl9vYjBqRUJ5OFhjcDE4by1uMUt6cjE4SFpzRXFScnl1WEdXa0Q2cUFxWWZkM05WSmsxaENfb3JnREdDdUNOenFOcVE1Vzcw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-11T20:10:00Z",
+   "last_seen": "2026-10-11T20:10:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9fa46718f0c6d835"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9fa46718f0c6d835",
+     "title": "賴雙十談話共軍批充斥政治算計- 兩岸新聞- 旺報",
+     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pVGNfYUFEUldZR1htbGI3WTZMYjRfQ3NuYTBfVl9vYjBqRUJ5OFhjcDE4by1uMUt6cjE4SFpzRXFScnl1WEdXa0Q2cUFxWWZkM05WSmsxaENfb3JnREdDdUNOenFOcVE1Vzcw?oc=5",
+     "published": "2026-10-11T20:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -1037,6 +1314,64 @@
    ]
   },
   {
+   "id": "evt_20261011_d906e7",
+   "headline": "Taiwan massively increases its military budget to deter China from going to war",
+   "headline_source": "entrevue.fr",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDNqYTV0cWxGZXNQVnA5TmxKSWZrY3ZybEpLbnozRlhEWklhaGl0dkd1bG5wd3RzdFAwTGdGX1k4SVV1bk52MzBtMnNJdTZmZnprNU1PTTJoODVUbGlZX1RTSGtBQkdCdGJMYThoQlhaS1Yxb1EzNlpuZDh1Y2xwZkE0anVnd0VtU3hMRkJxd2lGV0RXdTlMYVRSTUV2UmtNdXhhVVZEOWRiZ3p6N3RYWkRuMkY4RG8?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-11T09:30:00Z",
+   "last_seen": "2026-10-11T09:30:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "08dbcfa98ecbc1e7"
+    ]
+   },
+   "articles": [
+    {
+     "id": "08dbcfa98ecbc1e7",
+     "title": "Taiwan massively increases its military budget to deter China from going to war",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDNqYTV0cWxGZXNQVnA5TmxKSWZrY3ZybEpLbnozRlhEWklhaGl0dkd1bG5wd3RzdFAwTGdGX1k4SVV1bk52MzBtMnNJdTZmZnprNU1PTTJoODVUbGlZX1RTSGtBQkdCdGJMYThoQlhaS1Yxb1EzNlpuZDh1Y2xwZkE0anVnd0VtU3hMRkJxd2lGV0RXdTlMYVRSTUV2UmtNdXhhVVZEOWRiZ3p6N3RYWkRuMkY4RG8?oc=5",
+     "published": "2026-10-11T09:30:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "entrevue.fr",
+     "source_domain": "entrevue.fr",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261010_ceacf4",
    "headline": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ",
    "headline_source": "조선일보",
@@ -1176,6 +1511,163 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261010_421f7d",
+   "headline": "Taiwan to boost military spending to 'deter war' with China",
+   "headline_source": "Deutsche Welle",
+   "headline_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-10T04:29:00Z",
+   "last_seen": "2026-10-11T07:35:37Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.0,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "Japan Times 원고를 Firstpost·The Hindu 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "4e62199973de4c3d",
+     "baf094d2d4d33c6a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "4e62199973de4c3d",
+     "title": "Taiwan’s leader says increasing defense spending to ‘deter war’",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEVycHZwc3hSbXN0LUlrU2VueVNOS0J3U3BhZm1BTkJuOWhEeEdCcl9YTGl2cmtSUVJ3YVBsdU02VWVDNGtPXzhaZEZ5Y19OYVNpS3ZETlVSSExCaGk2cGlFX19pRmtlWWUzYzN3elRkcENrSzR5eU9oV3c4QV9QRUREbjZobkVlM25rbmVab09oY3BsWHBqeFpsdnNJeXJtVkJOUzdGbjdPUQ?oc=5",
+     "published": "2026-10-10T04:29:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "baf094d2d4d33c6a",
+     "title": "Taiwan to boost military spending to 'deter war' with China",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
+     "published": "2026-10-11T07:35:37Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Deutsche Welle",
+     "source_domain": "dw.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261011_5dc25b",
+   "headline": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
+   "headline_source": "CCTV 中央電視台",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-11T03:31:15Z",
+   "last_seen": "2026-10-11T07:19:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 29.9,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "215f73c7c25de66e",
+     "5cc95ef489ec412b"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "215f73c7c25de66e",
+     "title": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
+     "published": "2026-10-11T03:31:15Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "tw_mnd"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    },
+    {
+     "id": "5cc95ef489ec412b",
+     "title": "挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KSWVrREVCYnRsUUdfdlZnWmdfOGJwekgyQW5ZcVhFNXRrNVZxU2JKN3JaWGc0Mm9FTFJiY3VDRmJrYVdwcHNMQkJwM1N6TExHUXdnek5TWEpYdw?oc=5",
+     "published": "2026-10-11T07:19:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "環球網",
+     "source_domain": "huanqiu.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
      "hedged": false
     }
    ]
@@ -1539,12 +2031,12 @@
    ]
   },
   {
-   "id": "evt_20261010_1cd8a6",
+   "id": "evt_20261011_401c7e",
    "headline": "賴總統國慶演說 美日學者：兩岸關係基調溫和、務實看待威脅 美國務院：樂見維護台海和平承諾",
    "headline_source": "Taiwan News",
    "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9DYURIMG5Yc3BFM0lJczBPSnI4c1lCRG1RYzFqSWtzaVY3ME5lNFRqTENoUVZDZW42aS1BajJhTnNnelN4SmVGTGY2VDNTcmZNb2pUYzFyVk0?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-10-10T16:23:00Z",
+   "first_seen": "2026-10-11T04:06:00Z",
    "last_seen": "2026-10-11T04:06:00Z",
    "langs": [
     "zh"
@@ -1556,48 +2048,27 @@
     "grade_label": "단일 출처",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 30.5,
+    "score": 25.8,
     "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "tw_state"
+     "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "Taiwan News 원고를 中央社 CNA 가 전재 — 1곳으로 계산"
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "38e0eaf7f00f1394",
      "b6269cd90e4fe23d"
     ]
    },
    "articles": [
-    {
-     "id": "38e0eaf7f00f1394",
-     "title": "回應賴總統國慶演說美國務院：樂見維護台海和平穩定承諾| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBIWGlEYVlXX2RpNERBVDQyQ0FtbG40RnRXRlZiRXpYWm83WXpITXd4Y0NiY3RpWV9WbnJWVkNDZmtETDI0UXo3U1E4bENPanl5SFFNeW9xWExvT2F1aWs0?oc=5",
-     "published": "2026-10-10T16:23:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
     {
      "id": "b6269cd90e4fe23d",
      "title": "賴總統國慶演說 美日學者：兩岸關係基調溫和、務實看待威脅 美國務院：樂見維護台海和平承諾",
@@ -1614,68 +2085,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261011_5dc25b",
-   "headline": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
-   "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-11T03:31:15Z",
-   "last_seen": "2026-10-11T03:31:15Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 27.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "215f73c7c25de66e"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "215f73c7c25de66e",
-     "title": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
-     "published": "2026-10-11T03:31:15Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "tw_mnd"
-     ],
-     "source_name": "CCTV 中央電視台",
-     "source_domain": "cctv.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
      "hedged": false
     }
    ]
@@ -2607,82 +3016,6 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_421f7d",
-   "headline": "Taiwan to boost military spending to 'deter war' with China",
-   "headline_source": "Deutsche Welle",
-   "headline_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1RETXAwZjYzRGxyY1FWdmllc3JNUHpwZDVCbXpMX0pZb0gwN1RFdmdoZ1V4VlpLOUlDYTdJUlE5QjdCaXVObzNjd2x2d2pKd3RmdUNoMHB6UnNkWXFoMXUxbzlGeC1nQXhUMVM3OHA2M1ZwLWxRV19xWjdOUjVnWmg5Y0VrbkxSR3otSWJuY1V5RlJ60gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-10T04:29:00Z",
-   "last_seen": "2026-10-10T09:45:01Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 28.0,
-    "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "Japan Times 원고를 Firstpost·The Hindu 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "4e62199973de4c3d",
-     "baf094d2d4d33c6a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "4e62199973de4c3d",
-     "title": "Taiwan’s leader says increasing defense spending to ‘deter war’",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEVycHZwc3hSbXN0LUlrU2VueVNOS0J3U3BhZm1BTkJuOWhEeEdCcl9YTGl2cmtSUVJ3YVBsdU02VWVDNGtPXzhaZEZ5Y19OYVNpS3ZETlVSSExCaGk2cGlFX19pRmtlWWUzYzN3elRkcENrSzR5eU9oV3c4QV9QRUREbjZobkVlM25rbmVab09oY3BsWHBqeFpsdnNJeXJtVkJOUzdGbjdPUQ?oc=5",
-     "published": "2026-10-10T04:29:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "baf094d2d4d33c6a",
-     "title": "Taiwan to boost military spending to 'deter war' with China",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM1RETXAwZjYzRGxyY1FWdmllc3JNUHpwZDVCbXpMX0pZb0gwN1RFdmdoZ1V4VlpLOUlDYTdJUlE5QjdCaXVObzNjd2x2d2pKd3RmdUNoMHB6UnNkWXFoMXUxbzlGeC1nQXhUMVM3OHA2M1ZwLWxRV19xWjdOUjVnWmg5Y0VrbkxSR3otSWJuY1V5RlJ60gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
-     "published": "2026-10-10T09:45:01Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Deutsche Welle",
-     "source_domain": "dw.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -5119,7 +5452,7 @@
    ]
   },
   {
-   "id": "evt_20261008_6ad90e",
+   "id": "evt_20261008_fe3f0c",
    "headline": "陸強化對台海上施壓 學者：中共採「留島不留海」策略",
    "headline_source": "聯合報",
    "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ZVGhOWnhmeXhWMmVpWEQ5TTQ4RlVFMkZpRFFhLTlkQllqZWRQTnMtWFk5dTNqZ1ZaaWN0MXNQeDZ6VFQwTVQzTmVYVTlsY3NY0gFWQVVfeXFMT1I2czhCRWpia2w3V3R0YU0xLVVHbWpTMU9nRWNxVkhzcUFUX3VXcDdZVmthUXFJc0xPaVZlYlU0dG1SR0hRYWtZd1hYTXc3RzZmaVFWZnc?oc=5",
@@ -5138,25 +5471,22 @@
     "n_unrated": 0,
     "score": 49.4,
     "n_independent": 2,
-    "n_articles": 3,
-    "n_domains": 3,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
-     "independent",
-     "unknown"
+     "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "聯合報 원고를 世界新聞網 가 전재 — 1곳으로 계산"
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
      "3cbc6823c0d2a6bf",
-     "058183328e8a0887",
      "d6f02906c9797915"
     ]
    },
@@ -5177,24 +5507,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "058183328e8a0887",
-     "title": "中國強化對台海上施壓 台學者：中共採「留島不留海」策略",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1ya2ZwTDRKbXNScUpaUmFCQkI3R1hkWkwxYkE5VlBxbTFuNkFxRHN4YmNweWhvZU03UHFhZG9NR05YZF9TbWwwNkI2b2VEeE44U1FJVFZBV0FVeWdGMUcwZ25R0gFnQVVfeXFMTlBZSVg5UVJuVDJQaS1xN21lQWtDTUF4d0ZBZ1VRMUVobHVCNkRfaEw0SzRrR09fcmh3V01jbmRWcVpHMlJJYzhVLUZ3RTlDTEFNYzI3NkdIZzhFclZUMk1Ld21sR0ZZZw?oc=5",
-     "published": "2026-10-08T06:50:51Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "世界新聞網",
-     "source_domain": "worldjournal.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     },
     {
