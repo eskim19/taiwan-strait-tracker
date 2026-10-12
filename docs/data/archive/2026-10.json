@@ -1,7 +1,410 @@
 {
  "month": "2026-10",
- "n_events": 274,
+ "n_events": 280,
  "events": [
+  {
+   "id": "evt_20261012_acbfa6",
+   "headline": "Taiwan Intent on Increasing Defense Spending",
+   "headline_source": "https://dominotheory.com/",
+   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiZ0ZlOXMwamRIY21ac3lud0NZX0dqNkl6dkxyNEdVOUZjQmRtelhzMUR0bVk0X01qVEd2WDNQMVZUbGpwYVJsc21tcnBKaWRzcEc5V2pra2JGOWlja05nNnFETFZic3lQdEFXaGwyOFJraVp0NGtfMXdB?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-12T07:57:20Z",
+   "last_seen": "2026-10-12T07:57:20Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "594fc0dae55b7c27"
+    ]
+   },
+   "articles": [
+    {
+     "id": "594fc0dae55b7c27",
+     "title": "Taiwan Intent on Increasing Defense Spending",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiZ0ZlOXMwamRIY21ac3lud0NZX0dqNkl6dkxyNEdVOUZjQmRtelhzMUR0bVk0X01qVEd2WDNQMVZUbGpwYVJsc21tcnBKaWRzcEc5V2pra2JGOWlja05nNnFETFZic3lQdEFXaGwyOFJraVp0NGtfMXdB?oc=5",
+     "published": "2026-10-12T07:57:20Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "https://dominotheory.com/",
+     "source_domain": "dominotheory.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261012_be1d68",
+   "headline": "China launches 5-day military exercises after Taiwan’s National Day-News-Radio Taiwan International",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-12T07:53:42Z",
+   "last_seen": "2026-10-12T07:53:42Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "90671b0d005c1527"
+    ]
+   },
+   "articles": [
+    {
+     "id": "90671b0d005c1527",
+     "title": "China launches 5-day military exercises after Taiwan’s National Day-News-Radio Taiwan International",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
+     "published": "2026-10-12T07:53:42Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261012_4fa9ef",
+   "headline": "Taiwan says it is closely monitoring a series of Chinese live-fire drills",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-12T02:04:00Z",
+   "last_seen": "2026-10-12T07:11:44Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "A",
+    "d_reason": null,
+    "grade_label": "검증됨",
+    "n_originals": 4,
+    "n_unrated": 1,
+    "score": 61.8,
+    "n_independent": 3,
+    "n_articles": 4,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "tw_state",
+     "unknown"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 3곳",
+     "최고 등급 통신사·공영",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "303921f4c0361ba7",
+     "7bfd7f858301c674",
+     "0a927279f2769751",
+     "a0d8f41d2e54b2a7"
+    ]
+   },
+   "articles": [
+    {
+     "id": "303921f4c0361ba7",
+     "title": "Taiwan says it is closely monitoring a series of Chinese live-fire drills",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?oc=5",
+     "published": "2026-10-12T02:04:00Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "7bfd7f858301c674",
+     "title": "PLA drills not close to Taiwan: Defense Minister Koo",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jck9IZl9ZVzlkZWJDc3ZUNk52X1NOMkdLWG1PMUFSbWhDU0R2cjkzYkRPOFlYMWNnekFtSTQwdTY3aFVNdHBEejk0Q04tR1ZyaFd4eTVmbw?oc=5",
+     "published": "2026-10-12T04:18:00Z",
+     "lang": "en",
+     "entities": [
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "0a927279f2769751",
+     "title": "Taiwan Defense Minister Koo condemns China's live-fire drills in 5 sea areas",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRzJvM0s3Unhnc0tyMXZSVFVIb0JXTkF0Y3RBZjlDUFZEQWd0QWwxUy05LTlZcjBJU0hOM25fMzhDa3hMZDQ0Z09tWUtDX0dwa2Ntcw?oc=5",
+     "published": "2026-10-12T04:48:00Z",
+     "lang": "en",
+     "entities": [
+      "condemn",
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "a0d8f41d2e54b2a7",
+     "title": "Taiwan to closely monitor China live-fire drills amid rising tensions",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjJXZzhQZlBfcWVpTW5EUnhjZUNlZ0ZGYW50UjBOXzhkRnJ1cEdpTTdmclN6OTdMZ2xfSTdWYklYRWV3MW9VQzAtUW5zQWw2bXhXRlBJaThiX3E1VmpjRVVIaThzLWNCZThZTGZVaHY3b0ZDSmduOWtDM1J4X1p2U2huT3JGdUtKQmFfd1ZzQ05jak16VmNmQnlyYVVmS2hSOVVKOXpadDNqekhrcllobzVn?oc=5",
+     "published": "2026-10-12T07:11:44Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Türkiye Today",
+     "source_domain": "turkiyetoday.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261012_abdce3",
+   "headline": "Drone firm executives detained over alleged use of China-made chips",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/society/202610120011",
+   "headline_lang": "en",
+   "first_seen": "2026-10-12T06:44:43Z",
+   "last_seen": "2026-10-12T06:44:43Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "622b91df722ac767"
+    ]
+   },
+   "articles": [
+    {
+     "id": "622b91df722ac767",
+     "title": "Drone firm executives detained over alleged use of China-made chips",
+     "url": "https://focustaiwan.tw/society/202610120011",
+     "published": "2026-10-12T06:44:43Z",
+     "lang": "en",
+     "entities": [
+      "chip_war",
+      "drone"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261012_11e505",
+   "headline": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+   "headline_source": "Al Jazeera",
+   "headline_url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+   "headline_lang": "en",
+   "first_seen": "2026-10-12T03:51:00Z",
+   "last_seen": "2026-10-12T06:21:53Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 49.5,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 통신사·공영",
+     "Al Jazeera 원고를 Japan Times 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "66fc0df65299f0a7",
+     "b2b229a7065530c1",
+     "665a58db16f6e396"
+    ]
+   },
+   "articles": [
+    {
+     "id": "66fc0df65299f0a7",
+     "title": "China sanctions ministers from Paraguay and Belize over Taiwan ties",
+     "url": "https://www.japantimes.co.jp/news/2026/10/12/asia-pacific/china-paraguay-belize-sanctions-taiwan/",
+     "published": "2026-10-12T03:51:00Z",
+     "lang": "en",
+     "entities": [
+      "sanction"
+     ],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "b2b229a7065530c1",
+     "title": "China sanctions Paraguay, Belize ministers over Taiwan ties",
+     "url": "https://www.aljazeera.com/news/2026/10/12/china-sanctions-paraguay-belize-ministers-over-taiwan-ties?traffic_source=rss",
+     "published": "2026-10-12T04:58:01Z",
+     "lang": "en",
+     "entities": [
+      "sanction"
+     ],
+     "source_name": "Al Jazeera",
+     "source_domain": "aljazeera.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "665a58db16f6e396",
+     "title": "Beijing sanctions Paraguayan and Belizean ministers over support for Taiwan",
+     "url": "https://www.scmp.com/news/china/diplomacy/article/3370553/beijing-sanctions-paraguayan-and-belizean-ministers-over-support-taiwan?utm_source=rss_feed",
+     "published": "2026-10-12T06:21:53Z",
+     "lang": "en",
+     "entities": [
+      "beijing",
+      "sanction"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261012_22a284",
    "headline": "Japan should sell arms to Taiwan: ex-army chief",
@@ -511,6 +914,66 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261011_e604ae",
+   "headline": "PLA drills this week far from Taiwan: Koo",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SNFJDT2tzR1dEbC1sZkN4bVphU1o3cGM0UzVuZXFibnQyUnNCQU41WXl0bEVqMmR6anktcWFPUDVwTFBxQnoySmdxSHRLUW1RdXhwYU5HNC1hdDZtMVFtcTkzeXJSWTNSUVc5cHNOUDdsWHpTQlNfZXZn?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-11T16:00:00Z",
+   "last_seen": "2026-10-11T16:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "6a117b8d1328d54b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "6a117b8d1328d54b",
+     "title": "PLA drills this week far from Taiwan: Koo",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SNFJDT2tzR1dEbC1sZkN4bVphU1o3cGM0UzVuZXFibnQyUnNCQU41WXl0bEVqMmR6anktcWFPUDVwTFBxQnoySmdxSHRLUW1RdXhwYU5HNC1hdDZtMVFtcTkzeXJSWTNSUVc5cHNOUDdsWHpTQlNfZXZn?oc=5",
+     "published": "2026-10-11T16:00:00Z",
+     "lang": "en",
+     "entities": [
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
@@ -1511,82 +1974,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_421f7d",
-   "headline": "Taiwan to boost military spending to 'deter war' with China",
-   "headline_source": "Deutsche Welle",
-   "headline_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-10T04:29:00Z",
-   "last_seen": "2026-10-11T07:35:37Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 28.0,
-    "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "Japan Times 원고를 Firstpost·The Hindu 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "4e62199973de4c3d",
-     "baf094d2d4d33c6a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "4e62199973de4c3d",
-     "title": "Taiwan’s leader says increasing defense spending to ‘deter war’",
-     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEVycHZwc3hSbXN0LUlrU2VueVNOS0J3U3BhZm1BTkJuOWhEeEdCcl9YTGl2cmtSUVJ3YVBsdU02VWVDNGtPXzhaZEZ5Y19OYVNpS3ZETlVSSExCaGk2cGlFX19pRmtlWWUzYzN3elRkcENrSzR5eU9oV3c4QV9QRUREbjZobkVlM25rbmVab09oY3BsWHBqeFpsdnNJeXJtVkJOUzdGbjdPUQ?oc=5",
-     "published": "2026-10-10T04:29:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "baf094d2d4d33c6a",
-     "title": "Taiwan to boost military spending to 'deter war' with China",
-     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
-     "published": "2026-10-11T07:35:37Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Deutsche Welle",
-     "source_domain": "dw.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -2779,6 +3166,63 @@
    ]
   },
   {
+   "id": "evt_20261010_eeb185",
+   "headline": "Taiwan president says defence spending boost aims to ‘deter war’",
+   "headline_source": "Al Jazeera",
+   "headline_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm5zTllaeThpdGxpZWlUVllleFp1NlJmOTVmUE4xT3BXek9uX0dHcWg0VW94OFNuLU04Sk41TjB2dVJYNUlUU2lUWFlaU2pqTDQzaGtGS3N6VE5jaDdFczFUM05md3BMVWpjWDQxNHpJVTF4TENGTkhCZjJxREcySWFIWXJYVTVuby1CWmk4a1RPZ1hibHdRTnVidWhfYlFzWmk0WlpjRdIBrAFBVV95cUxONlpYWXVEZkw4czNpa2RfTGRfYkFtVG5sWFNrS1Y2Uk9Gbm5wbElmd1hsd3gzd3B5QlNKWDVGcVZ6OXdyM0FfYXVaQ0JKZDdkdnVhbWVLcGtWUndXT2ZuRUR3WUY2V1RrU2dtNmtGd1dCN3lGeGo4UDVTM04wVm9TTUFrRGhYU1U0YmZreEFoZ1pJQzNzcFF0LVdSeUdxQUhzcDN4dHljMFBWZHQ4?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-10T11:40:35Z",
+   "last_seen": "2026-10-10T11:40:35Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "463b938798ab35b9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "463b938798ab35b9",
+     "title": "Taiwan president says defence spending boost aims to ‘deter war’",
+     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm5zTllaeThpdGxpZWlUVllleFp1NlJmOTVmUE4xT3BXek9uX0dHcWg0VW94OFNuLU04Sk41TjB2dVJYNUlUU2lUWFlaU2pqTDQzaGtGS3N6VE5jaDdFczFUM05md3BMVWpjWDQxNHpJVTF4TENGTkhCZjJxREcySWFIWXJYVTVuby1CWmk4a1RPZ1hibHdRTnVidWhfYlFzWmk0WlpjRdIBrAFBVV95cUxONlpYWXVEZkw4czNpa2RfTGRfYkFtVG5sWFNrS1Y2Uk9Gbm5wbElmd1hsd3gzd3B5QlNKWDVGcVZ6OXdyM0FfYXVaQ0JKZDdkdnVhbWVLcGtWUndXT2ZuRUR3WUY2V1RrU2dtNmtGd1dCN3lGeGo4UDVTM04wVm9TTUFrRGhYU1U0YmZreEFoZ1pJQzNzcFF0LVdSeUdxQUhzcDN4dHljMFBWZHQ4?oc=5",
+     "published": "2026-10-10T11:40:35Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Al Jazeera",
+     "source_domain": "aljazeera.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261010_8977d4",
    "headline": "賴清德國慶演說談兩岸「民主對抗威權」 國台辦重砲批評",
    "headline_source": "TVBS",
@@ -3016,6 +3460,82 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261010_421f7d",
+   "headline": "Taiwan to boost military spending to 'deter war' with China",
+   "headline_source": "Deutsche Welle",
+   "headline_url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-10T04:29:00Z",
+   "last_seen": "2026-10-10T09:40:56Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.0,
+    "n_independent": 1,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "Japan Times 원고를 Firstpost·The Hindu 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "4e62199973de4c3d",
+     "baf094d2d4d33c6a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "4e62199973de4c3d",
+     "title": "Taiwan’s leader says increasing defense spending to ‘deter war’",
+     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZEVycHZwc3hSbXN0LUlrU2VueVNOS0J3U3BhZm1BTkJuOWhEeEdCcl9YTGl2cmtSUVJ3YVBsdU02VWVDNGtPXzhaZEZ5Y19OYVNpS3ZETlVSSExCaGk2cGlFX19pRmtlWWUzYzN3elRkcENrSzR5eU9oV3c4QV9QRUREbjZobkVlM25rbmVab09oY3BsWHBqeFpsdnNJeXJtVkJOUzdGbjdPUQ?oc=5",
+     "published": "2026-10-10T04:29:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "baf094d2d4d33c6a",
+     "title": "Taiwan to boost military spending to 'deter war' with China",
+     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOM09RM3dZMlcwMlc1QWdBR3FxS3hxNFhvV2dHa1RDN1pkZzI1TjVIcExwMjlLZ2NKamtEcExoSUw5aVp6ajM1dEIwcjNZTlo0NG1BRlR5QTUzbVhxd2dSOWVvYnMtenZQak5nZHIzb3NzV015aE1lQUdKb2FyVVdQOEJLMUtuckRhTDg4NjRubF9Zb2Vy0gGUAUFVX3lxTE4zVERNcDBmNjNEbHJjUVZ2aWVzck1QenBkNUJtekxfSllvSDA3VEV2Z2hnVXhWWks5SUNhN0lSUTlCN0JpdU5vM2N3bHZ3akp3dGZ1Q2gwcHpSc2RZcWgxdTFvOUZ4LWdBeFQxUzc4cDYzVnAtbFFXX3FaN05SNWdaaDljRWtuTFJHei1JYm5jVXlGUno?oc=5",
+     "published": "2026-10-10T09:40:56Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Deutsche Welle",
+     "source_domain": "dw.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -3565,133 +4085,6 @@
    ]
   },
   {
-   "id": "evt_20261009_4aa320",
-   "headline": "雙十國慶前夕共機13架越台海中線 國軍嚴密監控應對| 政治焦點",
-   "headline_source": "太報 TaiSounds",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43ZGJPQmh0R21YTUdZZ29WSE5vdFdFX1VVNUI3YlB4My1vTGo5T1VnRExqbzFCNHFlcmtYbmhNMGoxemNUOFZNbWdnZlU0YWgyTlV3ZmxXN01QV0Ju?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-09T08:40:21Z",
-   "last_seen": "2026-10-10T05:03:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 4,
-    "n_unrated": 1,
-    "score": 73.7,
-    "n_independent": 3,
-    "n_articles": 4,
-    "n_domains": 4,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "616b36e0456370f9",
-     "4613a76114bad34c",
-     "e647b7b069924102",
-     "6faf01dfa43f47fa"
-    ]
-   },
-   "articles": [
-    {
-     "id": "616b36e0456370f9",
-     "title": "雙十國慶前夕共機13架越台海中線 國軍嚴密監控應對| 政治焦點",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE43ZGJPQmh0R21YTUdZZ29WSE5vdFdFX1VVNUI3YlB4My1vTGo5T1VnRExqbzFCNHFlcmtYbmhNMGoxemNUOFZNbWdnZlU0YWgyTlV3ZmxXN01QV0Ju?oc=5",
-     "published": "2026-10-09T08:40:21Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "median_line",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "太報 TaiSounds",
-     "source_domain": "taisounds.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "4613a76114bad34c",
-     "title": "國慶前夕解放軍發動「聯合戰備警巡」 21機7艦擾台海",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5wX0xMeW5QZVJ3dWU4MmN3QlpBSTZJeFNUR0FPd2djRFhQUWJEcXhpOHZiVkRJNGRJcnVVYllNSzdOaVJ0ejJfd1dEdlk0aWRkRTBB?oc=5",
-     "published": "2026-10-10T01:18:53Z",
-     "lang": "zh",
-     "entities": [
-      "incursion",
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "中天新聞網",
-     "source_domain": "ctinews.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "e647b7b069924102",
-     "title": "Taiwan tracks 21 military aircraft and 9 Chinese ships",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNFpLVTZkaEJKS1BCVmNKXzQ1bTAxOXBhYmFVTTlXZmRDYnBGQklPMld1R2hXXy1HTXMwd1RHQklabVgtMHl2X1JDNW1NSEp3UkpTOA?oc=5",
-     "published": "2026-10-10T03:21:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "6faf01dfa43f47fa",
-     "title": "雙十國慶共軍擾台！21架次共機現蹤 13架逾越中線",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9wQW1PbjhiMG13MkpvXzY4TzBHYVFyZUpPVDNRLVo0YWEzUTdCcTFqdWl6MG95TFlHWWhGaGZHT0o3OUI3bnNjZUpJbnNNeUpvTFFZ?oc=5",
-     "published": "2026-10-10T05:03:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "line_crossing",
-      "median_line",
-      "pla"
-     ],
-     "source_name": "TVBS",
-     "source_domain": "tvbs.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261010_499c5e",
    "headline": "「台海沒開戰全靠我！」川普長文怒轟：我應該得8座諾貝爾和平獎",
    "headline_source": "鏡週刊",
@@ -3986,6 +4379,63 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261010_300d82",
+   "headline": "Taiwan tracks 21 military aircraft and 9 Chinese ships",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNFpLVTZkaEJKS1BCVmNKXzQ1bTAxOXBhYmFVTTlXZmRDYnBGQklPMld1R2hXXy1HTXMwd1RHQklabVgtMHl2X1JDNW1NSEp3UkpTOA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-10T03:21:00Z",
+   "last_seen": "2026-10-10T03:21:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e647b7b069924102"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e647b7b069924102",
+     "title": "Taiwan tracks 21 military aircraft and 9 Chinese ships",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE4zNFpLVTZkaEJKS1BCVmNKXzQ1bTAxOXBhYmFVTTlXZmRDYnBGQklPMld1R2hXXy1HTXMwd1RHQklabVgtMHl2X1JDNW1NSEp3UkpTOA?oc=5",
+     "published": "2026-10-10T03:21:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -6756,131 +7206,6 @@
    ]
   },
   {
-   "id": "evt_20261007_62a84e",
-   "headline": "《台海防衛兵推入門》新書發表 馬振坤主筆盼提升國家防衛韌性",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42SFJqRFJGVW40TkxzeVFxNVBxY3dDQnR1UzVzSGdoVVlQT3I4T1ZJMTRYclkyY2owWHBVaFJXODJXV0xtQ2w2TG1vMHlqaDdrREHSAVdBVV95cUxQWHpjNW1aVG1tSnB2Rk5Pai1paVA4anNTQVdLZ1ZWYjVMVkFaOWpSY09UWjJjY2xHazcwdWpiWjdSbFVqZ3gwWUVqdkhncjJ3OG1UNkhOT00?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-07T15:59:00Z",
-   "last_seen": "2026-10-08T07:15:10Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 4,
-    "n_unrated": 1,
-    "score": 43.2,
-    "n_independent": 1,
-    "n_articles": 5,
-    "n_domains": 3,
-    "blocs": [
-     "independent",
-     "tw_state",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "聯合報 원고를 中央社 CNA 가 전재 — 1곳으로 계산",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "3f4f037ea2e096cd",
-     "8453988a6acdba38",
-     "abb967fc28c1cd54",
-     "77e8489f15c9087d"
-    ]
-   },
-   "articles": [
-    {
-     "id": "3f4f037ea2e096cd",
-     "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
-     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVpubHgzUmhzcGdSTFlzd3E4Vk9ZZko4cDZ6dDNjU1N5OXpsUVZRZHFCemxHV2tBUGhvbFZweThSS2VLZHFzWUZMY1VhZGo4Mmh0M1FOcWVBOFNEMDI2TG9uRkVhMnhldUw1TUwwbDRCMlZfNFZEdUREeHktQ0dTZHpYdjVQcFJwZm9LOGNtajdJN1FKcHlpRTQ3bWRxSHh0VktQTW9nZmV6MUxfUFh5eEtoSkUwSkdOLVJVUUZWOFdPa252RkpUUjFXTTgwSWZMa2JJ?oc=5",
-     "published": "2026-10-07T15:59:00Z",
-     "lang": "en",
-     "entities": [
-      "tabletop_wargame"
-     ],
-     "source_name": "Nextgov/FCW",
-     "source_domain": "nextgov.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "8453988a6acdba38",
-     "title": "《台海防衛兵推入門》新書發表 馬振坤主筆盼提升國家防衛韌性",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE42SFJqRFJGVW40TkxzeVFxNVBxY3dDQnR1UzVzSGdoVVlQT3I4T1ZJMTRYclkyY2owWHBVaFJXODJXV0xtQ2w2TG1vMHlqaDdrREHSAVdBVV95cUxQWHpjNW1aVG1tSnB2Rk5Pai1paVA4anNTQVdLZ1ZWYjVMVkFaOWpSY09UWjJjY2xHazcwdWpiWjdSbFVqZ3gwWUVqdkhncjJ3OG1UNkhOT00?oc=5",
-     "published": "2026-10-08T04:36:40Z",
-     "lang": "zh",
-     "entities": [
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "abb967fc28c1cd54",
-     "title": "台海防衛兵推入門新書發表學者盼建立青年國防認知| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA3ZFpyUUs0MGtmcWE5SlE4TWFKWlNOamg4REZzMjdnZ2hVbkpWeFpsSDVETk9PdkhVZFdJWGJmUS1oZF9pOERKRkw2ZGR6clhTeXRpQzZnMG1ySzFwNGhn?oc=5",
-     "published": "2026-10-08T04:53:00Z",
-     "lang": "zh",
-     "entities": [
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "77e8489f15c9087d",
-     "title": "「台海兵推入門」新書出版 學者：期望成為社會持續兵推動能",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1nLVJBNnJqbkdIUnA5OHVuN2hxMmxwbXFRUnJqamRXQTVtZjV2RTIyblZ2WE1jdHdZWF84TWVGdHZ1eWU2ejUtTVZ3dTRwcFp1T3fSAVdBVV95cUxQelBYMUFvNXRmcFF4azFISFNqcUpSVHlrSUxrRnk1OE5NTXRSQjU3Y1FWaHc5eFY2VlJZcWVDSmMxay14NFpTcUswdDd5YU1sUmxkODA4Nmc?oc=5",
-     "published": "2026-10-08T07:15:10Z",
-     "lang": "zh",
-     "entities": [
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261008_71ffb6",
    "headline": "總統：台海攸關第一島鏈及印太台灣有決心以實力捍衛和平| 政治",
    "headline_source": "中央社 CNA",
@@ -7177,86 +7502,6 @@
    ]
   },
   {
-   "id": "evt_20261006_256967",
-   "headline": "Taiwan’s new F-16V fighter jets have landed – what now?",
-   "headline_source": "Straits Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWNlM0NCV1dWV0MtYWdORXMzdlRCandwU2xaM2x5bTEweExxZllkSkpZdTh3VHM4Y2ZzVDlXcC1PaktlNnJzcXFEQ1JpMDlwR0tDOHZfYk9kWmxSams3ek9IODUzSHlPaTlpbkNwcGlEeU56X1BSRnh6eGM3Y0RUOTczSjVVc3l2QlNMQmZn?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-06T13:30:00Z",
-   "last_seen": "2026-10-07T23:30:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "A",
-    "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 5,
-    "n_unrated": 0,
-    "score": 88.3,
-    "n_independent": 5,
-    "n_articles": 6,
-    "n_domains": 6,
-    "blocs": [
-     "independent",
-     "prc_state"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 5곳",
-     "최고 등급 통신사·공영",
-     "2개 언어권에서 확인",
-     "CGTN 원고를 環球時報 Global Times 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "786390b85a5e514f",
-     "14fb2fbebf0e782b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "786390b85a5e514f",
-     "title": "Taiwan’s new F-16V fighter jets have landed – what now?",
-     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWNlM0NCV1dWV0MtYWdORXMzdlRCandwU2xaM2x5bTEweExxZllkSkpZdTh3VHM4Y2ZzVDlXcC1PaktlNnJzcXFEQ1JpMDlwR0tDOHZfYk9kWmxSams3ek9IODUzSHlPaTlpbkNwcGlEeU56X1BSRnh6eGM3Y0RUOTczSjVVc3l2QlNMQmZn?oc=5",
-     "published": "2026-10-06T13:30:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Straits Times",
-     "source_domain": "straitstimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "14fb2fbebf0e782b",
-     "title": "F-16C抵台振奮人心 我台海空優不再新機擔任何角色？",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jSkxxU2R2TFp4QlBNM0tMbUl4azF1ZHItb05tSlB6U0lnc04yQW14ZVhLNnA3ZndranhXay1obTJ3b3hOeURwY0gzQmxsbTdkZ1Y2SWJfTQ?oc=5",
-     "published": "2026-10-07T23:30:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261007_5b49e4",
    "headline": "歐洲議會壓倒性通過「對中政策建議」 要求歐盟加強台海安全協調",
    "headline_source": "自由時報",
@@ -7490,6 +7735,70 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261007_62a84e",
+   "headline": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
+   "headline_source": "Nextgov/FCW",
+   "headline_url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVpubHgzUmhzcGdSTFlzd3E4Vk9ZZko4cDZ6dDNjU1N5OXpsUVZRZHFCemxHV2tBUGhvbFZweThSS2VLZHFzWUZMY1VhZGo4Mmh0M1FOcWVBOFNEMDI2TG9uRkVhMnhldUw1TUwwbDRCMlZfNFZEdUREeHktQ0dTZHpYdjVQcFJwZm9LOGNtajdJN1FKcHlpRTQ3bWRxSHh0VktQTW9nZmV6MUxfUFh5eEtoSkUwSkdOLVJVUUZWOFdPa252RkpUUjFXTTgwSWZMa2JJ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-07T15:59:00Z",
+   "last_seen": "2026-10-07T15:59:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 4,
+    "n_unrated": 1,
+    "score": 43.2,
+    "n_independent": 1,
+    "n_articles": 5,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "tw_state",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "聯合報 원고를 中央社 CNA 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3f4f037ea2e096cd"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3f4f037ea2e096cd",
+     "title": "Recent Taiwan simulation highlights US cyberdefense gaps against China, experts warn",
+     "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWVpubHgzUmhzcGdSTFlzd3E4Vk9ZZko4cDZ6dDNjU1N5OXpsUVZRZHFCemxHV2tBUGhvbFZweThSS2VLZHFzWUZMY1VhZGo4Mmh0M1FOcWVBOFNEMDI2TG9uRkVhMnhldUw1TUwwbDRCMlZfNFZEdUREeHktQ0dTZHpYdjVQcFJwZm9LOGNtajdJN1FKcHlpRTQ3bWRxSHh0VktQTW9nZmV6MUxfUFh5eEtoSkUwSkdOLVJVUUZWOFdPa252RkpUUjFXTTgwSWZMa2JJ?oc=5",
+     "published": "2026-10-07T15:59:00Z",
+     "lang": "en",
+     "entities": [
+      "tabletop_wargame"
+     ],
+     "source_name": "Nextgov/FCW",
+     "source_domain": "nextgov.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -8505,13 +8814,13 @@
    ]
   },
   {
-   "id": "evt_20261006_7699ae",
+   "id": "evt_20261006_8fcdfb",
    "headline": "Taiwan says it has not heard new US arms sales will be carved into smaller chunks",
    "headline_source": "Reuters",
    "headline_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLW0xLUFaNnFsQlVVWncxZTZWYWx2YzhEb0xGa1NJXzBLeThjcWxDOTRhNFA2bkI0NHJkOUFQN2o3bTNTZDF6b1V5WWtqRXBFZ3RkMzM3czE4cXZteHFZbWpIT0JNWG1nRXJBN2N5RHZIdzBPZlN1WVhpWGVJdG9DTjVaMFJ5T01NajlhR0hBRTBCa0NLd0dvdGl3Tm9Xd0p4SEpvSGJuWDFVQ1dRdkJsSFNyUEhrcTA5akt6YUYyQQ?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-06T13:42:48Z",
-   "last_seen": "2026-10-07T00:44:00Z",
+   "first_seen": "2026-10-06T13:30:00Z",
+   "last_seen": "2026-10-07T00:22:06Z",
    "langs": [
     "en"
    ],
@@ -8522,33 +8831,45 @@
     "grade_label": "검증됨",
     "n_originals": 3,
     "n_unrated": 0,
-    "score": 63.3,
+    "score": 65.3,
     "n_independent": 3,
-    "n_articles": 4,
-    "n_domains": 4,
+    "n_articles": 3,
+    "n_domains": 3,
     "blocs": [
-     "independent",
-     "prc_state"
+     "independent"
     ],
     "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
      "독립 출처 3곳",
-     "최고 등급 통신사·공영",
-     "CGTN 원고를 環球時報 Global Times 가 전재 — 1곳으로 계산"
+     "최고 등급 통신사·공영"
     ]
    },
    "perspectives": {
-    "prc": [
-     "432d0cfa8bcfb6c0",
-     "aa4fb8389bcd455d"
-    ],
+    "prc": [],
     "tw_west": [
+     "786390b85a5e514f",
      "e4685332b7d73e18",
      "9031ebe17953da9e"
     ]
    },
    "articles": [
+    {
+     "id": "786390b85a5e514f",
+     "title": "Taiwan’s new F-16V fighter jets have landed – what now?",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSWNlM0NCV1dWV0MtYWdORXMzdlRCandwU2xaM2x5bTEweExxZllkSkpZdTh3VHM4Y2ZzVDlXcC1PaktlNnJzcXFEQ1JpMDlwR0tDOHZfYk9kWmxSams3ek9IODUzSHlPaTlpbkNwcGlEeU56X1BSRnh6eGM3Y0RUOTczSjVVc3l2QlNMQmZn?oc=5",
+     "published": "2026-10-06T13:30:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "e4685332b7d73e18",
      "title": "Taiwan says it has not heard new US arms sales will be carved into smaller chunks",
@@ -8568,24 +8889,6 @@
      "hedged": false
     },
     {
-     "id": "432d0cfa8bcfb6c0",
-     "title": "China firmly opposes US arms sales to China's Taiwan region",
-     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPM08yQjBRNmdacmRBa3Nhb012RTY5U2JoSHBtNWFmdHM4S2NOaG9CMC1BbEN6OTBYdExhalc4Q3ZYSG5vZ1pveUVHOGZLU21TZXprQkpmcjJPME05bTRMeGNFQ0hiZDJtS2tPckRjWVBJWm1hRzlLaVB5RVNJc21WcnJ1VFdFNG9iVlhwV1RYXzFmeXlOdjk0OW1FdFR5NXhwbEZjMXVBcnVuQjU0bXM2VXEwWGZSS0U?oc=5",
-     "published": "2026-10-06T14:02:26Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "CGTN",
-     "source_domain": "cgtn.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
-     "hedged": false
-    },
-    {
      "id": "9031ebe17953da9e",
      "title": "Taiwan Arms Sale Backlog, September 2026 Update",
      "url": "https://tsm.schar.gmu.edu/taiwan-arms-sale-backlog-september-2026-update/?utm_source=rss&utm_medium=rss&utm_campaign=taiwan-arms-sale-backlog-september-2026-update",
@@ -8601,24 +8904,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "aa4fb8389bcd455d",
-     "title": "China firmly opposes US arms sales to China's Taiwan region: spokesperson",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1QUTk5TnJTWWFieDZhOVBPeWpiZ29UNmw2dURKUVFJVXhNNXBVMFp2Y0xhc2hQWE0wQ3hZZkh4N1J0VEtWRlRuRHl2NWN0NTE1Wnc3NlZwWjZnNVh1WXQ2dmJR?oc=5",
-     "published": "2026-10-07T00:44:00Z",
-     "lang": "en",
-     "entities": [
-      "arms_sale"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
      "hedged": false
     }
    ]
