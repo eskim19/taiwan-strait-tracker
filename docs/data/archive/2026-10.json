@@ -1,6 +1,6 @@
 {
  "month": "2026-10",
- "n_events": 298,
+ "n_events": 299,
  "events": [
   {
    "id": "evt_20261012_82e8b0",
@@ -8,7 +8,7 @@
    "headline_source": "中國時報",
    "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9TTXhYaUM1aHg4TUFXQkZYNHUxVGcycy0yRnNIcWpMa2tMLXZITGRTZndwSFEwT1BWWmEyVlhGTW9xMWpkQlRKNC1tUWtIU1IycmZRdzdEU21zeUFZaE1CYi1mai1xZGhtNDFR?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-10-12T02:40:00Z",
+   "first_seen": "2026-10-12T20:10:00Z",
    "last_seen": "2026-10-12T20:10:00Z",
    "langs": [
     "zh"
@@ -39,31 +39,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "3445796c4e9dbcf3",
      "0764cdc2105fbec5"
     ]
    },
    "articles": [
-    {
-     "id": "3445796c4e9dbcf3",
-     "title": "南華專訪坎貝爾：圍堵中國已不合時宜 對台軍售若成美中籌碼恐動搖台海穩定",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE41RF9BMjVfT2E4bWxra0xRVVd2WWhtUEVwMjJENWw3OHFObHo4dGdBdWRYYW1oSkdaNWhfN05RZTF0M05qczI5WVE0YU41SEpIc2VLOElLRzA?oc=5",
-     "published": "2026-10-12T02:40:00Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "梅花新聞網",
-     "source_domain": "i-meihua.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "0764cdc2105fbec5",
      "title": "軍售當籌碼 坎貝爾：危及台海穩定",
@@ -89,7 +68,7 @@
    "id": "evt_20261012_083d52",
    "headline": "美專家提在台海實現“戰略穩定”之路徑",
    "headline_source": "中國評論新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13OTNpVEtZYmUzUFZQUWc3UGxzejVqRkQ1VDh4b3VGaXU4bGx0QlRiUkM3Q2J4cjdoa1I0MUpKZDBMNGRxTlRuYVdvbUhIbmdOXzZ5OG5FbmNNcjdWQ3RFYmlGUDczWGc?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYSmhhZG9rTXJiWEc3anZWVnlqcnJJWG92a3VwWTlYQ1BpdTZpUVJiQnhNMUdnODYtNE14NjNtazhrSlhCdDkxQU5GbC1EamYtMjZvaDBVZmFicFB4MHk5UE1BRWpnSjQ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-12T16:45:58Z",
    "last_seen": "2026-10-12T16:45:58Z",
@@ -128,7 +107,7 @@
     {
      "id": "247f46c262063728",
      "title": "美專家提在台海實現“戰略穩定”之路徑",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE13OTNpVEtZYmUzUFZQUWc3UGxzejVqRkQ1VDh4b3VGaXU4bGx0QlRiUkM3Q2J4cjdoa1I0MUpKZDBMNGRxTlRuYVdvbUhIbmdOXzZ5OG5FbmNNcjdWQ3RFYmlGUDczWGc?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBYSmhhZG9rTXJiWEc3anZWVnlqcnJJWG92a3VwWTlYQ1BpdTZpUVJiQnhNMUdnODYtNE14NjNtazhrSlhCdDkxQU5GbC1EamYtMjZvaDBVZmFicFB4MHk5UE1BRWpnSjQ?oc=5",
      "published": "2026-10-12T16:45:58Z",
      "lang": "zh",
      "entities": [
@@ -225,12 +204,12 @@
     "grade": "A",
     "d_reason": null,
     "grade_label": "검증됨",
-    "n_originals": 3,
-    "n_unrated": 0,
-    "score": 63.0,
+    "n_originals": 4,
+    "n_unrated": 1,
+    "score": 63.5,
     "n_independent": 3,
-    "n_articles": 5,
-    "n_domains": 5,
+    "n_articles": 6,
+    "n_domains": 6,
     "blocs": [
      "independent",
      "tw_state",
@@ -241,13 +220,15 @@
     "reasons": [
      "독립 출처 3곳",
      "최고 등급 통신사·공영",
-     "Reuters 원고를 Türkiye Today·Taipei Times 가 전재 — 1곳으로 계산"
+     "Reuters 원고를 Türkiye Today·Taipei Times 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
      "303921f4c0361ba7",
+     "d77b075dccb7d352",
      "7bfd7f858301c674",
      "0a927279f2769751",
      "a0d8f41d2e54b2a7",
@@ -271,6 +252,25 @@
      "tier_label": "통신사·공영",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "d77b075dccb7d352",
+     "title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\"",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRjRDg3eGRHNnh0eTZtRllEQjNocjNqNUZtQl9OR3dQSm9PSk42ZWtSTkRFVElTMG43S3MzbFFWOXlKN3hvUUQxNUItRVdGdmt2QXJSQkhsS3UzSzRGWDhUWGxyTHlmQUJUTTMxVW5oOEtPcG5rS2hxNVFIN0swTjkwUVUyX2lENkhiQ3JHamxrd2MtaHBDeU9tZ0lOQ294M0xpalhn?oc=5",
+     "published": "2026-10-12T03:12:19Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Agenzia Nova",
+     "source_domain": "agenzianova.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     },
@@ -864,7 +864,7 @@
    "id": "evt_20261012_1f5fc2",
    "headline": "台灣將先「獨扛」共軍攻擊？ 顧立雄：建構自主作戰決心",
    "headline_source": "鏡新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nOWpselg4V2l0Q2R3aVo4bk5oQnhyVlRuSkliRWRPcHF3R0laTHpBSmliUjZEc3pvX041SjhVeVloQ054X2VWSmYtdHctci10QmZjQ0xXTUPSAV5BVV95cUxNMW5oMlN6c0FLanBtS21OVGxPVXJuczNGQVRIaWhQZldzbk9YTGR3OUw3aF9URW5RTWlQQWFjVEVOa3NwcEFLSGhkcW9XNFByYk9XSWk3V2FXMDZmUWdB?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nOWpselg4V2l0Q2R3aVo4bk5oQnhyVlRuSkliRWRPcHF3R0laTHpBSmliUjZEc3pvX041SjhVeVloQ054X2VWSmYtdHctci10QmZjQ0xXTUM?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-12T10:55:00Z",
    "last_seen": "2026-10-12T10:55:00Z",
@@ -903,7 +903,7 @@
     {
      "id": "5d8cdfcaecc8869a",
      "title": "台灣將先「獨扛」共軍攻擊？ 顧立雄：建構自主作戰決心",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nOWpselg4V2l0Q2R3aVo4bk5oQnhyVlRuSkliRWRPcHF3R0laTHpBSmliUjZEc3pvX041SjhVeVloQ054X2VWSmYtdHctci10QmZjQ0xXTUPSAV5BVV95cUxNMW5oMlN6c0FLanBtS21OVGxPVXJuczNGQVRIaWhQZldzbk9YTGR3OUw3aF9URW5RTWlQQWFjVEVOa3NwcEFLSGhkcW9XNFByYk9XSWk3V2FXMDZmUWdB?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5nOWpselg4V2l0Q2R3aVo4bk5oQnhyVlRuSkliRWRPcHF3R0laTHpBSmliUjZEc3pvX041SjhVeVloQ054X2VWSmYtdHctci10QmZjQ0xXTUM?oc=5",
      "published": "2026-10-12T10:55:00Z",
      "lang": "zh",
      "entities": [
@@ -3051,87 +3051,6 @@
    ]
   },
   {
-   "id": "evt_20261011_5dc25b",
-   "headline": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
-   "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-11T03:31:15Z",
-   "last_seen": "2026-10-11T07:19:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 29.9,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "215f73c7c25de66e",
-     "5cc95ef489ec412b"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "215f73c7c25de66e",
-     "title": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
-     "published": "2026-10-11T03:31:15Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "tw_mnd"
-     ],
-     "source_name": "CCTV 中央電視台",
-     "source_domain": "cctv.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
-     "hedged": false
-    },
-    {
-     "id": "5cc95ef489ec412b",
-     "title": "挑动两岸对立对抗，破坏台海和平稳定，赖清德所谓“双十”讲话遭痛批",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KSWVrREVCYnRsUUdfdlZnWmdfOGJwekgyQW5ZcVhFNXRrNVZxU2JKN3JaWGc0Mm9FTFJiY3VDRmJrYVdwcHNMQkJwM1N6TExHUXdnek5TWEpYdw?oc=5",
-     "published": "2026-10-11T07:19:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "環球網",
-     "source_domain": "huanqiu.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261011_62045e",
    "headline": "日媒專訪鄭麗文：台灣應主動爭取和平降低台海風險| 政治",
    "headline_source": "中央社 CNA",
@@ -3571,6 +3490,68 @@
    ]
   },
   {
+   "id": "evt_20261011_5dc25b",
+   "headline": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
+   "headline_source": "CCTV 中央電視台",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-11T03:31:15Z",
+   "last_seen": "2026-10-11T03:31:15Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 29.9,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "215f73c7c25de66e"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "215f73c7c25de66e",
+     "title": "国防部批赖清德所谓“双十”讲话：颠倒是非 煽动两岸对立对抗",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1kQWxDX2k3cVNWaWcyb1dFa0JVY3lTOTJFTGpVUGdGVEFNQms0QjI4RldSR00zR2s4OHhrUFRHRHhMSTRia0xXSWNlaEZUcjcxaVRHQ2liYU5nXzZPaVNxc2NwTUFhVmlOYXNfRHhxQmJJWThmeFk1cg?oc=5",
+     "published": "2026-10-11T03:31:15Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "tw_mnd"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261011_053226",
    "headline": "中國2027攻台警報響不停 美高官卻說習近平「很理性」市場高估台海風險",
    "headline_source": "上報",
@@ -3792,6 +3773,65 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261011_cb122c",
+   "headline": "美亞太助卿：台海衝突風險被高估 「2條件」阻中國2027動武",
+   "headline_source": "太報 TaiSounds",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR3p5SEtvYjVMUEhnWHotbHFBV3FSYmhPekQ5Q05XLTBoMUNoYXpDQkhUTERZN254LVVURklXdDhobW04dWJYWEJfV3Z5MkhJQUdiLThDV1pOS0p4?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-11T01:46:01Z",
+   "last_seen": "2026-10-11T01:46:01Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "67c43a6a47095eef"
+    ]
+   },
+   "articles": [
+    {
+     "id": "67c43a6a47095eef",
+     "title": "美亞太助卿：台海衝突風險被高估 「2條件」阻中國2027動武",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SR3p5SEtvYjVMUEhnWHotbHFBV3FSYmhPekQ5Q05XLTBoMUNoYXpDQkhUTERZN254LVVURklXdDhobW04dWJYWEJfV3Z5MkhJQUdiLThDV1pOS0p4?oc=5",
+     "published": "2026-10-11T01:46:01Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "太報 TaiSounds",
+     "source_domain": "taisounds.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -4093,88 +4133,6 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_a1d97a",
-   "headline": "台海沒開戰全靠我！川普真實社群發長文 怒批諾貝爾和平獎沒給他 | 國際焦點 | 國際",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ENWU0YjNWN1RnaW1HbVZhN0dHYlFXOGRmQnhMdFcyNWhQTGlLNGNlc210ajVtaW92My02bmxTY0NGNTBFWUk4Q0RZc3d3dHBuZXJFbXd3b3FkUQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-10T04:03:35Z",
-   "last_seen": "2026-10-10T12:56:36Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 30.0,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "聯合報 원고를 中華新聞雲 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ee48c041304f82a9",
-     "309bfa1549cc6bd5"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ee48c041304f82a9",
-     "title": "台海沒開戰全靠我！川普真實社群發長文 怒批諾貝爾和平獎沒給他 | 國際焦點 | 國際",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ENWU0YjNWN1RnaW1HbVZhN0dHYlFXOGRmQnhMdFcyNWhQTGlLNGNlc210ajVtaW92My02bmxTY0NGNTBFWUk4Q0RZc3d3dHBuZXJFbXd3b3FkUQ?oc=5",
-     "published": "2026-10-10T04:03:35Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "309bfa1549cc6bd5",
-     "title": "諾貝爾和平獎落空 川普：台海沒開戰全靠我！",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9HTV8xbklEakZZWE9rU29DOC1iSHBPLThjbEM3UjhyNVNfVTZnZUh2by1ORzc0ZEZmdkNueTJuY2pYZjZZXzYtWWtWTkpqS3dYaXc?oc=5",
-     "published": "2026-10-10T12:56:36Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "中華新聞雲",
-     "source_domain": "cdns.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
@@ -5423,6 +5381,66 @@
    ]
   },
   {
+   "id": "evt_20261010_95248e",
+   "headline": "台海沒開戰全靠我！川普真實社群發長文 怒批諾貝爾和平獎沒給他 | 國際焦點 | 國際",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ENWU0YjNWN1RnaW1HbVZhN0dHYlFXOGRmQnhMdFcyNWhQTGlLNGNlc210ajVtaW92My02bmxTY0NGNTBFWUk4Q0RZc3d3dHBuZXJFbXd3b3FkUQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-10T04:03:35Z",
+   "last_seen": "2026-10-10T04:03:35Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ee48c041304f82a9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ee48c041304f82a9",
+     "title": "台海沒開戰全靠我！川普真實社群發長文 怒批諾貝爾和平獎沒給他 | 國際焦點 | 國際",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ENWU0YjNWN1RnaW1HbVZhN0dHYlFXOGRmQnhMdFcyNWhQTGlLNGNlc210ajVtaW92My02bmxTY0NGNTBFWUk4Q0RZc3d3dHBuZXJFbXd3b3FkUQ?oc=5",
+     "published": "2026-10-10T04:03:35Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261010_6d3948",
    "headline": "台海沒開戰全靠我！川普真實社群發長文 怒批諾貝爾和平獎沒給他",
    "headline_source": "聯合報",
@@ -6031,86 +6049,6 @@
      "id": "03c9a0b57e8a0357",
      "title": "今發表雙十演說 宣示國家立場 賴：堅定負責 守護台海和平",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9fRHF4V3lsZmh3ZmJDY29VcXNoQVN1UWl6RG90TkpyYjUyTU55ZHNxOEFHUnhvbUs4QzhGeVdzeGt6b0FZWGZnQmRwUzdiTlZXbzJrNGs0cDhjZmQ0RExIbNIBZkFVX3lxTE9USnFvSGZzaTQyaHhleThrNUdrTEpHU1IySzU4b3RoM000ejVfQ0NGVDZTaHJoa09OMVp3ODJMNzRiNEcwOHFPLWhvZjBXMHVTTXUzUEs4OVRvV0F2T1BtOFItc0RMUQ?oc=5",
-     "published": "2026-10-09T21:30:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261009_86a370",
-   "headline": "美亞太助卿指投資人高估台海衝突風險 犯台重大後果足嚇阻北京",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdWQ5Unh5VElJdmttMG9MLU4zTGVMcC1hNFdsSFRFcGE3Nk02TFBlTk5aX1JTZHg2UHZWS0ZBR25Hc3dwSzJ0MWo3RExKTjJ3bERZWmhxYnNib0xPNkkzTHY2NlhCRThrU3fSAW9BVV95cUxNSkhFVG5WT3FrcmU4ckE3QlA0MDNqVG1DejNZWjRITHJHNno5Nkd1b21FaTdQTmMxdUFFdXlNUXEwaDZ2bm5zSGtXTk1fdWNSbV9Jbi13VzhtVlFDZFJDVjFKbHB2RlVqRFFUbFQ0RU0?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-09T06:44:44Z",
-   "last_seen": "2026-10-09T21:30:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 30.9,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9b5cafc0bcd6aadd",
-     "c29a7051353f4422"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9b5cafc0bcd6aadd",
-     "title": "美亞太助卿指投資人高估台海衝突風險 犯台重大後果足嚇阻北京",
-     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdWQ5Unh5VElJdmttMG9MLU4zTGVMcC1hNFdsSFRFcGE3Nk02TFBlTk5aX1JTZHg2UHZWS0ZBR25Hc3dwSzJ0MWo3RExKTjJ3bERZWmhxYnNib0xPNkkzTHY2NlhCRThrU3fSAW9BVV95cUxNSkhFVG5WT3FrcmU4ckE3QlA0MDNqVG1DejNZWjRITHJHNno5Nkd1b21FaTdQTmMxdUFFdXlNUXEwaDZ2bm5zSGtXTk1fdWNSbV9Jbi13VzhtVlFDZFJDVjFKbHB2RlVqRFFUbFQ0RU0?oc=5",
-     "published": "2026-10-09T06:44:44Z",
-     "lang": "zh",
-     "entities": [
-      "beijing",
-      "invasion",
-      "taiwan_strait"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "c29a7051353f4422",
-     "title": "美國亞太助卿戴桑布雷︰投資人高估台海衝突風險",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1jZUlsNWwwVmZXNTA4dnVvemNIVURmVmxJRmloRzkxUjNCcDJyd0RIeGtRc18ySnRMWXZENkdZZ1MtWmxBZlVFZEVmclJSb3ZxbjJyRTVwOWlnbHphbnNaQ9IBZkFVX3lxTE5tZk1iSm1sUmxweHk0OURwSUEwTG9jYUh0Y0xNY2FkMkRsT1V1cFZNRlZPU0h3RW1XcVpiVER1dzc4N0FiUmRKZXE0WkllWHhnX2ZMeXJYcFNmOGV3XzljZFZaQXI3UQ?oc=5",
      "published": "2026-10-09T21:30:00Z",
      "lang": "zh",
      "entities": [
@@ -6788,6 +6726,67 @@
      "lang": "zh",
      "entities": [
       "incursion"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261009_86a370",
+   "headline": "美亞太助卿指投資人高估台海衝突風險 犯台重大後果足嚇阻北京",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdWQ5Unh5VElJdmttMG9MLU4zTGVMcC1hNFdsSFRFcGE3Nk02TFBlTk5aX1JTZHg2UHZWS0ZBR25Hc3dwSzJ0MWo3RExKTjJ3bERZWmhxYnNib0xPNkkzTHY2NlhCRThrU3fSAW9BVV95cUxNSkhFVG5WT3FrcmU4ckE3QlA0MDNqVG1DejNZWjRITHJHNno5Nkd1b21FaTdQTmMxdUFFdXlNUXEwaDZ2bm5zSGtXTk1fdWNSbV9Jbi13VzhtVlFDZFJDVjFKbHB2RlVqRFFUbFQ0RU0?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-09T06:44:44Z",
+   "last_seen": "2026-10-09T06:44:44Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 30.9,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9b5cafc0bcd6aadd"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9b5cafc0bcd6aadd",
+     "title": "美亞太助卿指投資人高估台海衝突風險 犯台重大後果足嚇阻北京",
+     "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9HdWQ5Unh5VElJdmttMG9MLU4zTGVMcC1hNFdsSFRFcGE3Nk02TFBlTk5aX1JTZHg2UHZWS0ZBR25Hc3dwSzJ0MWo3RExKTjJ3bERZWmhxYnNib0xPNkkzTHY2NlhCRThrU3fSAW9BVV95cUxNSkhFVG5WT3FrcmU4ckE3QlA0MDNqVG1DejNZWjRITHJHNno5Nkd1b21FaTdQTmMxdUFFdXlNUXEwaDZ2bm5zSGtXTk1fdWNSbV9Jbi13VzhtVlFDZFJDVjFKbHB2RlVqRFFUbFQ0RU0?oc=5",
+     "published": "2026-10-09T06:44:44Z",
+     "lang": "zh",
+     "entities": [
+      "beijing",
+      "invasion",
+      "taiwan_strait"
      ],
      "source_name": "自由時報",
      "source_domain": "ltn.com.tw",
@@ -13068,6 +13067,65 @@
    ]
   },
   {
+   "id": "evt_20261004_1e2861",
+   "headline": "2028將成台海關鍵節點| 民意論壇| 評論",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ZGp5SU9Ia2ZBay1uVjZNN194R1AxMWxlczB6bG84YTZ2TDI0OVBnYUpaaWxLbjZ6VDFNd2lMckVpSTVEbDFPNXJwSk1fcFFo?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-04T07:00:00Z",
+   "last_seen": "2026-10-04T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "db05188ed698cf64"
+    ]
+   },
+   "articles": [
+    {
+     "id": "db05188ed698cf64",
+     "title": "2028將成台海關鍵節點| 民意論壇| 評論",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ZGp5SU9Ia2ZBay1uVjZNN194R1AxMWxlczB6bG84YTZ2TDI0OVBnYUpaaWxLbjZ6VDFNd2lMckVpSTVEbDFPNXJwSk1fcFFo?oc=5",
+     "published": "2026-10-04T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261004_858275",
    "headline": "地獄景象是什麼？美軍台海無人機戰略Hellscape的爭議與最新進展【持續更新】 | 國際中心 | 新聞",
    "headline_source": "風傳媒",
@@ -13545,65 +13603,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261003_1e2861",
-   "headline": "2028將成台海關鍵節點| 民意論壇| 評論",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ZGp5SU9Ia2ZBay1uVjZNN194R1AxMWxlczB6bG84YTZ2TDI0OVBnYUpaaWxLbjZ6VDFNd2lMckVpSTVEbDFPNXJwSk1fcFFo?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-03T16:00:00Z",
-   "last_seen": "2026-10-03T16:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "db05188ed698cf64"
-    ]
-   },
-   "articles": [
-    {
-     "id": "db05188ed698cf64",
-     "title": "2028將成台海關鍵節點| 民意論壇| 評論",
-     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFB3ZGp5SU9Ia2ZBay1uVjZNN194R1AxMWxlczB6bG84YTZ2TDI0OVBnYUpaaWxLbjZ6VDFNd2lMckVpSTVEbDFPNXJwSk1fcFFo?oc=5",
-     "published": "2026-10-03T16:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]

@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-12T21:18:18Z",
- "checked": "2026-10-12",
- "duration_sec": 61.7,
+ "updated": "2026-10-13T02:38:03Z",
+ "checked": "2026-10-13",
+ "duration_sec": 35.8,
  "rolling_days": 14,
- "n_events": 356,
- "n_articles": 415,
+ "n_events": 347,
+ "n_articles": 406,
  "grades": {
-  "C": 156,
-  "D": 173,
+  "C": 153,
+  "D": 167,
   "A": 3,
   "B": 24
  },
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 11,
-  "T2": 182,
-  "T3": 64,
+  "T2": 178,
+  "T3": 61,
   "T4": 10,
-  "T5": 119,
+  "T5": 114,
   "TA": 4
  },
  "t1_domains": [
@@ -56,7 +56,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 49,
-   "n_adopted": 37,
+   "n_adopted": 38,
    "newest": "2026-10-12T16:00:00+00:00",
    "stale": false,
    "error": null
@@ -70,7 +70,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 6,
-   "newest": "2026-10-12T08:40:00+00:00",
+   "newest": "2026-10-12T20:04:46+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 34,
-   "newest": "2026-10-12T20:10:00+00:00",
+   "n_adopted": 36,
+   "newest": "2026-10-13T01:34:34+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
-   "newest": "2026-10-12T14:13:00+00:00",
+   "n_adopted": 9,
+   "newest": "2026-10-12T15:24:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-10-12T14:34:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-13T01:37:00+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 36,
+   "n_entries": 37,
    "n_adopted": 3,
-   "newest": "2026-10-12T12:48:21+00:00",
+   "newest": "2026-10-13T01:08:41+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-10-12T14:00:06+00:00",
+   "newest": "2026-10-13T01:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-10-12T09:52:00+00:00",
+   "newest": "2026-10-13T02:34:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 97,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-10-12T18:42:29+00:00",
+   "newest": "2026-10-13T02:27:46+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-12T15:19:17+00:00",
+   "newest": "2026-10-12T23:05:39+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-12T20:50:37+00:00",
+   "newest": "2026-10-13T01:46:25+00:00",
    "stale": false,
    "error": null
   },
@@ -246,14 +246,14 @@
  ],
  "unrated_domains": [
   {
-   "domain": "i-meihua.com",
-   "n_articles": 10,
-   "sample_title": "南華專訪坎貝爾：圍堵中國已不合時宜 對台軍售若成美中籌碼恐動搖台海穩定"
+   "domain": "today.line.me",
+   "n_articles": 8,
+   "sample_title": "討論牆 | 川普怨和平獎又落空 台海沒開戰也算他功勞"
   },
   {
-   "domain": "today.line.me",
-   "n_articles": 9,
-   "sample_title": "討論牆 | 川普怨和平獎又落空 台海沒開戰也算他功勞"
+   "domain": "i-meihua.com",
+   "n_articles": 7,
+   "sample_title": "震懾「台獨」北京再出招 共軍4海域5處軍事行動 批賴清德「台灣之禍」"
   },
   {
    "domain": "hk.crntt.com",
@@ -291,6 +291,11 @@
    "sample_title": "台美攜手打造無人機非紅供應鏈賴清德：台海和平攸關印太穩定- 要聞"
   },
   {
+   "domain": "agenzianova.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\""
+  },
+  {
    "domain": "hk.on.cc",
    "n_articles": 2,
    "sample_title": "台海巡艦5年增36艘 今年人力需求創新高"
@@ -304,11 +309,6 @@
    "domain": "dominotheory.com",
    "n_articles": 2,
    "sample_title": "Taiwan Intent on Increasing Defense Spending"
-  },
-  {
-   "domain": "cdns.com.tw",
-   "n_articles": 2,
-   "sample_title": "〈社論〉迴避中華民國憲法還想維持台海和平？"
   },
   {
    "domain": "upmedia.mg",
