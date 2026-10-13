@@ -1,6 +1,6 @@
 {
  "month": "2026-09",
- "n_events": 996,
+ "n_events": 995,
  "events": [
   {
    "id": "evt_20260930_a8352c",
@@ -1424,12 +1424,12 @@
    ]
   },
   {
-   "id": "evt_20260930_983a62",
-   "headline": "国台办：欢迎两岸同胞为“两制”台湾方案提建议",
-   "headline_source": "中國新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9iTHFoNnpoQV9yUVU2SDJuN1JPSmwwSzFDbkxuZWZ1dF9OODAya3ZmTUNtUUxYV19tRzZ1MlZzcHI1OXpEd1RTWU9DMkhhZGY1Q28zRnp4U0FoV0JKRjF1MnM3RG90YXBScGRmekE0RmU?oc=5",
+   "id": "evt_20260929_983a62",
+   "headline": "国台办：欢迎两岸同胞为“两制”台湾方案提意见建议",
+   "headline_source": "環球網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DanNZSTNiWUhSSE9zZWpVUzZzOXZBQ3duU0hkb1FzQTNCaTBia3lveEtWRXd4anBpU1NoWVlNcFRwczJ6WWNOZHNjT3JRNUdTSFJn?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-09-30T04:02:34Z",
+   "first_seen": "2026-09-29T11:14:00Z",
    "last_seen": "2026-09-30T04:02:34Z",
    "langs": [
     "zh"
@@ -1441,10 +1441,10 @@
     "grade_label": "발표 단독",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 27.0,
+    "score": 32.3,
     "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "prc_state"
     ],
@@ -1454,16 +1454,37 @@
      "중국 관영 진영 단독 보도",
      "최고 등급 관영·정부",
      "정부·군 공식 발표 인용",
+     "環球網 원고를 中國新聞網 가 전재 — 1곳으로 계산",
      "중국 관영 발표만 존재"
     ]
    },
    "perspectives": {
     "prc": [
+     "8bc5499aef5ae6f6",
      "1d8fec62f67dc945"
     ],
     "tw_west": []
    },
    "articles": [
+    {
+     "id": "8bc5499aef5ae6f6",
+     "title": "国台办：欢迎两岸同胞为“两制”台湾方案提意见建议",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5DanNZSTNiWUhSSE9zZWpVUzZzOXZBQ3duU0hkb1FzQTNCaTBia3lveEtWRXd4anBpU1NoWVlNcFRwczJ6WWNOZHNjT3JRNUdTSFJn?oc=5",
+     "published": "2026-09-29T11:14:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "tao"
+     ],
+     "source_name": "環球網",
+     "source_domain": "huanqiu.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
+     "hedged": false
+    },
     {
      "id": "1d8fec62f67dc945",
      "title": "国台办：欢迎两岸同胞为“两制”台湾方案提建议",
@@ -1544,68 +1565,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20260930_cd70f6",
-   "headline": "国台办：欢迎两岸同胞为“两制”台湾方案提意见建议",
-   "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XQnk5Vm41elc4ZUhwVXpreDBOY1ppX0xLMEcxalZHVktxUmdFZUlsaTNnSEp6bnBhc2VVQVNOS0Z2T1lLcmlPOElLd3BFekJpSXhubkVTUXpNblNBTi1RNTZyYkZMcTE5NmJaTjJvYk9zQ1piQkMyag?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-09-30T03:52:38Z",
-   "last_seen": "2026-09-30T03:52:38Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 27.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "8bc5499aef5ae6f6"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "8bc5499aef5ae6f6",
-     "title": "国台办：欢迎两岸同胞为“两制”台湾方案提意见建议",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1XQnk5Vm41elc4ZUhwVXpreDBOY1ppX0xLMEcxalZHVktxUmdFZUlsaTNnSEp6bnBhc2VVQVNOS0Z2T1lLcmlPOElLd3BFekJpSXhubkVTUXpNblNBTi1RNTZyYkZMcTE5NmJaTjJvYk9zQ1piQkMyag?oc=5",
-     "published": "2026-09-30T03:52:38Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "tao"
-     ],
-     "source_name": "CCTV 中央電視台",
-     "source_domain": "cctv.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
      "hedged": false
     }
    ]

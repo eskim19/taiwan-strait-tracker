@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-13T02:38:03Z",
+ "updated": "2026-10-13T10:40:56Z",
  "checked": "2026-10-13",
- "duration_sec": 35.8,
+ "duration_sec": 55.5,
  "rolling_days": 14,
- "n_events": 347,
- "n_articles": 406,
+ "n_events": 339,
+ "n_articles": 396,
  "grades": {
-  "C": 153,
-  "D": 167,
-  "A": 3,
-  "B": 24
+  "D": 162,
+  "B": 25,
+  "C": 149,
+  "A": 3
  },
- "cross_language_events": 4,
+ "cross_language_events": 5,
  "tension_error": null,
  "archive_months": [
   "2026-09",
@@ -19,15 +19,16 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 11,
-  "T2": 178,
-  "T3": 61,
-  "T4": 10,
-  "T5": 114,
+  "T1": 12,
+  "T2": 169,
+  "T3": 65,
+  "T4": 9,
+  "T5": 113,
   "TA": 4
  },
  "t1_domains": [
   "aljazeera.com",
+  "bbc.com",
   "dw.com",
   "pts.org.tw",
   "reuters.com",
@@ -43,7 +44,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 7,
    "newest": "2026-10-12T15:07:46+00:00",
    "stale": false,
    "error": null
@@ -55,9 +56,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 38,
-   "newest": "2026-10-12T16:00:00+00:00",
+   "n_entries": 51,
+   "n_adopted": 39,
+   "newest": "2026-10-13T03:28:20+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 36,
-   "newest": "2026-10-13T01:34:34+00:00",
+   "n_adopted": 37,
+   "newest": "2026-10-13T09:49:09+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +96,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-10-12T15:24:00+00:00",
+   "n_adopted": 8,
+   "newest": "2026-10-13T06:54:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +109,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 1,
-   "newest": "2026-10-13T01:37:00+00:00",
+   "n_adopted": 18,
+   "newest": "2026-10-13T09:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 37,
+   "n_entries": 54,
    "n_adopted": 3,
-   "newest": "2026-10-13T01:08:41+00:00",
+   "newest": "2026-10-13T08:54:25+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-10-13T01:00:09+00:00",
+   "newest": "2026-10-13T10:04:33+00:00",
    "stale": false,
    "error": null
   },
@@ -160,8 +161,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 1,
-   "newest": "2026-10-13T02:34:00+00:00",
+   "n_adopted": 0,
+   "newest": "2026-10-13T09:24:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-10-13T02:27:46+00:00",
+   "newest": "2026-10-13T10:09:54+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +214,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-12T23:05:39+00:00",
+   "newest": "2026-10-13T10:19:15+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-13T01:46:25+00:00",
+   "newest": "2026-10-13T10:02:30+00:00",
    "stale": false,
    "error": null
   },
@@ -251,24 +252,19 @@
    "sample_title": "討論牆 | 川普怨和平獎又落空 台海沒開戰也算他功勞"
   },
   {
+   "domain": "hk.crntt.com",
+   "n_articles": 7,
+   "sample_title": "何思因：一旦台海衝突美可能凍結台灣外匯存底"
+  },
+  {
    "domain": "i-meihua.com",
    "n_articles": 7,
    "sample_title": "震懾「台獨」北京再出招 共軍4海域5處軍事行動 批賴清德「台灣之禍」"
   },
   {
-   "domain": "hk.crntt.com",
-   "n_articles": 6,
-   "sample_title": "美專家提在台海實現“戰略穩定”之路徑"
-  },
-  {
    "domain": "worldjournal.com",
    "n_articles": 5,
    "sample_title": "路透：中民兵船現蹤台灣東部外海 台海巡：在限制水域外"
-  },
-  {
-   "domain": "turkiyetoday.com",
-   "n_articles": 3,
-   "sample_title": "Taiwan to closely monitor China live-fire drills amid rising tensions"
   },
   {
    "domain": "thenewslens.com",
@@ -286,14 +282,14 @@
    "sample_title": "台海戰爭風險被高估？美高官談習近平：代價太大就不會動手"
   },
   {
-   "domain": "ctee.com.tw",
-   "n_articles": 3,
-   "sample_title": "台美攜手打造無人機非紅供應鏈賴清德：台海和平攸關印太穩定- 要聞"
-  },
-  {
    "domain": "agenzianova.com",
    "n_articles": 2,
    "sample_title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\""
+  },
+  {
+   "domain": "turkiyetoday.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan to closely monitor China live-fire drills amid rising tensions"
   },
   {
    "domain": "hk.on.cc",
@@ -321,6 +317,11 @@
    "sample_title": "台海風險被高估？美亞太助理國務卿：習近平很「理性」、若須付出重大代價就不會動武"
   },
   {
+   "domain": "ctee.com.tw",
+   "n_articles": 2,
+   "sample_title": "台美攜手打造無人機非紅供應鏈賴清德：台海和平攸關印太穩定- 要聞"
+  },
+  {
    "domain": "arise.tv",
    "n_articles": 2,
    "sample_title": "North Korea Warns US Over Taiwan Military Support, Pledges To Back Russia"
@@ -336,14 +337,14 @@
    "sample_title": "6407 相互 - 藏人访客曝预言中国分裂？台海2028成关键(图) - 股市爆料同學會"
   },
   {
-   "domain": "thinkchina.sg",
+   "domain": "english.cw.com.tw",
    "n_articles": 1,
-   "sample_title": "Double Tenth speech: A softer Lai, but no thaw across the Taiwan Strait"
+   "sample_title": "Why is Taiwan Building a Drone Industry Without China｜Industry｜2026-10-13｜web on"
   },
   {
-   "domain": "ocacnews.net",
+   "domain": "bolnews.com",
    "n_articles": 1,
-   "sample_title": "台海防衛兵推入門新書發表 學者盼建立青年國防認知|戰略臺灣"
+   "sample_title": "US approves $11 billion arms sale to Taiwan, likely to escalate tensions with Ch"
   }
  ]
 }
