@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-13T19:19:32Z",
- "checked": "2026-10-13",
- "duration_sec": 32.6,
+ "updated": "2026-10-14T00:20:08Z",
+ "checked": "2026-10-14",
+ "duration_sec": 33.4,
  "rolling_days": 14,
- "n_events": 342,
- "n_articles": 394,
+ "n_events": 343,
+ "n_articles": 395,
  "grades": {
-  "C": 151,
   "D": 166,
-  "B": 22,
+  "C": 151,
+  "B": 23,
   "A": 3
  },
  "cross_language_events": 5,
@@ -20,11 +20,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 11,
-  "T2": 169,
-  "T3": 62,
+  "T2": 171,
+  "T3": 61,
   "T4": 10,
-  "T5": 113,
-  "TA": 3
+  "T5": 114,
+  "TA": 4
  },
  "t1_domains": [
   "aljazeera.com",
@@ -70,8 +70,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-10-13T11:55:10+00:00",
+   "n_adopted": 7,
+   "newest": "2026-10-13T15:44:00+00:00",
    "stale": false,
    "error": null
   },
@@ -83,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 36,
-   "newest": "2026-10-13T13:48:39+00:00",
+   "n_adopted": 42,
+   "newest": "2026-10-13T23:49:45+00:00",
    "stale": false,
    "error": null
   },
@@ -97,7 +97,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 10,
-   "newest": "2026-10-13T13:30:00+00:00",
+   "newest": "2026-10-13T16:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +110,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-10-13T11:17:34+00:00",
+   "newest": "2026-10-13T23:09:37+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 4,
-   "newest": "2026-10-13T15:00:06+00:00",
+   "newest": "2026-10-13T22:17:08+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +162,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-13T12:34:00+00:00",
+   "newest": "2026-10-14T00:17:00+00:00",
    "stale": false,
    "error": null
   },
@@ -170,14 +170,14 @@
    "id": "tsm",
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
-   "status": "error",
-   "health": "error",
-   "http": 403,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 10,
+   "n_adopted": 2,
+   "newest": "2026-10-14T00:06:57+00:00",
    "stale": false,
-   "error": "HTTP 403"
+   "error": null
   },
   {
    "id": "guardian_taiwan",
@@ -199,9 +199,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 102,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-10-13T18:20:01+00:00",
+   "newest": "2026-10-14T00:03:30+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +214,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-13T12:13:57+00:00",
+   "newest": "2026-10-13T22:07:40+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-13T18:49:26+00:00",
+   "newest": "2026-10-14T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -337,14 +337,14 @@
    "sample_title": "6407 相互 - 藏人访客曝预言中国分裂？台海2028成关键(图) - 股市爆料同學會"
   },
   {
-   "domain": "english.cw.com.tw",
+   "domain": "beyondnews852.com",
    "n_articles": 1,
-   "sample_title": "Why is Taiwan Building a Drone Industry Without China｜Industry｜2026-10-13｜web on"
+   "sample_title": "9天6處海域「演訓」，解放軍劍指台海還是美日？"
   },
   {
-   "domain": "streamlinefeed.co.ke",
+   "domain": "bolnews.com",
    "n_articles": 1,
-   "sample_title": "Taiwan Says China’s New Drills Are Along Mainland Coast"
+   "sample_title": "US approves $11 billion arms sale to Taiwan, likely to escalate tensions with Ch"
   }
  ]
 }
