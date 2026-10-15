@@ -1,15 +1,15 @@
 {
- "updated": "2026-10-15T17:04:45Z",
+ "updated": "2026-10-15T21:26:25Z",
  "checked": "2026-10-15",
- "duration_sec": 35.2,
+ "duration_sec": 32.3,
  "rolling_days": 14,
  "n_events": 329,
  "n_articles": 391,
  "grades": {
   "D": 153,
+  "A": 4,
   "C": 151,
-  "B": 21,
-  "A": 4
+  "B": 21
  },
  "cross_language_events": 5,
  "tension_error": null,
@@ -18,10 +18,10 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 9,
-  "T2": 173,
-  "T3": 63,
-  "T4": 11,
+  "T1": 8,
+  "T2": 174,
+  "T3": 62,
+  "T4": 12,
   "T5": 102,
   "TA": 5
  },
@@ -30,7 +30,6 @@
   "bbc.com",
   "dw.com",
   "pts.org.tw",
-  "reuters.com",
   "rfi.fr",
   "yna.co.kr"
  ],
@@ -55,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
-   "n_adopted": 36,
-   "newest": "2026-10-15T07:26:00+00:00",
+   "n_entries": 59,
+   "n_adopted": 37,
+   "newest": "2026-10-15T20:30:05+00:00",
    "stale": false,
    "error": null
   },
@@ -83,7 +82,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 43,
-   "newest": "2026-10-15T13:58:17+00:00",
+   "newest": "2026-10-15T18:21:32+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +94,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-10-15T13:22:00+00:00",
+   "n_adopted": 12,
+   "newest": "2026-10-15T15:36:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +107,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-10-15T14:12:00+00:00",
+   "n_adopted": 14,
+   "newest": "2026-10-15T15:38:00+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 4,
-   "newest": "2026-10-15T16:41:24+00:00",
+   "newest": "2026-10-15T18:23:44+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +199,7 @@
    "http": 200,
    "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-10-15T14:04:17+00:00",
+   "newest": "2026-10-15T21:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-15T16:41:30+00:00",
+   "newest": "2026-10-15T21:05:01+00:00",
    "stale": false,
    "error": null
   },
@@ -326,6 +325,11 @@
    "sample_title": "台海安全未來3年挑戰重重？專訪德國訪台議員基瑟韋特：只能依靠自己「自立自強」"
   },
   {
+   "domain": "en.sedaily.com",
+   "n_articles": 1,
+   "sample_title": "U.S. Drone Makers Turn to Taiwan to Cut Chinese Parts"
+  },
+  {
    "domain": "paper.hket.com",
    "n_articles": 1,
    "sample_title": "台海巡水炮驅離陸漁船 國台辦：民進黨須承擔後果"
@@ -339,11 +343,6 @@
    "domain": "mygopen.com",
    "n_articles": 1,
    "sample_title": "【易誤解】網傳8成日本人反對軍事介入台海出兵參戰？忽略原始民調脈絡與支援選項差異"
-  },
-  {
-   "domain": "beyondnews852.com",
-   "n_articles": 1,
-   "sample_title": "9天6處海域「演訓」，解放軍劍指台海還是美日？"
   }
  ]
 }
