@@ -1,7 +1,109 @@
 {
  "month": "2026-10",
- "n_events": 360,
+ "n_events": 359,
  "events": [
+  {
+   "id": "evt_20261015_f6e776",
+   "headline": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-15T07:30:44Z",
+   "last_seen": "2026-10-16T01:54:40Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 0,
+    "score": 63.7,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "tw_state"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "정부·군 공식 발표 인용"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "04de1a2e7913460f",
+     "8d607a650188cb4b",
+     "e09d981842b48675"
+    ]
+   },
+   "articles": [
+    {
+     "id": "04de1a2e7913460f",
+     "title": "Taiwan watching for large-scale PLA drills as peak season nears",
+     "url": "https://focustaiwan.tw/politics/202610150010",
+     "published": "2026-10-15T07:30:44Z",
+     "lang": "en",
+     "entities": [
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "8d607a650188cb4b",
+     "title": "Army to open Chengkungling base to public Oct. 24",
+     "url": "https://focustaiwan.tw/politics/202610150027",
+     "published": "2026-10-15T12:52:26Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "e09d981842b48675",
+     "title": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
+     "published": "2026-10-16T01:54:40Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261015_cf3f00",
    "headline": "U.S. Drone Makers Turn to Taiwan to Cut Chinese Parts",
@@ -346,85 +448,6 @@
    ]
   },
   {
-   "id": "evt_20261015_f6e776",
-   "headline": "Taiwan watching for large-scale PLA drills as peak season nears",
-   "headline_source": "中央社 CNA",
-   "headline_url": "https://focustaiwan.tw/politics/202610150010",
-   "headline_lang": "en",
-   "first_seen": "2026-10-15T07:30:44Z",
-   "last_seen": "2026-10-15T12:52:26Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 30.4,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 1,
-    "blocs": [
-     "tw_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "대만 국영·정부 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "04de1a2e7913460f",
-     "8d607a650188cb4b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "04de1a2e7913460f",
-     "title": "Taiwan watching for large-scale PLA drills as peak season nears",
-     "url": "https://focustaiwan.tw/politics/202610150010",
-     "published": "2026-10-15T07:30:44Z",
-     "lang": "en",
-     "entities": [
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "8d607a650188cb4b",
-     "title": "Army to open Chengkungling base to public Oct. 24",
-     "url": "https://focustaiwan.tw/politics/202610150027",
-     "published": "2026-10-15T12:52:26Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261014_3bd3c5",
    "headline": "共機11架越台海中線「戰備警巡」 襲擾國防部嚴密應對監控| 政治焦點",
    "headline_source": "太報 TaiSounds",
@@ -746,13 +769,13 @@
    ]
   },
   {
-   "id": "evt_20261015_f519af",
+   "id": "evt_20261015_dc84e7",
    "headline": "中共32機艦船台海周邊活動 國軍嚴密掌握應處",
    "headline_source": "聯合報",
    "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE93T2dBTVZVS0pJdXFNd2E5LWh0amh4YTNyRTdpWHRsdzFIOEJvM21fZld2bXA2TVRPck5mZjg5YmptUk5fc1ZSVGE2TWV3ZEtBcnZ1VHVRZVBqZ2JmZGpN0gFfQVVfeXFMT3dPZ0FNVlVLSkl1cU13YTktaHRqaHhhM3JFN2lYdGx3MUg4Qm8zbV9mV3ZtcDZNVE9yTmZmODliam1STl9zVlJUYTZNZXdkS0FydnVUdVFlUGpnYmZkak0?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-15T02:37:11Z",
-   "last_seen": "2026-10-15T02:54:00Z",
+   "last_seen": "2026-10-15T02:37:11Z",
    "langs": [
     "zh"
    ],
@@ -763,27 +786,24 @@
     "grade_label": "단일 출처",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 26.2,
+    "score": 25.8,
     "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "tw_state"
+     "independent"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "聯合報 원고를 中央廣播電臺 가 전재 — 1곳으로 계산"
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "c1a2d00e70b46271",
-     "2434f6e3fa28771c"
+     "c1a2d00e70b46271"
     ]
    },
    "articles": [
@@ -805,26 +825,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "2434f6e3fa28771c",
-     "title": "中共32機艦船台海周邊活動 國軍掌握應處",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA4Z2diOUYxWkEzYlBScUdOV1dVYkg0UlVMZnpCQ05LOVotUkZjcHVQMlE2SjVNZkZoaHVpaUhPTnBDN2xXQzJ3TlN0WXRKMjRzRmY2Ym9MVQ?oc=5",
-     "published": "2026-10-15T02:54:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "中央廣播電臺",
-     "source_domain": "rti.org.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
@@ -1594,12 +1594,12 @@
    ]
   },
   {
-   "id": "evt_20261014_1a3e92",
-   "headline": "China’s Liaoning carrier heads to the Pacific as US, Japan prepare for missile drills",
-   "headline_source": "SCMP",
-   "headline_url": "https://www.scmp.com/news/china/military/article/3370859/chinas-liaoning-carrier-heads-pacific-us-japan-prepare-missile-drills?utm_source=rss_feed",
+   "id": "evt_20261012_151bae",
+   "headline": "Taiwan says it is closely monitoring a series of Chinese live-fire drills",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-14T09:00:06Z",
+   "first_seen": "2026-10-12T02:09:41Z",
    "last_seen": "2026-10-14T11:42:41Z",
    "langs": [
     "en",
@@ -1607,34 +1607,162 @@
    ],
    "cross_language": true,
    "credibility": {
-    "grade": "B",
+    "grade": "A",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 57.1,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
+    "grade_label": "검증됨",
+    "n_originals": 8,
+    "n_unrated": 1,
+    "score": 88.5,
+    "n_independent": 6,
+    "n_articles": 11,
+    "n_domains": 11,
     "blocs": [
-     "independent"
+     "independent",
+     "tw_state",
+     "unknown"
     ],
-    "top_tier": "T2",
+    "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인"
+     "독립 출처 6곳",
+     "최고 등급 통신사·공영",
+     "2개 언어권에서 확인",
+     "Reuters 원고를 Straits Times·Türkiye Today·Taipei Times 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "303921f4c0361ba7",
+     "7bfd7f858301c674",
+     "0a927279f2769751",
+     "a0d8f41d2e54b2a7",
+     "06d58e342276c2db",
+     "24f5f46f41b40fa8",
      "a96c835d3264a638",
+     "f9004d63a594730b",
      "496dee0efc5a1d40"
     ]
    },
    "articles": [
+    {
+     "id": "303921f4c0361ba7",
+     "title": "Taiwan says it is closely monitoring a series of Chinese live-fire drills",
+     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbzdVRzBOYnM4YWQ3Z0g2QTc2OTZwM0t0TUI3SUlGeTdBbXJ1amlQV0IyS2F2cGxmMk1hdW1HTElpV0pmaS1JUUt5N1lwdXdJUkNpYThnLVpvTEdsYjhnTVpqb015TTRDWWRZTTV6Ylo5c0pFbVRPeUM2YzNIdExpd1hRLWt6ZWR4bXZUeTRLZnJnNDlLVnAyX1JDdUxCajE3akRNMnpaUlpaVVRoWFJEWkh0MHEya28?oc=5",
+     "published": "2026-10-12T02:09:41Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "7bfd7f858301c674",
+     "title": "PLA drills not close to Taiwan: Defense Minister Koo",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jck9IZl9ZVzlkZWJDc3ZUNk52X1NOMkdLWG1PMUFSbWhDU0R2cjkzYkRPOFlYMWNnekFtSTQwdTY3aFVNdHBEejk0Q04tR1ZyaFd4eTVmbw?oc=5",
+     "published": "2026-10-12T04:18:00Z",
+     "lang": "en",
+     "entities": [
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    },
+    {
+     "id": "0a927279f2769751",
+     "title": "Taiwan Defense Minister Koo condemns China's live-fire drills in 5 sea areas",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRzJvM0s3Unhnc0tyMXZSVFVIb0JXTkF0Y3RBZjlDUFZEQWd0QWwxUy05LTlZcjBJU0hOM25fMzhDa3hMZDQ0Z09tWUtDX0dwa2Ntcw?oc=5",
+     "published": "2026-10-12T04:48:00Z",
+     "lang": "en",
+     "entities": [
+      "condemn",
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "a0d8f41d2e54b2a7",
+     "title": "Taiwan to closely monitor China live-fire drills amid rising tensions",
+     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjJXZzhQZlBfcWVpTW5EUnhjZUNlZ0ZGYW50UjBOXzhkRnJ1cEdpTTdmclN6OTdMZ2xfSTdWYklYRWV3MW9VQzAtUW5zQWw2bXhXRlBJaThiX3E1VmpjRVVIaThzLWNCZThZTGZVaHY3b0ZDSmduOWtDM1J4X1p2U2huT3JGdUtKQmFfd1ZzQ05jak16VmNmQnlyYVVmS2hSOVVKOXpadDNqekhrcllobzVn?oc=5",
+     "published": "2026-10-12T07:11:44Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Türkiye Today",
+     "source_domain": "turkiyetoday.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "06d58e342276c2db",
+     "title": "圖解》共軍5海域射擊演習，最近一區離台灣多遠？航班、漁船要避開嗎？ | 國際中心 | 新聞",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RdE50amJJZGFLR1htdmM2ay04N3hLZFYtVHk2akYzaTN4UkZ1VUptVUhpQzVRZUpwMkFtdm5YWVRleE8yTmVpMDl0LTVBQQ?oc=5",
+     "published": "2026-10-14T03:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "live_fire",
+      "military_drill",
+      "pla"
+     ],
+     "source_name": "風傳媒",
+     "source_domain": "storm.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "24f5f46f41b40fa8",
+     "title": "Taiwan Begins Live-Force Military Drills Deploying US Tanks in Counter to China's Live-Fire Exercises",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1URXQzMHo1QXcxQmg0VEdOZ2xXa3JNQVhCVzM2QVR4aHE4WlVzdlI0a1pOaFlWcFZ0dVFkQ3J3Q3VOQl9ZekRNSHJQa3lRdjlzRXZoTDZnVnE0a3djWldFaENNaUZNUQ?oc=5",
+     "published": "2026-10-14T05:50:00Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "SBS",
+     "source_domain": "sbs.co.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "a96c835d3264a638",
      "title": "China’s Liaoning carrier heads to the Pacific as US, Japan prepare for missile drills",
@@ -1652,6 +1780,25 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    },
+    {
+     "id": "f9004d63a594730b",
+     "title": "China launches 5-day military exercises after Taiwan’s National Day - Rti",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
+     "published": "2026-10-14T09:49:54Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
      "hedged": false
     },
     {
@@ -1791,256 +1938,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재·알리바바 그룹 소유",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261012_151bae",
-   "headline": "Taiwan says it is closely monitoring series of Chinese live-fire drills",
-   "headline_source": "Straits Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0tQNEM0X1B0SGc5LWczWDMyS2RLR1RUc2NUTEpKVVREZE5RVVFQRHlsdktidzdGc2ZtaUVUODVoUVNLbHdHLVppN2NhM0QyUDliRF93OHBTQ1dVX3pDQndrb3ZpRDJYdG1ULUw1ZUViZ3I5Sl9mMzVTRTlUOFI3enpzMFN0MVVBNmZta1ByTnMzUUlodEIzX2dlQ0hiZW5Nb01DdkxxazJ0SW0zRHRVSVM1QzBSQQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-12T02:05:00Z",
-   "last_seen": "2026-10-14T09:49:54Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "A",
-    "d_reason": null,
-    "grade_label": "검증됨",
-    "n_originals": 8,
-    "n_unrated": 1,
-    "score": 88.5,
-    "n_independent": 6,
-    "n_articles": 11,
-    "n_domains": 11,
-    "blocs": [
-     "independent",
-     "tw_state",
-     "unknown"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 6곳",
-     "최고 등급 통신사·공영",
-     "2개 언어권에서 확인",
-     "Reuters 원고를 Straits Times·Türkiye Today·Taipei Times 가 전재 — 1곳으로 계산",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "788d814d96080a72",
-     "d77b075dccb7d352",
-     "7bfd7f858301c674",
-     "0a927279f2769751",
-     "a0d8f41d2e54b2a7",
-     "303921f4c0361ba7",
-     "e9093dc8c5687af1",
-     "06d58e342276c2db",
-     "24f5f46f41b40fa8",
-     "f9004d63a594730b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "788d814d96080a72",
-     "title": "Taiwan says it is closely monitoring series of Chinese live-fire drills",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPa0tQNEM0X1B0SGc5LWczWDMyS2RLR1RUc2NUTEpKVVREZE5RVVFQRHlsdktidzdGc2ZtaUVUODVoUVNLbHdHLVppN2NhM0QyUDliRF93OHBTQ1dVX3pDQndrb3ZpRDJYdG1ULUw1ZUViZ3I5Sl9mMzVTRTlUOFI3enpzMFN0MVVBNmZta1ByTnMzUUlodEIzX2dlQ0hiZW5Nb01DdkxxazJ0SW0zRHRVSVM1QzBSQQ?oc=5",
-     "published": "2026-10-12T02:05:00Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal"
-     ],
-     "source_name": "Straits Times",
-     "source_domain": "straitstimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "d77b075dccb7d352",
-     "title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\"",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRjRDg3eGRHNnh0eTZtRllEQjNocjNqNUZtQl9OR3dQSm9PSk42ZWtSTkRFVElTMG43S3MzbFFWOXlKN3hvUUQxNUItRVdGdmt2QXJSQkhsS3UzSzRGWDhUWGxyTHlmQUJUTTMxVW5oOEtPcG5rS2hxNVFIN0swTjkwUVUyX2lENkhiQ3JHamxrd2MtaHBDeU9tZ0lOQ294M0xpalhn?oc=5",
-     "published": "2026-10-12T03:12:19Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal"
-     ],
-     "source_name": "Agenzia Nova",
-     "source_domain": "agenzianova.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "7bfd7f858301c674",
-     "title": "PLA drills not close to Taiwan: Defense Minister Koo",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jck9IZl9ZVzlkZWJDc3ZUNk52X1NOMkdLWG1PMUFSbWhDU0R2cjkzYkRPOFlYMWNnekFtSTQwdTY3aFVNdHBEejk0Q04tR1ZyaFd4eTVmbw?oc=5",
-     "published": "2026-10-12T04:18:00Z",
-     "lang": "en",
-     "entities": [
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "0a927279f2769751",
-     "title": "Taiwan Defense Minister Koo condemns China's live-fire drills in 5 sea areas",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRzJvM0s3Unhnc0tyMXZSVFVIb0JXTkF0Y3RBZjlDUFZEQWd0QWwxUy05LTlZcjBJU0hOM25fMzhDa3hMZDQ0Z09tWUtDX0dwa2Ntcw?oc=5",
-     "published": "2026-10-12T04:48:00Z",
-     "lang": "en",
-     "entities": [
-      "condemn",
-      "live_fire",
-      "rehearsal"
-     ],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "a0d8f41d2e54b2a7",
-     "title": "Taiwan to closely monitor China live-fire drills amid rising tensions",
-     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcjJXZzhQZlBfcWVpTW5EUnhjZUNlZ0ZGYW50UjBOXzhkRnJ1cEdpTTdmclN6OTdMZ2xfSTdWYklYRWV3MW9VQzAtUW5zQWw2bXhXRlBJaThiX3E1VmpjRVVIaThzLWNCZThZTGZVaHY3b0ZDSmduOWtDM1J4X1p2U2huT3JGdUtKQmFfd1ZzQ05jak16VmNmQnlyYVVmS2hSOVVKOXpadDNqekhrcllobzVn?oc=5",
-     "published": "2026-10-12T07:11:44Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal"
-     ],
-     "source_name": "Türkiye Today",
-     "source_domain": "turkiyetoday.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "303921f4c0361ba7",
-     "title": "Taiwan says it is closely monitoring a series of Chinese live-fire drills",
-     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa2VCQ0R3LVk2MXB4c1NjY3NEQmJJSlZSaEVwQjhLcEFxdzk5VVhKLXZHYWdsUWdBV25YV3ZzelNiSnpCMGpqRzAxWGRWd2RYVk5KWVBfaUh6X2E2RHVULTVxN0JEbTRKYzgxcWFlMlAyXzFsbWZWd0poV3l0Ql8tS2N5cXg3elZWS3YyaGJHUGV4Zk0?oc=5",
-     "published": "2026-10-12T08:09:00Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal"
-     ],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "e9093dc8c5687af1",
-     "title": "中共宣布連續6天實彈射擊 昨出動15機艦擾台",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVkJyRkxmSUNoWGdYa2d5M2lSVjBfcjYydkNsRDI3TV9aQW5jZTUxaWdoUjlfRktoNzFLanhBS2JTTWdtODFlekN0THNzZlhZQXhHSmNnbk9nbHdZdk90QdIBZkFVX3lxTE55MGVKejhXaEJNZEY5Y3M3SE9zQ2Y5Tkduako4ZVNGMUphTVRCUzJSY2RvLXh6enVXQkF2MDN0NUs3bThlSW9HQXFnWFVqWkRJZ1ZmdTBMaVJXdHE5ZjRleElwcll5dw?oc=5",
-     "published": "2026-10-13T01:09:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "live_fire"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "06d58e342276c2db",
-     "title": "圖解》共軍5海域射擊演習，最近一區離台灣多遠？航班、漁船要避開嗎？ | 國際中心 | 新聞",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RdE50amJJZGFLR1htdmM2ay04N3hLZFYtVHk2akYzaTN4UkZ1VUptVUhpQzVRZUpwMkFtdm5YWVRleE8yTmVpMDl0LTVBQQ?oc=5",
-     "published": "2026-10-14T03:10:00Z",
-     "lang": "zh",
-     "entities": [
-      "live_fire",
-      "military_drill",
-      "pla"
-     ],
-     "source_name": "風傳媒",
-     "source_domain": "storm.mg",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "24f5f46f41b40fa8",
-     "title": "Taiwan Begins Live-Force Military Drills Deploying US Tanks in Counter to China's Live-Fire Exercises",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1URXQzMHo1QXcxQmg0VEdOZ2xXa3JNQVhCVzM2QVR4aHE4WlVzdlI0a1pOaFlWcFZ0dVFkQ3J3Q3VOQl9ZekRNSHJQa3lRdjlzRXZoTDZnVnE0a3djWldFaENNaUZNUQ?oc=5",
-     "published": "2026-10-14T05:50:00Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "SBS",
-     "source_domain": "sbs.co.kr",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "f9004d63a594730b",
-     "title": "China launches 5-day military exercises after Taiwan’s National Day - Rti",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
-     "published": "2026-10-14T09:49:54Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "中央廣播電臺",
-     "source_domain": "rti.org.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
@@ -2960,8 +2857,8 @@
    "headline_source": "Wall Street Journal",
    "headline_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01pSUVlZHhld1lOT1NycWcxc29fQ256NzdXR2F1SEJpLUNHU1F4MjdjYnJ5NFVxTFcyTXhoRFlnd0szZ2tqSHhZaVpHS0lacjNYMWYzYXRWWG9RbjYwX1NWTEhESlRkWmYxeUNQN0NSS1JNNVhUYkFBRktRekRwQUJyb2dTMWkteExXeXZ1S1lrMTRtbXRib2JqUDNNZw?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-13T18:00:24Z",
-   "last_seen": "2026-10-13T18:00:24Z",
+   "first_seen": "2026-10-13T18:00:00Z",
+   "last_seen": "2026-10-13T18:00:00Z",
    "langs": [
     "en"
    ],
@@ -2999,7 +2896,7 @@
      "id": "a71da43b30faafc1",
      "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01pSUVlZHhld1lOT1NycWcxc29fQ256NzdXR2F1SEJpLUNHU1F4MjdjYnJ5NFVxTFcyTXhoRFlnd0szZ2tqSHhZaVpHS0lacjNYMWYzYXRWWG9RbjYwX1NWTEhESlRkWmYxeUNQN0NSS1JNNVhUYkFBRktRekRwQUJyb2dTMWkteExXeXZ1S1lrMTRtbXRib2JqUDNNZw?oc=5",
-     "published": "2026-10-13T18:00:24Z",
+     "published": "2026-10-13T18:00:00Z",
      "lang": "en",
      "entities": [
       "drone"
@@ -4116,6 +4013,67 @@
    ]
   },
   {
+   "id": "evt_20261013_0cc077",
+   "headline": "中共宣布連續6天實彈射擊 昨出動15機艦擾台",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVkJyRkxmSUNoWGdYa2d5M2lSVjBfcjYydkNsRDI3TV9aQW5jZTUxaWdoUjlfRktoNzFLanhBS2JTTWdtODFlekN0THNzZlhZQXhHSmNnbk9nbHdZdk90QdIBZkFVX3lxTE55MGVKejhXaEJNZEY5Y3M3SE9zQ2Y5Tkduako4ZVNGMUphTVRCUzJSY2RvLXh6enVXQkF2MDN0NUs3bThlSW9HQXFnWFVqWkRJZ1ZmdTBMaVJXdHE5ZjRleElwcll5dw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-13T01:09:00Z",
+   "last_seen": "2026-10-13T01:09:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e9093dc8c5687af1"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e9093dc8c5687af1",
+     "title": "中共宣布連續6天實彈射擊 昨出動15機艦擾台",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVkJyRkxmSUNoWGdYa2d5M2lSVjBfcjYydkNsRDI3TV9aQW5jZTUxaWdoUjlfRktoNzFLanhBS2JTTWdtODFlekN0THNzZlhZQXhHSmNnbk9nbHdZdk90QdIBZkFVX3lxTE55MGVKejhXaEJNZEY5Y3M3SE9zQ2Y5Tkduako4ZVNGMUphTVRCUzJSY2RvLXh6enVXQkF2MDN0NUs3bThlSW9HQXFnWFVqWkRJZ1ZmdTBMaVJXdHE5ZjRleElwcll5dw?oc=5",
+     "published": "2026-10-13T01:09:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "live_fire"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261013_0b523d",
    "headline": "两岸非物质文化遗产月活动让台湾同胞感受海南非遗魅力",
    "headline_source": "中國新聞網",
@@ -4622,67 +4580,65 @@
    ]
   },
   {
-   "id": "evt_20261011_2fba77",
-   "headline": "Chinese defense ministry denounces Taiwan leader's secessionist speech",
-   "headline_source": "巴士的報",
-   "headline_url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGExYUJGeUduUU1aTnAybm1RaVNQSEg0NzBsS2JualV4aUFiV05kcnFVSGtEZ055M3ZaTXJ4REpPekFLWkZoNEhOQ2RCS01oN2pYU3JYUl8wTjVCWE16R0hlZmFjQ3JjZmlIdFVHcWd1RHVYSThwajZya0NtTHl3b3doVi1GZzdDeVk5ZE5jQTZ3d3VaZGVubU9tU3BTREtHWFp5VmZyVFF6SUg3Wl90bzk1Q0hRT1dwb0Q3MGVB?oc=5",
+   "id": "evt_20261010_2fba77",
+   "headline": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ",
+   "headline_source": "조선일보",
+   "headline_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTi1CQWFMWk1KamhFUlUtWXE5Mng1S1JFMElyRUJhemdoVy1PQXd5VHdXWFpLUTkyYXVCdGtpbEFSRWdWNzBjeHpqTGdDSTJ2Z1VNX2F0Q3FzSXhZekhOVy0zN2tfR3hWbnFrdnlmalBhVlZPaUlXVmNBZkpxX21vSWUxY1ZBY0dB0gGcAUFVX3lxTE5VUVNSRUZMSnJXWllGcXZYV3o3bkFzeDlWMG9jb2NVclVBTGc2RS1mb0g5MGdwZ05wNlZFUkZsNkNHcHk2TkE4bnNibjhHOHNLcGpaek1ISkVPX3dqQ1BqOTBQMmJCTm5iLVVvNUdtamtMUnNDS1lPY3JTaHhpbGtncTMzdkRTZnhpTndlQzcwVjJXT1B5UGVKM280NA?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-11T08:44:00Z",
+   "first_seen": "2026-10-10T13:28:00Z",
    "last_seen": "2026-10-12T10:56:34Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
     "n_originals": 2,
     "n_unrated": 1,
-    "score": 34.4,
+    "score": 34.2,
     "n_independent": 1,
     "n_articles": 2,
     "n_domains": 2,
     "blocs": [
-     "prc_state",
+     "independent",
      "unknown"
     ],
-    "top_tier": "T3",
-    "primary_cited": true,
+    "top_tier": "T2",
+    "primary_cited": false,
     "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)",
-     "중국 관영 발표만 존재"
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
-    "prc": [
-     "dda64c0d600ff9fb"
-    ],
+    "prc": [],
     "tw_west": [
+     "797e0796b100e02b",
      "513595982d74feac"
     ]
    },
    "articles": [
     {
-     "id": "dda64c0d600ff9fb",
-     "title": "Chinese defense ministry denounces Taiwan leader's secessionist speech",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRGExYUJGeUduUU1aTnAybm1RaVNQSEg0NzBsS2JualV4aUFiV05kcnFVSGtEZ055M3ZaTXJ4REpPekFLWkZoNEhOQ2RCS01oN2pYU3JYUl8wTjVCWE16R0hlZmFjQ3JjZmlIdFVHcWd1RHVYSThwajZya0NtTHl3b3doVi1GZzdDeVk5ZE5jQTZ3d3VaZGVubU9tU3BTREtHWFp5VmZyVFF6SUg3Wl90bzk1Q0hRT1dwb0Q3MGVB?oc=5",
-     "published": "2026-10-11T08:44:00Z",
+     "id": "797e0796b100e02b",
+     "title": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ",
+     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTi1CQWFMWk1KamhFUlUtWXE5Mng1S1JFMElyRUJhemdoVy1PQXd5VHdXWFpLUTkyYXVCdGtpbEFSRWdWNzBjeHpqTGdDSTJ2Z1VNX2F0Q3FzSXhZekhOVy0zN2tfR3hWbnFrdnlmalBhVlZPaUlXVmNBZkpxX21vSWUxY1ZBY0dB0gGcAUFVX3lxTE5VUVNSRUZMSnJXWllGcXZYV3o3bkFzeDlWMG9jb2NVclVBTGc2RS1mb0g5MGdwZ05wNlZFUkZsNkNHcHk2TkE4bnNibjhHOHNLcGpaek1ISkVPX3dqQ1BqOTBQMmJCTm5iLVVvNUdtamtMUnNDS1lPY3JTaHhpbGtncTMzdkRTZnhpTndlQzcwVjJXT1B5UGVKM280NA?oc=5",
+     "published": "2026-10-10T13:28:00Z",
      "lang": "en",
      "entities": [
       "condemn",
-      "prc_mnd"
+      "independence",
+      "lai_chingte"
      ],
-     "source_name": "巴士的報",
-     "source_domain": "bastillepost.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "홍콩 친중공 매체",
+     "source_name": "조선일보",
+     "source_domain": "chosun.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     },
     {
@@ -7075,17 +7031,16 @@
   },
   {
    "id": "evt_20261011_b0887f",
-   "headline": "China steps up Taiwan-edge drills, deploys DF-26 ‘Guam killer’ missile - CHOSUNBIZ",
-   "headline_source": "조선일보",
-   "headline_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekpXaEt1MXl3UUNmY2FHZmt3X1RHOUR2cmNWLTBOcGwyX0MxWFpTVDJ3bUZIQnFZamJ6ZFBQQ2pNYjRneWNYQ09oa19RaFpPZTZYcTlBSEFuNnNzSTNiZjJ6M2RuWVUyNkVpM3hLQlJTOGNaMXh0a29hc01QZjJnbVlMUnEzNFpT0gGcAUFVX3lxTFBsdjBqY3N6TnZqVFZtMW01T00wQ3J6Z09jU0owM05wTVBvYUl1eDhxbTRLZXNDTU1OVUhQZ2FxT0Zlam1icGFPc0Y4YnEzQmU1NVV1ZWJDZzVTQ2haaktUZGZhd0NnMlA2clJ2aGJQMFhtU1RnQWxtYUY3cUlwQ29xX0JCOUhMR2F2clFWeWJieG9uU3JWRWtLNGRrNQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-11T06:27:00Z",
+   "headline": "중국, 대만 국경절 다음날 둥펑-26 훈련 공개",
+   "headline_source": "경향신문",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0tWjAtT2xfYUpBUmQwMlpsaUUxVE9DSkVtU3RQRURreV8xb0ZKanF0OGU0dTdGLWxnTTJMWDNxNlV0b2JQM0p1bXRSeXZ2QVBoNE1kSUEtUFBQZ9IBX0FVX3lxTFB1dGgyY1EyUkd1RUg4R2psNFM2eUM4UjZsc2Nwbmx4bUF6ZjViLVROcUN6Q1FMcl90WkJyQlowMVVPcmJkTGg4WnA2a2swQ0g1TnBqUnU0RGRreWVucnY0?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-11T06:32:00Z",
    "last_seen": "2026-10-11T06:32:00Z",
    "langs": [
-    "en",
     "ko"
    ],
-   "cross_language": true,
+   "cross_language": false,
    "credibility": {
     "grade": "B",
     "d_reason": null,
@@ -7110,30 +7065,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "a8884cbac5084f07",
      "3f7f0f56f2283be7"
     ]
    },
    "articles": [
-    {
-     "id": "a8884cbac5084f07",
-     "title": "China steps up Taiwan-edge drills, deploys DF-26 ‘Guam killer’ missile - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPekpXaEt1MXl3UUNmY2FHZmt3X1RHOUR2cmNWLTBOcGwyX0MxWFpTVDJ3bUZIQnFZamJ6ZFBQQ2pNYjRneWNYQ09oa19RaFpPZTZYcTlBSEFuNnNzSTNiZjJ6M2RuWVUyNkVpM3hLQlJTOGNaMXh0a29hc01QZjJnbVlMUnEzNFpT0gGcAUFVX3lxTFBsdjBqY3N6TnZqVFZtMW01T00wQ3J6Z09jU0owM05wTVBvYUl1eDhxbTRLZXNDTU1OVUhQZ2FxT0Zlam1icGFPc0Y4YnEzQmU1NVV1ZWJDZzVTQ2haaktUZGZhd0NnMlA2clJ2aGJQMFhtU1RnQWxtYUY3cUlwQ29xX0JCOUhMR2F2clFWeWJieG9uU3JWRWtLNGRrNQ?oc=5",
-     "published": "2026-10-11T06:27:00Z",
-     "lang": "en",
-     "entities": [
-      "missile",
-      "rehearsal"
-     ],
-     "source_name": "조선일보",
-     "source_domain": "chosun.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "3f7f0f56f2283be7",
      "title": "중국, 대만 국경절 다음날 둥펑-26 훈련 공개",
@@ -8015,69 +7950,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_ceacf4",
-   "headline": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ",
-   "headline_source": "조선일보",
-   "headline_url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTi1CQWFMWk1KamhFUlUtWXE5Mng1S1JFMElyRUJhemdoVy1PQXd5VHdXWFpLUTkyYXVCdGtpbEFSRWdWNzBjeHpqTGdDSTJ2Z1VNX2F0Q3FzSXhZekhOVy0zN2tfR3hWbnFrdnlmalBhVlZPaUlXVmNBZkpxX21vSWUxY1ZBY0dB0gGcAUFVX3lxTE5VUVNSRUZMSnJXWllGcXZYV3o3bkFzeDlWMG9jb2NVclVBTGc2RS1mb0g5MGdwZ05wNlZFUkZsNkNHcHk2TkE4bnNibjhHOHNLcGpaek1ISkVPX3dqQ1BqOTBQMmJCTm5iLVVvNUdtamtMUnNDS1lPY3JTaHhpbGtncTMzdkRTZnhpTndlQzcwVjJXT1B5UGVKM280NA?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-10T13:28:00Z",
-   "last_seen": "2026-10-10T13:28:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 52.8,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "prc_state"
-    ],
-    "top_tier": "T2",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "정부·군 공식 발표 인용"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "797e0796b100e02b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "797e0796b100e02b",
-     "title": "Lai Ching-te vows stronger defense as China condemns Taiwan independence push - CHOSUNBIZ",
-     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNTi1CQWFMWk1KamhFUlUtWXE5Mng1S1JFMElyRUJhemdoVy1PQXd5VHdXWFpLUTkyYXVCdGtpbEFSRWdWNzBjeHpqTGdDSTJ2Z1VNX2F0Q3FzSXhZekhOVy0zN2tfR3hWbnFrdnlmalBhVlZPaUlXVmNBZkpxX21vSWUxY1ZBY0dB0gGcAUFVX3lxTE5VUVNSRUZMSnJXWllGcXZYV3o3bkFzeDlWMG9jb2NVclVBTGc2RS1mb0g5MGdwZ05wNlZFUkZsNkNHcHk2TkE4bnNibjhHOHNLcGpaek1ISkVPX3dqQ1BqOTBQMmJCTm5iLVVvNUdtamtMUnNDS1lPY3JTaHhpbGtncTMzdkRTZnhpTndlQzcwVjJXT1B5UGVKM280NA?oc=5",
-     "published": "2026-10-10T13:28:00Z",
-     "lang": "en",
-     "entities": [
-      "condemn",
-      "independence",
-      "lai_chingte"
-     ],
-     "source_name": "조선일보",
-     "source_domain": "chosun.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -10039,8 +9911,8 @@
    "headline_source": "Wall Street Journal",
    "headline_url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXFxYXNELTRqeU1fUE45MW5uc2pXWGZ0dTRFWXJfRTlMRXBEUEk3X3RiVXJieVVBWG54b3VVOVVhRF9lWnNfS090VDAtbElUT3B3TmVjc0NjM3FaQWszUVk0cHZCNEJKYnpjZFVnZkwyRFMxUXlvZGoxVl9ock5YN2V4VzlSUy1CUjVUak5fV1lmT1pOcGRmcGU2MGE2WUhlLThkRmlwbkVsVWZINWc4WTZQTHhBRHdRRmc?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-09T18:51:08Z",
-   "last_seen": "2026-10-09T18:51:08Z",
+   "first_seen": "2026-10-09T18:51:00Z",
+   "last_seen": "2026-10-09T18:51:00Z",
    "langs": [
     "en"
    ],
@@ -10076,7 +9948,7 @@
      "id": "dcbdc9c9a164bf3c",
      "title": "China’s Next ‘Gray Zone’ Target: An Island Chain Critical to U.S. Defense of Taiwan",
      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaXFxYXNELTRqeU1fUE45MW5uc2pXWGZ0dTRFWXJfRTlMRXBEUEk3X3RiVXJieVVBWG54b3VVOVVhRF9lWnNfS090VDAtbElUT3B3TmVjc0NjM3FaQWszUVk0cHZCNEJKYnpjZFVnZkwyRFMxUXlvZGoxVl9ock5YN2V4VzlSUy1CUjVUak5fV1lmT1pOcGRmcGU2MGE2WUhlLThkRmlwbkVsVWZINWc4WTZQTHhBRHdRRmc?oc=5",
-     "published": "2026-10-09T18:51:08Z",
+     "published": "2026-10-09T18:51:00Z",
      "lang": "en",
      "entities": [
       "gray_zone"
