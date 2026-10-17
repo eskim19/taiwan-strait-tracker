@@ -1,7 +1,66 @@
 {
  "month": "2026-10",
- "n_events": 387,
+ "n_events": 388,
  "events": [
+  {
+   "id": "evt_20261018_7b10a0",
+   "headline": "Taiwan to buy 292 VTOL drones from Shield AI",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866167",
+   "headline_lang": "en",
+   "first_seen": "2026-10-18T00:00:00Z",
+   "last_seen": "2026-10-18T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f3d458bec784c393"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f3d458bec784c393",
+     "title": "Taiwan to buy 292 VTOL drones from Shield AI",
+     "url": "https://www.taipeitimes.com/News/taiwan/archives/2026/10/18/2003866167",
+     "published": "2026-10-18T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261017_2b83d8",
    "headline": "智庫報告揭台海局勢：台灣防滲透、美日聯防應對中國",
@@ -784,7 +843,7 @@
     {
      "id": "22ab558ef39817e3",
      "title": "Taiwan tracks 9 Chinese military aircraft and 14 ships",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5iUXVhcl9kSzlUR0l1M3FMbUs3TlFMSUhFN3o4eFZZcjFRdlVxVG0tMF9Nc01GcUpNM3drVmV6cTFrRmtyT0cxY0RCNG9aZThYSTZMQmd0T0w?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTVFuaUF4cXhzNThteVk4bmtuWUlHODN3WUxZNVZoOURVSEUyVnVHQlM2QW84N3pxTExwdjhRRml5RHE2QkZtTVlRcGd1VU16VEJ4Yg?oc=5",
      "published": "2026-10-17T02:51:00Z",
      "lang": "en",
      "entities": [],
@@ -1222,6 +1281,67 @@
    ]
   },
   {
+   "id": "evt_20261016_85d1ae",
+   "headline": "China launches 5-day military exercises after Taiwan’s National Day - Rti",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-16T17:11:11Z",
+   "last_seen": "2026-10-16T17:11:11Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f9004d63a594730b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f9004d63a594730b",
+     "title": "China launches 5-day military exercises after Taiwan’s National Day - Rti",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
+     "published": "2026-10-16T17:11:11Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261016_ba3eeb",
    "headline": "從經濟繁榮到台海和平：台灣不能只看亮麗數字，更要找回國家治理的主體性",
    "headline_source": "蕃新聞",
@@ -1277,133 +1397,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261014_f6e776",
-   "headline": "圖解》共軍5海域射擊演習，最近一區離台灣多遠？航班、漁船要避開嗎？ | 國際中心 | 新聞",
-   "headline_source": "風傳媒",
-   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RdE50amJJZGFLR1htdmM2ay04N3hLZFYtVHk2akYzaTN4UkZ1VUptVUhpQzVRZUpwMkFtdm5YWVRleE8yTmVpMDl0LTVBQQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-14T03:10:00Z",
-   "last_seen": "2026-10-16T12:17:08Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 4,
-    "n_unrated": 0,
-    "score": 80.1,
-    "n_independent": 3,
-    "n_articles": 4,
-    "n_domains": 4,
-    "blocs": [
-     "independent",
-     "tw_state"
-    ],
-    "top_tier": "T2",
-    "primary_cited": true,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "정부·군 공식 발표 인용"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "06d58e342276c2db",
-     "496dee0efc5a1d40",
-     "04de1a2e7913460f",
-     "f9004d63a594730b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "06d58e342276c2db",
-     "title": "圖解》共軍5海域射擊演習，最近一區離台灣多遠？航班、漁船要避開嗎？ | 國際中心 | 新聞",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RdE50amJJZGFLR1htdmM2ay04N3hLZFYtVHk2akYzaTN4UkZ1VUptVUhpQzVRZUpwMkFtdm5YWVRleE8yTmVpMDl0LTVBQQ?oc=5",
-     "published": "2026-10-14T03:10:00Z",
-     "lang": "zh",
-     "entities": [
-      "live_fire",
-      "military_drill",
-      "pla"
-     ],
-     "source_name": "風傳媒",
-     "source_domain": "storm.mg",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "496dee0efc5a1d40",
-     "title": "共軍遼寧號航母艦隊穿越宮古海峽 在台灣東部海域演習| 國際焦點",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XOGI2WVp3NE15SERUZ2lvYWFSU2hvTTBnU1dnU2VQbXNhT3FHMVM4MDYybVpxZENvZFdScnE0T1ZveXpKQkNZaXBhZ0oyUE1WN1dramxjTVNKN0x2?oc=5",
-     "published": "2026-10-14T11:42:41Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_carrier",
-      "military_drill",
-      "miyako_strait",
-      "pla"
-     ],
-     "source_name": "太報 TaiSounds",
-     "source_domain": "taisounds.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "04de1a2e7913460f",
-     "title": "Taiwan watching for large-scale PLA drills as peak season nears",
-     "url": "https://focustaiwan.tw/politics/202610150010",
-     "published": "2026-10-15T07:30:44Z",
-     "lang": "en",
-     "entities": [
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "f9004d63a594730b",
-     "title": "China launches 5-day military exercises after Taiwan’s National Day - Rti",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE13OUZKUGM4Z2RZQzZqQVJ4STVqUjJLdmdWalF6VjZYNDZGTm9BWUJzb2xkdDM2OVNyZnBjb3Uyc1ZpOGlnaC1GTUlMTE10RjVkY1pRRXhwWElwXzQ?oc=5",
-     "published": "2026-10-16T12:17:08Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "中央廣播電臺",
-     "source_domain": "rti.org.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
@@ -1531,7 +1524,7 @@
    "headline_source": "Global Taiwan Institute",
    "headline_url": "https://globaltaiwan.org/2026/10/before-the-blockade/",
    "headline_lang": "en",
-   "first_seen": "2026-10-14T07:27:34Z",
+   "first_seen": "2026-10-14T05:30:37Z",
    "last_seen": "2026-10-16T05:53:00Z",
    "langs": [
     "en",
@@ -1542,12 +1535,12 @@
     "grade": "A",
     "d_reason": null,
     "grade_label": "검증됨",
-    "n_originals": 3,
+    "n_originals": 4,
     "n_unrated": 0,
-    "score": 72.6,
+    "score": 72.7,
     "n_independent": 3,
-    "n_articles": 3,
-    "n_domains": 3,
+    "n_articles": 4,
+    "n_domains": 4,
     "blocs": [
      "independent"
     ],
@@ -1562,12 +1555,32 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "c5098f633818b18b",
      "c4e090de9f4eee91",
      "2c623aed256bd0df",
      "1cf4441e671bb77d"
     ]
    },
    "articles": [
+    {
+     "id": "c5098f633818b18b",
+     "title": "台灣買阿拉斯加天然氣 美議員曾提美軍護航、防中共封鎖",
+     "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxOUFpYMnZ0eGFlUkFwRHRDQ2gtbkNWNnJfdDJWbVh4S1RYaWd1ZEdCb3NobVplR3B1MktDc0JESHIyakxaZHNMVlhGcFg0SEtWRWJTTHc1NWMtWVBkTXhuRTVPbWdSRUY3dUtHRk1yemRzWUgwS0NJUWdxMUlBYkE2Zm10eVdnVk1remZDMXhEdDhGck5jZlZybmpTRk8zSTBNVmtKM21PMEdkemdZYUlONHNEejBacFZwd0FTd29MckZYUWc5cU9TRjBJU2NOSFRYOWM4bjd1UnBSMGVJbWVjT29MMEdic0dTOUJWY0daQ2RYTFNlZ0JYc1ktNWRxQkZjTk1qWDM0U3JYWXNlR1dkcFY0TzFyWG01aXVyU0VJRklMWTRkb2Q1MWx4NEF1SW9HVUFZTTZMYkRlVU5qc0ZrQ0hrdGh4M1Q0eGZMT0FGUU44dkpKTVFMUDhsWkVHaWdoRFpTbXAwN3BwU0ZhQkZ3V3h0b3BtT3BGMHNHQl9VZFlkcVNjU0VQWHZBTWdqcGRGQjBwLUhn?oc=5",
+     "published": "2026-10-14T05:30:37Z",
+     "lang": "zh",
+     "entities": [
+      "blockade",
+      "us_military"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com.tw",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    },
     {
      "id": "c4e090de9f4eee91",
      "title": "陸若封鎖台海 美退將示警盟友必介入",
@@ -1627,65 +1640,44 @@
    ]
   },
   {
-   "id": "evt_20261015_16c1be",
+   "id": "evt_20261016_710e7d",
    "headline": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
    "headline_source": "聯合報",
    "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-10-15T12:52:26Z",
+   "first_seen": "2026-10-16T01:54:40Z",
    "last_seen": "2026-10-16T01:54:40Z",
    "langs": [
-    "en",
     "zh"
    ],
-   "cross_language": true,
+   "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
     "n_unrated": 0,
-    "score": 63.1,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "tw_state"
+     "independent"
     ],
     "top_tier": "T2",
-    "primary_cited": true,
+    "primary_cited": false,
     "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "정부·군 공식 발표 인용"
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "8d607a650188cb4b",
      "e09d981842b48675"
     ]
    },
    "articles": [
-    {
-     "id": "8d607a650188cb4b",
-     "title": "Army to open Chengkungling base to public Oct. 24",
-     "url": "https://focustaiwan.tw/politics/202610150027",
-     "published": "2026-10-15T12:52:26Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
     {
      "id": "e09d981842b48675",
      "title": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
@@ -2997,6 +2989,68 @@
    ]
   },
   {
+   "id": "evt_20261014_1a3e92",
+   "headline": "共軍遼寧號航母艦隊穿越宮古海峽 在台灣東部海域演習| 國際焦點",
+   "headline_source": "太報 TaiSounds",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XOGI2WVp3NE15SERUZ2lvYWFSU2hvTTBnU1dnU2VQbXNhT3FHMVM4MDYybVpxZENvZFdScnE0T1ZveXpKQkNZaXBhZ0oyUE1WN1dramxjTVNKN0x2?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-14T11:42:41Z",
+   "last_seen": "2026-10-14T11:42:41Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "496dee0efc5a1d40"
+    ]
+   },
+   "articles": [
+    {
+     "id": "496dee0efc5a1d40",
+     "title": "共軍遼寧號航母艦隊穿越宮古海峽 在台灣東部海域演習| 國際焦點",
+     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9XOGI2WVp3NE15SERUZ2lvYWFSU2hvTTBnU1dnU2VQbXNhT3FHMVM4MDYybVpxZENvZFdScnE0T1ZveXpKQkNZaXBhZ0oyUE1WN1dramxjTVNKN0x2?oc=5",
+     "published": "2026-10-14T11:42:41Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_carrier",
+      "military_drill",
+      "miyako_strait",
+      "pla"
+     ],
+     "source_name": "太報 TaiSounds",
+     "source_domain": "taisounds.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261014_988cd3",
    "headline": "Beijing warns Taiwanese not to be ‘two-faced’ after Kevin Tsai attends DPP rally",
    "headline_source": "SCMP",
@@ -3615,12 +3669,12 @@
    ]
   },
   {
-   "id": "evt_20261012_4fa9ef",
+   "id": "evt_20261012_151bae",
    "headline": "Taiwan Defense Minister Koo condemns China's live-fire drills in 5 sea areas",
    "headline_source": "Taiwan News",
    "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRzJvM0s3Unhnc0tyMXZSVFVIb0JXTkF0Y3RBZjlDUFZEQWd0QWwxUy05LTlZcjBJU0hOM25fMzhDa3hMZDQ0Z09tWUtDX0dwa2Ntcw?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-12T04:18:00Z",
+   "first_seen": "2026-10-12T03:12:19Z",
    "last_seen": "2026-10-14T05:50:47Z",
    "langs": [
     "en",
@@ -3631,12 +3685,12 @@
     "grade": "B",
     "d_reason": null,
     "grade_label": "개연적",
-    "n_originals": 6,
+    "n_originals": 7,
     "n_unrated": 1,
     "score": 84.9,
-    "n_independent": 5,
-    "n_articles": 7,
-    "n_domains": 7,
+    "n_independent": 6,
+    "n_articles": 9,
+    "n_domains": 9,
     "blocs": [
      "independent",
      "tw_state",
@@ -3645,25 +3699,47 @@
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 5곳",
+     "독립 출처 6곳",
      "최고 등급 주요 일간",
      "2개 언어권에서 확인",
-     "Straits Times 원고를 Japan Times 가 전재 — 1곳으로 계산",
+     "Japan Times 원고를 Türkiye Today·Taipei Times 가 전재 — 1곳으로 계산",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "d77b075dccb7d352",
      "7bfd7f858301c674",
      "0a927279f2769751",
      "a0d8f41d2e54b2a7",
      "303921f4c0361ba7",
+     "9c909a14650db92f",
      "e9093dc8c5687af1",
+     "06d58e342276c2db",
      "24f5f46f41b40fa8"
     ]
    },
    "articles": [
+    {
+     "id": "d77b075dccb7d352",
+     "title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\"",
+     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRjRDg3eGRHNnh0eTZtRllEQjNocjNqNUZtQl9OR3dQSm9PSk42ZWtSTkRFVElTMG43S3MzbFFWOXlKN3hvUUQxNUItRVdGdmt2QXJSQkhsS3UzSzRGWDhUWGxyTHlmQUJUTTMxVW5oOEtPcG5rS2hxNVFIN0swTjkwUVUyX2lENkhiQ3JHamxrd2MtaHBDeU9tZ0lOQ294M0xpalhn?oc=5",
+     "published": "2026-10-12T03:12:19Z",
+     "lang": "en",
+     "entities": [
+      "live_fire",
+      "rehearsal"
+     ],
+     "source_name": "Agenzia Nova",
+     "source_domain": "agenzianova.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "7bfd7f858301c674",
      "title": "PLA drills not close to Taiwan: Defense Minister Koo",
@@ -3742,6 +3818,24 @@
      "hedged": false
     },
     {
+     "id": "9c909a14650db92f",
+     "title": "Taiwan closely monitoring China drills",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oeDhURWxJbUozYmRTYTJ0cmExOFUzNW1QaUFjeW5NNXNWU25adnRmdi1CWmZrMGllUFY5RFpiWDVIb2JYa2cyQWUtS1VVNmp6Y1FpXzdrRHlMSXltcm5BbHJCYTYwYTF1Q3FaNTVjMTZuQUxPQk1SMVFB?oc=5",
+     "published": "2026-10-12T16:00:00Z",
+     "lang": "en",
+     "entities": [
+      "rehearsal"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
      "id": "e9093dc8c5687af1",
      "title": "中共宣布連續6天實彈射擊 昨出動15機艦擾台",
      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1lVkJyRkxmSUNoWGdYa2d5M2lSVjBfcjYydkNsRDI3TV9aQW5jZTUxaWdoUjlfRktoNzFLanhBS2JTTWdtODFlekN0THNzZlhZQXhHSmNnbk9nbHdZdk90QdIBZkFVX3lxTE55MGVKejhXaEJNZEY5Y3M3SE9zQ2Y5Tkduako4ZVNGMUphTVRCUzJSY2RvLXh6enVXQkF2MDN0NUs3bThlSW9HQXFnWFVqWkRJZ1ZmdTBMaVJXdHE5ZjRleElwcll5dw?oc=5",
@@ -3759,6 +3853,26 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "06d58e342276c2db",
+     "title": "圖解》共軍5海域射擊演習，最近一區離台灣多遠？航班、漁船要避開嗎？ | 國際中心 | 新聞",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1RdE50amJJZGFLR1htdmM2ay04N3hLZFYtVHk2akYzaTN4UkZ1VUptVUhpQzVRZUpwMkFtdm5YWVRleE8yTmVpMDl0LTVBQQ?oc=5",
+     "published": "2026-10-14T03:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "live_fire",
+      "military_drill",
+      "pla"
+     ],
+     "source_name": "風傳媒",
+     "source_domain": "storm.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     },
     {
@@ -4389,86 +4503,6 @@
    ]
   },
   {
-   "id": "evt_20261013_51daaa",
-   "headline": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
-   "headline_source": "Wall Street Journal",
-   "headline_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01pSUVlZHhld1lOT1NycWcxc29fQ256NzdXR2F1SEJpLUNHU1F4MjdjYnJ5NFVxTFcyTXhoRFlnd0szZ2tqSHhZaVpHS0lacjNYMWYzYXRWWG9RbjYwX1NWTEhESlRkWmYxeUNQN0NSS1JNNVhUYkFBRktRekRwQUJyb2dTMWkteExXeXZ1S1lrMTRtbXRib2JqUDNNZw?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-13T18:00:00Z",
-   "last_seen": "2026-10-13T23:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.1,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "Wall Street Journal 원고를 BusinessDesk | NZ 가 전재 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "a71da43b30faafc1",
-     "d62a896aaa060bf3"
-    ]
-   },
-   "articles": [
-    {
-     "id": "a71da43b30faafc1",
-     "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
-     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01pSUVlZHhld1lOT1NycWcxc29fQ256NzdXR2F1SEJpLUNHU1F4MjdjYnJ5NFVxTFcyTXhoRFlnd0szZ2tqSHhZaVpHS0lacjNYMWYzYXRWWG9RbjYwX1NWTEhESlRkWmYxeUNQN0NSS1JNNVhUYkFBRktRekRwQUJyb2dTMWkteExXeXZ1S1lrMTRtbXRib2JqUDNNZw?oc=5",
-     "published": "2026-10-13T18:00:00Z",
-     "lang": "en",
-     "entities": [
-      "drone"
-     ],
-     "source_name": "Wall Street Journal",
-     "source_domain": "wsj.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "d62a896aaa060bf3",
-     "title": "US defence startups flock to Taiwan to build China-free drones",
-     "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS1Y4UzI1RFlwcHVrSV9sb1lNcWFWLUdMYlJtaVBzbktEZU85MFhzZ0ctWUJWTjVkM3BXRWo3MXU1QzJ3a0JEM1BENklpNmFzQ1FlTF94MmpfeUlVbGRnblprb2pUU3BvQXVVbjRRWmxSOVhGX2RVaE5waUlUaDhZeXRqQW1rMEl4RmlwM2cxeC1ZVWRkcm8tbUdpX29CLXk2dFNubFZXMXZURHdxazFnZ20yX1M1UmQwZzdWbVJn?oc=5",
-     "published": "2026-10-13T23:00:00Z",
-     "lang": "en",
-     "entities": [
-      "drone"
-     ],
-     "source_name": "BusinessDesk | NZ",
-     "source_domain": "businessdesk.co.nz",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261013_51a4ce",
    "headline": "鄭兆希觀點：「山城之巔」？台灣無解的國安危機？—台海戰略「三策」",
    "headline_source": "風傳媒",
@@ -4584,6 +4618,67 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261013_51daaa",
+   "headline": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
+   "headline_source": "Wall Street Journal",
+   "headline_url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01pSUVlZHhld1lOT1NycWcxc29fQ256NzdXR2F1SEJpLUNHU1F4MjdjYnJ5NFVxTFcyTXhoRFlnd0szZ2tqSHhZaVpHS0lacjNYMWYzYXRWWG9RbjYwX1NWTEhESlRkWmYxeUNQN0NSS1JNNVhUYkFBRktRekRwQUJyb2dTMWkteExXeXZ1S1lrMTRtbXRib2JqUDNNZw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-13T18:00:00Z",
+   "last_seen": "2026-10-13T18:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.1,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "Wall Street Journal 원고를 BusinessDesk | NZ 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a71da43b30faafc1"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a71da43b30faafc1",
+     "title": "U.S. Defense Startups Flock to Taiwan to Build China-Free Drones",
+     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNT01pSUVlZHhld1lOT1NycWcxc29fQ256NzdXR2F1SEJpLUNHU1F4MjdjYnJ5NFVxTFcyTXhoRFlnd0szZ2tqSHhZaVpHS0lacjNYMWYzYXRWWG9RbjYwX1NWTEhESlRkWmYxeUNQN0NSS1JNNVhUYkFBRktRekRwQUJyb2dTMWkteExXeXZ1S1lrMTRtbXRib2JqUDNNZw?oc=5",
+     "published": "2026-10-13T18:00:00Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Wall Street Journal",
+     "source_domain": "wsj.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -5875,65 +5970,6 @@
    ]
   },
   {
-   "id": "evt_20261012_a0705f",
-   "headline": "Taiwan closely monitoring China drills",
-   "headline_source": "Taipei Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oeDhURWxJbUozYmRTYTJ0cmExOFUzNW1QaUFjeW5NNXNWU25adnRmdi1CWmZrMGllUFY5RFpiWDVIb2JYa2cyQWUtS1VVNmp6Y1FpXzdrRHlMSXltcm5BbHJCYTYwYTF1Q3FaNTVjMTZuQUxPQk1SMVFB?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-12T16:00:00Z",
-   "last_seen": "2026-10-12T16:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "9c909a14650db92f"
-    ]
-   },
-   "articles": [
-    {
-     "id": "9c909a14650db92f",
-     "title": "Taiwan closely monitoring China drills",
-     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1oeDhURWxJbUozYmRTYTJ0cmExOFUzNW1QaUFjeW5NNXNWU25adnRmdi1CWmZrMGllUFY5RFpiWDVIb2JYa2cyQWUtS1VVNmp6Y1FpXzdrRHlMSXltcm5BbHJCYTYwYTF1Q3FaNTVjMTZuQUxPQk1SMVFB?oc=5",
-     "published": "2026-10-12T16:00:00Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261012_32ff30",
    "headline": "Double Tenth speech: A softer Lai, but no thaw across the Taiwan Strait",
    "headline_source": "ThinkChina",
@@ -5984,87 +6020,6 @@
      ],
      "source_name": "ThinkChina",
      "source_domain": "thinkchina.sg",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261012_98b9a6",
-   "headline": "《台海防衛兵推入門》：六大改進建議，打破「島島皆守」與「戰力東遷」迷思",
-   "headline_source": "TNL The News Lens 關鍵評論網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15RWRjVnkydFNYVkhPLUpRbW43QTRvZElyYXJrTEg5NlpteFRfRDd6WnVNYU9KTHYzSDdjT2RJWEZLRDRrVHhqNHEtU3pMbk5OLVpUag?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-12T12:00:00Z",
-   "last_seen": "2026-10-12T13:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 2,
-    "n_unrated": 2,
-    "score": 3.4,
-    "n_independent": 0,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "33704b66dc807516",
-     "b057f1b73dfff756"
-    ]
-   },
-   "articles": [
-    {
-     "id": "33704b66dc807516",
-     "title": "《台海防衛兵推入門》：六大改進建議，打破「島島皆守」與「戰力東遷」迷思",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15RWRjVnkydFNYVkhPLUpRbW43QTRvZElyYXJrTEg5NlpteFRfRDd6WnVNYU9KTHYzSDdjT2RJWEZLRDRrVHhqNHEtU3pMbk5OLVpUag?oc=5",
-     "published": "2026-10-12T12:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "TNL The News Lens 關鍵評論網",
-     "source_domain": "thenewslens.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "b057f1b73dfff756",
-     "title": "台海防衛兵推入門新書發表 學者盼建立青年國防認知|戰略臺灣",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wZkpmcnQyY0Q1QmVreW9lcUhMSkVMaUs2YjZaX0Y0ZEE3bjRkUm03VFRJcHM0dDhPaWl4YmE0Ykt3bFFvd3ZtTXJjZw?oc=5",
-     "published": "2026-10-12T13:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "僑新聞",
-     "source_domain": "ocacnews.net",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -6185,6 +6140,67 @@
      ],
      "source_name": "on.cc東網",
      "source_domain": "hk.on.cc",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261012_98b9a6",
+   "headline": "《台海防衛兵推入門》：六大改進建議，打破「島島皆守」與「戰力東遷」迷思",
+   "headline_source": "TNL The News Lens 關鍵評論網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15RWRjVnkydFNYVkhPLUpRbW43QTRvZElyYXJrTEg5NlpteFRfRDd6WnVNYU9KTHYzSDdjT2RJWEZLRDRrVHhqNHEtU3pMbk5OLVpUag?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-12T12:00:00Z",
+   "last_seen": "2026-10-12T12:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 2,
+    "n_unrated": 2,
+    "score": 3.4,
+    "n_independent": 0,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "33704b66dc807516"
+    ]
+   },
+   "articles": [
+    {
+     "id": "33704b66dc807516",
+     "title": "《台海防衛兵推入門》：六大改進建議，打破「島島皆守」與「戰力東遷」迷思",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE15RWRjVnkydFNYVkhPLUpRbW43QTRvZElyYXJrTEg5NlpteFRfRDd6WnVNYU9KTHYzSDdjT2RJWEZLRDRrVHhqNHEtU3pMbk5OLVpUag?oc=5",
+     "published": "2026-10-12T12:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "tabletop_wargame",
+      "taiwan_strait"
+     ],
+     "source_name": "TNL The News Lens 關鍵評論網",
+     "source_domain": "thenewslens.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",

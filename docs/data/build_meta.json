@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-17T15:38:54Z",
+ "updated": "2026-10-17T20:39:40Z",
  "checked": "2026-10-17",
- "duration_sec": 33.0,
+ "duration_sec": 52.7,
  "rolling_days": 14,
- "n_events": 304,
+ "n_events": 305,
  "n_articles": 359,
  "grades": {
-  "D": 140,
-  "C": 141,
-  "B": 20,
+  "C": 143,
+  "D": 141,
+  "B": 18,
   "A": 3
  },
- "cross_language_events": 6,
+ "cross_language_events": 4,
  "tension_error": null,
  "archive_months": [
   "2026-10"
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 7,
-  "T2": 160,
-  "T3": 56,
-  "T4": 10,
-  "T5": 97,
+  "T2": 161,
+  "T3": 54,
+  "T4": 11,
+  "T5": 96,
   "TA": 4
  },
  "t1_domains": [
@@ -54,7 +54,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
+   "n_entries": 59,
    "n_adopted": 36,
    "newest": "2026-10-17T14:00:07+00:00",
    "stale": false,
@@ -107,8 +107,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
-   "newest": "2026-10-17T14:14:00+00:00",
+   "n_adopted": 5,
+   "newest": "2026-10-17T05:31:06+00:00",
    "stale": false,
    "error": null
   },
@@ -119,8 +119,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 60,
-   "n_adopted": 4,
+   "n_entries": 33,
+   "n_adopted": 2,
    "newest": "2026-10-17T13:19:36+00:00",
    "stale": false,
    "error": null
@@ -132,9 +132,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 0,
-   "newest": "2026-10-17T00:00:00+00:00",
+   "n_entries": 43,
+   "n_adopted": 1,
+   "newest": "2026-10-18T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-17T14:57:24+00:00",
+   "newest": "2026-10-17T20:20:25+00:00",
    "stale": false,
    "error": null
   },
@@ -300,6 +300,11 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
+   "domain": "agenzianova.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\""
+  },
+  {
    "domain": "thenewslens.com",
    "n_articles": 2,
    "sample_title": "《台海防衛兵推入門》：六大改進建議，打破「島島皆守」與「戰力東遷」迷思"
@@ -338,11 +343,6 @@
    "domain": "bolnews.com",
    "n_articles": 1,
    "sample_title": "US approves $11 billion arms sale to Taiwan, likely to escalate tensions with Ch"
-  },
-  {
-   "domain": "asianews.network",
-   "n_articles": 1,
-   "sample_title": "China says separatism undermines cross-Strait peace and stability"
   }
  ]
 }
