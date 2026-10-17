@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-17T10:49:07Z",
+ "updated": "2026-10-17T15:38:54Z",
  "checked": "2026-10-17",
- "duration_sec": 35.2,
+ "duration_sec": 33.0,
  "rolling_days": 14,
- "n_events": 300,
- "n_articles": 355,
+ "n_events": 304,
+ "n_articles": 359,
  "grades": {
-  "C": 139,
-  "D": 138,
+  "D": 140,
+  "C": 141,
   "B": 20,
   "A": 3
  },
- "cross_language_events": 5,
+ "cross_language_events": 6,
  "tension_error": null,
  "archive_months": [
   "2026-10"
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 7,
-  "T2": 158,
-  "T3": 54,
-  "T4": 11,
-  "T5": 96,
+  "T2": 160,
+  "T3": 56,
+  "T4": 10,
+  "T5": 97,
   "TA": 4
  },
  "t1_domains": [
@@ -54,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
+   "n_entries": 57,
    "n_adopted": 36,
-   "newest": "2026-10-17T02:51:00+00:00",
+   "newest": "2026-10-17T14:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -69,7 +69,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 5,
-   "newest": "2026-10-15T20:42:19+00:00",
+   "newest": "2026-10-15T22:39:44+00:00",
    "stale": false,
    "error": null
   },
@@ -81,8 +81,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 56,
-   "newest": "2026-10-17T06:30:00+00:00",
+   "n_adopted": 58,
+   "newest": "2026-10-17T14:10:23+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 12,
-   "newest": "2026-10-17T08:28:00+00:00",
+   "newest": "2026-10-17T09:44:13+00:00",
    "stale": false,
    "error": null
   },
@@ -104,11 +104,11 @@
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
    "status": "ok",
-   "health": "no_adopt",
+   "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 0,
-   "newest": "2026-10-17T05:31:06+00:00",
+   "n_adopted": 7,
+   "newest": "2026-10-17T14:14:00+00:00",
    "stale": false,
    "error": null
   },
@@ -119,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 56,
-   "n_adopted": 3,
-   "newest": "2026-10-17T09:46:24+00:00",
+   "n_entries": 60,
+   "n_adopted": 4,
+   "newest": "2026-10-17T13:19:36+00:00",
    "stale": false,
    "error": null
   },
@@ -146,8 +146,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-10-17T10:00:12+00:00",
+   "n_adopted": 2,
+   "newest": "2026-10-17T14:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -197,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-10-17T09:16:49+00:00",
+   "newest": "2026-10-17T12:52:45+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-17T10:12:01+00:00",
+   "newest": "2026-10-17T14:57:24+00:00",
    "stale": false,
    "error": null
   },
@@ -320,6 +320,11 @@
    "sample_title": "台海安全未來3年挑戰重重？專訪德國訪台議員基瑟韋特：只能依靠自己「自立自強」"
   },
   {
+   "domain": "sunmedia.tw",
+   "n_articles": 1,
+   "sample_title": "智庫報告揭台海局勢：台灣防滲透、美日聯防應對中國"
+  },
+  {
    "domain": "newstaiwan.net",
    "n_articles": 1,
    "sample_title": "威權中共無權干預台灣人民抉擇：持續深化民主韌性，堅定捍衛自由民主與台海和平穩定"
@@ -338,11 +343,6 @@
    "domain": "asianews.network",
    "n_articles": 1,
    "sample_title": "China says separatism undermines cross-Strait peace and stability"
-  },
-  {
-   "domain": "turkiyetoday.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan to closely monitor China live-fire drills amid rising tensions"
   }
  ]
 }
