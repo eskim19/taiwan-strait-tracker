@@ -1,7 +1,589 @@
 {
  "month": "2026-10",
- "n_events": 414,
+ "n_events": 423,
  "events": [
+  {
+   "id": "evt_20261019_0eed63",
+   "headline": "Taiwan tracks 15 Chinese ships, 5 military aircraft",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mOTRjYkpPZVllRFNDaFdscGk5ZzhMSVVlTFJmUjhTZFZiNWROd09NdHdWR29qZ1BCQkttOTNRUmFZV05nRHBiemZzcnZMNWpUeFdoNg?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-19T03:40:32Z",
+   "last_seen": "2026-10-19T03:40:32Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "35a97bf4040f428d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "35a97bf4040f428d",
+     "title": "Taiwan tracks 15 Chinese ships, 5 military aircraft",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9mOTRjYkpPZVllRFNDaFdscGk5ZzhMSVVlTFJmUjhTZFZiNWROd09NdHdWR29qZ1BCQkttOTNRUmFZV05nRHBiemZzcnZMNWpUeFdoNg?oc=5",
+     "published": "2026-10-19T03:40:32Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_72a7df",
+   "headline": "偵獲5共機、6共艦擾台 國軍機艦與岸置飛彈嚴密監控應處",
+   "headline_source": "FTNN 新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RRmo4c29jYzdyYnVWV0R3RFN0akZ5U1ZPOExCMmVGMGpMQ0d6bnpqSTVieHhSa21NaFB5ckZocnhBLUJweTZFMnFmYw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-19T03:20:00Z",
+   "last_seen": "2026-10-19T03:20:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b2a30a19280e0c30"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b2a30a19280e0c30",
+     "title": "偵獲5共機、6共艦擾台 國軍機艦與岸置飛彈嚴密監控應處",
+     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RRmo4c29jYzdyYnVWV0R3RFN0akZ5U1ZPOExCMmVGMGpMQ0d6bnpqSTVieHhSa21NaFB5ckZocnhBLUJweTZFMnFmYw?oc=5",
+     "published": "2026-10-19T03:20:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "missile",
+      "roc_military",
+      "warship"
+     ],
+     "source_name": "FTNN 新聞網",
+     "source_domain": "ftnn.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_c4bf00",
+   "headline": "史上最大規模！美日「利劍27」軍演今啟動 強化台海安全防線",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPekF4MGRKYkU1ZGdoQnFBWVkxOHBPTzJDVmkzcGNEZzU5SzJTMGNwclNVQ3FYdlljLTFEOTlhX3otZm01TUdRUjdtaG1VTG5tSVNJTDJETlkwWW1xdWtELWlTRC0zLWxCeG5ocjdJMG5QS0ZNQk5YbjMxbGRWeXVBeVlYcTBRSWd0bW5MUDBUc2w1UzlvUVFpVnowc3RNbVFMVW5jMUs0YzFQT2E2SHZCZGRxTlZFTE00b1pFbl9ENlZmcjFRY0RoTldmc29YRFowalpxa1hURzR5eW91eVZxTFVXeGtncl9pR0R1N2k2ZFI1LTFseC0zVjctcW5NWkZLZVlkSHVsNFFtZUctellJS1Z4R041OHBpWEs3NVNWbm1tRGtmbG83a2dwZjJXQVBCdDJzdkV0TjBOMWhYMVhLY2Vtc3RPNmE2UnBHclNiZFhzT2NxMWYzb0Z5RE9LckJLbFJ1OG9TT1dqM3l1QWM3TUJBZjZjNDFRMmgwUXlUZmZ0NnZQeGc1MmpDY21ULU9FOWR4ZW5OUF9PWlZrcndsRUZXQ1o?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-19T03:04:06Z",
+   "last_seen": "2026-10-19T03:04:06Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "873898f0cb2c872d"
+    ]
+   },
+   "articles": [
+    {
+     "id": "873898f0cb2c872d",
+     "title": "史上最大規模！美日「利劍27」軍演今啟動 強化台海安全防線",
+     "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxPekF4MGRKYkU1ZGdoQnFBWVkxOHBPTzJDVmkzcGNEZzU5SzJTMGNwclNVQ3FYdlljLTFEOTlhX3otZm01TUdRUjdtaG1VTG5tSVNJTDJETlkwWW1xdWtELWlTRC0zLWxCeG5ocjdJMG5QS0ZNQk5YbjMxbGRWeXVBeVlYcTBRSWd0bW5MUDBUc2w1UzlvUVFpVnowc3RNbVFMVW5jMUs0YzFQT2E2SHZCZGRxTlZFTE00b1pFbl9ENlZmcjFRY0RoTldmc29YRFowalpxa1hURzR5eW91eVZxTFVXeGtncl9pR0R1N2k2ZFI1LTFseC0zVjctcW5NWkZLZVlkSHVsNFFtZUctellJS1Z4R041OHBpWEs3NVNWbm1tRGtmbG83a2dwZjJXQVBCdDJzdkV0TjBOMWhYMVhLY2Vtc3RPNmE2UnBHclNiZFhzT2NxMWYzb0Z5RE9LckJLbFJ1OG9TT1dqM3l1QWM3TUJBZjZjNDFRMmgwUXlUZmZ0NnZQeGc1MmpDY21ULU9FOWR4ZW5OUF9PWlZrcndsRUZXQ1o?oc=5",
+     "published": "2026-10-19T03:04:06Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com.tw",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_b9f5a7",
+   "headline": "中國5架次軍機擾台 其中3架次進入我北部、中部、西南空域",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FT3RodzRsemhXYUtiS1UwMC1KeWhOM2lpaXBjTnpBNWQ1Z3FSazVoUE9pdW1LdTZqSi1YYVd2MG96T28tUGhwMXNRcGhMclliRVZPTk91a3BGYjRtWmN3WNIBZkFVX3lxTFBiRlZfZmFqS0lud0xxMFMwR2FYM1lHTHpWQjJmYmxwYXJGVEVReVR0RWRySU5SemVlSFcxODRsSUZOOTJSaU9rMlFWRTZsNl9SSURsekp5a19uOTVIY2prVUJoNnNpUQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-19T02:12:00Z",
+   "last_seen": "2026-10-19T02:12:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "74dce66dfdac4bf8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "74dce66dfdac4bf8",
+     "title": "中國5架次軍機擾台 其中3架次進入我北部、中部、西南空域",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1FT3RodzRsemhXYUtiS1UwMC1KeWhOM2lpaXBjTnpBNWQ1Z3FSazVoUE9pdW1LdTZqSi1YYVd2MG96T28tUGhwMXNRcGhMclliRVZPTk91a3BGYjRtWmN3WNIBZkFVX3lxTFBiRlZfZmFqS0lud0xxMFMwR2FYM1lHTHpWQjJmYmxwYXJGVEVReVR0RWRySU5SemVlSFcxODRsSUZOOTJSaU9rMlFWRTZsNl9SSURsekp5a19uOTVIY2prVUJoNnNpUQ?oc=5",
+     "published": "2026-10-19T02:12:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_50e5d2",
+   "headline": "Taiwan detects 5 PLA aircraft, 6 PLAN vessels operating around island",
+   "headline_source": "The Economic Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNG1NRlFoTHZVc29La2RDZVd0LWNuVXhYLXM5ZjROWncySTJuOXBpZ0ptT0RWUlJuSTlxd0hFbVhQaG5TR2gyWmRmNUo1YWdPOV9uMEhJSjc5YktuZXBXVmdfdHl6Y2JBVnEzWVg2UFg1NE5iY25aZjJHc2hnbEZKdl84Ym5UVlhIUkl1RmNxdS13VGhsdzlGQlV3VzQ0TGt0NWJBV01GYTdkMnJ1am0xM0FGNDBnb0l4LWx2NFRuTmlmUmxLb25FNUVzNDdCUlVrTWdZbFJB0gHWAUFVX3lxTE00bU1GUWhMdlVzb0trZENlV3QtY25VeFgtczlmNE5adzJJMm45cGlnSm1PRFZSUm5JOXF3SEVtWFBoblNHaDJaZGY1SjVhZ085X24wSElKNzliS25lcFdWZ190eXpjYkFWcTNZWDZQWDU0TmJjblpmMkdzaGdsRkp2XzhiblRWWEhSSXVGY3F1LXdUaGx3OUZCVXdXNDRMa3Q1YkFXTUZhN2QycnVqbTEzQUY0MGdvSXgtbHY0VG5OaWZSbEtvbkU1RXM0N0JSVWtNZ1lsUkE?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-19T02:03:00Z",
+   "last_seen": "2026-10-19T02:03:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f2ca93e920eaad4c"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f2ca93e920eaad4c",
+     "title": "Taiwan detects 5 PLA aircraft, 6 PLAN vessels operating around island",
+     "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNNG1NRlFoTHZVc29La2RDZVd0LWNuVXhYLXM5ZjROWncySTJuOXBpZ0ptT0RWUlJuSTlxd0hFbVhQaG5TR2gyWmRmNUo1YWdPOV9uMEhJSjc5YktuZXBXVmdfdHl6Y2JBVnEzWVg2UFg1NE5iY25aZjJHc2hnbEZKdl84Ym5UVlhIUkl1RmNxdS13VGhsdzlGQlV3VzQ0TGt0NWJBV01GYTdkMnJ1am0xM0FGNDBnb0l4LWx2NFRuTmlmUmxLb25FNUVzNDdCUlVrTWdZbFJB0gHWAUFVX3lxTE00bU1GUWhMdlVzb0trZENlV3QtY25VeFgtczlmNE5adzJJMm45cGlnSm1PRFZSUm5JOXF3SEVtWFBoblNHaDJaZGY1SjVhZ085X24wSElKNzliS25lcFdWZ190eXpjYkFWcTNZWDZQWDU0TmJjblpmMkdzaGdsRkp2XzhiblRWWEhSSXVGY3F1LXdUaGx3OUZCVXdXNDRMa3Q1YkFXTUZhN2QycnVqbTEzQUY0MGdvSXgtbHY0VG5OaWZSbEtvbkU1RXM0N0JSVWtNZ1lsUkE?oc=5",
+     "published": "2026-10-19T02:03:00Z",
+     "lang": "en",
+     "entities": [
+      "pla",
+      "plan_navy"
+     ],
+     "source_name": "The Economic Times",
+     "source_domain": "m.economictimes.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_f5ff20",
+   "headline": "A pipe under the Taiwan Strait outlasts the politics above it",
+   "headline_source": "Lowy Institute",
+   "headline_url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0plck9WR2luNnkwclVEWGNIU21SN2tEeHVfai1xYmRzWldsZkZ0a2V1Y3l6OWdnd29uSHVydkFwbWhoRl9zQXJDYTFzaU00YTJodHJIdHRrelM1cWJFMlhyQkFwMm44eDZPZEQtYWlEcXZoRUh3aVQtemtRZUQ4WnBhVklJNDZNOVpKY3lrOXpxVm91LTM2OE9HclVLc1RWQmpBQTRGOTNjams?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-19T02:02:04Z",
+   "last_seen": "2026-10-19T02:02:04Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 26.9,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "TA",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 분석기관"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "df3021290ae920c3"
+    ]
+   },
+   "articles": [
+    {
+     "id": "df3021290ae920c3",
+     "title": "A pipe under the Taiwan Strait outlasts the politics above it",
+     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPZ0plck9WR2luNnkwclVEWGNIU21SN2tEeHVfai1xYmRzWldsZkZ0a2V1Y3l6OWdnd29uSHVydkFwbWhoRl9zQXJDYTFzaU00YTJodHJIdHRrelM1cWJFMlhyQkFwMm44eDZPZEQtYWlEcXZoRUh3aVQtemtRZUQ4WnBhVklJNDZNOVpKY3lrOXpxVm91LTM2OE9HclVLc1RWQmpBQTRGOTNjams?oc=5",
+     "published": "2026-10-19T02:02:04Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Lowy Institute",
+     "source_domain": "lowyinstitute.org",
+     "tier": "TA",
+     "tier_label": "분석기관",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261017_797504",
+   "headline": "中共9機14艦擾台 國軍適切應處",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16R3VfNEtPX1pCTGVia3M1R1BWbFpDQjhwTDljakpHMURRM1FCdDk4bHZLT01TX1BidnpWTW5xS0xoWHNsZTN0eGh4b29LYnFGY1czVVFnTGExRkFfNEU0VtIBZkFVX3lxTE82QlZfTXBYN1JNM1BnOGxGM1lHR09KUFJhdXlPaU1LUExQNWpGcWNrQTNfdTlELXRWRllXMHNqY3I5UUQ2bnBxTUdGR1hnbmhTV2x5TGVzQkNZT1BISnIyOW1RRnphUQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-17T02:11:00Z",
+   "last_seen": "2026-10-19T01:37:01Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 3,
+    "n_unrated": 1,
+    "score": 69.6,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "정부·군 공식 발표 인용",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "cb25a03ed680479a",
+     "22ab558ef39817e3",
+     "beb4747c0c2c82dd"
+    ]
+   },
+   "articles": [
+    {
+     "id": "cb25a03ed680479a",
+     "title": "中共9機14艦擾台 國軍適切應處",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16R3VfNEtPX1pCTGVia3M1R1BWbFpDQjhwTDljakpHMURRM1FCdDk4bHZLT01TX1BidnpWTW5xS0xoWHNsZTN0eGh4b29LYnFGY1czVVFnTGExRkFfNEU0VtIBZkFVX3lxTE82QlZfTXBYN1JNM1BnOGxGM1lHR09KUFJhdXlPaU1LUExQNWpGcWNrQTNfdTlELXRWRllXMHNqY3I5UUQ2bnBxTUdGR1hnbmhTV2x5TGVzQkNZT1BISnIyOW1RRnphUQ?oc=5",
+     "published": "2026-10-17T02:11:00Z",
+     "lang": "zh",
+     "entities": [
+      "incursion",
+      "roc_military"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "22ab558ef39817e3",
+     "title": "Taiwan tracks 9 Chinese military aircraft and 14 ships",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTVFuaUF4cXhzNThteVk4bmtuWUlHODN3WUxZNVZoOURVSEUyVnVHQlM2QW84N3pxTExwdjhRRml5RHE2QkZtTVlRcGd1VU16VEJ4Yg?oc=5",
+     "published": "2026-10-17T02:51:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "beb4747c0c2c82dd",
+     "title": "共軍擾台！共艦、公務船共14艘 國防部：嚴密監控",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBGYkVlUGpNNlJOUGRmcEU2SW1OU1lOY29mRnRnVE5jZ3RweWZnbVlDZk4yblpyWWxrZFhzbVljcHVGSEpyOExPMTlVVjAxeFdVM1hWUHJSVQ?oc=5",
+     "published": "2026-10-19T01:37:01Z",
+     "lang": "zh",
+     "entities": [
+      "incursion",
+      "pla",
+      "tw_mnd",
+      "warship"
+     ],
+     "source_name": "台視新聞網",
+     "source_domain": "news.ttv.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_b790fb",
+   "headline": "대만, AI 위성 시스템으로 중국군 동향 조기 탐지 추진",
+   "headline_source": "뉴시스",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50MXRvY0ROZXVKUkRTZldlcjhCeXdWaS1KeS1MSnN6QU9rWDUySWdNYzFma3RPQ3lIeEM0dFp1dGY5NWptV195RjM1TjdXb0RQaFZTcVBvY0Y5ak13bW9ZZnFhZktJcUt0QUlBZFFUZnBKWW5uNEtuYtIBeEFVX3lxTE50MXRvY0ROZXVKUkRTZldlcjhCeXdWaS1KeS1MSnN6QU9rWDUySWdNYzFma3RPQ3lIeEM0dFp1dGY5NWptV195RjM1TjdXb0RQaFZTcVBvY0Y5ak13bW9ZZnFhZktJcUt0QUlBZFFUZnBKWW5uNEtuYg?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-19T01:16:06Z",
+   "last_seen": "2026-10-19T01:16:06Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "fa0b515d1662cdf6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "fa0b515d1662cdf6",
+     "title": "대만, AI 위성 시스템으로 중국군 동향 조기 탐지 추진",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE50MXRvY0ROZXVKUkRTZldlcjhCeXdWaS1KeS1MSnN6QU9rWDUySWdNYzFma3RPQ3lIeEM0dFp1dGY5NWptV195RjM1TjdXb0RQaFZTcVBvY0Y5ak13bW9ZZnFhZktJcUt0QUlBZFFUZnBKWW5uNEtuYtIBeEFVX3lxTE50MXRvY0ROZXVKUkRTZldlcjhCeXdWaS1KeS1MSnN6QU9rWDUySWdNYzFma3RPQ3lIeEM0dFp1dGY5NWptV195RjM1TjdXb0RQaFZTcVBvY0Y5ak13bW9ZZnFhZktJcUt0QUlBZFFUZnBKWW5uNEtuYg?oc=5",
+     "published": "2026-10-19T01:16:06Z",
+     "lang": "ko",
+     "entities": [
+      "pla"
+     ],
+     "source_name": "뉴시스",
+     "source_domain": "newsis.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261019_5f331e",
+   "headline": "共機現身台灣重要空域！",
+   "headline_source": "東森新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSWZHeFJETDNITnBXME5fUnJrUXJwQXY4QXBmdnJnQWJLRWZ5LWZKM0JTUmpJd3NmaS1xc2pJVkp1Vnk0VURrTVFCNVZRME1EdHYwZy1Xaw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-19T01:09:00Z",
+   "last_seen": "2026-10-19T01:09:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "645f5b3100b9f536"
+    ]
+   },
+   "articles": [
+    {
+     "id": "645f5b3100b9f536",
+     "title": "共機現身台灣重要空域！",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5QSWZHeFJETDNITnBXME5fUnJrUXJwQXY4QXBmdnJnQWJLRWZ5LWZKM0JTUmpJd3NmaS1xc2pJVkp1Vnk0VURrTVFCNVZRME1EdHYwZy1Xaw?oc=5",
+     "published": "2026-10-19T01:09:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie"
+     ],
+     "source_name": "東森新聞",
+     "source_domain": "ebc.net.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261017_ae56c2",
    "headline": "美專家曝華府兵推缺陷 台海恐是中共「必要之戰」而非選擇之戰",
@@ -1884,85 +2466,6 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261017_797504",
-   "headline": "中共9機14艦擾台 國軍適切應處",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16R3VfNEtPX1pCTGVia3M1R1BWbFpDQjhwTDljakpHMURRM1FCdDk4bHZLT01TX1BidnpWTW5xS0xoWHNsZTN0eGh4b29LYnFGY1czVVFnTGExRkFfNEU0VtIBZkFVX3lxTE82QlZfTXBYN1JNM1BnOGxGM1lHR09KUFJhdXlPaU1LUExQNWpGcWNrQTNfdTlELXRWRllXMHNqY3I5UUQ2bnBxTUdGR1hnbmhTV2x5TGVzQkNZT1BISnIyOW1RRnphUQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-17T02:11:00Z",
-   "last_seen": "2026-10-17T02:51:00Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 55.6,
-    "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 2곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "cb25a03ed680479a",
-     "22ab558ef39817e3"
-    ]
-   },
-   "articles": [
-    {
-     "id": "cb25a03ed680479a",
-     "title": "中共9機14艦擾台 國軍適切應處",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16R3VfNEtPX1pCTGVia3M1R1BWbFpDQjhwTDljakpHMURRM1FCdDk4bHZLT01TX1BidnpWTW5xS0xoWHNsZTN0eGh4b29LYnFGY1czVVFnTGExRkFfNEU0VtIBZkFVX3lxTE82QlZfTXBYN1JNM1BnOGxGM1lHR09KUFJhdXlPaU1LUExQNWpGcWNrQTNfdTlELXRWRllXMHNqY3I5UUQ2bnBxTUdGR1hnbmhTV2x5TGVzQkNZT1BISnIyOW1RRnphUQ?oc=5",
-     "published": "2026-10-17T02:11:00Z",
-     "lang": "zh",
-     "entities": [
-      "incursion",
-      "roc_military"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "22ab558ef39817e3",
-     "title": "Taiwan tracks 9 Chinese military aircraft and 14 ships",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fTVFuaUF4cXhzNThteVk4bmtuWUlHODN3WUxZNVZoOURVSEUyVnVHQlM2QW84N3pxTExwdjhRRml5RHE2QkZtTVlRcGd1VU16VEJ4Yg?oc=5",
-     "published": "2026-10-17T02:51:00Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -4897,7 +5400,7 @@
    "headline_source": "Taiwan News",
    "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5vRzJvM0s3Unhnc0tyMXZSVFVIb0JXTkF0Y3RBZjlDUFZEQWd0QWwxUy05LTlZcjBJU0hOM25fMzhDa3hMZDQ0Z09tWUtDX0dwa2Ntcw?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-12T03:12:19Z",
+   "first_seen": "2026-10-12T04:48:00Z",
    "last_seen": "2026-10-14T05:50:47Z",
    "langs": [
     "en",
@@ -4932,8 +5435,6 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "d77b075dccb7d352",
-     "7bfd7f858301c674",
      "0a927279f2769751",
      "a0d8f41d2e54b2a7",
      "303921f4c0361ba7",
@@ -4943,44 +5444,6 @@
     ]
    },
    "articles": [
-    {
-     "id": "d77b075dccb7d352",
-     "title": "Taiwan's Defense Minister: \"We are monitoring China's live-fire exercises.\"",
-     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORGRjRDg3eGRHNnh0eTZtRllEQjNocjNqNUZtQl9OR3dQSm9PSk42ZWtSTkRFVElTMG43S3MzbFFWOXlKN3hvUUQxNUItRVdGdmt2QXJSQkhsS3UzSzRGWDhUWGxyTHlmQUJUTTMxVW5oOEtPcG5rS2hxNVFIN0swTjkwUVUyX2lENkhiQ3JHamxrd2MtaHBDeU9tZ0lOQ294M0xpalhn?oc=5",
-     "published": "2026-10-12T03:12:19Z",
-     "lang": "en",
-     "entities": [
-      "live_fire",
-      "rehearsal"
-     ],
-     "source_name": "Agenzia Nova",
-     "source_domain": "agenzianova.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "7bfd7f858301c674",
-     "title": "PLA drills not close to Taiwan: Defense Minister Koo",
-     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1jck9IZl9ZVzlkZWJDc3ZUNk52X1NOMkdLWG1PMUFSbWhDU0R2cjkzYkRPOFlYMWNnekFtSTQwdTY3aFVNdHBEejk0Q04tR1ZyaFd4eTVmbw?oc=5",
-     "published": "2026-10-12T04:18:00Z",
-     "lang": "en",
-     "entities": [
-      "pla",
-      "rehearsal"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
     {
      "id": "0a927279f2769751",
      "title": "Taiwan Defense Minister Koo condemns China's live-fire drills in 5 sea areas",
@@ -6264,7 +6727,7 @@
    "id": "evt_20261013_4c6a2b",
    "headline": "国台办：世界上只有一个中国，台湾是中国的一部分，这是真正的台海现状",
    "headline_source": "環球網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdFhfSVRqal82RVUxZm5YOExYX2I1TzZ2a3lWUjhsb19QMXlSUkZnRy15ZldKaWtXamNIN3UzbGRKWHJTaG1Qa2g3VzkxcDR1NE1RX3l3?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CcGxfd2tPbklQOC1qeXExNXFVbUlHTUNkTWdiM0JsR0g1MmtkUDJvTnNweWlaTHA3R3J0ZDN4R25IbHNBWFFMd0dvQ0QyZklzcUtZ?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-13T11:41:00Z",
    "last_seen": "2026-10-13T11:41:00Z",
@@ -6304,7 +6767,7 @@
     {
      "id": "0fbd648ff836ee1e",
      "title": "国台办：世界上只有一个中国，台湾是中国的一部分，这是真正的台海现状",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdFhfSVRqal82RVUxZm5YOExYX2I1TzZ2a3lWUjhsb19QMXlSUkZnRy15ZldKaWtXamNIN3UzbGRKWHJTaG1Qa2g3VzkxcDR1NE1RX3l3?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1CcGxfd2tPbklQOC1qeXExNXFVbUlHTUNkTWdiM0JsR0g1MmtkUDJvTnNweWlaTHA3R3J0ZDN4R25IbHNBWFFMd0dvQ0QyZklzcUtZ?oc=5",
      "published": "2026-10-13T11:41:00Z",
      "lang": "zh",
      "entities": [
@@ -6441,6 +6904,67 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261013_99163c",
+   "headline": "Chinese chips in military drones prompt stricter inspection measures-News-Radio Taiwan International",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oUXJ4dVpQRllZZEpFTlJjX1pCSWJFcVNMeDhCVkZLSC1kZndvdDJxMWdmeFVMbE1fWnRDTmNLcjhHWk02QXlUSUFLbnVGUmgxZHp2NmpHc1dqdXc?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-13T08:43:07Z",
+   "last_seen": "2026-10-13T08:43:07Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "1c2d33c9b7f70184"
+    ]
+   },
+   "articles": [
+    {
+     "id": "1c2d33c9b7f70184",
+     "title": "Chinese chips in military drones prompt stricter inspection measures-News-Radio Taiwan International",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9oUXJ4dVpQRllZZEpFTlJjX1pCSWJFcVNMeDhCVkZLSC1kZndvdDJxMWdmeFVMbE1fWnRDTmNLcjhHWk02QXlUSUFLbnVGUmgxZHp2NmpHc1dqdXc?oc=5",
+     "published": "2026-10-13T08:43:07Z",
+     "lang": "en",
+     "entities": [
+      "chip_war",
+      "drone"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
