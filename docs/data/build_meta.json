@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-21T04:53:25Z",
+ "updated": "2026-10-21T11:54:21Z",
  "checked": "2026-10-21",
- "duration_sec": 35.0,
+ "duration_sec": 31.1,
  "rolling_days": 14,
- "n_events": 343,
- "n_articles": 389,
+ "n_events": 346,
+ "n_articles": 393,
  "grades": {
-  "C": 152,
-  "B": 17,
-  "D": 174
+  "D": 174,
+  "C": 155,
+  "B": 17
  },
  "cross_language_events": 4,
  "tension_error": null,
@@ -18,10 +18,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 6,
-  "T2": 165,
-  "T3": 73,
-  "T4": 12,
-  "T5": 111,
+  "T2": 167,
+  "T3": 69,
+  "T4": 13,
+  "T5": 113,
   "TA": 2
  },
  "t1_domains": [
@@ -40,7 +40,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
+   "n_adopted": 7,
    "newest": "2026-10-21T01:05:36+00:00",
    "stale": false,
    "error": null
@@ -52,9 +52,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
-   "n_adopted": 27,
-   "newest": "2026-10-21T01:40:10+00:00",
+   "n_entries": 49,
+   "n_adopted": 26,
+   "newest": "2026-10-21T03:56:03+00:00",
    "stale": false,
    "error": null
   },
@@ -67,7 +67,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 6,
-   "newest": "2026-10-21T02:18:00+00:00",
+   "newest": "2026-10-21T08:27:55+00:00",
    "stale": false,
    "error": null
   },
@@ -79,8 +79,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-10-21T04:25:00+00:00",
+   "n_adopted": 70,
+   "newest": "2026-10-21T11:08:03+00:00",
    "stale": false,
    "error": null
   },
@@ -92,8 +92,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-10-21T03:16:00+00:00",
+   "n_adopted": 8,
+   "newest": "2026-10-21T08:02:57+00:00",
    "stale": false,
    "error": null
   },
@@ -106,7 +106,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 3,
-   "newest": "2026-10-20T13:16:00+00:00",
+   "newest": "2026-10-21T09:23:16+00:00",
    "stale": false,
    "error": null
   },
@@ -117,9 +117,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 58,
-   "n_adopted": 5,
-   "newest": "2026-10-21T02:47:48+00:00",
+   "n_entries": 70,
+   "n_adopted": 6,
+   "newest": "2026-10-21T11:09:23+00:00",
    "stale": false,
    "error": null
   },
@@ -145,7 +145,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-10-21T04:00:32+00:00",
+   "newest": "2026-10-21T11:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -158,7 +158,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-21T04:22:00+00:00",
+   "newest": "2026-10-21T10:05:00+00:00",
    "stale": false,
    "error": null
   },
@@ -195,9 +195,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-10-21T04:43:29+00:00",
+   "newest": "2026-10-21T11:44:07+00:00",
    "stale": false,
    "error": null
   },
@@ -210,7 +210,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-20T23:51:43+00:00",
+   "newest": "2026-10-21T08:19:32+00:00",
    "stale": false,
    "error": null
   },
@@ -223,7 +223,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-21T04:13:00+00:00",
+   "newest": "2026-10-21T10:49:44+00:00",
    "stale": false,
    "error": null
   },
@@ -244,8 +244,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 10,
-   "sample_title": "快訊／共機29架次、共艦6艘大舉出海 3面包圍台灣！ | EBC 東森新聞"
+   "n_articles": 12,
+   "sample_title": "美日「利劍」軍演登場! 5.7萬兵力壓境前沿部署飛彈 中稱挑釁台海和平 | Newtalk"
   },
   {
    "domain": "hk.crntt.com",
@@ -254,8 +254,18 @@
   },
   {
    "domain": "n.yam.com",
+   "n_articles": 6,
+   "sample_title": "美國陸軍作戰準則曝光！擬台海戰爭首日立即投入作戰"
+  },
+  {
+   "domain": "worldjournal.com",
    "n_articles": 4,
-   "sample_title": "威權中共無權干預台灣人民抉擇：持續深化民主韌性，堅定捍衛自由民主與台海和平穩定"
+   "sample_title": "英前外相示警：台海危機未來2年恐成形 全球欠缺準備"
+  },
+  {
+   "domain": "mirrordaily.news",
+   "n_articles": 3,
+   "sample_title": "美陸軍稱台海衝突首日即投入作戰 陳冠廷：台灣安全仍取決自身防衛能力"
   },
   {
    "domain": "taiwandaily.net",
@@ -268,11 +278,6 @@
    "sample_title": "美軍台海兵推藏致命盲點？專家：北京「不統」焦慮或讓嚇阻失靈"
   },
   {
-   "domain": "worldjournal.com",
-   "n_articles": 3,
-   "sample_title": "台海巡水砲驅離中國漁船 中外交部：這不是外交問題"
-  },
-  {
    "domain": "hk.on.cc",
    "n_articles": 3,
    "sample_title": "大陸海警船入東沙島海域 台海巡艦艇併航監控"
@@ -283,14 +288,9 @@
    "sample_title": "緊盯中國對台動向 澳軍司令迴避是否出兵台海"
   },
   {
-   "domain": "sunmedia.tw",
+   "domain": "militarywatchmagazine.com",
    "n_articles": 2,
-   "sample_title": "美日逾5.7萬兵力「劍擊」軍演登場 強化西南諸島防禦劍指台海"
-  },
-  {
-   "domain": "mirrordaily.news",
-   "n_articles": 2,
-   "sample_title": "日本潛艦若破核動力緊箍咒 將產生對台海的關鍵戰略影響"
+   "sample_title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan’s Taiwan War D"
   },
   {
    "domain": "cdns.com.tw",
@@ -303,14 +303,14 @@
    "sample_title": "Taiwan Plans to Use Civilian Boats and Aircraft to Map Potential Invasion Sites"
   },
   {
+   "domain": "m.economictimes.com",
+   "n_articles": 2,
+   "sample_title": "US Commission chair warns China Coast Guard patrols East of Taiwan are 'Highly D"
+  },
+  {
    "domain": "turnnewsapp.com",
    "n_articles": 2,
    "sample_title": "中共2027年會犯台？陳冠廷赴美示警：真正威脅不只全面開戰"
-  },
-  {
-   "domain": "reader.turnnewsapp.com",
-   "n_articles": 2,
-   "sample_title": "對台軍售、中共軍演 台海局勢入美劇"
   },
   {
    "domain": "news.ttv.com.tw",
