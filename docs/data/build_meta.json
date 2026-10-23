@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-23T17:12:06Z",
+ "updated": "2026-10-23T21:27:10Z",
  "checked": "2026-10-23",
- "duration_sec": 35.6,
+ "duration_sec": 31.4,
  "rolling_days": 14,
- "n_events": 373,
- "n_articles": 411,
+ "n_events": 374,
+ "n_articles": 413,
  "grades": {
+  "C": 169,
   "D": 188,
-  "B": 17,
-  "C": 168
+  "B": 17
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,10 +18,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 8,
-  "T2": 177,
-  "T3": 70,
+  "T2": 178,
+  "T3": 69,
   "T4": 17,
-  "T5": 118,
+  "T5": 121,
   "TA": 4
  },
  "t1_domains": [
@@ -42,7 +42,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 10,
-   "newest": "2026-10-23T03:00:00+00:00",
+   "newest": "2026-10-23T16:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -53,8 +53,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 24,
-   "n_adopted": 14,
+   "n_entries": 45,
+   "n_adopted": 28,
    "newest": "2026-10-23T12:17:00+00:00",
    "stale": false,
    "error": null
@@ -68,7 +68,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 7,
-   "newest": "2026-10-23T14:48:46+00:00",
+   "newest": "2026-10-23T16:58:04+00:00",
    "stale": false,
    "error": null
   },
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 68,
-   "newest": "2026-10-23T13:29:00+00:00",
+   "n_adopted": 67,
+   "newest": "2026-10-23T20:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -118,8 +118,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 61,
-   "n_adopted": 3,
+   "n_entries": 40,
+   "n_adopted": 2,
    "newest": "2026-10-23T13:29:56+00:00",
    "stale": false,
    "error": null
@@ -145,8 +145,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 5,
-   "newest": "2026-10-23T15:00:07+00:00",
+   "n_adopted": 4,
+   "newest": "2026-10-23T20:51:17+00:00",
    "stale": false,
    "error": null
   },
@@ -196,9 +196,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 97,
+   "n_entries": 98,
    "n_adopted": 0,
-   "newest": "2026-10-23T16:34:02+00:00",
+   "newest": "2026-10-23T18:54:15+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-23T17:01:05+00:00",
+   "newest": "2026-10-23T20:52:32+00:00",
    "stale": false,
    "error": null
   },
@@ -245,7 +245,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 13,
+   "n_articles": 14,
    "sample_title": "不只反對一國兩制！陸委會最新民調曝光 逾8成挺台海現狀、強化國防 | 鏡週刊"
   },
   {
@@ -269,9 +269,19 @@
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
   },
   {
+   "domain": "taiwandaily.net",
+   "n_articles": 3,
+   "sample_title": "新聞大破解-美軍新準則「台海開戰即刻參戰」1023"
+  },
+  {
    "domain": "hk.on.cc",
    "n_articles": 3,
    "sample_title": "大陸海警船入東沙島海域 台海巡艦艇併航監控"
+  },
+  {
+   "domain": "hkej.com",
+   "n_articles": 2,
+   "sample_title": "日八船避風闖台海 中國海警全程監控"
   },
   {
    "domain": "ftnn.com.tw",
@@ -292,11 +302,6 @@
    "domain": "militarywatchmagazine.com",
    "n_articles": 2,
    "sample_title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan’s Taiwan War D"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 2,
-   "sample_title": "實事大家談-台海南海同天爆對峙 1020"
   },
   {
    "domain": "cdns.com.tw",
@@ -334,14 +339,9 @@
    "sample_title": "德國漢學家、小說家施益堅長年居住台灣，也透過寫作關注台灣。2022年俄羅斯全面入侵烏克蘭後，「今日烏克蘭，明日台灣」的討論在德國出現，他發現不少德國人對台海衝突"
   },
   {
-   "domain": "english.revoi.in",
+   "domain": "vietnam.vn",
    "n_articles": 1,
-   "sample_title": "Taiwan Reports Chinese Naval and Official Ships Near Island"
-  },
-  {
-   "domain": "fortune.com",
-   "n_articles": 1,
-   "sample_title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a"
+   "sample_title": "Super Typhoon Champi approaches Taiwan; US-Japan military exercises halted."
   }
  ]
 }
