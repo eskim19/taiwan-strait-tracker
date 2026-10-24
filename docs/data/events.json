@@ -1,6 +1,66 @@
 {
- "updated": "2026-10-24T11:06:15Z",
+ "updated": "2026-10-24T16:00:11Z",
  "events": [
+  {
+   "id": "evt_20261024_63cf63",
+   "headline": "學者：中美新定位助台海穩定 消極因素猶存",
+   "headline_source": "中國評論新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNWliUU1FZ1RRNWxwM2llbEp5X1VrZmotSklYdWgzRjNOVVZTVDhfYTMtcnV1d2dyemNEaFpBSktHXzdiMlNJVUJlR3djaWtaUk5lZkFBcFMzb0IzODNpeG13UXA3QQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-24T14:00:43Z",
+   "last_seen": "2026-10-24T14:00:43Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "c961cba32c31de6e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c961cba32c31de6e",
+     "title": "學者：中美新定位助台海穩定 消極因素猶存",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNWliUU1FZ1RRNWxwM2llbEp5X1VrZmotSklYdWgzRjNOVVZTVDhfYTMtcnV1d2dyemNEaFpBSktHXzdiMlNJVUJlR3djaWtaUk5lZkFBcFMzb0IzODNpeG13UXA3QQ?oc=5",
+     "published": "2026-10-24T14:00:43Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國評論新聞",
+     "source_domain": "hk.crntt.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261024_ac036d",
    "headline": "Lin urges Taiwan-Europe cooperation on trusted AI, drone supply chains",
@@ -240,66 +300,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 방송",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261024_a38286",
-   "headline": "日8巡視船航行台海避颱風遭5中艦跟監! 海巡署批 : 企圖製造 「台海內水化」",
-   "headline_source": "新頭殼",
-   "headline_url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vMWswa0EwOE1nRE9nUjQ4ZmxsZzk3a1JXbkFTcTExLUJGZU1oLVZNOExOdlQ0WVhBMUdkdnNVTmRlcWxURm9teHpXUQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-24T06:49:33Z",
-   "last_seen": "2026-10-24T06:49:33Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "bbd6534f18e70024"
-    ]
-   },
-   "articles": [
-    {
-     "id": "bbd6534f18e70024",
-     "title": "日8巡視船航行台海避颱風遭5中艦跟監! 海巡署批 : 企圖製造 「台海內水化」",
-     "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5vMWswa0EwOE1nRE9nUjQ4ZmxsZzk3a1JXbkFTcTExLUJGZU1oLVZNOExOdlQ0WVhBMUdkdnNVTmRlcWxURm9teHpXUQ?oc=5",
-     "published": "2026-10-24T06:49:33Z",
-     "lang": "zh",
-     "entities": [
-      "coast_guard",
-      "taiwan_strait"
-     ],
-     "source_name": "新頭殼",
-     "source_domain": "newtalk.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -600,6 +600,67 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 영문지",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261023_0e07a4",
+   "headline": "台湾光复的史实戳穿“台独”分裂势力的谎言（两岸观察）",
+   "headline_source": "環球網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhbkZYbmZPaUxhWjZwMjN2S2dsOGFJRDdYQkxwZW5BcnpoTHJqMUt2UzFTa1lwelpnX2tBODZQVEFFVGJ0MFp0SVh6cGNCZlpGYXk3WXJyU0R5dw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-23T22:01:00Z",
+   "last_seen": "2026-10-23T22:01:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "9aa00bee0c819cae"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "9aa00bee0c819cae",
+     "title": "台湾光复的史实戳穿“台独”分裂势力的谎言（两岸观察）",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhbkZYbmZPaUxhWjZwMjN2S2dsOGFJRDdYQkxwZW5BcnpoTHJqMUt2UzFTa1lwelpnX2tBODZQVEFFVGJ0MFp0SVh6cGNCZlpGYXk3WXJyU0R5dw?oc=5",
+     "published": "2026-10-23T22:01:00Z",
+     "lang": "zh",
+     "entities": [
+      "independence",
+      "taiwan_strait"
+     ],
+     "source_name": "環球網",
+     "source_domain": "huanqiu.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
      "hedged": false
     }
    ]
@@ -1020,6 +1081,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 공영방송(편집권 독립)",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261023_f52dae",
+   "headline": "習近平反腐後再掌權6年？中共五中全會下周拉開帷幕分析指這件事對台有利| 兩岸要聞| 兩岸",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05ejZUUzdVai1RUW1nZGxZLU5yOWtBd241bVh4WThhYnRZcnFrcExOVlhBNzF5YnBMRTFiejVHYnJhYVE2OVZIRElSTXZYeW5B?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-23T13:04:02Z",
+   "last_seen": "2026-10-23T13:04:02Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "af53eb87e4260e21"
+    ]
+   },
+   "articles": [
+    {
+     "id": "af53eb87e4260e21",
+     "title": "習近平反腐後再掌權6年？中共五中全會下周拉開帷幕分析指這件事對台有利| 兩岸要聞| 兩岸",
+     "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE05ejZUUzdVai1RUW1nZGxZLU5yOWtBd241bVh4WThhYnRZcnFrcExOVlhBNzF5YnBMRTFiejVHYnJhYVE2OVZIRElSTXZYeW5B?oc=5",
+     "published": "2026-10-23T13:04:02Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -1956,6 +2077,66 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261023_a38286",
+   "headline": "日8巡視船航行台海避颱風遭5中艦跟監! 海巡署批 : 企圖製造 「台海內水化」",
+   "headline_source": "新頭殼",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ELTBFZ1F6S3pHN1J1VVJoZGJOdlBaSk9OSVEyeU1XaDQtY0lEYXFfZXVaVU5lZXVHSTZhUmp4WGZXZy0wVmFlbzZqZllpamdneXpMVUY4WXJfcmM?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-23T04:10:49Z",
+   "last_seen": "2026-10-23T04:10:49Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "bbd6534f18e70024"
+    ]
+   },
+   "articles": [
+    {
+     "id": "bbd6534f18e70024",
+     "title": "日8巡視船航行台海避颱風遭5中艦跟監! 海巡署批 : 企圖製造 「台海內水化」",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9ELTBFZ1F6S3pHN1J1VVJoZGJOdlBaSk9OSVEyeU1XaDQtY0lEYXFfZXVaVU5lZXVHSTZhUmp4WGZXZy0wVmFlbzZqZllpamdneXpMVUY4WXJfcmM?oc=5",
+     "published": "2026-10-23T04:10:49Z",
+     "lang": "zh",
+     "entities": [
+      "coast_guard",
+      "taiwan_strait"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -8189,7 +8370,7 @@
    "id": "evt_20261020_e0b92f",
    "headline": "英國前外相：世界對台海危機欠缺準備 未來2年是關鍵",
    "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SVpGRFZvWkNtbW5YeHVMNGdLRGNEYURrV19rTmlVSmpGNnUzUDQ3VVJMaHozWldyUFlSajFIYzk4bFMxb3BTdkh3VFpMTDE3OGRXeDdBQzBJUdIBX0FVX3lxTE5ZMko0NkdMU3ZkaU91UFhncWoxbkRVQXRwT3FLdUdnRDUwMnY3dWxkTW9wNjB4dlgyZk9DMHpCck0tZVRsSEhIT1E4c21QRGhDemlMTGJZZ2FsdUZLQmRv?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YZHBUTENrOUVTV1VFVjZ5Mldlc3BGRW5HVTFyWG16aDM3eTFyaEpyZlNWQzgtSjJMOFVrVnBYX2x3bnZKMXU1SnlxTnhZX2ZYcGNJWW5VSGxqWW9sRGxGLXROdWdTcjdTQXg5cDVOdFJiYmdjZEpMNWlpWdIBX0FVX3lxTE5ZMko0NkdMU3ZkaU91UFhncWoxbkRVQXRwT3FLdUdnRDUwMnY3dWxkTW9wNjB4dlgyZk9DMHpCck0tZVRsSEhIT1E4c21QRGhDemlMTGJZZ2FsdUZLQmRv?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-20T08:12:48Z",
    "last_seen": "2026-10-20T08:12:48Z",
@@ -8227,7 +8408,7 @@
     {
      "id": "97dce61a831814a4",
      "title": "英國前外相：世界對台海危機欠缺準備 未來2年是關鍵",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE95SVpGRFZvWkNtbW5YeHVMNGdLRGNEYURrV19rTmlVSmpGNnUzUDQ3VVJMaHozWldyUFlSajFIYzk4bFMxb3BTdkh3VFpMTDE3OGRXeDdBQzBJUdIBX0FVX3lxTE5ZMko0NkdMU3ZkaU91UFhncWoxbkRVQXRwT3FLdUdnRDUwMnY3dWxkTW9wNjB4dlgyZk9DMHpCck0tZVRsSEhIT1E4c21QRGhDemlMTGJZZ2FsdUZLQmRv?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9YZHBUTENrOUVTV1VFVjZ5Mldlc3BGRW5HVTFyWG16aDM3eTFyaEpyZlNWQzgtSjJMOFVrVnBYX2x3bnZKMXU1SnlxTnhZX2ZYcGNJWW5VSGxqWW9sRGxGLXROdWdTcjdTQXg5cDVOdFJiYmdjZEpMNWlpWdIBX0FVX3lxTE5ZMko0NkdMU3ZkaU91UFhncWoxbkRVQXRwT3FLdUdnRDUwMnY3dWxkTW9wNjB4dlgyZk9DMHpCck0tZVRsSEhIT1E4c21QRGhDemlMTGJZZ2FsdUZLQmRv?oc=5",
      "published": "2026-10-20T08:12:48Z",
      "lang": "zh",
      "entities": [
@@ -21721,245 +21902,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_8a240e",
-   "headline": "美樂見賴總統承諾維持台海和平 陸批台獨本色表演",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VlNkeDRvTV9XOEZjNGpiWWdMazJTSVJuU1BMUTVBWG54aXJoTWJCUEFwR1hReGNqLXZnOEJXYXlsZFIwNnZ6TUJuZEFieVBHYnpn0gFYQVVfeXFMTllwQjF6bl82Zmo3NmZ2cnFPcERaVUt1STlvM29RZmJFWWhvb2Jzdmg3VU05dm1Kb2pFY0JBZWxRRHc5RjFZOXhxQXBIQzE2MkJjSjBHX1p4QQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-10T16:00:00Z",
-   "last_seen": "2026-10-10T16:00:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b5c73bd9c6fe550a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b5c73bd9c6fe550a",
-     "title": "美樂見賴總統承諾維持台海和平 陸批台獨本色表演",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE00VlNkeDRvTV9XOEZjNGpiWWdMazJTSVJuU1BMUTVBWG54aXJoTWJCUEFwR1hReGNqLXZnOEJXYXlsZFIwNnZ6TUJuZEFieVBHYnpn0gFYQVVfeXFMTllwQjF6bl82Zmo3NmZ2cnFPcERaVUt1STlvM29RZmJFWWhvb2Jzdmg3VU05dm1Kb2pFY0JBZWxRRHc5RjFZOXhxQXBIQzE2MkJjSjBHX1p4QQ?oc=5",
-     "published": "2026-10-10T16:00:00Z",
-     "lang": "zh",
-     "entities": [
-      "independence",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_320821",
-   "headline": "总台海峡时评丨赖清德鬼话连篇再次暴露其“台独”恶劣本性",
-   "headline_source": "環球網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GOVRScEljc0cxMnhPMWlHMVBmVHZzSFBDSlA3LVBJWENSRW1UWDdnMWhtOTdTVGdUcFFsNnhjR1R6VEY0MENzQ2NIbWZMWXlqanREY2JsWThGZw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-10T12:01:00Z",
-   "last_seen": "2026-10-10T12:01:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "3df7b5637e18b1cf"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "3df7b5637e18b1cf",
-     "title": "总台海峡时评丨赖清德鬼话连篇再次暴露其“台独”恶劣本性",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9GOVRScEljc0cxMnhPMWlHMVBmVHZzSFBDSlA3LVBJWENSRW1UWDdnMWhtOTdTVGdUcFFsNnhjR1R6VEY0MENzQ2NIbWZMWXlqanREY2JsWThGZw?oc=5",
-     "published": "2026-10-10T12:01:00Z",
-     "lang": "zh",
-     "entities": [
-      "independence",
-      "taiwan_strait"
-     ],
-     "source_name": "環球網",
-     "source_domain": "huanqiu.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_eeb185",
-   "headline": "Taiwan president says defence spending boost aims to ‘deter war’",
-   "headline_source": "Al Jazeera",
-   "headline_url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm5zTllaeThpdGxpZWlUVllleFp1NlJmOTVmUE4xT3BXek9uX0dHcWg0VW94OFNuLU04Sk41TjB2dVJYNUlUU2lUWFlaU2pqTDQzaGtGS3N6VE5jaDdFczFUM05md3BMVWpjWDQxNHpJVTF4TENGTkhCZjJxREcySWFIWXJYVTVuby1CWmk4a1RPZ1hibHdRTnVidWhfYlFzWmk0WlpjRdIBrAFBVV95cUxONlpYWXVEZkw4czNpa2RfTGRfYkFtVG5sWFNrS1Y2Uk9Gbm5wbElmd1hsd3gzd3B5QlNKWDVGcVZ6OXdyM0FfYXVaQ0JKZDdkdnVhbWVLcGtWUndXT2ZuRUR3WUY2V1RrU2dtNmtGd1dCN3lGeGo4UDVTM04wVm9TTUFrRGhYU1U0YmZreEFoZ1pJQzNzcFF0LVdSeUdxQUhzcDN4dHljMFBWZHQ4?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-10T11:40:35Z",
-   "last_seen": "2026-10-10T11:40:35Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.3,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "463b938798ab35b9"
-    ]
-   },
-   "articles": [
-    {
-     "id": "463b938798ab35b9",
-     "title": "Taiwan president says defence spending boost aims to ‘deter war’",
-     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOQm5zTllaeThpdGxpZWlUVllleFp1NlJmOTVmUE4xT3BXek9uX0dHcWg0VW94OFNuLU04Sk41TjB2dVJYNUlUU2lUWFlaU2pqTDQzaGtGS3N6VE5jaDdFczFUM05md3BMVWpjWDQxNHpJVTF4TENGTkhCZjJxREcySWFIWXJYVTVuby1CWmk4a1RPZ1hibHdRTnVidWhfYlFzWmk0WlpjRdIBrAFBVV95cUxONlpYWXVEZkw4czNpa2RfTGRfYkFtVG5sWFNrS1Y2Uk9Gbm5wbElmd1hsd3gzd3B5QlNKWDVGcVZ6OXdyM0FfYXVaQ0JKZDdkdnVhbWVLcGtWUndXT2ZuRUR3WUY2V1RrU2dtNmtGd1dCN3lGeGo4UDVTM04wVm9TTUFrRGhYU1U0YmZreEFoZ1pJQzNzcFF0LVdSeUdxQUhzcDN4dHljMFBWZHQ4?oc=5",
-     "published": "2026-10-10T11:40:35Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Al Jazeera",
-     "source_domain": "aljazeera.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261010_8977d4",
-   "headline": "賴清德國慶演說談兩岸「民主對抗威權」 國台辦重砲批評",
-   "headline_source": "TVBS",
-   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQXJhRUpQMjZSNGFSQnc1RjNMV1QwbzF2Q2RFUnJEcTQ5U3MzMmdESHppb0JQY3FhSDJFSDJZYzRVd0pWM1lzMEJubi12bEZIUVpn?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-10T11:21:00Z",
-   "last_seen": "2026-10-10T11:21:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "2e3d131fd40d88cb"
-    ]
-   },
-   "articles": [
-    {
-     "id": "2e3d131fd40d88cb",
-     "title": "賴清德國慶演說談兩岸「民主對抗威權」 國台辦重砲批評",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1OQXJhRUpQMjZSNGFSQnc1RjNMV1QwbzF2Q2RFUnJEcTQ5U3MzMmdESHppb0JQY3FhSDJFSDJZYzRVd0pWM1lzMEJubi12bEZIUVpn?oc=5",
-     "published": "2026-10-10T11:21:00Z",
-     "lang": "zh",
-     "entities": [
-      "lai_chingte",
-      "taiwan_strait",
-      "tao"
-     ],
-     "source_name": "TVBS",
-     "source_domain": "tvbs.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
