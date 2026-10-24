@@ -1,12 +1,12 @@
 {
  "month": "2026-10",
- "n_events": 599,
+ "n_events": 602,
  "events": [
   {
    "id": "evt_20261024_63cf63",
    "headline": "學者：中美新定位助台海穩定 消極因素猶存",
    "headline_source": "中國評論新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNWliUU1FZ1RRNWxwM2llbEp5X1VrZmotSklYdWgzRjNOVVZTVDhfYTMtcnV1d2dyemNEaFpBSktHXzdiMlNJVUJlR3djaWtaUk5lZkFBcFMzb0IzODNpeG13UXA3QQ?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nS0JrenREYTJjZS1rS3Y5aE9RWmZDVV96cTJmVTItM0tZZVNvMTBsSzhTNmt5QXdDZkFqMnNwMHR3S0VuekdSM0JPY1k4Y09pcUF2bldiaUtpZVctZmpjV1k4UndBSXM?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-24T14:00:43Z",
    "last_seen": "2026-10-24T14:00:43Z",
@@ -45,7 +45,7 @@
     {
      "id": "c961cba32c31de6e",
      "title": "學者：中美新定位助台海穩定 消極因素猶存",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMNWliUU1FZ1RRNWxwM2llbEp5X1VrZmotSklYdWgzRjNOVVZTVDhfYTMtcnV1d2dyemNEaFpBSktHXzdiMlNJVUJlR3djaWtaUk5lZkFBcFMzb0IzODNpeG13UXA3QQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9nS0JrenREYTJjZS1rS3Y5aE9RWmZDVV96cTJmVTItM0tZZVNvMTBsSzhTNmt5QXdDZkFqMnNwMHR3S0VuekdSM0JPY1k4Y09pcUF2bldiaUtpZVctZmpjV1k4UndBSXM?oc=5",
      "published": "2026-10-24T14:00:43Z",
      "lang": "zh",
      "entities": [
@@ -301,6 +301,65 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261024_7e9ea4",
+   "headline": "不只是第一島鏈！美專家揭「台灣自帶3殺手鐧」鎮壓台海…大反轉曝",
+   "headline_source": "民視新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WT1h6NlJTU19LcGIzVTY3Mm4xNzJONW1Gczk3MjFqRVdCT3BlRlU1bS05RE1LaXktN1ZOZlJiMTVWRFlpeW1VSkZPLVhQZDdLdUViTVMtZTVaTEltcnc2Tg?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-24T06:09:10Z",
+   "last_seen": "2026-10-24T06:09:10Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ef30021829933dfc"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ef30021829933dfc",
+     "title": "不只是第一島鏈！美專家揭「台灣自帶3殺手鐧」鎮壓台海…大反轉曝",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WT1h6NlJTU19LcGIzVTY3Mm4xNzJONW1Gczk3MjFqRVdCT3BlRlU1bS05RE1LaXktN1ZOZlJiMTVWRFlpeW1VSkZPLVhQZDdLdUViTVMtZTVaTEltcnc2Tg?oc=5",
+     "published": "2026-10-24T06:09:10Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
      "hedged": false
     }
    ]
@@ -1525,6 +1584,66 @@
    ]
   },
   {
+   "id": "evt_20261023_3ad66c",
+   "headline": "台湾抗日志士后人80年后重走“光复致敬路”：希望两岸和平",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JcFlRTGIzdjFGZXBpakYwYlotRUxKRDBsLTgtbjBkbENsQTlRckV3Y091UUJSMV92bXFvN1M0N0cwcHBzcU84UW1mVzM3bS12REhLOXFjRHlZMXRvZ3F5YU5GcVliVUlfZVdFaEF4dXZTWXAxMU5VUUpJMA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-23T09:40:00Z",
+   "last_seen": "2026-10-23T09:40:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "d9724865689af681"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "d9724865689af681",
+     "title": "台湾抗日志士后人80年后重走“光复致敬路”：希望两岸和平",
+     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JcFlRTGIzdjFGZXBpakYwYlotRUxKRDBsLTgtbjBkbENsQTlRckV3Y091UUJSMV92bXFvN1M0N0cwcHBzcU84UW1mVzM3bS12REhLOXFjRHlZMXRvZ3F5YU5GcVliVUlfZVdFaEF4dXZTWXAxMU5VUUpJMA?oc=5",
+     "published": "2026-10-23T09:40:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261023_8282fb",
    "headline": "2027台海無戰事？學者：「矽晶相互確保毀滅」擋下戰爭",
    "headline_source": "香港01",
@@ -1645,12 +1764,12 @@
    ]
   },
   {
-   "id": "evt_20261023_60bcc6",
+   "id": "evt_20261022_60bcc6",
    "headline": "Typhoon Champi grounds hundreds of Taiwan flights, threatens Shanghai and Japan",
    "headline_source": "SCMP",
    "headline_url": "https://www.scmp.com/news/china/politics/article/3371901/typhoon-champi-grounds-hundreds-flights-taiwan-threatens-eastern-mainland-china",
    "headline_lang": "en",
-   "first_seen": "2026-10-23T08:00:39Z",
+   "first_seen": "2026-10-22T15:50:15Z",
    "last_seen": "2026-10-23T08:00:39Z",
    "langs": [
     "en"
@@ -1660,29 +1779,51 @@
     "grade": "C",
     "d_reason": null,
     "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 32.3,
     "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
-     "independent"
+     "independent",
+     "unknown"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 주요 일간"
+     "최고 등급 주요 일간",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "f8cca3fbeb9cdb01",
      "b29415a40827e9ce"
     ]
    },
    "articles": [
+    {
+     "id": "f8cca3fbeb9cdb01",
+     "title": "Super Typhoon Champi approaches Taiwan; US-Japan military exercises halted.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUtCY0p0dlA3c1RaUEFMb2Z6T0pYMVBpbWFPRVlDaE9EQTFRcXBnOFBYcGd1TVd3c0NTTHFVemt4QmwyYU9vd0gwcWw0OFVOSUxWaGFEX1ExZElWdFpkTE9ycFdNZ1hCLV8tZFRScDF0LTA5UUV1VS1xNTRJYUI2czBGNExZSUdHR3BHSQ?oc=5",
+     "published": "2026-10-22T15:50:15Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal"
+     ],
+     "source_name": "Vietnam.vn",
+     "source_domain": "vietnam.vn",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "b29415a40827e9ce",
      "title": "Typhoon Champi grounds hundreds of Taiwan flights, threatens Shanghai and Japan",
@@ -2202,6 +2343,67 @@
    ]
   },
   {
+   "id": "evt_20261023_92124b",
+   "headline": "共護巴士海峽 菲擬深化對台海纜合作",
+   "headline_source": "短新聞SHOTNEWS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EV2JWT0ZaVUZzQ3hkdEpuUXRRTVVmSVNKV21QOVlDUFRZOHdnOW44akY0cDNlOUFibEFMM1lreWNRbDVfQ0ZwQ08tMVNUa1hIR3M2dQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-23T03:40:00Z",
+   "last_seen": "2026-10-23T03:40:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "46c77bec1f67914a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "46c77bec1f67914a",
+     "title": "共護巴士海峽 菲擬深化對台海纜合作",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5EV2JWT0ZaVUZzQ3hkdEpuUXRRTVVmSVNKV21QOVlDUFRZOHdnOW44akY0cDNlOUFibEFMM1lreWNRbDVfQ0ZwQ08tMVNUa1hIR3M2dQ?oc=5",
+     "published": "2026-10-23T03:40:00Z",
+     "lang": "zh",
+     "entities": [
+      "bashi_channel",
+      "taiwan_strait"
+     ],
+     "source_name": "短新聞SHOTNEWS",
+     "source_domain": "shotnews.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261021_2a2943",
    "headline": "美國新作戰準則⋯台海若開戰 美軍首日可投入",
    "headline_source": "聯合報",
@@ -2288,8 +2490,8 @@
    "headline_source": "Fortune",
    "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXZOb24wWkpvMXN4YnRTTFFSRVEwMGhsZTBVWnlmdHB0R3lOSngxNlRRZVJ4aV9oeWxzUVpsMGpPMFdwSHpDUW9ISFZQeURJbU9veEs3RU9YSm1Jc2JWcGFlRG1nVWgzRWl1NTVuY3lzTFFKQXdKZGtfWnNnY2k1Z0dB?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-23T03:03:57Z",
-   "last_seen": "2026-10-23T03:03:57Z",
+   "first_seen": "2026-10-23T03:00:00Z",
+   "last_seen": "2026-10-23T03:00:00Z",
    "langs": [
     "en"
    ],
@@ -2326,7 +2528,7 @@
      "id": "2c66759cdc53f46c",
      "title": "The Taiwan Strait is not on the verge of war: The ‘2027 invasion’ countdown is a mirage",
      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTXZOb24wWkpvMXN4YnRTTFFSRVEwMGhsZTBVWnlmdHB0R3lOSngxNlRRZVJ4aV9oeWxzUVpsMGpPMFdwSHpDUW9ISFZQeURJbU9veEs3RU9YSm1Jc2JWcGFlRG1nVWgzRWl1NTVuY3lzTFFKQXdKZGtfWnNnY2k1Z0dB?oc=5",
-     "published": "2026-10-23T03:03:57Z",
+     "published": "2026-10-23T03:00:00Z",
      "lang": "en",
      "entities": [
       "invasion",
@@ -2346,11 +2548,11 @@
   {
    "id": "evt_20261023_8655b7",
    "headline": "Taiwan detects 3 Chinese naval vessels operating around its territory",
-   "headline_source": "Big News Network.com",
-   "headline_url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1Y2SzJZZFFmV1ZfX0lkdWNZNEpOR0duZ0JQVGxGSDM3dHJTVUNjc2EzMHRUQ3dkM1MzLWxoLXZCOUlVNUxGX041VTRZRGNGY1VadENMUnlPcUk0S1ZDdDdmMGtyWGU3anEtMUNLYU1FbHJsaUZFeFY4dXEzcXRHTHRPTW9VaUo5ZzNRWjlGdGpIcDBCT19qU3JpT2dmdWJmRU50MllhYTlZMmRxUGM4VnliSjRTQQ?oc=5",
+   "headline_source": "ANI",
+   "headline_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWE0WWNOWWlfWk5TZl8tN0RWbVNDVXIxTHhoYnd0RTNoTUpkWTZILW8wS0JsRzlWNXVGRjZhd3c4RW1DU2hsQlNHLVdWSXhRWGtUU2Z4Sm4yTTNkdndHdjNXeDJrLWc1WElQcjRKWTRUV0hQaEZxUy03ajdKZ1h6aS1vWm56VTd3bllsb0VxUGw3a2xCdDRLdTEzbndudFc0MGE1TzFmMHUwTS1oVWVpZEYzOHVCS19haXZ5QVBONA?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-23T01:58:00Z",
-   "last_seen": "2026-10-23T01:58:00Z",
+   "first_seen": "2026-10-23T01:30:00Z",
+   "last_seen": "2026-10-23T02:37:57Z",
    "langs": [
     "en"
    ],
@@ -2381,21 +2583,40 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "23ef8432c0d76df8"
+     "23ef8432c0d76df8",
+     "3f00e271814541c1"
     ]
    },
    "articles": [
     {
      "id": "23ef8432c0d76df8",
      "title": "Taiwan detects 3 Chinese naval vessels operating around its territory",
-     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPS1Y2SzJZZFFmV1ZfX0lkdWNZNEpOR0duZ0JQVGxGSDM3dHJTVUNjc2EzMHRUQ3dkM1MzLWxoLXZCOUlVNUxGX041VTRZRGNGY1VadENMUnlPcUk0S1ZDdDdmMGtyWGU3anEtMUNLYU1FbHJsaUZFeFY4dXEzcXRHTHRPTW9VaUo5ZzNRWjlGdGpIcDBCT19qU3JpT2dmdWJmRU50MllhYTlZMmRxUGM4VnliSjRTQQ?oc=5",
-     "published": "2026-10-23T01:58:00Z",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTWE0WWNOWWlfWk5TZl8tN0RWbVNDVXIxTHhoYnd0RTNoTUpkWTZILW8wS0JsRzlWNXVGRjZhd3c4RW1DU2hsQlNHLVdWSXhRWGtUU2Z4Sm4yTTNkdndHdjNXeDJrLWc1WElQcjRKWTRUV0hQaEZxUy03ajdKZ1h6aS1vWm56VTd3bllsb0VxUGw3a2xCdDRLdTEzbndudFc0MGE1TzFmMHUwTS1oVWVpZEYzOHVCS19haXZ5QVBONA?oc=5",
+     "published": "2026-10-23T01:30:00Z",
      "lang": "en",
      "entities": [
       "warship"
      ],
-     "source_name": "Big News Network.com",
-     "source_domain": "bignewsnetwork.com",
+     "source_name": "ANI",
+     "source_domain": "aninews.in",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "3f00e271814541c1",
+     "title": "Taiwan Detects Chinese Naval Vessels Near Its Shores, Military on Alert",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOZUJxOC1HQ0JCWlZ1Z003ZlVjNnFGcTFvWkpqV05iMjNTTG5jM0FoRWdMODUzQ3pnb3BEWnVlMkI0Y3o0cDN4QjZXaXRieXUxYWx0LURQYVRSNElKRUxKUGJtQ08xaEhyLTlHbGMwNFczaWVUY0NtdjVtYlAxNE9rN3dhX3BxYW16dTlTSV9lN0xaWjgyQ3VPOXRhQjFnUXZkcGtKd0FkYTc2RWVvWWRVeXRCS3JHeVRsV1dNRU1IVdIBxAFBVV95cUxQWEszQmZMZ3M3T080dV9wS1VIZms1S2wzRFpHMlJmam9MZWdVeVFBaUt1SmpDUFRpZHhUNW9pLWhDS3FSVHZBRm9RZlFjM1J0M1NpeEw2WFZVSW5BYmdRVGItZ2t4SXRuWmh1V3FwcDh6dU12NU4zaHlyRzY4YzZvR1FOeW05RVlhak1DRHdRTXNUdUVtQ1Q4TmdrbUpvN0JqLXRFUDNhSERNVy1Ya29vZ3NDajZMVHk4Zk1EUWF1dk83d2xs?oc=5",
+     "published": "2026-10-23T02:37:57Z",
+     "lang": "en",
+     "entities": [
+      "warship"
+     ],
+     "source_name": "Lokmat Times",
+     "source_domain": "lokmattimes.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
