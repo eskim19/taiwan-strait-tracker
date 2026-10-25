@@ -1,27 +1,27 @@
 {
- "updated": "2026-10-25T04:46:28Z",
+ "updated": "2026-10-25T11:36:21Z",
  "checked": "2026-10-25",
- "duration_sec": 36.7,
+ "duration_sec": 33.2,
  "rolling_days": 14,
- "n_events": 356,
- "n_articles": 392,
+ "n_events": 349,
+ "n_articles": 387,
  "grades": {
-  "C": 164,
   "D": 179,
-  "B": 13
+  "C": 158,
+  "B": 12
  },
- "cross_language_events": 1,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-10"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 7,
-  "T2": 170,
-  "T3": 70,
-  "T4": 17,
-  "T5": 109,
+  "T1": 6,
+  "T2": 164,
+  "T3": 68,
+  "T4": 18,
+  "T5": 111,
   "TA": 4
  },
  "t1_domains": [
@@ -52,8 +52,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 51,
-   "n_adopted": 29,
-   "newest": "2026-10-24T12:00:14+00:00",
+   "n_adopted": 30,
+   "newest": "2026-10-25T10:30:09+00:00",
    "stale": false,
    "error": null
   },
@@ -79,7 +79,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-10-25T04:25:18+00:00",
+   "newest": "2026-10-25T08:24:47+00:00",
    "stale": false,
    "error": null
   },
@@ -91,8 +91,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-10-25T03:43:00+00:00",
+   "n_adopted": 14,
+   "newest": "2026-10-25T07:43:02+00:00",
    "stale": false,
    "error": null
   },
@@ -104,8 +104,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-10-25T03:13:00+00:00",
+   "n_adopted": 4,
+   "newest": "2026-10-25T09:58:00+00:00",
    "stale": false,
    "error": null
   },
@@ -116,9 +116,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
+   "n_entries": 39,
    "n_adopted": 2,
-   "newest": "2026-10-24T12:17:57+00:00",
+   "newest": "2026-10-25T09:07:30+00:00",
    "stale": false,
    "error": null
   },
@@ -144,7 +144,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-10-25T04:00:22+00:00",
+   "newest": "2026-10-25T10:00:08+00:00",
    "stale": false,
    "error": null
   },
@@ -157,7 +157,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-25T04:20:00+00:00",
+   "newest": "2026-10-25T09:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -194,9 +194,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 98,
+   "n_entries": 101,
    "n_adopted": 0,
-   "newest": "2026-10-25T03:42:59+00:00",
+   "newest": "2026-10-25T10:30:45+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-25T04:06:28+00:00",
+   "newest": "2026-10-25T10:50:38+00:00",
    "stale": false,
    "error": null
   },
@@ -257,6 +257,11 @@
    "sample_title": "日本海保船又來台海防颱還把大陸海警船引來 海巡署反應竟然是"
   },
   {
+   "domain": "hk.on.cc",
+   "n_articles": 4,
+   "sample_title": "大陸派4艘海警船編隊現巴士海峽 台海巡監控"
+  },
+  {
    "domain": "mnews.tw",
    "n_articles": 4,
    "sample_title": "8艘日巡視船台海避颱遭中海警尾隨 海巡署批製造「台海內水化」假象"
@@ -267,24 +272,19 @@
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
   },
   {
-   "domain": "sunmedia.tw",
+   "domain": "taiwandaily.net",
    "n_articles": 3,
-   "sample_title": "北京造船實力超美國兩倍 專家警示台海軍力失衡"
+   "sample_title": "三國演議-台海戰爭如何防禦? ( 張國城 ) 1025"
   },
   {
-   "domain": "hk.on.cc",
+   "domain": "sunmedia.tw",
    "n_articles": 3,
-   "sample_title": "大陸海警船入東沙島海域 台海巡艦艇併航監控"
+   "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
   },
   {
    "domain": "hkej.com",
    "n_articles": 2,
    "sample_title": "日八船避風闖台海 中國海警全程監控"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 2,
-   "sample_title": "新聞大破解-美軍新準則「台海開戰即刻參戰」1023"
   },
   {
    "domain": "ftnn.com.tw",
@@ -337,9 +337,9 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
-   "domain": "upmedia.mg",
+   "domain": "nationalreview.com",
    "n_articles": 1,
-   "sample_title": "習近平的大清洗與台海戰爭"
+   "sample_title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales"
   }
  ]
 }
