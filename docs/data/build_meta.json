@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-25T16:26:39Z",
+ "updated": "2026-10-25T20:54:28Z",
  "checked": "2026-10-25",
- "duration_sec": 31.8,
+ "duration_sec": 32.6,
  "rolling_days": 14,
- "n_events": 342,
- "n_articles": 379,
+ "n_events": 344,
+ "n_articles": 381,
  "grades": {
+  "D": 177,
   "B": 12,
-  "D": 175,
   "C": 155
  },
  "cross_language_events": 2,
@@ -18,10 +18,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 6,
-  "T2": 161,
+  "T2": 160,
   "T3": 70,
   "T4": 18,
-  "T5": 105,
+  "T5": 107,
   "TA": 4
  },
  "t1_domains": [
@@ -39,7 +39,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 7,
+   "n_adopted": 8,
    "newest": "2026-10-23T16:00:00+00:00",
    "stale": false,
    "error": null
@@ -52,8 +52,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 51,
-   "n_adopted": 30,
-   "newest": "2026-10-25T10:30:09+00:00",
+   "n_adopted": 29,
+   "newest": "2026-10-25T17:08:47+00:00",
    "stale": false,
    "error": null
   },
@@ -62,10 +62,10 @@
    "name": "Google News (한국어)",
    "critical": true,
    "status": "ok",
-   "health": "ok",
+   "health": "no_adopt",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 8,
+   "n_entries": 62,
+   "n_adopted": 0,
    "newest": "2026-10-24T11:50:01+00:00",
    "stale": false,
    "error": null
@@ -79,7 +79,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-10-25T08:57:10+00:00",
+   "newest": "2026-10-25T17:13:34+00:00",
    "stale": false,
    "error": null
   },
@@ -91,8 +91,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-10-25T11:59:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-10-25T19:05:00+00:00",
    "stale": false,
    "error": null
   },
@@ -104,8 +104,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-10-25T14:39:00+00:00",
+   "n_adopted": 7,
+   "newest": "2026-10-25T18:39:00+00:00",
    "stale": false,
    "error": null
   },
@@ -116,8 +116,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 2,
+   "n_entries": 28,
+   "n_adopted": 1,
    "newest": "2026-10-25T13:18:49+00:00",
    "stale": false,
    "error": null
@@ -129,9 +129,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
+   "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-10-25T00:00:00+00:00",
+   "newest": "2026-10-26T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-25T15:40:25+00:00",
+   "newest": "2026-10-25T20:01:00+00:00",
    "stale": false,
    "error": null
   },
@@ -257,6 +257,11 @@
    "sample_title": "日本海保船又來台海防颱還把大陸海警船引來 海巡署反應竟然是"
   },
   {
+   "domain": "taiwandaily.net",
+   "n_articles": 4,
+   "sample_title": "下班瀚你聊-美軍新準則 台海衝突首日就參戰 1025"
+  },
+  {
    "domain": "hk.on.cc",
    "n_articles": 4,
    "sample_title": "大陸派4艘海警船編隊現巴士海峽 台海巡監控"
@@ -272,14 +277,14 @@
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
   },
   {
-   "domain": "taiwandaily.net",
-   "n_articles": 3,
-   "sample_title": "三國演議-台海戰爭如何防禦? ( 張國城 ) 1025"
-  },
-  {
    "domain": "sunmedia.tw",
    "n_articles": 3,
    "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
+  },
+  {
+   "domain": "crntt.tw",
+   "n_articles": 2,
+   "sample_title": "學者： 中美新定位助台海穩定消極因素猶存"
   },
   {
    "domain": "hkej.com",
@@ -335,11 +340,6 @@
    "domain": "nationalreview.com",
    "n_articles": 1,
    "sample_title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales"
-  },
-  {
-   "domain": "cmmedia.com.tw",
-   "n_articles": 1,
-   "sample_title": "新書》台海驚濤：台灣海峽的戰略風險與衝突結構"
   }
  ]
 }
