@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-26T13:08:57Z",
+ "updated": "2026-10-26T20:31:29Z",
  "checked": "2026-10-26",
- "duration_sec": 30.4,
+ "duration_sec": 33.1,
  "rolling_days": 14,
- "n_events": 356,
- "n_articles": 390,
+ "n_events": 359,
+ "n_articles": 395,
  "grades": {
-  "D": 185,
-  "C": 158,
-  "B": 13
+  "C": 161,
+  "D": 184,
+  "B": 14
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -17,11 +17,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 7,
-  "T2": 162,
-  "T3": 77,
+  "T1": 8,
+  "T2": 165,
+  "T3": 79,
   "T4": 18,
-  "T5": 108,
+  "T5": 107,
   "TA": 4
  },
  "t1_domains": [
@@ -38,8 +38,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
-   "n_adopted": 5,
+   "n_entries": 100,
+   "n_adopted": 11,
    "newest": "2026-10-26T12:47:19+00:00",
    "stale": false,
    "error": null
@@ -51,9 +51,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 48,
-   "n_adopted": 27,
-   "newest": "2026-10-26T02:09:51+00:00",
+   "n_entries": 47,
+   "n_adopted": 24,
+   "newest": "2026-10-26T07:50:04+00:00",
    "stale": false,
    "error": null
   },
@@ -78,8 +78,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-10-26T12:43:50+00:00",
+   "n_adopted": 64,
+   "newest": "2026-10-26T20:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -91,8 +91,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 15,
-   "newest": "2026-10-26T08:16:24+00:00",
+   "n_adopted": 18,
+   "newest": "2026-10-26T09:48:58+00:00",
    "stale": false,
    "error": null
   },
@@ -116,9 +116,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 39,
-   "n_adopted": 2,
-   "newest": "2026-10-26T11:54:39+00:00",
+   "n_entries": 26,
+   "n_adopted": 1,
+   "newest": "2026-10-26T15:54:49+00:00",
    "stale": false,
    "error": null
   },
@@ -130,8 +130,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 0,
-   "newest": "2026-10-26T00:00:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-27T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -144,7 +144,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-26T13:00:11+00:00",
+   "newest": "2026-10-26T14:36:47+00:00",
    "stale": false,
    "error": null
   },
@@ -196,7 +196,7 @@
    "http": 200,
    "n_entries": 95,
    "n_adopted": 0,
-   "newest": "2026-10-26T12:57:02+00:00",
+   "newest": "2026-10-26T19:44:47+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-26T12:23:44+00:00",
+   "newest": "2026-10-26T20:20:09+00:00",
    "stale": false,
    "error": null
   },
@@ -248,7 +248,7 @@
   },
   {
    "domain": "hk.crntt.com",
-   "n_articles": 7,
+   "n_articles": 6,
    "sample_title": "學者：中美新定位助台海穩定 消極因素猶存"
   },
   {
@@ -312,11 +312,6 @@
    "sample_title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan’s Taiwan War D"
   },
   {
-   "domain": "thedefensepost.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan Plans to Use Civilian Boats and Aircraft to Map Potential Invasion Sites"
-  },
-  {
    "domain": "turnnewsapp.com",
    "n_articles": 2,
    "sample_title": "避免衝突升級全面戰爭 維持台海穩定最佳策略"
@@ -332,14 +327,19 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
+   "domain": "cmoney.tw",
+   "n_articles": 1,
+   "sample_title": "TWA00 加權指數- 川普：再轟台灣偷走晶片！台海問題根本不會存在根本不用保衛台灣- 股市爆料同學會"
+  },
+  {
+   "domain": "taiwanreports.com",
+   "n_articles": 1,
+   "sample_title": "社論 /民進黨不要兩岸和平莫非想台海戰爭"
+  },
+  {
    "domain": "kmt.org.tw",
    "n_articles": 1,
    "sample_title": "國民黨立委陳永康代表國民黨出席美台國防工業會議 強調堅定支持國防、共同維護台海和平"
-  },
-  {
-   "domain": "container-news.com",
-   "n_articles": 1,
-   "sample_title": "How Manila’s cable diplomacy reshapes risk around the Taiwan Strait"
   }
  ]
 }
