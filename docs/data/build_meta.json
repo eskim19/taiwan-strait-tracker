@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-25T23:18:04Z",
- "checked": "2026-10-25",
- "duration_sec": 31.1,
+ "updated": "2026-10-26T04:51:46Z",
+ "checked": "2026-10-26",
+ "duration_sec": 35.4,
  "rolling_days": 14,
- "n_events": 352,
- "n_articles": 389,
+ "n_events": 349,
+ "n_articles": 383,
  "grades": {
-  "C": 157,
-  "B": 12,
-  "D": 183
+  "D": 183,
+  "C": 154,
+  "B": 12
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -18,10 +18,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 6,
-  "T2": 162,
-  "T3": 75,
-  "T4": 18,
-  "T5": 108,
+  "T2": 158,
+  "T3": 76,
+  "T4": 17,
+  "T5": 107,
   "TA": 4
  },
  "t1_domains": [
@@ -39,8 +39,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-10-23T16:00:00+00:00",
+   "n_adopted": 9,
+   "newest": "2026-10-26T00:16:00+00:00",
    "stale": false,
    "error": null
   },
@@ -51,9 +51,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
-   "n_adopted": 30,
-   "newest": "2026-10-25T17:08:47+00:00",
+   "n_entries": 25,
+   "n_adopted": 14,
+   "newest": "2026-10-25T10:30:09+00:00",
    "stale": false,
    "error": null
   },
@@ -78,8 +78,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-10-25T22:00:00+00:00",
+   "n_adopted": 62,
+   "newest": "2026-10-26T03:09:09+00:00",
    "stale": false,
    "error": null
   },
@@ -91,8 +91,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-10-25T19:05:00+00:00",
+   "n_adopted": 18,
+   "newest": "2026-10-26T04:32:33+00:00",
    "stale": false,
    "error": null
   },
@@ -104,8 +104,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-10-25T18:39:00+00:00",
+   "n_adopted": 5,
+   "newest": "2026-10-26T03:12:20+00:00",
    "stale": false,
    "error": null
   },
@@ -116,9 +116,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 28,
+   "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-10-25T13:18:49+00:00",
+   "newest": "2026-10-26T02:52:11+00:00",
    "stale": false,
    "error": null
   },
@@ -143,8 +143,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 2,
-   "newest": "2026-10-25T14:00:10+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-26T03:00:24+00:00",
    "stale": false,
    "error": null
   },
@@ -157,7 +157,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-25T11:40:00+00:00",
+   "newest": "2026-10-26T04:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -194,9 +194,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 101,
+   "n_entries": 105,
    "n_adopted": 0,
-   "newest": "2026-10-25T22:06:50+00:00",
+   "newest": "2026-10-26T04:30:45+00:00",
    "stale": false,
    "error": null
   },
@@ -209,7 +209,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-24T22:58:43+00:00",
+   "newest": "2026-10-26T03:47:28+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-25T22:57:17+00:00",
+   "newest": "2026-10-26T04:36:46+00:00",
    "stale": false,
    "error": null
   },
@@ -243,8 +243,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 11,
-   "sample_title": "不只反對一國兩制！陸委會最新民調曝光 逾8成挺台海現狀、強化國防 | 鏡週刊"
+   "n_articles": 12,
+   "sample_title": "荷姆茲殷鑑不遠！免封鎖台海也能讓商船停航 專家籲政府建立戰爭險保障 | 太報"
   },
   {
    "domain": "hk.crntt.com",
@@ -327,11 +327,6 @@
    "sample_title": "US Commission chair warns China Coast Guard patrols East of Taiwan are 'Highly D"
   },
   {
-   "domain": "ctinews.com",
-   "n_articles": 2,
-   "sample_title": "美軍第4多域特遣部隊成軍 分析：旨突破解放軍台海拒止網絡"
-  },
-  {
    "domain": "soundofhope.org",
    "n_articles": 2,
    "sample_title": "澳國防軍司令：密切關注台海局勢"
@@ -340,6 +335,11 @@
    "domain": "nationalreview.com",
    "n_articles": 1,
    "sample_title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales"
+  },
+  {
+   "domain": "cmmedia.com.tw",
+   "n_articles": 1,
+   "sample_title": "新書》台海驚濤：台灣海峽的戰略風險與衝突結構"
   }
  ]
 }
