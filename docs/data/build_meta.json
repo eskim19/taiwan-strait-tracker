@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-26T04:51:46Z",
+ "updated": "2026-10-26T13:08:57Z",
  "checked": "2026-10-26",
- "duration_sec": 35.4,
+ "duration_sec": 30.4,
  "rolling_days": 14,
- "n_events": 349,
- "n_articles": 383,
+ "n_events": 356,
+ "n_articles": 390,
  "grades": {
-  "D": 183,
-  "C": 154,
-  "B": 12
+  "D": 185,
+  "C": 158,
+  "B": 13
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -17,11 +17,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 6,
-  "T2": 158,
-  "T3": 76,
-  "T4": 17,
-  "T5": 107,
+  "T1": 7,
+  "T2": 162,
+  "T3": 77,
+  "T4": 18,
+  "T5": 108,
   "TA": 4
  },
  "t1_domains": [
@@ -38,9 +38,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-10-26T00:16:00+00:00",
+   "n_entries": 59,
+   "n_adopted": 5,
+   "newest": "2026-10-26T12:47:19+00:00",
    "stale": false,
    "error": null
   },
@@ -51,9 +51,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 25,
-   "n_adopted": 14,
-   "newest": "2026-10-25T10:30:09+00:00",
+   "n_entries": 48,
+   "n_adopted": 27,
+   "newest": "2026-10-26T02:09:51+00:00",
    "stale": false,
    "error": null
   },
@@ -65,8 +65,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 8,
-   "newest": "2026-10-24T11:50:01+00:00",
+   "n_adopted": 9,
+   "newest": "2026-10-26T10:09:51+00:00",
    "stale": false,
    "error": null
   },
@@ -78,8 +78,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-10-26T03:09:09+00:00",
+   "n_adopted": 63,
+   "newest": "2026-10-26T12:43:50+00:00",
    "stale": false,
    "error": null
   },
@@ -91,8 +91,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
-   "newest": "2026-10-26T04:32:33+00:00",
+   "n_adopted": 15,
+   "newest": "2026-10-26T08:16:24+00:00",
    "stale": false,
    "error": null
   },
@@ -104,8 +104,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-10-26T03:12:20+00:00",
+   "n_adopted": 4,
+   "newest": "2026-10-26T11:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -116,9 +116,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 30,
-   "n_adopted": 1,
-   "newest": "2026-10-26T02:52:11+00:00",
+   "n_entries": 39,
+   "n_adopted": 2,
+   "newest": "2026-10-26T11:54:39+00:00",
    "stale": false,
    "error": null
   },
@@ -144,7 +144,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-26T03:00:24+00:00",
+   "newest": "2026-10-26T13:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -157,7 +157,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-26T04:42:00+00:00",
+   "newest": "2026-10-26T11:43:00+00:00",
    "stale": false,
    "error": null
   },
@@ -183,7 +183,7 @@
    "http": 200,
    "n_entries": 20,
    "n_adopted": 0,
-   "newest": "2026-10-24T02:22:32+00:00",
+   "newest": "2026-10-26T09:28:59+00:00",
    "stale": false,
    "error": null
   },
@@ -194,9 +194,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 105,
+   "n_entries": 95,
    "n_adopted": 0,
-   "newest": "2026-10-26T04:30:45+00:00",
+   "newest": "2026-10-26T12:57:02+00:00",
    "stale": false,
    "error": null
   },
@@ -209,7 +209,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-26T03:47:28+00:00",
+   "newest": "2026-10-26T07:40:57+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-26T04:36:46+00:00",
+   "newest": "2026-10-26T12:23:44+00:00",
    "stale": false,
    "error": null
   },
@@ -243,8 +243,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 12,
-   "sample_title": "荷姆茲殷鑑不遠！免封鎖台海也能讓商船停航 專家籲政府建立戰爭險保障 | 太報"
+   "n_articles": 13,
+   "sample_title": "共機3架次擾台！1架越中線 共艦6艘、公務船9艘活動 | Newtalk"
   },
   {
    "domain": "hk.crntt.com",
@@ -257,19 +257,14 @@
    "sample_title": "日本海保船又來台海防颱還把大陸海警船引來 海巡署反應竟然是"
   },
   {
+   "domain": "mnews.tw",
+   "n_articles": 4,
+   "sample_title": "川普再轟台偷晶片！ 嗆歷任總統「夠聰明就沒台海問題」"
+  },
+  {
    "domain": "taiwandaily.net",
    "n_articles": 4,
    "sample_title": "下班瀚你聊-美軍新準則 台海衝突首日就參戰 1025"
-  },
-  {
-   "domain": "hk.on.cc",
-   "n_articles": 4,
-   "sample_title": "大陸派4艘海警船編隊現巴士海峽 台海巡監控"
-  },
-  {
-   "domain": "mnews.tw",
-   "n_articles": 4,
-   "sample_title": "8艘日巡視船台海避颱遭中海警尾隨 海巡署批製造「台海內水化」假象"
   },
   {
    "domain": "worldjournal.com",
@@ -277,9 +272,19 @@
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
   },
   {
+   "domain": "hk.on.cc",
+   "n_articles": 3,
+   "sample_title": "大陸派4艘海警船編隊現巴士海峽 台海巡監控"
+  },
+  {
    "domain": "sunmedia.tw",
    "n_articles": 3,
    "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
+  },
+  {
+   "domain": "facebook.com",
+   "n_articles": 2,
+   "sample_title": "【川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」】 怎麼又提起了呢！ （#01J）"
   },
   {
    "domain": "crntt.tw",
@@ -295,11 +300,6 @@
    "domain": "ftnn.com.tw",
    "n_articles": 2,
    "sample_title": "陸委會民調：民意近8成贊成兩岸互不隸屬、逾8成支持修法防中共在台犯罪"
-  },
-  {
-   "domain": "thenewslens.com",
-   "n_articles": 2,
-   "sample_title": "劍指解放軍！美國陸軍新版作戰準則，預備台海衝突「首日參戰」"
   },
   {
    "domain": "mirrordaily.news",
@@ -332,14 +332,14 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
-   "domain": "nationalreview.com",
+   "domain": "kmt.org.tw",
    "n_articles": 1,
-   "sample_title": "Why the U.S. Should Rethink a Freeze on Taiwan Arms Sales"
+   "sample_title": "國民黨立委陳永康代表國民黨出席美台國防工業會議 強調堅定支持國防、共同維護台海和平"
   },
   {
-   "domain": "cmmedia.com.tw",
+   "domain": "container-news.com",
    "n_articles": 1,
-   "sample_title": "新書》台海驚濤：台灣海峽的戰略風險與衝突結構"
+   "sample_title": "How Manila’s cable diplomacy reshapes risk around the Taiwan Strait"
   }
  ]
 }
