@@ -1,7 +1,265 @@
 {
  "month": "2026-10",
- "n_events": 680,
+ "n_events": 685,
  "events": [
+  {
+   "id": "evt_20261027_427516",
+   "headline": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3372314/us-japan-rehearse-coordinated-strikes-challenge-pla-control-waters-near-taiwan",
+   "headline_lang": "en",
+   "first_seen": "2026-10-27T12:00:13Z",
+   "last_seen": "2026-10-27T12:00:13Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "569bda533b2eee35"
+    ]
+   },
+   "articles": [
+    {
+     "id": "569bda533b2eee35",
+     "title": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
+     "url": "https://www.scmp.com/news/china/military/article/3372314/us-japan-rehearse-coordinated-strikes-challenge-pla-control-waters-near-taiwan",
+     "published": "2026-10-27T12:00:13Z",
+     "lang": "en",
+     "entities": [
+      "pla",
+      "rehearsal"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261027_ff0cb3",
+   "headline": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題",
+   "headline_source": "TEEPR 亮新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUtmdjFQS3hPekt0VmtSZVpabzlIYnc1UnpkV1R1UFloQzZHb0tXOTJnWnlUTzRrS0ticnpNdVgyMmJDOEFQei1xQ3ZZOWh3WnpJZ2ItN3BNeUJfX2VtSFNYelhhZDBVV0dtSzl0NWxMOWlEVW05cVFCYVVzQkdGd3J6d0k?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-27T03:13:25Z",
+   "last_seen": "2026-10-27T10:03:04Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 2,
+    "n_unrated": 2,
+    "score": 5.9,
+    "n_independent": 0,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f9c0e6d65fa75987",
+     "e68b8a50cac10682"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f9c0e6d65fa75987",
+     "title": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUtmdjFQS3hPekt0VmtSZVpabzlIYnc1UnpkV1R1UFloQzZHb0tXOTJnWnlUTzRrS0ticnpNdVgyMmJDOEFQei1xQ3ZZOWh3WnpJZ2ItN3BNeUJfX2VtSFNYelhhZDBVV0dtSzl0NWxMOWlEVW05cVFCYVVzQkdGd3J6d0k?oc=5",
+     "published": "2026-10-27T03:13:25Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "TEEPR 亮新聞",
+     "source_domain": "teepr.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "e68b8a50cac10682",
+     "title": "【川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」】 怎麼又提起了呢！ （#01J）",
+     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOX1hUQ1JTUVV6T2tRN0lnVHR4R2s2NkQ0ME9CNkJmSk92eC0wZEZBeUhUX3NOcHFnamZvT05fRnVlLXQyVlNKOHpoNEdvSGV2MzZCaWN5OUEzNFZtMU9idzMxVXFmbFU3aEVydy1CZXc4MWVnZm8xTk9wX0pUT2l1WVE5MFZsaXd3SHNxaEtpTzNDb0p0bUNIUnlrZ3Rtb25IaHRFQkh5MlU4RmxGMUFlb1dUS1dWOFpqcFJLRHpWWFBESXhSMEJhVmIxajNPeWRtbm5uXzFNcVVNaTlobC02TGRJSGwwbk5MZ08yVThOUkV3RkE5UTBOWGVJWUtBMDNHNmVnXzBZdkU2TFRBcF83U1c0dnBVMmVEdVAtY2xteExRcF91b05HbzVyOWJ5eXZGSW5Pd3k4TXRBVDJLQ1dDRVE1V3pKQ3RaTGJ6cnRQbzZ6VjdnRmVhajJrd0tPN2dQRWtBY2t6ZlFyMU5UZXZHNUsxcUtWblZmYXduLUNDME5pWU9vc2pmRGFHYXdqd0VPU25oajBaek9wVzVlY2VQSVlQYXdvaHlqUW12QzE2Q29lM1hXRzB0TjJWNUowS2V3TERQckI5OFNTQ1dYR3lNSkFwNG9HQ0JsZUxUMG95bm5XRVUtUnRfZnowRER5VUE?oc=5",
+     "published": "2026-10-27T10:03:04Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "Facebook",
+     "source_domain": "facebook.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261027_ba02ec",
+   "headline": "중국, 미사일 발사 훈련 잇단 공개…미일·대만 견제 의도",
+   "headline_source": "뉴시스",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1b9IBeEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1bw?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-27T09:35:16Z",
+   "last_seen": "2026-10-27T09:35:16Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8cf693e13bd1aee8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8cf693e13bd1aee8",
+     "title": "중국, 미사일 발사 훈련 잇단 공개…미일·대만 견제 의도",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1b9IBeEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1bw?oc=5",
+     "published": "2026-10-27T09:35:16Z",
+     "lang": "ko",
+     "entities": [
+      "missile",
+      "rehearsal"
+     ],
+     "source_name": "뉴시스",
+     "source_domain": "newsis.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261027_b06f08",
+   "headline": "대만 \"中, 10·25 반환일 빌미 인지전…무력 병합 의도 경계해야\"",
+   "headline_source": "뉴스1",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96d0Y5d1FOX1ZhdEZFOW5sNXRjOTExMDNpQnV0VFNsTWwyYzVzNTFZWmlERkhjR3JlMzZOM1dsaWRpSTh2RHNRWjZNaG4zRFUwSjdJNVRMYXZjazJQZVE?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-10-27T07:11:38Z",
+   "last_seen": "2026-10-27T07:11:38Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f19fbf6f9f61fa2b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f19fbf6f9f61fa2b",
+     "title": "대만 \"中, 10·25 반환일 빌미 인지전…무력 병합 의도 경계해야\"",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE96d0Y5d1FOX1ZhdEZFOW5sNXRjOTExMDNpQnV0VFNsTWwyYzVzNTFZWmlERkhjR3JlMzZOM1dsaWRpSTh2RHNRWjZNaG4zRFUwSjdJNVRMYXZjazJQZVE?oc=5",
+     "published": "2026-10-27T07:11:38Z",
+     "lang": "ko",
+     "entities": [],
+     "source_name": "뉴스1",
+     "source_domain": "news1.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261027_133108",
    "headline": "China Conducts Unannounced Missile Drills Amid Taiwan Tensions",
@@ -118,6 +376,66 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261027_eb7c20",
+   "headline": "應對中共灰帶襲擾 台海委會推無人機群飛系統",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40QVVTczRvR3VQdzNaaHl2VGRPM1VuNmlxODUtQzJzVHlkdXIyM1lQVEtmaFpBLTgtRmtNZmFyYnkzc3dVNUowSXR4OEpaQm5JVlZXNlBmTmNhLTdOYU4wU9IBZkFVX3lxTE1Gdk40NENpMGlVazA1UEtVWHFpMXA4Ym12eHNBb0lRSllsZUZnSzUtS2RBQkN4WGo4Y19RYU0wTmVMOTdQRFg2R1c3V0RyM0h3VVN1YU1fNnhhNHRSaGNQc1cwemh0Zw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-27T05:48:17Z",
+   "last_seen": "2026-10-27T05:48:17Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5932860a708767c5"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5932860a708767c5",
+     "title": "應對中共灰帶襲擾 台海委會推無人機群飛系統",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40QVVTczRvR3VQdzNaaHl2VGRPM1VuNmlxODUtQzJzVHlkdXIyM1lQVEtmaFpBLTgtRmtNZmFyYnkzc3dVNUowSXR4OEpaQm5JVlZXNlBmTmNhLTdOYU4wU9IBZkFVX3lxTE1Gdk40NENpMGlVazA1UEtVWHFpMXA4Ym12eHNBb0lRSllsZUZnSzUtS2RBQkN4WGo4Y19RYU0wTmVMOTdQRFg2R1c3V0RyM0h3VVN1YU1fNnhhNHRSaGNQc1cwemh0Zw?oc=5",
+     "published": "2026-10-27T05:48:17Z",
+     "lang": "zh",
+     "entities": [
+      "drone",
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -362,8 +680,8 @@
   {
    "id": "evt_20261027_386d18",
    "headline": "川普再控台灣「偷晶片生意」！突談台海問題：有聰明總統就不會存在",
-   "headline_source": "民視新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cW5qZmZmRHBjcE9yQ19qLTZSOHdxWE1aMElpaHBnOGo4cU5RamRORExhN0wzQWtmQTNBTmJ1ZTVGcTJqYlhJaDZYdDY0UXhNTnoxMGRsOGNLNkRs?oc=5",
+   "headline_source": "民視新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9leWp1dUd2SlpUMU5QMERiMnU1SDkxUzMzaFltNFkzajFUQzEtTFNMYkl2YmNEMWxqVy1xLVRWc0l5RWtHOVUtWDdHTEI4Y1JWSW96d0RVNU84a1Nka3l1RA?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-10-27T03:37:00Z",
    "last_seen": "2026-10-27T03:37:00Z",
@@ -372,24 +690,23 @@
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
     "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
     "n_articles": 1,
     "n_domains": 1,
     "blocs": [
-     "unknown"
+     "independent"
     ],
-    "top_tier": "T5",
+    "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
     ]
    },
    "perspectives": {
@@ -402,121 +719,20 @@
     {
      "id": "97317b2886e02ae7",
      "title": "川普再控台灣「偷晶片生意」！突談台海問題：有聰明總統就不會存在",
-     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE14cW5qZmZmRHBjcE9yQ19qLTZSOHdxWE1aMElpaHBnOGo4cU5RamRORExhN0wzQWtmQTNBTmJ1ZTVGcTJqYlhJaDZYdDY0UXhNTnoxMGRsOGNLNkRs?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9leWp1dUd2SlpUMU5QMERiMnU1SDkxUzMzaFltNFkzajFUQzEtTFNMYkl2YmNEMWxqVy1xLVRWc0l5RWtHOVUtWDdHTEI4Y1JWSW96d0RVNU84a1Nka3l1RA?oc=5",
      "published": "2026-10-27T03:37:00Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait",
       "trump"
      ],
-     "source_name": "民視新聞網",
-     "source_domain": "news.ftv.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261026_336e40",
-   "headline": "川普再轟台偷晶片！ 嗆歷任總統「夠聰明就沒台海問題」",
-   "headline_source": "鏡新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KSDJyRkRqcndnLVdHd1dwMUVfVzE0aGZ6T2JpcHgzQzBaSVNHVHBPcnlEOGh0OS01UnRHbVpYbXlCWlAwdDk3bk5yV1NpajF6VkNOZENuMkbSAV5BVV95cUxNM19ZNGwyc2FxQ2tIR3BhcVBaYkdWZjlLT0tqVVJfRERIZ0Z2SWdnbXp3Wmp1Q2ZyWU15UTNtT3dtVG93ZXNpTGZKcVVLMmJoR2lMWWxFV1RmWmVNWU5B?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-26T11:08:00Z",
-   "last_seen": "2026-10-27T03:13:25Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 3,
-    "n_unrated": 3,
-    "score": 7.4,
-    "n_independent": 0,
-    "n_articles": 3,
-    "n_domains": 3,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 3곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "d5b54345a35c5e28",
-     "e68b8a50cac10682",
-     "f9c0e6d65fa75987"
-    ]
-   },
-   "articles": [
-    {
-     "id": "d5b54345a35c5e28",
-     "title": "川普再轟台偷晶片！ 嗆歷任總統「夠聰明就沒台海問題」",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9KSDJyRkRqcndnLVdHd1dwMUVfVzE0aGZ6T2JpcHgzQzBaSVNHVHBPcnlEOGh0OS01UnRHbVpYbXlCWlAwdDk3bk5yV1NpajF6VkNOZENuMkbSAV5BVV95cUxNM19ZNGwyc2FxQ2tIR3BhcVBaYkdWZjlLT0tqVVJfRERIZ0Z2SWdnbXp3Wmp1Q2ZyWU15UTNtT3dtVG93ZXNpTGZKcVVLMmJoR2lMWWxFV1RmWmVNWU5B?oc=5",
-     "published": "2026-10-26T11:08:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "鏡新聞",
-     "source_domain": "mnews.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "e68b8a50cac10682",
-     "title": "【川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」】 怎麼又提起了呢！ （#01J）",
-     "url": "https://news.google.com/rss/articles/CBMi7wNBVV95cUxOX1hUQ1JTUVV6T2tRN0lnVHR4R2s2NkQ0ME9CNkJmSk92eC0wZEZBeUhUX3NOcHFnamZvT05fRnVlLXQyVlNKOHpoNEdvSGV2MzZCaWN5OUEzNFZtMU9idzMxVXFmbFU3aEVydy1CZXc4MWVnZm8xTk9wX0pUT2l1WVE5MFZsaXd3SHNxaEtpTzNDb0p0bUNIUnlrZ3Rtb25IaHRFQkh5MlU4RmxGMUFlb1dUS1dWOFpqcFJLRHpWWFBESXhSMEJhVmIxajNPeWRtbm5uXzFNcVVNaTlobC02TGRJSGwwbk5MZ08yVThOUkV3RkE5UTBOWGVJWUtBMDNHNmVnXzBZdkU2TFRBcF83U1c0dnBVMmVEdVAtY2xteExRcF91b05HbzVyOWJ5eXZGSW5Pd3k4TXRBVDJLQ1dDRVE1V3pKQ3RaTGJ6cnRQbzZ6VjdnRmVhajJrd0tPN2dQRWtBY2t6ZlFyMU5UZXZHNUsxcUtWblZmYXduLUNDME5pWU9vc2pmRGFHYXdqd0VPU25oajBaek9wVzVlY2VQSVlQYXdvaHlqUW12QzE2Q29lM1hXRzB0TjJWNUowS2V3TERQckI5OFNTQ1dYR3lNSkFwNG9HQ0JsZUxUMG95bm5XRVUtUnRfZnowRER5VUE?oc=5",
-     "published": "2026-10-26T21:58:39Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "Facebook",
-     "source_domain": "facebook.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "f9c0e6d65fa75987",
-     "title": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUtmdjFQS3hPekt0VmtSZVpabzlIYnc1UnpkV1R1UFloQzZHb0tXOTJnWnlUTzRrS0ticnpNdVgyMmJDOEFQei1xQ3ZZOWh3WnpJZ2ItN3BNeUJfX2VtSFNYelhhZDBVV0dtSzl0NWxMOWlEVW05cVFCYVVzQkdGd3J6d0k?oc=5",
-     "published": "2026-10-27T03:13:25Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "TEEPR 亮新聞",
-     "source_domain": "teepr.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
      "hedged": false
     }
    ]
@@ -702,6 +918,67 @@
    ]
   },
   {
+   "id": "evt_20261027_545453",
+   "headline": "川普又開砲！轟台灣「100%偷走美晶片生意」低價傾銷狂言：若有聰明總統台海根本沒人在乎- 鏡報",
+   "headline_source": "鏡報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05OTgtQlM1VDcxR0EtV3lySFZJeUxULVpySDlnaURXMThTdWV0MDROS0ZXWTVqTlVLamwwQTZqcHVCNVl0Q05WNjZCLVhJZF90SXc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-27T01:30:00Z",
+   "last_seen": "2026-10-27T01:30:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8be1ba165dcfa19b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8be1ba165dcfa19b",
+     "title": "川普又開砲！轟台灣「100%偷走美晶片生意」低價傾銷狂言：若有聰明總統台海根本沒人在乎- 鏡報",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE05OTgtQlM1VDcxR0EtV3lySFZJeUxULVpySDlnaURXMThTdWV0MDROS0ZXWTVqTlVLamwwQTZqcHVCNVl0Q05WNjZCLVhJZF90SXc?oc=5",
+     "published": "2026-10-27T01:30:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "鏡報",
+     "source_domain": "mirrordaily.news",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261027_7c6dd6",
    "headline": "談台海再扯偷晶片 川普：若美國有聰明總統「台灣跟中國問題就不會存在」",
    "headline_source": "新頭殼",
@@ -875,66 +1152,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261026_eb7c20",
-   "headline": "應對中共灰帶襲擾 台海委會推無人機群飛系統",
-   "headline_source": "新唐人 NTD",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40QVVTczRvR3VQdzNaaHl2VGRPM1VuNmlxODUtQzJzVHlkdXIyM1lQVEtmaFpBLTgtRmtNZmFyYnkzc3dVNUowSXR4OEpaQm5JVlZXNlBmTmNhLTdOYU4wU9IBZkFVX3lxTE1Gdk40NENpMGlVazA1UEtVWHFpMXA4Ym12eHNBb0lRSllsZUZnSzUtS2RBQkN4WGo4Y19RYU0wTmVMOTdQRFg2R1c3V0RyM0h3VVN1YU1fNnhhNHRSaGNQc1cwemh0Zw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-26T23:51:28Z",
-   "last_seen": "2026-10-26T23:51:28Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "partisan",
-    "grade_label": "성향 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 16.5,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T4",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 성향 매체"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "5932860a708767c5"
-    ]
-   },
-   "articles": [
-    {
-     "id": "5932860a708767c5",
-     "title": "應對中共灰帶襲擾 台海委會推無人機群飛系統",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE40QVVTczRvR3VQdzNaaHl2VGRPM1VuNmlxODUtQzJzVHlkdXIyM1lQVEtmaFpBLTgtRmtNZmFyYnkzc3dVNUowSXR4OEpaQm5JVlZXNlBmTmNhLTdOYU4wU9IBZkFVX3lxTE1Gdk40NENpMGlVazA1UEtVWHFpMXA4Ym12eHNBb0lRSllsZUZnSzUtS2RBQkN4WGo4Y19RYU0wTmVMOTdQRFg2R1c3V0RyM0h3VVN1YU1fNnhhNHRSaGNQc1cwemh0Zw?oc=5",
-     "published": "2026-10-26T23:51:28Z",
-     "lang": "zh",
-     "entities": [
-      "drone",
-      "taiwan_strait"
-     ],
-     "source_name": "新唐人 NTD",
-     "source_domain": "ntdtv.com",
-     "tier": "T4",
-     "tier_label": "성향 매체",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "파룬궁 계열·강한 반중공 논조",
      "hedged": false
     }
    ]
@@ -4698,6 +4915,68 @@
    ]
   },
   {
+   "id": "evt_20261024_7fd638",
+   "headline": "薔琵擦過北部釀強風 中國無軍機擾台、6船艦持續在台海周邊活動",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9COHoxSHkzeUdXR3NYaERiak9yT3dSM2g1eUVFalRzb0VDVGdqeUpOX3U4ZE9uM1hMRGhUU2I3STd6MHE1SGUzRU0ybUlMeWp6VWxOVnRscnFqcGRpMTVtU9IBZkFVX3lxTE1KYmtoQ1lKbWlra1RBc3hPU2VjV3lMV01MX0dULUQ2Mm0xSTlXeVdUaEZtYXdwWVFKMnlONkZTMkVvdkp0enhYTW1fQmdZS3BCZHBQU3JLZUFxdFEzM0ZBX1N0U1VCQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-24T01:10:00Z",
+   "last_seen": "2026-10-24T01:10:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "53211b4fed5c28fa"
+    ]
+   },
+   "articles": [
+    {
+     "id": "53211b4fed5c28fa",
+     "title": "薔琵擦過北部釀強風 中國無軍機擾台、6船艦持續在台海周邊活動",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9COHoxSHkzeUdXR3NYaERiak9yT3dSM2g1eUVFalRzb0VDVGdqeUpOX3U4ZE9uM1hMRGhUU2I3STd6MHE1SGUzRU0ybUlMeWp6VWxOVnRscnFqcGRpMTVtU9IBZkFVX3lxTE1KYmtoQ1lKbWlra1RBc3hPU2VjV3lMV01MX0dULUQ2Mm0xSTlXeVdUaEZtYXdwWVFKMnlONkZTMkVvdkp0enhYTW1fQmdZS3BCZHBQU3JLZUFxdFEzM0ZBX1N0U1VCQQ?oc=5",
+     "published": "2026-10-24T01:10:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "taiwan_strait",
+      "warship"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261024_0cded4",
    "headline": "台海有戰事｜澤連斯基是菲律賓、台灣最好的老師",
    "headline_source": "香港01",
@@ -7385,44 +7664,64 @@
    ]
   },
   {
-   "id": "evt_20261022_85179e",
+   "id": "evt_20261022_7a40c1",
    "headline": "Visualization: Taiwan’s Military Air Bases",
    "headline_source": "Taiwan Security Monitor (GMU)",
    "headline_url": "https://tsm.schar.gmu.edu/visualization-taiwans-military-air-bases/?utm_source=rss&utm_medium=rss&utm_campaign=visualization-taiwans-military-air-bases",
    "headline_lang": "en",
-   "first_seen": "2026-10-22T21:03:59Z",
+   "first_seen": "2026-10-22T03:06:00Z",
    "last_seen": "2026-10-22T21:03:59Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "C",
+    "grade": "B",
     "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
+    "grade_label": "개연적",
+    "n_originals": 2,
     "n_unrated": 0,
-    "score": 26.9,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "score": 50.3,
+    "n_independent": 2,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "independent"
     ],
     "top_tier": "TA",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
+     "독립 출처 2곳",
      "최고 등급 분석기관"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "979f92424a196b89",
      "d0324b4b14238aac"
     ]
    },
    "articles": [
+    {
+     "id": "979f92424a196b89",
+     "title": "What’s holding up Washington’s $14 billion arms sale to Taipei?",
+     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQczNDXzJVbEVYNWY5ZUpNTmV4WnEyUThRdWtDcEZFUkRMcHZSNEtQak92MnlrR2ZNTnlQVWJVV0dFeXVqbWhjaUFlUzlaazdEd1k0MzZIRmprUnNyWU1ORFZHaEVod3NXc0FoWExHTHltSERKTlprdVZEemhCaXRYM1FXSmg?oc=5",
+     "published": "2026-10-22T03:06:00Z",
+     "lang": "en",
+     "entities": [
+      "arms_sale",
+      "taipei"
+     ],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "d0324b4b14238aac",
      "title": "Visualization: Taiwan’s Military Air Bases",
@@ -18335,6 +18634,67 @@
    ]
   },
   {
+   "id": "evt_20261016_710e7d",
+   "headline": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-16T07:00:00Z",
+   "last_seen": "2026-10-16T07:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e09d981842b48675"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e09d981842b48675",
+     "title": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
+     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
+     "published": "2026-10-16T07:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261016_0b5e92",
    "headline": "Taiwan investor sees mainland potential for cross-Strait startups",
    "headline_source": "China Daily",
@@ -18390,67 +18750,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 영문지",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261016_710e7d",
-   "headline": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-16T01:54:40Z",
-   "last_seen": "2026-10-16T01:54:40Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "e09d981842b48675"
-    ]
-   },
-   "articles": [
-    {
-     "id": "e09d981842b48675",
-     "title": "中共24機艦船台海周邊活動 國軍嚴密掌握應處",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBabGFUOXBuVlZzUzRKZ2JjZnBTQlpjNjhjVTk4VmVzUk5WaThrcmZpZnNJTjE5eTUtWFhCSkZFX3ZrNWZDa0dxekJRZUUyTWNZcS1PMVhjRUhSZ9IBX0FVX3lxTE13UUIyS2xCT2ZZQVBRTXJLNXNkRE9Vd0s1bjM5MnlZMmQxaGJVX2JRa0NiWGhlbGw3X3NadHozTi1PMjRjYTRPbWY1eWlvMmVEaWJzMjRrVEdLMG96V0Fz?oc=5",
-     "published": "2026-10-16T01:54:40Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]

@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-27T09:04:09Z",
+ "updated": "2026-10-27T15:23:39Z",
  "checked": "2026-10-27",
- "duration_sec": 31.6,
+ "duration_sec": 37.1,
  "rolling_days": 14,
- "n_events": 360,
- "n_articles": 395,
+ "n_events": 361,
+ "n_articles": 396,
  "grades": {
-  "C": 160,
-  "D": 187,
-  "B": 13
+  "C": 162,
+  "D": 185,
+  "B": 14
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,10 +18,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 7,
-  "T2": 162,
-  "T3": 74,
-  "T4": 18,
-  "T5": 114,
+  "T2": 166,
+  "T3": 73,
+  "T4": 17,
+  "T5": 113,
   "TA": 4
  },
  "t1_domains": [
@@ -37,8 +37,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 12,
+   "n_entries": 59,
+   "n_adopted": 7,
    "newest": "2026-10-27T07:02:10+00:00",
    "stale": false,
    "error": null
@@ -50,9 +50,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 36,
+   "n_entries": 35,
    "n_adopted": 18,
-   "newest": "2026-10-27T07:02:10+00:00",
+   "newest": "2026-10-27T14:00:17+00:00",
    "stale": false,
    "error": null
   },
@@ -63,9 +63,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
-   "n_adopted": 1,
-   "newest": "2026-10-26T10:09:51+00:00",
+   "n_entries": 100,
+   "n_adopted": 11,
+   "newest": "2026-10-27T09:35:16+00:00",
    "stale": false,
    "error": null
   },
@@ -78,7 +78,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 61,
-   "newest": "2026-10-27T06:49:00+00:00",
+   "newest": "2026-10-27T14:00:50+00:00",
    "stale": false,
    "error": null
   },
@@ -103,8 +103,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-10-27T04:31:00+00:00",
+   "n_adopted": 2,
+   "newest": "2026-10-27T14:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -115,9 +115,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 37,
+   "n_entries": 46,
    "n_adopted": 2,
-   "newest": "2026-10-27T07:06:32+00:00",
+   "newest": "2026-10-27T11:32:56+00:00",
    "stale": false,
    "error": null
   },
@@ -142,8 +142,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 0,
-   "newest": "2026-10-27T08:30:10+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-27T15:00:14+00:00",
    "stale": false,
    "error": null
   },
@@ -156,7 +156,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-27T09:00:00+00:00",
+   "newest": "2026-10-27T12:33:00+00:00",
    "stale": false,
    "error": null
   },
@@ -193,9 +193,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 92,
+   "n_entries": 91,
    "n_adopted": 0,
-   "newest": "2026-10-27T08:46:03+00:00",
+   "newest": "2026-10-27T14:45:27+00:00",
    "stale": false,
    "error": null
   },
@@ -208,7 +208,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-27T07:15:08+00:00",
+   "newest": "2026-10-27T13:25:54+00:00",
    "stale": false,
    "error": null
   },
@@ -221,7 +221,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-27T08:46:19+00:00",
+   "newest": "2026-10-27T14:56:40+00:00",
    "stale": false,
    "error": null
   },
@@ -256,11 +256,6 @@
    "sample_title": "學者：中美新定位助台海穩定 消極因素猶存"
   },
   {
-   "domain": "mnews.tw",
-   "n_articles": 4,
-   "sample_title": "川普再轟台偷晶片！ 嗆歷任總統「夠聰明就沒台海問題」"
-  },
-  {
    "domain": "taiwandaily.net",
    "n_articles": 4,
    "sample_title": "下班瀚你聊-美軍新準則 台海衝突首日就參戰 1025"
@@ -271,6 +266,11 @@
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
   },
   {
+   "domain": "mirrordaily.news",
+   "n_articles": 3,
+   "sample_title": "川普又開砲！轟台灣「100%偷走美晶片生意」低價傾銷狂言：若有聰明總統台海根本沒人在乎- 鏡報"
+  },
+  {
    "domain": "hk.on.cc",
    "n_articles": 3,
    "sample_title": "大陸派4艘海警船編隊現巴士海峽 台海巡監控"
@@ -279,6 +279,11 @@
    "domain": "sunmedia.tw",
    "n_articles": 3,
    "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
+  },
+  {
+   "domain": "mnews.tw",
+   "n_articles": 3,
+   "sample_title": "8艘日巡視船台海避颱遭中海警尾隨 海巡署批製造「台海內水化」假象"
   },
   {
    "domain": "facebook.com",
@@ -306,11 +311,6 @@
    "sample_title": "陸委會民調：民意近8成贊成兩岸互不隸屬、逾8成支持修法防中共在台犯罪"
   },
   {
-   "domain": "mirrordaily.news",
-   "n_articles": 2,
-   "sample_title": "美陸軍稱台海衝突首日即投入作戰 陳冠廷：台灣安全仍取決自身防衛能力"
-  },
-  {
    "domain": "militarywatchmagazine.com",
    "n_articles": 2,
    "sample_title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan’s Taiwan War D"
@@ -331,14 +331,14 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
+   "domain": "teepr.com",
+   "n_articles": 1,
+   "sample_title": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題"
+  },
+  {
    "domain": "ctv.com.tw",
    "n_articles": 1,
    "sample_title": "台海若開打\"菲石油成關鍵\"?! 專家籲\"速啟核電\"才能避險│中視新聞 20261027"
-  },
-  {
-   "domain": "businesstimes-bd.com",
-   "n_articles": 1,
-   "sample_title": "Taiwan Rejects China's World War Two Anniversary Claims Amid Tensions"
   }
  ]
 }
