@@ -1,13 +1,73 @@
 {
- "updated": "2026-10-27T15:23:39Z",
+ "updated": "2026-10-27T22:17:23Z",
  "events": [
   {
-   "id": "evt_20261027_427516",
+   "id": "evt_20261027_6b4db0",
+   "headline": "美投入台海衝突？王長河：純屬戰略話術",
+   "headline_source": "中國評論新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jd3ZJeENTNUxjbzRnMjI4Q0pReVQzN0d3cWNsWktDSjI0eE9lY2VZZGlNcGw1TU1ubnVNZ2JxYzI0LWxvd3oxMDd2VUdvY2ZKR09SQmJPVnoySWZGOGFLa0IzcWwtVkU?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-27T16:20:48Z",
+   "last_seen": "2026-10-27T16:20:48Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "77ac4e1c1eb058b6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "77ac4e1c1eb058b6",
+     "title": "美投入台海衝突？王長河：純屬戰略話術",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jd3ZJeENTNUxjbzRnMjI4Q0pReVQzN0d3cWNsWktDSjI0eE9lY2VZZGlNcGw1TU1ubnVNZ2JxYzI0LWxvd3oxMDd2VUdvY2ZKR09SQmJPVnoySWZGOGFLa0IzcWwtVkU?oc=5",
+     "published": "2026-10-27T16:20:48Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國評論新聞",
+     "source_domain": "hk.crntt.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261026_b2052b",
    "headline": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
    "headline_source": "SCMP",
    "headline_url": "https://www.scmp.com/news/china/military/article/3372314/us-japan-rehearse-coordinated-strikes-challenge-pla-control-waters-near-taiwan",
    "headline_lang": "en",
-   "first_seen": "2026-10-27T12:00:13Z",
+   "first_seen": "2026-10-26T15:07:06Z",
    "last_seen": "2026-10-27T12:00:13Z",
    "langs": [
     "en"
@@ -17,29 +77,52 @@
     "grade": "C",
     "d_reason": null,
     "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 32.8,
     "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
-     "independent"
+     "independent",
+     "unknown"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 1곳",
-     "최고 등급 주요 일간"
+     "최고 등급 주요 일간",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "471f10ed8a8dcb4f",
      "569bda533b2eee35"
     ]
    },
    "articles": [
+    {
+     "id": "471f10ed8a8dcb4f",
+     "title": "Keen Sword 27: China shadows biggest Japan–US military drills near Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWxWOTV1N3FjWTl5bmpMcmpTM2huRXpBUURsbF80dnhIaGk1RWVncWpvWnJFT3YwM21iWEpxTnNaRFo3Y3U5T2NsOFRVcEM5RllFaEt1aG1EUzVRNmpsbk5fY3RTY0NILUc0NVViYnVxd3N3bHB6OXR0Y0t1a0RfaWc5YXNWendaaXo0TzVBY3kwa0Q3ZnZTdF8ydGVIdWc?oc=5",
+     "published": "2026-10-26T15:07:06Z",
+     "lang": "en",
+     "entities": [
+      "military_drill",
+      "rehearsal",
+      "us_military"
+     ],
+     "source_name": "DD News",
+     "source_domain": "ddnews.gov.in",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "569bda533b2eee35",
      "title": "US, Japan rehearse coordinated strikes to challenge PLA control of waters near Taiwan",
@@ -62,62 +145,63 @@
    ]
   },
   {
-   "id": "evt_20261027_ff0cb3",
-   "headline": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題",
-   "headline_source": "TEEPR 亮新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUtmdjFQS3hPekt0VmtSZVpabzlIYnc1UnpkV1R1UFloQzZHb0tXOTJnWnlUTzRrS0ticnpNdVgyMmJDOEFQei1xQ3ZZOWh3WnpJZ2ItN3BNeUJfX2VtSFNYelhhZDBVV0dtSzl0NWxMOWlEVW05cVFCYVVzQkdGd3J6d0k?oc=5",
+   "id": "evt_20261026_2c845f",
+   "headline": "川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」",
+   "headline_source": "ETtoday新聞雲",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zM1hINExqQVZ0c0FQTG1UUTd4VU4xS094RlN4UnJyMl9DRlJQUzlYSU5ZNUFUUnhrWFRsUUJuUF9DenVJUVZIRndRbkhZUnlEaGw4RExKVEFRRnhDRWfSAUtBVV95cUxPYWtTY0k4MDFvWDJIRVVMNHZJQXpwSnFKd3cya1JVUGl0dlZUVFBqMzZqNHVNMTNXQWtSRmswMkdFemhESWV0YWxZaHM?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-10-27T03:13:25Z",
+   "first_seen": "2026-10-26T09:18:00Z",
    "last_seen": "2026-10-27T10:03:04Z",
    "langs": [
     "zh"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
     "n_originals": 2,
-    "n_unrated": 2,
-    "score": 5.9,
-    "n_independent": 0,
+    "n_unrated": 1,
+    "score": 33.1,
+    "n_independent": 1,
     "n_articles": 2,
     "n_domains": 2,
     "blocs": [
+     "independent",
      "unknown"
     ],
-    "top_tier": "T5",
+    "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "f9c0e6d65fa75987",
+     "979917c528cf9fb9",
      "e68b8a50cac10682"
     ]
    },
    "articles": [
     {
-     "id": "f9c0e6d65fa75987",
-     "title": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSUtmdjFQS3hPekt0VmtSZVpabzlIYnc1UnpkV1R1UFloQzZHb0tXOTJnWnlUTzRrS0ticnpNdVgyMmJDOEFQei1xQ3ZZOWh3WnpJZ2ItN3BNeUJfX2VtSFNYelhhZDBVV0dtSzl0NWxMOWlEVW05cVFCYVVzQkdGd3J6d0k?oc=5",
-     "published": "2026-10-27T03:13:25Z",
+     "id": "979917c528cf9fb9",
+     "title": "川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE8zM1hINExqQVZ0c0FQTG1UUTd4VU4xS094RlN4UnJyMl9DRlJQUzlYSU5ZNUFUUnhrWFRsUUJuUF9DenVJUVZIRndRbkhZUnlEaGw4RExKVEFRRnhDRWfSAUtBVV95cUxPYWtTY0k4MDFvWDJIRVVMNHZJQXpwSnFKd3cya1JVUGl0dlZUVFBqMzZqNHVNMTNXQWtSRmswMkdFemhESWV0YWxZaHM?oc=5",
+     "published": "2026-10-26T09:18:00Z",
      "lang": "zh",
      "entities": [
       "taiwan_strait",
       "trump"
      ],
-     "source_name": "TEEPR 亮新聞",
-     "source_domain": "teepr.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
+     "source_name": "ETtoday新聞雲",
+     "source_domain": "ettoday.net",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     },
@@ -146,7 +230,7 @@
    "id": "evt_20261027_ba02ec",
    "headline": "중국, 미사일 발사 훈련 잇단 공개…미일·대만 견제 의도",
    "headline_source": "뉴시스",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1b9IBeEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1bw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50U1hQMnJVeXc1RFJRekFJMmlMU1plSTVRUVNkNWVQVUFLSEluNkdDeDE3LWRkZlh0V29LWkRCLUdsNEg1ZWhCbE5NY3ZvTG82YkY4SWlPWURMNDktVWJWSNIBeEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1bw?oc=5",
    "headline_lang": "ko",
    "first_seen": "2026-10-27T09:35:16Z",
    "last_seen": "2026-10-27T09:35:16Z",
@@ -184,7 +268,7 @@
     {
      "id": "8cf693e13bd1aee8",
      "title": "중국, 미사일 발사 훈련 잇단 공개…미일·대만 견제 의도",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1b9IBeEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1bw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE50U1hQMnJVeXc1RFJRekFJMmlMU1plSTVRUVNkNWVQVUFLSEluNkdDeDE3LWRkZlh0V29LWkRCLUdsNEg1ZWhCbE5NY3ZvTG82YkY4SWlPWURMNDktVWJWSNIBeEFVX3lxTFB0YVZMVXRkMzVrTVZBdC1SWVA0dENLLVBJVmxoVWhYLThBeTZfaE1mM1RBY3VWOElISnRXNlpNb2JmRll3SWp4MWstRUk1WF90Wlh0ZW90QXg2Nm5SdnNXT0RqcERKRGd4VjUxUVNqbUFUM0sxdXh1bw?oc=5",
      "published": "2026-10-27T09:35:16Z",
      "lang": "ko",
      "entities": [
@@ -621,34 +705,33 @@
   {
    "id": "evt_20261027_33c5ed",
    "headline": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island",
-   "headline_source": "Idaho Statesman",
-   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2VWb1Z2RTBsYktDZkpoSjhZWUtKVnpWMm8teGZXUDRyZmhGNXVBM0cyYjZHd1JVaHNvMlNKUkFjdDFieHBPSE9wSDNVbGQ5YlhnNmlqaWF0VU5NY0xXU1NqMlF3LTBWVmQteVFvb2VkbVRFOFBpZUdMT25adzIwXzN3?oc=5",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-10-27T04:04:07Z",
-   "last_seen": "2026-10-27T04:04:07Z",
+   "first_seen": "2026-10-27T03:42:00Z",
+   "last_seen": "2026-10-27T03:42:00Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
     "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
     "n_articles": 1,
     "n_domains": 1,
     "blocs": [
-     "unknown"
+     "independent"
     ],
-    "top_tier": "T5",
+    "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
     ]
    },
    "perspectives": {
@@ -661,16 +744,16 @@
     {
      "id": "b02d08e70ff8cc56",
      "title": "Taiwan rebuffs China's commemorations for post-World War Two 'restoration' of island",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT2VWb1Z2RTBsYktDZkpoSjhZWUtKVnpWMm8teGZXUDRyZmhGNXVBM0cyYjZHd1JVaHNvMlNKUkFjdDFieHBPSE9wSDNVbGQ5YlhnNmlqaWF0VU5NY0xXU1NqMlF3LTBWVmQteVFvb2VkbVRFOFBpZUdMT25adzIwXzN3?oc=5",
-     "published": "2026-10-27T04:04:07Z",
+     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjdsQURjQ0MxQmgtQVEyTGZiNzFRd1QtY0dsRXowVHhQRVNObEJLV0Vhc0tKQVZDbVp2a2Rmbklod1hURHFhUGVZb2JKRUdxMGxtSmxtcW55aV9fdG40eUhJNHZmUC1HLWlUWTVtekVVYTZqdGsxeEJtbEh5VkVQdFBYRS1rYzBoVVBVOUZtaEtWQ2FEQ3dpYmZyOENnRmZoRFVUT2h3MW9tNXE4a3JYZTY1RjhGUlA0ak5ENHRqTQ?oc=5",
+     "published": "2026-10-27T03:42:00Z",
      "lang": "en",
      "entities": [],
-     "source_name": "Idaho Statesman",
-     "source_domain": "idahostatesman.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -791,6 +874,66 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261027_4c265e",
+   "headline": "川普再控台灣「偷晶片生意」！突談台海問題：有聰明總統就不會存在 | 國際 | CTWANT",
+   "headline_source": "CTWANT",
+   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TM3dwdlg0TEpfcGdNZ190X3NJd1dmb2hDMHdEajRVSTYyVzhaUzBRYWpsUVNpYV9naWM4RW9jd1JhT09MYU5weDdOUEZsazTSAVRBVV95cUxQdDc0TmJvdDZSWFUyaVcxMDNfM0kzTVRVYW9GTEgyNndZb2dRcHlUaUJfbXZPcmo5RU5hNUdKWWpYa2I2VjIzN0ZuVzZoTU9LakM4Tm8?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-27T02:24:32Z",
+   "last_seen": "2026-10-27T02:24:32Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "141fcd65d9213f29"
+    ]
+   },
+   "articles": [
+    {
+     "id": "141fcd65d9213f29",
+     "title": "川普再控台灣「偷晶片生意」！突談台海問題：有聰明總統就不會存在 | 國際 | CTWANT",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TM3dwdlg0TEpfcGdNZ190X3NJd1dmb2hDMHdEajRVSTYyVzhaUzBRYWpsUVNpYV9naWM4RW9jd1JhT09MYU5weDdOUEZsazTSAVRBVV95cUxQdDc0TmJvdDZSWFUyaVcxMDNfM0kzTVRVYW9GTEgyNndZb2dRcHlUaUJfbXZPcmo5RU5hNUdKWWpYa2I2VjIzN0ZuVzZoTU9LakM4Tm8?oc=5",
+     "published": "2026-10-27T02:24:32Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "CTWANT",
+     "source_domain": "ctwant.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -1397,66 +1540,6 @@
    ]
   },
   {
-   "id": "evt_20261026_1b8712",
-   "headline": "川普又扯台灣偷晶片 談台海問題拋震撼言論",
-   "headline_source": "三立新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oY2ZmeS12d2t0T3pTVHFyZ3FMWFpWdHBUbGJkV1ZCTUwxb2kxenNWVkpQY19IOV90MTQ3U0s5T3FOWGZtUkgtbnJ30gFMQVVfeXFMTl84WkMyME1HekdVUmtqUzZyelVDcjRwOG1fbC1xRHU4dmpJaWp5OGhBM1RTajlRaGhWaTVrbEF2VHZGcDQ4Z01jYTF1Vg?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-26T13:19:22Z",
-   "last_seen": "2026-10-26T13:19:22Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "00bc779f2e857c1f"
-    ]
-   },
-   "articles": [
-    {
-     "id": "00bc779f2e857c1f",
-     "title": "川普又扯台灣偷晶片 談台海問題拋震撼言論",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5oY2ZmeS12d2t0T3pTVHFyZ3FMWFpWdHBUbGJkV1ZCTUwxb2kxenNWVkpQY19IOV90MTQ3U0s5T3FOWGZtUkgtbnJ30gFMQVVfeXFMTl84WkMyME1HekdVUmtqUzZyelVDcjRwOG1fbC1xRHU4dmpJaWp5OGhBM1RTajlRaGhWaTVrbEF2VHZGcDQ4Z01jYTF1Vg?oc=5",
-     "published": "2026-10-26T13:19:22Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "三立新聞",
-     "source_domain": "setn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261026_0e7dd5",
    "headline": "颱風離台海巡加強警戒防潛逃 高雄永新漁港查獲洗錢通緝犯｜20261026 公視晚間新聞",
    "headline_source": "公視 PTS",
@@ -1694,6 +1777,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 공영방송(편집권 독립)",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261026_1b8712",
+   "headline": "川普又扯台灣偷晶片 談台海問題拋震撼言論",
+   "headline_source": "三立新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hUGc0Zk1NTW9LNFNHTXlwbFU0cVVnXzJ3dGJIaXRQX3hleC1JVE5YYXhtdEkyQkl4Y2ZFMU9ORkVYTU9kRXdKVdIBTEFVX3lxTE5fOFpDMjBNR3pHVVJralM2cnpVQ3I0cDhtX2wtcUR1OHZqSWlqeThoQTNUU2o5UWhoVmk1a2xBdlR2RnA0OGdNY2ExdVY?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-26T12:25:00Z",
+   "last_seen": "2026-10-26T12:25:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "00bc779f2e857c1f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "00bc779f2e857c1f",
+     "title": "川普又扯台灣偷晶片 談台海問題拋震撼言論",
+     "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hUGc0Zk1NTW9LNFNHTXlwbFU0cVVnXzJ3dGJIaXRQX3hleC1JVE5YYXhtdEkyQkl4Y2ZFMU9ORkVYTU9kRXdKVdIBTEFVX3lxTE5fOFpDMjBNR3pHVVJralM2cnpVQ3I0cDhtX2wtcUR1OHZqSWlqeThoQTNUU2o5UWhoVmk1a2xBdlR2RnA0OGdNY2ExdVY?oc=5",
+     "published": "2026-10-26T12:25:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "三立新聞",
+     "source_domain": "setn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
      "hedged": false
     }
    ]
@@ -3739,110 +3882,6 @@
    ]
   },
   {
-   "id": "evt_20261022_b2052b",
-   "headline": "Super Typhoon Champi approaches Taiwan; US-Japan military exercises halted.",
-   "headline_source": "Vietnam.vn",
-   "headline_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUtCY0p0dlA3c1RaUEFMb2Z6T0pYMVBpbWFPRVlDaE9EQTFRcXBnOFBYcGd1TVd3c0NTTHFVemt4QmwyYU9vd0gwcWw0OFVOSUxWaGFEX1ExZElWdFpkTE9ycFdNZ1hCLV8tZFRScDF0LTA5UUV1VS1xNTRJYUI2czBGNExZSUdHR3BHSQ?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-22T15:50:15Z",
-   "last_seen": "2026-10-25T05:45:26Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 4,
-    "n_unrated": 3,
-    "score": 45.7,
-    "n_independent": 1,
-    "n_articles": 4,
-    "n_domains": 4,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "미분류 매체 3곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "f8cca3fbeb9cdb01",
-     "f5b880f02f19b4f0",
-     "471f10ed8a8dcb4f"
-    ]
-   },
-   "articles": [
-    {
-     "id": "f8cca3fbeb9cdb01",
-     "title": "Super Typhoon Champi approaches Taiwan; US-Japan military exercises halted.",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUtCY0p0dlA3c1RaUEFMb2Z6T0pYMVBpbWFPRVlDaE9EQTFRcXBnOFBYcGd1TVd3c0NTTHFVemt4QmwyYU9vd0gwcWw0OFVOSUxWaGFEX1ExZElWdFpkTE9ycFdNZ1hCLV8tZFRScDF0LTA5UUV1VS1xNTRJYUI2czBGNExZSUdHR3BHSQ?oc=5",
-     "published": "2026-10-22T15:50:15Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal"
-     ],
-     "source_name": "Vietnam.vn",
-     "source_domain": "vietnam.vn",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "f5b880f02f19b4f0",
-     "title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作",
-     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbmdrc09vWERNaXh3UGRLVkZGdFFZLWNrT0lyblB3Q05adlBZOUkyaS1JN3JJalF1MGdjLUJRTnVSVzlDQmtVMF9RNVdkVFZVOWxBMzkySUJsQ3ZSdzd2SWNldm0xd0ttX2RYUEY0dzZMc2xTMzU3T05kamlyM1lpZ19Rc1RBcGd2TlljZGZsNE1DMGRDdzFfMUpTY1ZZRmRFd01VcHhkSlFDeENVS1lhQy02MUJEZlhNMDJpNlZJSm15Q1JpdDdGVVdBMVpPRjVINWZnVkZXNk1NMHo3anhMLUJqdFNlTHE3dVA0TUFxSUZ6UXJDSzJ1ZWpUbTlubEpnR1duc3dyS1JWVzVfNF9jNGVMY1JsTmJpbWxBNlJhbTNSVEI0bkVtcXhxN3lLdkYwMWlMMWF0WEVIaEdLaG5CZHNKRk5pREk4Y1JuS21GSlBLQWNOeUhZanR1Q084VWVud3U2dTRkTFZYSjZZOTV0ZUZ3MVBUeVloOF9ITU93M1pMRWZ0NC13eEJfUkZaTlU?oc=5",
-     "published": "2026-10-24T05:38:39Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "商傳媒 - SUN MEDIA",
-     "source_domain": "sunmedia.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "471f10ed8a8dcb4f",
-     "title": "Keen Sword 27: China shadows biggest Japan–US military drills near Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVWxWOTV1N3FjWTl5bmpMcmpTM2huRXpBUURsbF80dnhIaGk1RWVncWpvWnJFT3YwM21iWEpxTnNaRFo3Y3U5T2NsOFRVcEM5RllFaEt1aG1EUzVRNmpsbk5fY3RTY0NILUc0NVViYnVxd3N3bHB6OXR0Y0t1a0RfaWc5YXNWendaaXo0TzVBY3kwa0Q3ZnZTdF8ydGVIdWc?oc=5",
-     "published": "2026-10-25T05:45:26Z",
-     "lang": "en",
-     "entities": [
-      "military_drill",
-      "rehearsal",
-      "us_military"
-     ],
-     "source_name": "DD News",
-     "source_domain": "ddnews.gov.in",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261025_bdfb6b",
    "headline": "What areas need more cross-Strait exchanges?",
    "headline_source": "China Daily",
@@ -4788,6 +4827,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261024_8156ff",
+   "headline": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作",
+   "headline_source": "商傳媒 - SUN MEDIA",
+   "headline_url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbmdrc09vWERNaXh3UGRLVkZGdFFZLWNrT0lyblB3Q05adlBZOUkyaS1JN3JJalF1MGdjLUJRTnVSVzlDQmtVMF9RNVdkVFZVOWxBMzkySUJsQ3ZSdzd2SWNldm0xd0ttX2RYUEY0dzZMc2xTMzU3T05kamlyM1lpZ19Rc1RBcGd2TlljZGZsNE1DMGRDdzFfMUpTY1ZZRmRFd01VcHhkSlFDeENVS1lhQy02MUJEZlhNMDJpNlZJSm15Q1JpdDdGVVdBMVpPRjVINWZnVkZXNk1NMHo3anhMLUJqdFNlTHE3dVA0TUFxSUZ6UXJDSzJ1ZWpUbTlubEpnR1duc3dyS1JWVzVfNF9jNGVMY1JsTmJpbWxBNlJhbTNSVEI0bkVtcXhxN3lLdkYwMWlMMWF0WEVIaEdLaG5CZHNKRk5pREk4Y1JuS21GSlBLQWNOeUhZanR1Q084VWVud3U2dTRkTFZYSjZZOTV0ZUZ3MVBUeVloOF9ITU93M1pMRWZ0NC13eEJfUkZaTlU?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-24T05:38:39Z",
+   "last_seen": "2026-10-24T05:38:39Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f5b880f02f19b4f0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f5b880f02f19b4f0",
+     "title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作",
+     "url": "https://news.google.com/rss/articles/CBMijwNBVV95cUxNbmdrc09vWERNaXh3UGRLVkZGdFFZLWNrT0lyblB3Q05adlBZOUkyaS1JN3JJalF1MGdjLUJRTnVSVzlDQmtVMF9RNVdkVFZVOWxBMzkySUJsQ3ZSdzd2SWNldm0xd0ttX2RYUEY0dzZMc2xTMzU3T05kamlyM1lpZ19Rc1RBcGd2TlljZGZsNE1DMGRDdzFfMUpTY1ZZRmRFd01VcHhkSlFDeENVS1lhQy02MUJEZlhNMDJpNlZJSm15Q1JpdDdGVVdBMVpPRjVINWZnVkZXNk1NMHo3anhMLUJqdFNlTHE3dVA0TUFxSUZ6UXJDSzJ1ZWpUbTlubEpnR1duc3dyS1JWVzVfNF9jNGVMY1JsTmJpbWxBNlJhbTNSVEI0bkVtcXhxN3lLdkYwMWlMMWF0WEVIaEdLaG5CZHNKRk5pREk4Y1JuS21GSlBLQWNOeUhZanR1Q084VWVud3U2dTRkTFZYSjZZOTV0ZUZ3MVBUeVloOF9ITU93M1pMRWZ0NC13eEJfUkZaTlU?oc=5",
+     "published": "2026-10-24T05:38:39Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "商傳媒 - SUN MEDIA",
+     "source_domain": "sunmedia.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -7921,61 +8020,62 @@
    ]
   },
   {
-   "id": "evt_20261022_12fb10",
-   "headline": "「國慶記者團」訪台，國際媒體聚焦台海和平、科技合作與總合外交",
-   "headline_source": "대만 외교부",
-   "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TZ3ZkV1BUeEtnOHVscXZDOUk2cmhzMUd1dzdCakk4MG54ZTQtLXVwRlMxczIwV1doZGVmQURpbmN5RG52ZDJsTk1aVmxkNXdYdXJKYS1XckVzVDBNMHlSMW5FT240dw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-22T12:43:52Z",
-   "last_seen": "2026-10-22T12:43:52Z",
+   "id": "evt_20261022_7b2991",
+   "headline": "Super Typhoon Champi approaches Taiwan; US-Japan military exercises halted.",
+   "headline_source": "Vietnam.vn",
+   "headline_url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUtCY0p0dlA3c1RaUEFMb2Z6T0pYMVBpbWFPRVlDaE9EQTFRcXBnOFBYcGd1TVd3c0NTTHFVemt4QmwyYU9vd0gwcWw0OFVOSUxWaGFEX1ExZElWdFpkTE9ycFdNZ1hCLV8tZFRScDF0LTA5UUV1VS1xNTRJYUI2czBGNExZSUdHR3BHSQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-22T15:50:15Z",
+   "last_seen": "2026-10-22T15:50:15Z",
    "langs": [
-    "zh"
+    "en"
    ],
    "cross_language": false,
    "credibility": {
     "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
     "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
     "n_articles": 1,
     "n_domains": 1,
     "blocs": [
-     "tw_state"
+     "unknown"
     ],
-    "top_tier": "T3",
+    "top_tier": "T5",
     "primary_cited": false,
     "reasons": [
-     "대만 국영·정부 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "대만 국영·정부 발표만 존재"
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "8d68f4fa12c40849"
+     "f8cca3fbeb9cdb01"
     ]
    },
    "articles": [
     {
-     "id": "8d68f4fa12c40849",
-     "title": "「國慶記者團」訪台，國際媒體聚焦台海和平、科技合作與總合外交",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1TZ3ZkV1BUeEtnOHVscXZDOUk2cmhzMUd1dzdCakk4MG54ZTQtLXVwRlMxczIwV1doZGVmQURpbmN5RG52ZDJsTk1aVmxkNXdYdXJKYS1XckVzVDBNMHlSMW5FT240dw?oc=5",
-     "published": "2026-10-22T12:43:52Z",
-     "lang": "zh",
+     "id": "f8cca3fbeb9cdb01",
+     "title": "Super Typhoon Champi approaches Taiwan; US-Japan military exercises halted.",
+     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNSUtCY0p0dlA3c1RaUEFMb2Z6T0pYMVBpbWFPRVlDaE9EQTFRcXBnOFBYcGd1TVd3c0NTTHFVemt4QmwyYU9vd0gwcWw0OFVOSUxWaGFEX1ExZElWdFpkTE9ycFdNZ1hCLV8tZFRScDF0LTA5UUV1VS1xNTRJYUI2czBGNExZSUdHR3BHSQ?oc=5",
+     "published": "2026-10-22T15:50:15Z",
+     "lang": "en",
      "entities": [
-      "taiwan_strait"
+      "military_drill",
+      "rehearsal"
      ],
-     "source_name": "대만 외교부",
-     "source_domain": "mofa.gov.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 정부 공식 발표",
+     "source_name": "Vietnam.vn",
+     "source_domain": "vietnam.vn",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -8656,6 +8756,66 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261022_12fb10",
+   "headline": "「國慶記者團」訪台，國際媒體聚焦台海和平、科技合作與總合外交",
+   "headline_source": "대만 외교부",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12VU42djJDYTVtMlVQSTc4TlJmNzB1MEs0OUZCXzZwdzNNb2txRmVhTTlNZlZoWm1JdnpvTHFMWTMwVjBiYUFBT3FoTjF5QjFJQjVxeUl1OEV2ZGZfc0E0R0phaFdFQQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-10-22T09:58:20Z",
+   "last_seen": "2026-10-22T09:58:20Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8d68f4fa12c40849"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8d68f4fa12c40849",
+     "title": "「國慶記者團」訪台，國際媒體聚焦台海和平、科技合作與總合外交",
+     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12VU42djJDYTVtMlVQSTc4TlJmNzB1MEs0OUZCXzZwdzNNb2txRmVhTTlNZlZoWm1JdnpvTHFMWTMwVjBiYUFBT3FoTjF5QjFJQjVxeUl1OEV2ZGZfc0E0R0phaFdFQQ?oc=5",
+     "published": "2026-10-22T09:58:20Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "대만 외교부",
+     "source_domain": "mofa.gov.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 정부 공식 발표",
      "hedged": false
     }
    ]
@@ -9799,6 +9959,66 @@
      ],
      "source_name": "中國評論新聞",
      "source_domain": "hk.crntt.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261021_7181c9",
+   "headline": "China sends Navy after US warship as separate maritime standoff erupts near Taiwan",
+   "headline_source": "Heartlander News",
+   "headline_url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME1ybE1ZUERVanUwQ21pQnBKcWYzY3pCZDVGZkswdjV6VE9CVExLR19WS0FDRkZyQzRyckdweFVpTnZhMlVwUVg1b0RkRGViWjBYVVR3Z0VsRzUxdjRENmRsZU4yR1o0alk4SUdKR1EzTFZ1SXMtcmVsWGpZM2xJakl5aExEdjdfLTNQTkNBdzFMcDJQbE1XVk9pd0MyalR1bUxQS3d1d3BFRWJrUF8wNw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-21T15:25:21Z",
+   "last_seen": "2026-10-21T15:25:21Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ca462fadf741d2a2"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ca462fadf741d2a2",
+     "title": "China sends Navy after US warship as separate maritime standoff erupts near Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOME1ybE1ZUERVanUwQ21pQnBKcWYzY3pCZDVGZkswdjV6VE9CVExLR19WS0FDRkZyQzRyckdweFVpTnZhMlVwUVg1b0RkRGViWjBYVVR3Z0VsRzUxdjRENmRsZU4yR1o0alk4SUdKR1EzTFZ1SXMtcmVsWGpZM2xJakl5aExEdjdfLTNQTkNBdzFMcDJQbE1XVk9pd0MyalR1bUxQS3d1d3BFRWJrUF8wNw?oc=5",
+     "published": "2026-10-21T15:25:21Z",
+     "lang": "en",
+     "entities": [
+      "warship"
+     ],
+     "source_name": "Heartlander News",
+     "source_domain": "heartlandernews.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -12003,66 +12223,6 @@
      ],
      "source_name": "鏡報",
      "source_domain": "mirrordaily.news",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261020_7181c9",
-   "headline": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
-   "headline_source": "The Daily Caller",
-   "headline_url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWM0OXRHc293NjY3VVYzdzkxb2tEMTdSRklrcHVYdld5RkwycnZ2aDZfUGEzTUVpN05zNTZmSDhZY3EzR0hmemhrV053X1J1azlkX0VTLXlWZDBVNHd3MjNmZGltcjNDQjh3aF9mQU1Sa1hld1h5Y0pxeHRodjR0MVVlVXNKWXlNSmJCU0hnRmM5V3hKWHhma2xB?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-20T20:51:00Z",
-   "last_seen": "2026-10-20T20:51:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ca462fadf741d2a2"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ca462fadf741d2a2",
-     "title": "China Sends Navy After US Warship As Separate Maritime Standoff Erupts Near Taiwan",
-     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTWM0OXRHc293NjY3VVYzdzkxb2tEMTdSRklrcHVYdld5RkwycnZ2aDZfUGEzTUVpN05zNTZmSDhZY3EzR0hmemhrV053X1J1azlkX0VTLXlWZDBVNHd3MjNmZGltcjNDQjh3aF9mQU1Sa1hld1h5Y0pxeHRodjR0MVVlVXNKWXlNSmJCU0hnRmM5V3hKWHhma2xB?oc=5",
-     "published": "2026-10-20T20:51:00Z",
-     "lang": "en",
-     "entities": [
-      "warship"
-     ],
-     "source_name": "The Daily Caller",
-     "source_domain": "dailycaller.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -16379,66 +16539,6 @@
    ]
   },
   {
-   "id": "evt_20261018_ff829c",
-   "headline": "Nearly 20% rise in Taiwan residents' trips to mainland in first 8 months shows cross-Straits exchanges are an ‘irresistible trend’",
-   "headline_source": "環球時報 Global Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QWlhjSnVpT2NyUTVQVjRBbmVRVGt1NXRKR040RE5HU3dzS2xwU3JPRWZBZkZGMGpfQjdidDV4aVF3WnRBT3hrLWEtVlBIcG1wdUVYODVaVVNBUFJMdzNoSTl3?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-18T10:04:00Z",
-   "last_seen": "2026-10-18T10:04:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "f95f9e5a1c69c569"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "f95f9e5a1c69c569",
-     "title": "Nearly 20% rise in Taiwan residents' trips to mainland in first 8 months shows cross-Straits exchanges are an ‘irresistible trend’",
-     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QWlhjSnVpT2NyUTVQVjRBbmVRVGt1NXRKR040RE5HU3dzS2xwU3JPRWZBZkZGMGpfQjdidDV4aVF3WnRBT3hrLWEtVlBIcG1wdUVYODVaVVNBUFJMdzNoSTl3?oc=5",
-     "published": "2026-10-18T10:04:00Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "環球時報 Global Times",
-     "source_domain": "globaltimes.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261018_0628dc",
    "headline": "Foreign Ministry condemns planned China-Indonesia naval exercise-News-Radio Taiwan International",
    "headline_source": "中央廣播電臺",
@@ -16495,6 +16595,66 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261018_ff829c",
+   "headline": "Nearly 20% rise in Taiwan residents' trips to mainland in first 8 months shows cross-Straits exchanges are an ‘irresistible trend’",
+   "headline_source": "環球時報 Global Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QWlhjSnVpT2NyUTVQVjRBbmVRVGt1NXRKR040RE5HU3dzS2xwU3JPRWZBZkZGMGpfQjdidDV4aVF3WnRBT3hrLWEtVlBIcG1wdUVYODVaVVNBUFJMdzNoSTl3?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-10-18T07:00:00Z",
+   "last_seen": "2026-10-18T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "f95f9e5a1c69c569"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "f95f9e5a1c69c569",
+     "title": "Nearly 20% rise in Taiwan residents' trips to mainland in first 8 months shows cross-Straits exchanges are an ‘irresistible trend’",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9QWlhjSnVpT2NyUTVQVjRBbmVRVGt1NXRKR040RE5HU3dzS2xwU3JPRWZBZkZGMGpfQjdidDV4aVF3WnRBT3hrLWEtVlBIcG1wdUVYODVaVVNBUFJMdzNoSTl3?oc=5",
+     "published": "2026-10-18T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "環球時報 Global Times",
+     "source_domain": "globaltimes.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 공산당 기관지 계열",
      "hedged": false
     }
    ]
@@ -21920,186 +22080,6 @@
      ],
      "source_name": "風傳媒",
      "source_domain": "storm.mg",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261013_048c27",
-   "headline": "共軍多海演訓台海鬥爭最壞打算- 兩岸新聞- 旺報",
-   "headline_source": "中國時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOTVnM29ZZFJtMVIxVkNJYWdYRnZuMDR3NUdyQjRrNV9xMzhFVkl3N0NHRVhsM0xoZk5PNktQbTgzMEMtR2ZiMDMzclJ1ejU2OUxLR3VzRW1hSW1GOVJ0UWVqZVJ3Sm15MHRR?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-13T20:10:00Z",
-   "last_seen": "2026-10-13T20:10:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "06b9a7bc40752471"
-    ]
-   },
-   "articles": [
-    {
-     "id": "06b9a7bc40752471",
-     "title": "共軍多海演訓台海鬥爭最壞打算- 兩岸新聞- 旺報",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9hOTVnM29ZZFJtMVIxVkNJYWdYRnZuMDR3NUdyQjRrNV9xMzhFVkl3N0NHRVhsM0xoZk5PNktQbTgzMEMtR2ZiMDMzclJ1ejU2OUxLR3VzRW1hSW1GOVJ0UWVqZVJ3Sm15MHRR?oc=5",
-     "published": "2026-10-13T20:10:00Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "rehearsal",
-      "taiwan_strait"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261013_9bd201",
-   "headline": "两岸经贸数据戳破民进党当局“脱钩断链”幻想（两岸观察）",
-   "headline_source": "環球網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVkEwd21FOTBmSDhKdzNESWIxaWtMWGtqWjB0emp5VHd1YUFyam0wRllHakh0QVp3VUtwYUtKZEp0TTJsVno2R1pDU0ZsMXhVN25BMmpySl85UQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-10-13T17:03:00Z",
-   "last_seen": "2026-10-13T17:03:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 20.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": false,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "a943511d21b4c661"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "a943511d21b4c661",
-     "title": "两岸经贸数据戳破民进党当局“脱钩断链”幻想（两岸观察）",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpVkEwd21FOTBmSDhKdzNESWIxaWtMWGtqWjB0emp5VHd1YUFyam0wRllHakh0QVp3VUtwYUtKZEp0TTJsVno2R1pDU0ZsMXhVN25BMmpySl85UQ?oc=5",
-     "published": "2026-10-13T17:03:00Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "環球網",
-     "source_domain": "huanqiu.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "환구시보 중문판·중국 공산당 기관지 계열",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261013_9144d3",
-   "headline": "Chinese Military Conducts Unprecedented Drills Along Entire Coast, Pressuring Taiwan and US Allies",
-   "headline_source": "조선일보",
-   "headline_url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3VjZDlvSWlxQmRoMkpNNjIxRkQ1VnFKT3B0VlRoSnVlX0N3VGJKYnBKNTNtUlpISmZhRndUS1V3Q01fekVtTUR6emZ1akpWdnduYTAtYzlnM09HRk9IMjBnZ0VqRVJGd1V0YXZtWktTMHltRHpPdkM4TDFiWWFNemE5YkI?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-10-13T15:47:58Z",
-   "last_seen": "2026-10-13T15:47:58Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "1055c9998cad95e8"
-    ]
-   },
-   "articles": [
-    {
-     "id": "1055c9998cad95e8",
-     "title": "Chinese Military Conducts Unprecedented Drills Along Entire Coast, Pressuring Taiwan and US Allies",
-     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxON3VjZDlvSWlxQmRoMkpNNjIxRkQ1VnFKT3B0VlRoSnVlX0N3VGJKYnBKNTNtUlpISmZhRndUS1V3Q01fekVtTUR6emZ1akpWdnduYTAtYzlnM09HRk9IMjBnZ0VqRVJGd1V0YXZtWktTMHltRHpPdkM4TDFiWWFNemE5YkI?oc=5",
-     "published": "2026-10-13T15:47:58Z",
-     "lang": "en",
-     "entities": [
-      "rehearsal"
-     ],
-     "source_name": "조선일보",
-     "source_domain": "chosun.com",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",

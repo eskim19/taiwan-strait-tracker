@@ -1,32 +1,33 @@
 {
- "updated": "2026-10-27T15:23:39Z",
+ "updated": "2026-10-27T22:17:23Z",
  "checked": "2026-10-27",
- "duration_sec": 37.1,
+ "duration_sec": 33.6,
  "rolling_days": 14,
  "n_events": 361,
- "n_articles": 396,
+ "n_articles": 394,
  "grades": {
-  "C": 162,
   "D": 185,
-  "B": 14
+  "C": 161,
+  "B": 15
  },
- "cross_language_events": 2,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-10"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 7,
+  "T1": 8,
   "T2": 166,
-  "T3": 73,
+  "T3": 72,
   "T4": 17,
-  "T5": 113,
+  "T5": 112,
   "TA": 4
  },
  "t1_domains": [
   "aninews.in",
   "pts.org.tw",
+  "reuters.com",
   "rfi.fr"
  ],
  "feeds": [
@@ -50,9 +51,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 35,
-   "n_adopted": 18,
-   "newest": "2026-10-27T14:00:17+00:00",
+   "n_entries": 34,
+   "n_adopted": 16,
+   "newest": "2026-10-27T16:22:05+00:00",
    "stale": false,
    "error": null
   },
@@ -63,8 +64,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 11,
+   "n_entries": 67,
+   "n_adopted": 3,
    "newest": "2026-10-27T09:35:16+00:00",
    "stale": false,
    "error": null
@@ -77,8 +78,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 61,
-   "newest": "2026-10-27T14:00:50+00:00",
+   "n_adopted": 54,
+   "newest": "2026-10-27T19:57:12+00:00",
    "stale": false,
    "error": null
   },
@@ -91,7 +92,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 16,
-   "newest": "2026-10-27T05:16:00+00:00",
+   "newest": "2026-10-27T16:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -103,7 +104,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
+   "n_adopted": 3,
    "newest": "2026-10-27T14:04:00+00:00",
    "stale": false,
    "error": null
@@ -115,9 +116,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
+   "n_entries": 36,
    "n_adopted": 2,
-   "newest": "2026-10-27T11:32:56+00:00",
+   "newest": "2026-10-27T12:42:01+00:00",
    "stale": false,
    "error": null
   },
@@ -128,9 +129,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-10-27T00:00:00+00:00",
+   "n_entries": 52,
+   "n_adopted": 0,
+   "newest": "2026-10-28T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -143,7 +144,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-27T15:00:14+00:00",
+   "newest": "2026-10-27T21:30:07+00:00",
    "stale": false,
    "error": null
   },
@@ -193,9 +194,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 91,
+   "n_entries": 92,
    "n_adopted": 0,
-   "newest": "2026-10-27T14:45:27+00:00",
+   "newest": "2026-10-27T22:07:54+00:00",
    "stale": false,
    "error": null
   },
@@ -208,7 +209,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-27T13:25:54+00:00",
+   "newest": "2026-10-27T19:14:44+00:00",
    "stale": false,
    "error": null
   },
@@ -221,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-27T14:56:40+00:00",
+   "newest": "2026-10-27T21:47:34+00:00",
    "stale": false,
    "error": null
   },
@@ -246,14 +247,14 @@
    "sample_title": "共機3架次擾台！1架越中線 共艦6艘、公務船9艘活動 | Newtalk"
   },
   {
+   "domain": "hk.crntt.com",
+   "n_articles": 6,
+   "sample_title": "美投入台海衝突？王長河：純屬戰略話術"
+  },
+  {
    "domain": "n.yam.com",
    "n_articles": 6,
    "sample_title": "日本海保船又來台海防颱還把大陸海警船引來 海巡署反應竟然是"
-  },
-  {
-   "domain": "hk.crntt.com",
-   "n_articles": 5,
-   "sample_title": "學者：中美新定位助台海穩定 消極因素猶存"
   },
   {
    "domain": "taiwandaily.net",
@@ -278,7 +279,7 @@
   {
    "domain": "sunmedia.tw",
    "n_articles": 3,
-   "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
+   "sample_title": "北京造船實力超美國兩倍 專家警示台海軍力失衡"
   },
   {
    "domain": "mnews.tw",
@@ -331,9 +332,9 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
-   "domain": "teepr.com",
+   "domain": "ddnews.gov.in",
    "n_articles": 1,
-   "sample_title": "再轟台灣偷走晶片！川普嗆歷任總統：夠聰明就沒台海問題"
+   "sample_title": "Keen Sword 27: China shadows biggest Japan–US military drills near Taiwan"
   },
   {
    "domain": "ctv.com.tw",
