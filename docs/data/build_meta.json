@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-27T22:17:23Z",
- "checked": "2026-10-27",
- "duration_sec": 33.6,
+ "updated": "2026-10-28T05:46:59Z",
+ "checked": "2026-10-28",
+ "duration_sec": 33.7,
  "rolling_days": 14,
- "n_events": 361,
- "n_articles": 394,
+ "n_events": 359,
+ "n_articles": 396,
  "grades": {
-  "D": 185,
-  "C": 161,
+  "D": 187,
+  "C": 157,
   "B": 15
  },
  "cross_language_events": 1,
@@ -17,17 +17,16 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 8,
-  "T2": 166,
-  "T3": 72,
+  "T1": 7,
+  "T2": 163,
+  "T3": 75,
   "T4": 17,
-  "T5": 112,
+  "T5": 115,
   "TA": 4
  },
  "t1_domains": [
   "aninews.in",
   "pts.org.tw",
-  "reuters.com",
   "rfi.fr"
  ],
  "feeds": [
@@ -38,9 +37,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
-   "n_adopted": 7,
-   "newest": "2026-10-27T07:02:10+00:00",
+   "n_entries": 100,
+   "n_adopted": 13,
+   "newest": "2026-10-28T02:18:00+00:00",
    "stale": false,
    "error": null
   },
@@ -51,9 +50,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
-   "n_adopted": 16,
-   "newest": "2026-10-27T16:22:05+00:00",
+   "n_entries": 27,
+   "n_adopted": 12,
+   "newest": "2026-10-28T04:25:44+00:00",
    "stale": false,
    "error": null
   },
@@ -64,9 +63,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
-   "n_adopted": 3,
-   "newest": "2026-10-27T09:35:16+00:00",
+   "n_entries": 100,
+   "n_adopted": 12,
+   "newest": "2026-10-28T03:10:16+00:00",
    "stale": false,
    "error": null
   },
@@ -78,8 +77,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 54,
-   "newest": "2026-10-27T19:57:12+00:00",
+   "n_adopted": 65,
+   "newest": "2026-10-28T05:26:15+00:00",
    "stale": false,
    "error": null
   },
@@ -91,8 +90,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-10-27T16:31:00+00:00",
+   "n_adopted": 17,
+   "newest": "2026-10-28T04:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -105,7 +104,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 3,
-   "newest": "2026-10-27T14:04:00+00:00",
+   "newest": "2026-10-28T02:33:29+00:00",
    "stale": false,
    "error": null
   },
@@ -116,9 +115,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 36,
+   "n_entries": 44,
    "n_adopted": 2,
-   "newest": "2026-10-27T12:42:01+00:00",
+   "newest": "2026-10-28T04:57:41+00:00",
    "stale": false,
    "error": null
   },
@@ -144,7 +143,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-27T21:30:07+00:00",
+   "newest": "2026-10-28T05:00:07+00:00",
    "stale": false,
    "error": null
   },
@@ -157,7 +156,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-27T12:33:00+00:00",
+   "newest": "2026-10-28T05:21:00+00:00",
    "stale": false,
    "error": null
   },
@@ -194,9 +193,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 92,
+   "n_entries": 90,
    "n_adopted": 0,
-   "newest": "2026-10-27T22:07:54+00:00",
+   "newest": "2026-10-28T05:34:21+00:00",
    "stale": false,
    "error": null
   },
@@ -209,7 +208,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-27T19:14:44+00:00",
+   "newest": "2026-10-28T03:43:38+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +221,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-27T21:47:34+00:00",
+   "newest": "2026-10-28T04:28:22+00:00",
    "stale": false,
    "error": null
   },
@@ -247,14 +246,14 @@
    "sample_title": "共機3架次擾台！1架越中線 共艦6艘、公務船9艘活動 | Newtalk"
   },
   {
+   "domain": "n.yam.com",
+   "n_articles": 7,
+   "sample_title": "【湯紹成專欄】AI如何改變台海武力對峙"
+  },
+  {
    "domain": "hk.crntt.com",
    "n_articles": 6,
    "sample_title": "美投入台海衝突？王長河：純屬戰略話術"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 6,
-   "sample_title": "日本海保船又來台海防颱還把大陸海警船引來 海巡署反應竟然是"
   },
   {
    "domain": "taiwandaily.net",
@@ -265,6 +264,11 @@
    "domain": "worldjournal.com",
    "n_articles": 4,
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
+  },
+  {
+   "domain": "ftnn.com.tw",
+   "n_articles": 3,
+   "sample_title": "偵獲6架次共機、7共艦擾台 國軍嚴密監控應處"
   },
   {
    "domain": "mirrordaily.news",
@@ -292,6 +296,11 @@
    "sample_title": "【川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」】 怎麼又提起了呢！ （#01J）"
   },
   {
+   "domain": "agenzianova.com",
+   "n_articles": 2,
+   "sample_title": "Taiwan: Three Chinese military aircraft and 12 ships detected in the Strait"
+  },
+  {
    "domain": "ctinews.com",
    "n_articles": 2,
    "sample_title": "川普嗆台灣：搶走晶片生意 美國若有聰明總統「台海問題不存在」"
@@ -305,11 +314,6 @@
    "domain": "hkej.com",
    "n_articles": 2,
    "sample_title": "日八船避風闖台海 中國海警全程監控"
-  },
-  {
-   "domain": "ftnn.com.tw",
-   "n_articles": 2,
-   "sample_title": "陸委會民調：民意近8成贊成兩岸互不隸屬、逾8成支持修法防中共在台犯罪"
   },
   {
    "domain": "militarywatchmagazine.com",
@@ -332,14 +336,9 @@
    "sample_title": "澳國防軍司令：密切關注台海局勢"
   },
   {
-   "domain": "ddnews.gov.in",
+   "domain": "dotdotnews.com",
    "n_articles": 1,
-   "sample_title": "Keen Sword 27: China shadows biggest Japan–US military drills near Taiwan"
-  },
-  {
-   "domain": "ctv.com.tw",
-   "n_articles": 1,
-   "sample_title": "台海若開打\"菲石油成關鍵\"?! 專家籲\"速啟核電\"才能避險│中視新聞 20261027"
+   "sample_title": "特朗普指沒人在乎台海問題國台辦回應- 兩岸"
   }
  ]
 }
