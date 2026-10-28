@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-28T13:00:18Z",
+ "updated": "2026-10-28T20:18:36Z",
  "checked": "2026-10-28",
- "duration_sec": 33.6,
+ "duration_sec": 33.3,
  "rolling_days": 14,
- "n_events": 359,
- "n_articles": 394,
+ "n_events": 365,
+ "n_articles": 401,
  "grades": {
-  "B": 18,
-  "C": 151,
-  "D": 190
+  "C": 154,
+  "D": 193,
+  "B": 18
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,14 +18,15 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 9,
-  "T2": 159,
-  "T3": 76,
-  "T4": 15,
-  "T5": 116,
+  "T2": 162,
+  "T3": 75,
+  "T4": 17,
+  "T5": 118,
   "TA": 4
  },
  "t1_domains": [
   "aninews.in",
+  "bloomberg.com",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr"
@@ -39,7 +40,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 12,
    "newest": "2026-10-28T02:18:00+00:00",
    "stale": false,
    "error": null
@@ -51,9 +52,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
-   "n_adopted": 16,
-   "newest": "2026-10-28T06:47:00+00:00",
+   "n_entries": 37,
+   "n_adopted": 19,
+   "newest": "2026-10-28T17:30:12+00:00",
    "stale": false,
    "error": null
   },
@@ -66,7 +67,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 13,
-   "newest": "2026-10-28T10:03:00+00:00",
+   "newest": "2026-10-28T15:22:00+00:00",
    "stale": false,
    "error": null
   },
@@ -78,8 +79,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-10-28T12:51:59+00:00",
+   "n_adopted": 60,
+   "newest": "2026-10-28T18:28:25+00:00",
    "stale": false,
    "error": null
   },
@@ -91,7 +92,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
+   "n_adopted": 17,
    "newest": "2026-10-28T10:48:23+00:00",
    "stale": false,
    "error": null
@@ -104,8 +105,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 1,
-   "newest": "2026-10-28T12:07:00+00:00",
+   "n_adopted": 3,
+   "newest": "2026-10-28T07:15:21+00:00",
    "stale": false,
    "error": null
   },
@@ -116,9 +117,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 54,
-   "n_adopted": 4,
-   "newest": "2026-10-28T10:52:08+00:00",
+   "n_entries": 44,
+   "n_adopted": 2,
+   "newest": "2026-10-28T12:26:18+00:00",
    "stale": false,
    "error": null
   },
@@ -130,8 +131,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 52,
-   "n_adopted": 0,
-   "newest": "2026-10-28T00:00:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-29T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -144,7 +145,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-28T12:30:14+00:00",
+   "newest": "2026-10-28T15:54:07+00:00",
    "stale": false,
    "error": null
   },
@@ -157,7 +158,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 1,
-   "newest": "2026-10-28T11:34:00+00:00",
+   "newest": "2026-10-28T15:26:00+00:00",
    "stale": false,
    "error": null
   },
@@ -196,7 +197,7 @@
    "http": 200,
    "n_entries": 90,
    "n_adopted": 0,
-   "newest": "2026-10-28T12:36:19+00:00",
+   "newest": "2026-10-28T18:34:01+00:00",
    "stale": false,
    "error": null
   },
@@ -207,9 +208,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 17,
+   "n_entries": 18,
    "n_adopted": 0,
-   "newest": "2026-10-28T10:31:22+00:00",
+   "newest": "2026-10-28T17:34:41+00:00",
    "stale": false,
    "error": null
   },
@@ -222,7 +223,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-28T12:22:20+00:00",
+   "newest": "2026-10-28T20:02:42+00:00",
    "stale": false,
    "error": null
   },
@@ -287,11 +288,6 @@
    "sample_title": "大陸派4艘海警船編隊現巴士海峽 台海巡監控"
   },
   {
-   "domain": "sunmedia.tw",
-   "n_articles": 3,
-   "sample_title": "北京造船實力超美國兩倍 專家警示台海軍力失衡"
-  },
-  {
    "domain": "mnews.tw",
    "n_articles": 3,
    "sample_title": "8艘日巡視船台海避颱遭中海警尾隨 海巡署批製造「台海內水化」假象"
@@ -315,6 +311,11 @@
    "domain": "crntt.tw",
    "n_articles": 2,
    "sample_title": "學者： 中美新定位助台海穩定消極因素猶存"
+  },
+  {
+   "domain": "sunmedia.tw",
+   "n_articles": 2,
+   "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
   },
   {
    "domain": "hkej.com",
