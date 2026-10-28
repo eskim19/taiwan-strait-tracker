@@ -1,32 +1,33 @@
 {
- "updated": "2026-10-28T05:46:59Z",
+ "updated": "2026-10-28T13:00:18Z",
  "checked": "2026-10-28",
- "duration_sec": 33.7,
+ "duration_sec": 33.6,
  "rolling_days": 14,
  "n_events": 359,
- "n_articles": 396,
+ "n_articles": 394,
  "grades": {
-  "D": 187,
-  "C": 157,
-  "B": 15
+  "B": 18,
+  "C": 151,
+  "D": 190
  },
- "cross_language_events": 1,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-10"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 7,
-  "T2": 163,
-  "T3": 75,
-  "T4": 17,
-  "T5": 115,
+  "T1": 9,
+  "T2": 159,
+  "T3": 76,
+  "T4": 15,
+  "T5": 116,
   "TA": 4
  },
  "t1_domains": [
   "aninews.in",
   "pts.org.tw",
+  "reuters.com",
   "rfi.fr"
  ],
  "feeds": [
@@ -50,9 +51,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 27,
-   "n_adopted": 12,
-   "newest": "2026-10-28T04:25:44+00:00",
+   "n_entries": 34,
+   "n_adopted": 16,
+   "newest": "2026-10-28T06:47:00+00:00",
    "stale": false,
    "error": null
   },
@@ -64,8 +65,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 12,
-   "newest": "2026-10-28T03:10:16+00:00",
+   "n_adopted": 13,
+   "newest": "2026-10-28T10:03:00+00:00",
    "stale": false,
    "error": null
   },
@@ -77,8 +78,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 65,
-   "newest": "2026-10-28T05:26:15+00:00",
+   "n_adopted": 63,
+   "newest": "2026-10-28T12:51:59+00:00",
    "stale": false,
    "error": null
   },
@@ -90,8 +91,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
-   "newest": "2026-10-28T04:04:00+00:00",
+   "n_adopted": 16,
+   "newest": "2026-10-28T10:48:23+00:00",
    "stale": false,
    "error": null
   },
@@ -103,8 +104,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-10-28T02:33:29+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-28T12:07:00+00:00",
    "stale": false,
    "error": null
   },
@@ -115,9 +116,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 44,
-   "n_adopted": 2,
-   "newest": "2026-10-28T04:57:41+00:00",
+   "n_entries": 54,
+   "n_adopted": 4,
+   "newest": "2026-10-28T10:52:08+00:00",
    "stale": false,
    "error": null
   },
@@ -143,7 +144,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-28T05:00:07+00:00",
+   "newest": "2026-10-28T12:30:14+00:00",
    "stale": false,
    "error": null
   },
@@ -155,8 +156,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 0,
-   "newest": "2026-10-28T05:21:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-10-28T11:34:00+00:00",
    "stale": false,
    "error": null
   },
@@ -195,7 +196,7 @@
    "http": 200,
    "n_entries": 90,
    "n_adopted": 0,
-   "newest": "2026-10-28T05:34:21+00:00",
+   "newest": "2026-10-28T12:36:19+00:00",
    "stale": false,
    "error": null
   },
@@ -208,7 +209,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-28T03:43:38+00:00",
+   "newest": "2026-10-28T10:31:22+00:00",
    "stale": false,
    "error": null
   },
@@ -221,7 +222,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-28T04:28:22+00:00",
+   "newest": "2026-10-28T12:22:20+00:00",
    "stale": false,
    "error": null
   },
@@ -243,17 +244,17 @@
   {
    "domain": "today.line.me",
    "n_articles": 14,
-   "sample_title": "共機3架次擾台！1架越中線 共艦6艘、公務船9艘活動 | Newtalk"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 7,
-   "sample_title": "【湯紹成專欄】AI如何改變台海武力對峙"
+   "sample_title": "福爾摩沙俱樂部遞聯合聲明 賴清德：從烏克蘭到台海都體會和平需要實力 | Newtalk"
   },
   {
    "domain": "hk.crntt.com",
    "n_articles": 6,
    "sample_title": "美投入台海衝突？王長河：純屬戰略話術"
+  },
+  {
+   "domain": "n.yam.com",
+   "n_articles": 6,
+   "sample_title": "【湯紹成專欄】AI如何改變台海武力對峙"
   },
   {
    "domain": "taiwandaily.net",
@@ -269,6 +270,11 @@
    "domain": "ftnn.com.tw",
    "n_articles": 3,
    "sample_title": "偵獲6架次共機、7共艦擾台 國軍嚴密監控應處"
+  },
+  {
+   "domain": "agenzianova.com",
+   "n_articles": 3,
+   "sample_title": "Taiwan: Three Chinese military aircraft and 12 ships detected in the Strait"
   },
   {
    "domain": "mirrordaily.news",
@@ -291,14 +297,14 @@
    "sample_title": "8艘日巡視船台海避颱遭中海警尾隨 海巡署批製造「台海內水化」假象"
   },
   {
-   "domain": "facebook.com",
+   "domain": "ctee.com.tw",
    "n_articles": 2,
-   "sample_title": "【川普再轟台灣偷走晶片！ 嗆美歷任總統「夠聰明就沒台海問題」】 怎麼又提起了呢！ （#01J）"
+   "sample_title": "福爾摩沙俱樂部呈遞聯合聲明予賴總統反對單方面改變台海現狀- 要聞"
   },
   {
-   "domain": "agenzianova.com",
+   "domain": "i-meihua.com",
    "n_articles": 2,
-   "sample_title": "Taiwan: Three Chinese military aircraft and 12 ships detected in the Strait"
+   "sample_title": "記者編輯部| 【李其澤專欄】「利劍27」軍演與台海危機的誤判風險"
   },
   {
    "domain": "ctinews.com",
@@ -334,11 +340,6 @@
    "domain": "soundofhope.org",
    "n_articles": 2,
    "sample_title": "澳國防軍司令：密切關注台海局勢"
-  },
-  {
-   "domain": "dotdotnews.com",
-   "n_articles": 1,
-   "sample_title": "特朗普指沒人在乎台海問題國台辦回應- 兩岸"
   }
  ]
 }
