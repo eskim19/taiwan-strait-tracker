@@ -1,14 +1,14 @@
 {
- "updated": "2026-10-29T18:30:11Z",
- "checked": "2026-10-29",
- "duration_sec": 31.9,
+ "updated": "2026-10-30T01:03:57Z",
+ "checked": "2026-10-30",
+ "duration_sec": 32.5,
  "rolling_days": 14,
- "n_events": 406,
- "n_articles": 441,
+ "n_events": 411,
+ "n_articles": 446,
  "grades": {
-  "C": 166,
-  "D": 222,
-  "B": 18
+  "D": 224,
+  "C": 168,
+  "B": 19
  },
  "cross_language_events": 3,
  "tension_error": null,
@@ -17,10 +17,10 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 10,
-  "T2": 172,
+  "T1": 11,
+  "T2": 173,
   "T3": 82,
-  "T4": 18,
+  "T4": 19,
   "T5": 139,
   "TA": 6
  },
@@ -28,6 +28,7 @@
   "aninews.in",
   "bloomberg.com",
   "pts.org.tw",
+  "reuters.com",
   "rfi.fr",
   "yna.co.kr"
  ],
@@ -39,8 +40,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 14,
+   "n_entries": 63,
+   "n_adopted": 10,
    "newest": "2026-10-29T08:11:47+00:00",
    "stale": false,
    "error": null
@@ -52,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
-   "n_adopted": 19,
-   "newest": "2026-10-29T14:03:00+00:00",
+   "n_entries": 42,
+   "n_adopted": 21,
+   "newest": "2026-10-29T21:10:00+00:00",
    "stale": false,
    "error": null
   },
@@ -65,8 +66,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 73,
-   "n_adopted": 7,
+   "n_entries": 72,
+   "n_adopted": 8,
    "newest": "2026-10-29T08:32:00+00:00",
    "stale": false,
    "error": null
@@ -79,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-10-29T17:25:00+00:00",
+   "n_adopted": 61,
+   "newest": "2026-10-30T00:49:52+00:00",
    "stale": false,
    "error": null
   },
@@ -92,8 +93,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
-   "newest": "2026-10-29T07:28:00+00:00",
+   "n_adopted": 16,
+   "newest": "2026-10-30T00:57:25+00:00",
    "stale": false,
    "error": null
   },
@@ -105,8 +106,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 1,
-   "newest": "2026-10-29T14:44:00+00:00",
+   "n_adopted": 3,
+   "newest": "2026-10-30T00:15:00+00:00",
    "stale": false,
    "error": null
   },
@@ -131,7 +132,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
+   "n_adopted": 0,
    "newest": "2026-10-30T00:00:00+00:00",
    "stale": false,
    "error": null
@@ -145,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-10-29T15:39:38+00:00",
+   "newest": "2026-10-30T01:00:11+00:00",
    "stale": false,
    "error": null
   },
@@ -158,7 +159,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-29T12:06:00+00:00",
+   "newest": "2026-10-30T01:01:00+00:00",
    "stale": false,
    "error": null
   },
@@ -171,7 +172,7 @@
    "http": 200,
    "n_entries": 10,
    "n_adopted": 4,
-   "newest": "2026-10-29T18:28:02+00:00",
+   "newest": "2026-10-29T18:29:27+00:00",
    "stale": false,
    "error": null
   },
@@ -195,9 +196,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 91,
+   "n_entries": 89,
    "n_adopted": 0,
-   "newest": "2026-10-29T18:10:01+00:00",
+   "newest": "2026-10-30T00:56:38+00:00",
    "stale": false,
    "error": null
   },
@@ -210,7 +211,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-10-29T14:49:25+00:00",
+   "newest": "2026-10-30T00:59:04+00:00",
    "stale": false,
    "error": null
   },
@@ -223,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-29T18:03:21+00:00",
+   "newest": "2026-10-30T00:11:20+00:00",
    "stale": false,
    "error": null
   },
@@ -258,6 +259,11 @@
    "sample_title": "特朗普要晶片不在乎台海 莊瑞雄：聽聽就好"
   },
   {
+   "domain": "taiwandaily.net",
+   "n_articles": 5,
+   "sample_title": "筱君 台灣 PLUS-蝴蝶效應全面發酵 從巴爾幹變天看台海地緣新局 1029"
+  },
+  {
    "domain": "ftnn.com.tw",
    "n_articles": 4,
    "sample_title": "美軍評估中共2027年具攻台能力 顧立雄：中國始終沒有放棄武力併吞台灣"
@@ -273,14 +279,14 @@
    "sample_title": "福爾摩沙俱樂部呈遞聯合聲明予賴總統反對單方面改變台海現狀- 要聞"
   },
   {
-   "domain": "taiwandaily.net",
-   "n_articles": 4,
-   "sample_title": "下班瀚你聊-美軍新準則 台海衝突首日就參戰 1025"
-  },
-  {
    "domain": "worldjournal.com",
    "n_articles": 4,
    "sample_title": "美陸軍新準則曝光 擬台海戰爭首日可立即投入作戰"
+  },
+  {
+   "domain": "sunmedia.tw",
+   "n_articles": 3,
+   "sample_title": "美軍高層重申2027台海潛在衝突窗口有效 籲強化備戰"
   },
   {
    "domain": "ctinews.com",
@@ -316,11 +322,6 @@
    "domain": "crntt.tw",
    "n_articles": 2,
    "sample_title": "學者： 中美新定位助台海穩定消極因素猶存"
-  },
-  {
-   "domain": "sunmedia.tw",
-   "n_articles": 2,
-   "sample_title": "美日「利劍27」軍演聚焦台海突發狀況 台灣樂見區域合作"
   },
   {
    "domain": "hkej.com",
