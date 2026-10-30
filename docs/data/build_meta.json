@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-30T18:02:19Z",
+ "updated": "2026-10-30T22:24:31Z",
  "checked": "2026-10-30",
- "duration_sec": 34.5,
+ "duration_sec": 34.0,
  "rolling_days": 14,
  "n_events": 440,
- "n_articles": 474,
+ "n_articles": 471,
  "grades": {
   "C": 181,
   "D": 243,
@@ -19,9 +19,9 @@
  "tier_articles": {
   "T1": 10,
   "T2": 184,
-  "T3": 92,
+  "T3": 91,
   "T4": 19,
-  "T5": 148,
+  "T5": 146,
   "TA": 6
  },
  "t1_domains": [
@@ -40,7 +40,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
+   "n_adopted": 15,
    "newest": "2026-10-30T01:10:09+00:00",
    "stale": false,
    "error": null
@@ -52,8 +52,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
-   "n_adopted": 26,
+   "n_entries": 44,
+   "n_adopted": 25,
    "newest": "2026-10-30T07:12:00+00:00",
    "stale": false,
    "error": null
@@ -65,7 +65,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
+   "n_entries": 65,
    "n_adopted": 7,
    "newest": "2026-10-29T08:32:00+00:00",
    "stale": false,
@@ -79,8 +79,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-10-30T17:16:02+00:00",
+   "n_adopted": 58,
+   "newest": "2026-10-30T20:32:58+00:00",
    "stale": false,
    "error": null
   },
@@ -92,7 +92,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
+   "n_adopted": 14,
    "newest": "2026-10-30T03:24:26+00:00",
    "stale": false,
    "error": null
@@ -105,8 +105,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-10-30T14:22:00+00:00",
+   "n_adopted": 10,
+   "newest": "2026-10-30T14:24:00+00:00",
    "stale": false,
    "error": null
   },
@@ -145,7 +145,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-10-30T16:33:35+00:00",
+   "newest": "2026-10-30T22:20:38+00:00",
    "stale": false,
    "error": null
   },
@@ -195,9 +195,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 87,
+   "n_entries": 89,
    "n_adopted": 0,
-   "newest": "2026-10-30T16:40:19+00:00",
+   "newest": "2026-10-30T21:13:28+00:00",
    "stale": false,
    "error": null
   },
@@ -223,7 +223,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-30T17:43:21+00:00",
+   "newest": "2026-10-30T21:00:51+00:00",
    "stale": false,
    "error": null
   },
@@ -232,12 +232,12 @@
    "name": "Global Taiwan Institute",
    "critical": false,
    "status": "ok",
-   "health": "stale",
+   "health": "ok",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 1,
-   "newest": "2026-10-16T05:03:38+00:00",
-   "stale": true,
+   "newest": "2026-10-30T08:00:05+00:00",
+   "stale": false,
    "error": null
   }
  ],
@@ -259,8 +259,8 @@
   },
   {
    "domain": "taiwandaily.net",
-   "n_articles": 5,
-   "sample_title": "筱君 台灣 PLUS-蝴蝶效應全面發酵 從巴爾幹變天看台海地緣新局 1029"
+   "n_articles": 6,
+   "sample_title": "新聞大破解-中央軍委剩兩人 共軍還能打台灣？1030"
   },
   {
    "domain": "ctee.com.tw",
