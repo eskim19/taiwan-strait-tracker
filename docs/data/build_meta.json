@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-30T10:05:39Z",
+ "updated": "2026-10-30T18:02:19Z",
  "checked": "2026-10-30",
- "duration_sec": 32.7,
+ "duration_sec": 34.5,
  "rolling_days": 14,
- "n_events": 433,
- "n_articles": 467,
+ "n_events": 440,
+ "n_articles": 474,
  "grades": {
-  "D": 239,
-  "C": 178,
+  "C": 181,
+  "D": 243,
   "B": 16
  },
- "cross_language_events": 2,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-10"
@@ -18,10 +18,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 10,
-  "T2": 181,
+  "T2": 184,
   "T3": 92,
   "T4": 19,
-  "T5": 144,
+  "T5": 148,
   "TA": 6
  },
  "t1_domains": [
@@ -40,7 +40,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 14,
+   "n_adopted": 13,
    "newest": "2026-10-30T01:10:09+00:00",
    "stale": false,
    "error": null
@@ -52,8 +52,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 42,
-   "n_adopted": 25,
+   "n_entries": 43,
+   "n_adopted": 26,
    "newest": "2026-10-30T07:12:00+00:00",
    "stale": false,
    "error": null
@@ -65,7 +65,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 68,
+   "n_entries": 67,
    "n_adopted": 7,
    "newest": "2026-10-29T08:32:00+00:00",
    "stale": false,
@@ -79,8 +79,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
-   "newest": "2026-10-30T09:50:28+00:00",
+   "n_adopted": 62,
+   "newest": "2026-10-30T17:16:02+00:00",
    "stale": false,
    "error": null
   },
@@ -92,7 +92,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 21,
+   "n_adopted": 20,
    "newest": "2026-10-30T03:24:26+00:00",
    "stale": false,
    "error": null
@@ -105,8 +105,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-10-30T09:44:45+00:00",
+   "n_adopted": 14,
+   "newest": "2026-10-30T14:22:00+00:00",
    "stale": false,
    "error": null
   },
@@ -117,9 +117,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 48,
-   "n_adopted": 3,
-   "newest": "2026-10-30T07:57:06+00:00",
+   "n_entries": 36,
+   "n_adopted": 1,
+   "newest": "2026-10-30T11:49:31+00:00",
    "stale": false,
    "error": null
   },
@@ -130,9 +130,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
-   "n_adopted": 0,
-   "newest": "2026-10-30T00:00:00+00:00",
+   "n_entries": 47,
+   "n_adopted": 1,
+   "newest": "2026-10-31T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -145,7 +145,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-10-30T10:00:06+00:00",
+   "newest": "2026-10-30T16:33:35+00:00",
    "stale": false,
    "error": null
   },
@@ -158,7 +158,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-10-30T08:50:00+00:00",
+   "newest": "2026-10-30T10:49:00+00:00",
    "stale": false,
    "error": null
   },
@@ -195,9 +195,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 86,
+   "n_entries": 87,
    "n_adopted": 0,
-   "newest": "2026-10-30T09:03:13+00:00",
+   "newest": "2026-10-30T16:40:19+00:00",
    "stale": false,
    "error": null
   },
@@ -223,7 +223,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-30T09:54:50+00:00",
+   "newest": "2026-10-30T17:43:21+00:00",
    "stale": false,
    "error": null
   },
@@ -249,8 +249,8 @@
   },
   {
    "domain": "n.yam.com",
-   "n_articles": 9,
-   "sample_title": "吳志中午宴歐洲兩岸專家學者團 交流台歐關係與台海情勢"
+   "n_articles": 7,
+   "sample_title": "共軍主導批蔡康永、發布台北市空拍照 陸委會：干擾台灣選舉手法"
   },
   {
    "domain": "hk.crntt.com",
@@ -303,6 +303,21 @@
    "sample_title": "川普又開砲！轟台灣「100%偷走美晶片生意」低價傾銷狂言：若有聰明總統台海根本沒人在乎- 鏡報"
   },
   {
+   "domain": "crntt.com",
+   "n_articles": 2,
+   "sample_title": "翁明賢：美日“台海有事”劇本最緊迫是撤僑"
+  },
+  {
+   "domain": "cmoney.tw",
+   "n_articles": 2,
+   "sample_title": "台海风暴将至？美军紧盯2027 五中全会究竟藏了什么？(视频)"
+  },
+  {
+   "domain": "facebook.com",
+   "n_articles": 2,
+   "sample_title": "【巴基斯坦一度拒台進出領空 歐盟說話了「支持維持台海現狀」】 （#大表哥）"
+  },
+  {
    "domain": "news.ttv.com.tw",
    "n_articles": 2,
    "sample_title": "美軍示警共軍2027年武力犯台 顧立雄：中國始終未放棄武統台灣"
@@ -326,21 +341,6 @@
    "domain": "crntt.tw",
    "n_articles": 2,
    "sample_title": "學者： 中美新定位助台海穩定消極因素猶存"
-  },
-  {
-   "domain": "hkej.com",
-   "n_articles": 2,
-   "sample_title": "日八船避風闖台海 中國海警全程監控"
-  },
-  {
-   "domain": "militarywatchmagazine.com",
-   "n_articles": 2,
-   "sample_title": "China Deploys Recon Drones and Aircraft to Monitor U.S. and Japan’s Taiwan War D"
-  },
-  {
-   "domain": "turnnewsapp.com",
-   "n_articles": 2,
-   "sample_title": "避免衝突升級全面戰爭 維持台海穩定最佳策略"
   }
  ]
 }
