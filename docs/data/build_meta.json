@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-31T12:37:38Z",
+ "updated": "2026-10-31T19:19:49Z",
  "checked": "2026-10-31",
- "duration_sec": 32.2,
+ "duration_sec": 32.8,
  "rolling_days": 14,
- "n_events": 453,
- "n_articles": 492,
+ "n_events": 451,
+ "n_articles": 494,
  "grades": {
-  "C": 184,
-  "D": 249,
-  "B": 20
+  "B": 22,
+  "D": 248,
+  "C": 181
  },
- "cross_language_events": 2,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-10"
@@ -20,7 +20,7 @@
   "T1": 11,
   "T2": 193,
   "T3": 99,
-  "T4": 21,
+  "T4": 22,
   "T5": 146,
   "TA": 6
  },
@@ -40,9 +40,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-10-30T01:10:09+00:00",
+   "n_entries": 65,
+   "n_adopted": 9,
+   "newest": "2026-10-31T16:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -53,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 43,
+   "n_entries": 44,
    "n_adopted": 26,
-   "newest": "2026-10-31T12:00:09+00:00",
+   "newest": "2026-10-31T16:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -66,7 +66,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 64,
+   "n_entries": 63,
    "n_adopted": 5,
    "newest": "2026-10-30T23:32:58+00:00",
    "stale": false,
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 67,
-   "newest": "2026-10-31T11:32:00+00:00",
+   "n_adopted": 63,
+   "newest": "2026-10-31T17:16:08+00:00",
    "stale": false,
    "error": null
   },
@@ -93,8 +93,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-10-31T11:59:00+00:00",
+   "n_adopted": 20,
+   "newest": "2026-10-31T13:44:00+00:00",
    "stale": false,
    "error": null
   },
@@ -106,8 +106,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 18,
-   "newest": "2026-10-31T12:34:00+00:00",
+   "n_adopted": 16,
+   "newest": "2026-10-31T15:23:44+00:00",
    "stale": false,
    "error": null
   },
@@ -118,9 +118,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 2,
-   "newest": "2026-10-31T12:12:28+00:00",
+   "n_entries": 34,
+   "n_adopted": 1,
+   "newest": "2026-10-31T12:46:31+00:00",
    "stale": false,
    "error": null
   },
@@ -131,9 +131,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 1,
-   "newest": "2026-10-31T00:00:00+00:00",
+   "n_entries": 41,
+   "n_adopted": 0,
+   "newest": "2026-11-01T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -146,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-10-31T12:00:09+00:00",
+   "newest": "2026-10-31T16:17:17+00:00",
    "stale": false,
    "error": null
   },
@@ -198,7 +198,7 @@
    "http": 200,
    "n_entries": 92,
    "n_adopted": 0,
-   "newest": "2026-10-31T11:01:36+00:00",
+   "newest": "2026-10-31T18:47:33+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-10-31T12:14:15+00:00",
+   "newest": "2026-10-31T18:50:25+00:00",
    "stale": false,
    "error": null
   },
@@ -245,8 +245,8 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 18,
-   "sample_title": "【交叉詰問2】雙城論壇、財劃法交鋒 沈伯洋：蔣論壇後台灣迎來最大共軍軍演 | 上報"
+   "n_articles": 19,
+   "sample_title": "台北市長辯論又來亂！中共22架次軍機出動「警巡」擾台 | 自由電子報"
   },
   {
    "domain": "hk.crntt.com",
@@ -284,14 +284,14 @@
    "sample_title": "G20外長會議 美日韓三國強調維持台海和平穩定"
   },
   {
-   "domain": "sunmedia.tw",
-   "n_articles": 3,
-   "sample_title": "美軍高層重申2027台海潛在衝突窗口有效 籲強化備戰"
-  },
-  {
    "domain": "mirrordaily.news",
    "n_articles": 3,
    "sample_title": "川普又開砲！轟台灣「100%偷走美晶片生意」低價傾銷狂言：若有聰明總統台海根本沒人在乎- 鏡報"
+  },
+  {
+   "domain": "cdns.com.tw",
+   "n_articles": 2,
+   "sample_title": "美日韓外長G20會談 關切台海"
   },
   {
    "domain": "taiwanhot.net",
@@ -299,14 +299,14 @@
    "sample_title": "美日韓外長重申台海和平穩定重要性 外交部：已是國際社會高度關切共同議題"
   },
   {
-   "domain": "hk.on.cc",
-   "n_articles": 2,
-   "sample_title": "美日韓外長重申實現北韓無核化 維護台海和平"
-  },
-  {
    "domain": "cmoney.tw",
    "n_articles": 2,
    "sample_title": "台海风暴将至？美军紧盯2027 五中全会究竟藏了什么？(视频)"
+  },
+  {
+   "domain": "sunmedia.tw",
+   "n_articles": 2,
+   "sample_title": "美軍高層重申2027台海潛在衝突窗口有效 籲強化備戰"
   },
   {
    "domain": "facebook.com",
