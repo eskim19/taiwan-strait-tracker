@@ -1,7 +1,625 @@
 {
  "month": "2026-11",
- "n_events": 7,
+ "n_events": 17,
  "events": [
+  {
+   "id": "evt_20261101_e03129",
+   "headline": "美日韓簽北極合作 美方重申台海和平",
+   "headline_source": "短新聞SHOTNEWS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdTNrM2o1cEdubm1LN1JhYnZEZXN4dEx3WkZmZmJySHphR1R2cTg0SFRXQ3p4SEpYSlNNWGVTUFNZMUxKLXg4Smg2MEo2RVNmX3lDMA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T13:15:00Z",
+   "last_seen": "2026-11-01T13:15:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d15be8bbcc0a0b9e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d15be8bbcc0a0b9e",
+     "title": "美日韓簽北極合作 美方重申台海和平",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdTNrM2o1cEdubm1LN1JhYnZEZXN4dEx3WkZmZmJySHphR1R2cTg0SFRXQ3p4SEpYSlNNWGVTUFNZMUxKLXg4Smg2MEo2RVNmX3lDMA?oc=5",
+     "published": "2026-11-01T13:15:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "短新聞SHOTNEWS",
+     "source_domain": "shotnews.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_c11bff",
+   "headline": "Taiwan says China has 'no jurisdiction' after coast guard patrol claims",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202611010009",
+   "headline_lang": "en",
+   "first_seen": "2026-11-01T10:13:14Z",
+   "last_seen": "2026-11-01T10:13:14Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a830ced1d033d224"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a830ced1d033d224",
+     "title": "Taiwan says China has 'no jurisdiction' after coast guard patrol claims",
+     "url": "https://focustaiwan.tw/politics/202611010009",
+     "published": "2026-11-01T10:13:14Z",
+     "lang": "en",
+     "entities": [
+      "coast_guard"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_7698ac",
+   "headline": "Cross-Strait cultural industries fair fosters creative collaboration",
+   "headline_source": "China Daily",
+   "headline_url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yNmFqMzZIRTltRi1yUVFkV2VweVpIVnFNdlJ5cm9aX3B6d2tiSzFBTGYwdGJ3WlUzcXBGbGpNbHNPQWJrWVI2UzZDdXRMRVBPR2d2ZklqaUYxaEVxQnUxZUxnQlFuNEtpdGdaX0hYQ1dvU0wzS2hoN05lSXBBUQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-01T09:42:40Z",
+   "last_seen": "2026-11-01T09:42:40Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "386804f1e7bbeb08"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "386804f1e7bbeb08",
+     "title": "Cross-Strait cultural industries fair fosters creative collaboration",
+     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yNmFqMzZIRTltRi1yUVFkV2VweVpIVnFNdlJ5cm9aX3B6d2tiSzFBTGYwdGJ3WlUzcXBGbGpNbHNPQWJrWVI2UzZDdXRMRVBPR2d2ZklqaUYxaEVxQnUxZUxnQlFuNEtpdGdaX0hYQ1dvU0wzS2hoN05lSXBBUQ?oc=5",
+     "published": "2026-11-01T09:42:40Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "China Daily",
+     "source_domain": "chinadaily.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 영문지",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_30c6df",
+   "headline": "중국 해경, 대만 동부서 ‘상시 법 집행’ 주장…“정치전의 연장” 비판",
+   "headline_source": "한겨레",
+   "headline_url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRm93NXh0TFBmQm9DM2ZJSlBuX1hhdk9lWWZXaExKUDNIRUtWblpFZk1fUjAtZzZsTjl3NU5BWEo5WkFPbnNBaFpVT3FmLU5JbzRvS3JHOGQzcEhRSW1rckgtenN6Tko3RFZVZw?oc=5",
+   "headline_lang": "ko",
+   "first_seen": "2026-11-01T09:05:00Z",
+   "last_seen": "2026-11-01T09:05:00Z",
+   "langs": [
+    "ko"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d668a23019c07d28"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d668a23019c07d28",
+     "title": "중국 해경, 대만 동부서 ‘상시 법 집행’ 주장…“정치전의 연장” 비판",
+     "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1qRm93NXh0TFBmQm9DM2ZJSlBuX1hhdk9lWWZXaExKUDNIRUtWblpFZk1fUjAtZzZsTjl3NU5BWEo5WkFPbnNBaFpVT3FmLU5JbzRvS3JHOGQzcEhRSW1rckgtenN6Tko3RFZVZw?oc=5",
+     "published": "2026-11-01T09:05:00Z",
+     "lang": "ko",
+     "entities": [
+      "coast_guard"
+     ],
+     "source_name": "한겨레",
+     "source_domain": "hani.co.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_7252e1",
+   "headline": "陸4調查船繞台行動異常疑鎖定海底電纜專家：恐為台海有事做準備- 國際",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wbnkwZUpTQWlMWG1VbWtULUhFZHM1WFdOMmNNMWN4ZWZjYmV3NUp4VE50dGtVX1hENkhPbk03X1ViQkJVMXhVSEZGMTRCNVNPa1UtVkdyVTd4VzBvXzZfQ0xtX05idGJhZkdwSFdR?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T07:58:34Z",
+   "last_seen": "2026-11-01T07:58:34Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a07915a6fbdf2fd0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a07915a6fbdf2fd0",
+     "title": "陸4調查船繞台行動異常疑鎖定海底電纜專家：恐為台海有事做準備- 國際",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5wbnkwZUpTQWlMWG1VbWtULUhFZHM1WFdOMmNNMWN4ZWZjYmV3NUp4VE50dGtVX1hENkhPbk03X1ViQkJVMXhVSEZGMTRCNVNPa1UtVkdyVTd4VzBvXzZfQ0xtX05idGJhZkdwSFdR?oc=5",
+     "published": "2026-11-01T07:58:34Z",
+     "lang": "zh",
+     "entities": [
+      "cable_cut",
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_a3f5f5",
+   "headline": "台海開戰恐被先斷網？中國4艘調查船「詭異繞台」 日媒揭海底驚人巧合| 國際",
+   "headline_source": "新頭殼",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Pb295UzhhWGJWeUJIVzJsbjhMQVVGZlh5VjR6dVZuVlNzT0N0R0ZPSmw4UHgwT2ZBbUtnVFY3Ym5iNVhCNGlNZXdUaVVZMkFETFYzYzBpSERIeTA?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T07:39:17Z",
+   "last_seen": "2026-11-01T07:39:17Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "0d4e49b9936265f1"
+    ]
+   },
+   "articles": [
+    {
+     "id": "0d4e49b9936265f1",
+     "title": "台海開戰恐被先斷網？中國4艘調查船「詭異繞台」 日媒揭海底驚人巧合| 國際",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Pb295UzhhWGJWeUJIVzJsbjhMQVVGZlh5VjR6dVZuVlNzT0N0R0ZPSmw4UHgwT2ZBbUtnVFY3Ym5iNVhCNGlNZXdUaVVZMkFETFYzYzBpSERIeTA?oc=5",
+     "published": "2026-11-01T07:39:17Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_11c948",
+   "headline": "被問有提美國對台承諾嗎？盧比歐曝與中俄交談內容 關切台海航行自由",
+   "headline_source": "中國時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56TkRXdGZPeEpvUXktSDY5aWVmRVpuWTJKbzRNNHZPSDhhcFRTaVFQVktxb3J6bWRPcUVBRk1NU21lODV2eTNjbGJsQ3NrbGJUc2lWQmc1ZmhJOEZXZllTWXAyb1JHdWtlUmFpRUN3?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T07:18:03Z",
+   "last_seen": "2026-11-01T07:18:03Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b9693bedfce2e573"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b9693bedfce2e573",
+     "title": "被問有提美國對台承諾嗎？盧比歐曝與中俄交談內容 關切台海航行自由",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE56TkRXdGZPeEpvUXktSDY5aWVmRVpuWTJKbzRNNHZPSDhhcFRTaVFQVktxb3J6bWRPcUVBRk1NU21lODV2eTNjbGJsQ3NrbGJUc2lWQmc1ZmhJOEZXZllTWXAyb1JHdWtlUmFpRUN3?oc=5",
+     "published": "2026-11-01T07:18:03Z",
+     "lang": "zh",
+     "entities": [
+      "freedom_navigation",
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_6079f5",
+   "headline": "美日韓外長簽署北極合作備忘錄重申維持台海和平－民視新聞- 民視新聞網",
+   "headline_source": "民視新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PWUNsWFJwYTNZOUxJbGJMeHFsUmM5T3IzQ1FxMGMwNkgtRVgyaHhLTkw4Y3Y2WjFkb21SSUxncjJrWDRXMWpPdjRqcXB1S3ZtdzNyNnFMdTU2UDdOaXpPYnBodmJvME0?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T03:39:35Z",
+   "last_seen": "2026-11-01T06:42:34Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 28.4,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "民視新聞 원고를 民視新聞 가 전재 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "4b371c91eb860ff8",
+     "8ba64c56544c3ca0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "4b371c91eb860ff8",
+     "title": "美日韓外長簽署北極合作備忘錄重申維持台海和平－民視新聞- 民視新聞網",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PWUNsWFJwYTNZOUxJbGJMeHFsUmM5T3IzQ1FxMGMwNkgtRVgyaHhLTkw4Y3Y2WjFkb21SSUxncjJrWDRXMWpPdjRqcXB1S3ZtdzNyNnFMdTU2UDdOaXpPYnBodmJvME0?oc=5",
+     "published": "2026-11-01T03:39:35Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
+     "hedged": false
+    },
+    {
+     "id": "8ba64c56544c3ca0",
+     "title": "美日韓外長簽署北極合作備忘錄 重申維持台海和平穩定",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9EVG13TkpwWkZrSzd4Q2NULWJsMXVfVE9VWU5OT2JfdDZPcmlnNTBVX081YW84RmtkVHkwMWtCUUx2V21PMWFCNkFIWWY4ZEVXVUxyajcxdkR0dXlsNngtbA?oc=5",
+     "published": "2026-11-01T06:42:34Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "民視新聞",
+     "source_domain": "ftvnews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_7fb6da",
+   "headline": "Taiwan Air Force to kick off annual Sky Dragon drills",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202611010005",
+   "headline_lang": "en",
+   "first_seen": "2026-11-01T06:36:02Z",
+   "last_seen": "2026-11-01T06:36:02Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "5397cc3ff4b5a3f0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "5397cc3ff4b5a3f0",
+     "title": "Taiwan Air Force to kick off annual Sky Dragon drills",
+     "url": "https://focustaiwan.tw/politics/202611010005",
+     "published": "2026-11-01T06:36:02Z",
+     "lang": "en",
+     "entities": [
+      "rehearsal"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_cc97a4",
+   "headline": "中方研究船密集測繪 鋪路進攻台海戰略",
+   "headline_source": "世界新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YWU1ZdU54VTc1cmJYbWgxcVpmRTJuMWFXVVh5VEl5T3FFLUptazF0VGxuSzQtQi1rY2Nxa2NfaEhNY1RYLVdBY3RsUDVTakh0dUJxZEEySVpnLW9CeGVDMGln0gFnQVVfeXFMTTgweTlYOE1QY05iX2xYb2RSeXJ0WS1rNzhPYnlUcGg0ZkNJcF81UDZWbzhpYnZYT1BoUGEwYmtzLVRXQUtJYmgtNU5VVWNLUm1kbnQ4clJpamgtS2haTGpaUnozUlNCWQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T06:19:00Z",
+   "last_seen": "2026-11-01T06:19:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "3f2965c2ec135959"
+    ]
+   },
+   "articles": [
+    {
+     "id": "3f2965c2ec135959",
+     "title": "中方研究船密集測繪 鋪路進攻台海戰略",
+     "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5YWU1ZdU54VTc1cmJYbWgxcVpmRTJuMWFXVVh5VEl5T3FFLUptazF0VGxuSzQtQi1rY2Nxa2NfaEhNY1RYLVdBY3RsUDVTakh0dUJxZEEySVpnLW9CeGVDMGln0gFnQVVfeXFMTTgweTlYOE1QY05iX2xYb2RSeXJ0WS1rNzhPYnlUcGg0ZkNJcF81UDZWbzhpYnZYT1BoUGEwYmtzLVRXQUtJYmgtNU5VVWNLUm1kbnQ4clJpamgtS2haTGpaUnozUlNCWQ?oc=5",
+     "published": "2026-11-01T06:19:00Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "taiwan_strait"
+     ],
+     "source_name": "世界新聞網",
+     "source_domain": "worldjournal.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261101_d3a6e0",
    "headline": "Could Taipei’s unexpectedly tight mayoral race add to cross-strait tensions?",
@@ -119,65 +737,6 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261101_6079f5",
-   "headline": "美日韓外長簽署北極合作備忘錄重申維持台海和平－民視新聞- 民視新聞網",
-   "headline_source": "民視新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PWUNsWFJwYTNZOUxJbGJMeHFsUmM5T3IzQ1FxMGMwNkgtRVgyaHhLTkw4Y3Y2WjFkb21SSUxncjJrWDRXMWpPdjRqcXB1S3ZtdzNyNnFMdTU2UDdOaXpPYnBodmJvME0?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-01T03:39:35Z",
-   "last_seen": "2026-11-01T03:39:35Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "4b371c91eb860ff8"
-    ]
-   },
-   "articles": [
-    {
-     "id": "4b371c91eb860ff8",
-     "title": "美日韓外長簽署北極合作備忘錄重申維持台海和平－民視新聞- 民視新聞網",
-     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9PWUNsWFJwYTNZOUxJbGJMeHFsUmM5T3IzQ1FxMGMwNkgtRVgyaHhLTkw4Y3Y2WjFkb21SSUxncjJrWDRXMWpPdjRqcXB1S3ZtdzNyNnFMdTU2UDdOaXpPYnBodmJvME0?oc=5",
-     "published": "2026-11-01T03:39:35Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "民視新聞",
-     "source_domain": "ftvnews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
      "hedged": false
     }
    ]
@@ -376,6 +935,66 @@
      "entities": [
       "taiwan_strait",
       "us_military"
+     ],
+     "source_name": "梅花新聞網",
+     "source_domain": "i-meihua.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261101_831f33",
+   "headline": "美太平洋陸軍司令：台海衝突窗口仍有效 明年4月2日前完成戰備",
+   "headline_source": "梅花新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40YmxQMU1jdDFMYVRvMEJHSXhWdXdiaG9kaHZXT0JhSGhpVHNwZWpBREEzNmpHRnduSE0xTjF2Y19rQ3VuN25Bb08wT21TeFdZU1pXZGZ0RmY?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T01:20:00Z",
+   "last_seen": "2026-11-01T01:20:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "f9b5f4fc3e322a51"
+    ]
+   },
+   "articles": [
+    {
+     "id": "f9b5f4fc3e322a51",
+     "title": "美太平洋陸軍司令：台海衝突窗口仍有效 明年4月2日前完成戰備",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40YmxQMU1jdDFMYVRvMEJHSXhWdXdiaG9kaHZXT0JhSGhpVHNwZWpBREEzNmpHRnduSE0xTjF2Y19rQ3VuN25Bb08wT21TeFdZU1pXZGZ0RmY?oc=5",
+     "published": "2026-11-01T01:20:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
      ],
      "source_name": "梅花新聞網",
      "source_domain": "i-meihua.com",
