@@ -1,7 +1,371 @@
 {
  "month": "2026-11",
- "n_events": 19,
+ "n_events": 25,
  "events": [
+  {
+   "id": "evt_20261102_fd53b4",
+   "headline": "Beijing doubles down on Type 071 amphibious warships, signalling a Taiwan focus",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3373001/beijing-doubles-down-type-071-amphibious-warships-signalling-taiwan-focus",
+   "headline_lang": "en",
+   "first_seen": "2026-11-02T10:06:23Z",
+   "last_seen": "2026-11-02T10:06:23Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b69a1527e9f59a8f"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b69a1527e9f59a8f",
+     "title": "Beijing doubles down on Type 071 amphibious warships, signalling a Taiwan focus",
+     "url": "https://www.scmp.com/news/china/military/article/3373001/beijing-doubles-down-type-071-amphibious-warships-signalling-taiwan-focus",
+     "published": "2026-11-02T10:06:23Z",
+     "lang": "en",
+     "entities": [
+      "beijing",
+      "warship"
+     ],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261102_f02219",
+   "headline": "木雕藏文脉 两岸共传承 台湾同胞：我们本就是一家",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OUURYS3BnWTA0SDhibWNncURNY1kwc0dzNTZKeVZTNW1uZUx2VEh6aHB2bHhkdHVJalZUYklnVWhaMUZEMkM5cU4yNHdOX2NONVZ6dlRSdF9EM2lvSnpiWDdsMmhFQi1UVkMzU1gyLUluMHdHNVE?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-02T09:24:00Z",
+   "last_seen": "2026-11-02T09:24:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "3b94716f1a3179af"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "3b94716f1a3179af",
+     "title": "木雕藏文脉 两岸共传承 台湾同胞：我们本就是一家",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9OUURYS3BnWTA0SDhibWNncURNY1kwc0dzNTZKeVZTNW1uZUx2VEh6aHB2bHhkdHVJalZUYklnVWhaMUZEMkM5cU4yNHdOX2NONVZ6dlRSdF9EM2lvSnpiWDdsMmhFQi1UVkMzU1gyLUluMHdHNVE?oc=5",
+     "published": "2026-11-02T09:24:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261102_1feec2",
+   "headline": "台胞祖地行活动福建三明启动 两岸乡亲共寻迁台记忆",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bFlPTTZDZjNMb3RGRDExUFY1R015cFoweTB2TnBrTklJcDViN1BwTUplS2Y3VWdEdWZLcTYzY3NZTEpkMUtTWlNFUWxuTVl5MG51eTdCZE1yWDZvWFRWbFdCYnRVU2RBTTMwNU1Zdy0?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-02T07:04:08Z",
+   "last_seen": "2026-11-02T07:04:08Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "45f0a9ca8d33ca06"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "45f0a9ca8d33ca06",
+     "title": "台胞祖地行活动福建三明启动 两岸乡亲共寻迁台记忆",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB5bFlPTTZDZjNMb3RGRDExUFY1R015cFoweTB2TnBrTklJcDViN1BwTUplS2Y3VWdEdWZLcTYzY3NZTEpkMUtTWlNFUWxuTVl5MG51eTdCZE1yWDZvWFRWbFdCYnRVU2RBTTMwNU1Zdy0?oc=5",
+     "published": "2026-11-02T07:04:08Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261102_bf0b08",
+   "headline": "一封家书牵两岸 一册族谱续亲缘",
+   "headline_source": "CCTV 中央電視台",
+   "headline_url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52VWhvbVhQYmhadHBRcXBhNlNVX0N2TFVmbF9FOFV4YzlUZmJUa0dtV3VXRW5WN2ZkN3c2WU12WTd1amFvc21sLWxSUG1sZmJhQ1VlM3Z1MU56WXB1OFhMSFpPSlZ3eWgyVmVMdUVzbFZPQnJmLXp4SE1n?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-02T02:37:26Z",
+   "last_seen": "2026-11-02T02:37:26Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "7db3fb4ed36eb9da"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "7db3fb4ed36eb9da",
+     "title": "一封家书牵两岸 一册族谱续亲缘",
+     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE52VWhvbVhQYmhadHBRcXBhNlNVX0N2TFVmbF9FOFV4YzlUZmJUa0dtV3VXRW5WN2ZkN3c2WU12WTd1amFvc21sLWxSUG1sZmJhQ1VlM3Z1MU56WXB1OFhMSFpPSlZ3eWgyVmVMdUVzbFZPQnJmLXp4SE1n?oc=5",
+     "published": "2026-11-02T02:37:26Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261102_ca1e0f",
+   "headline": "台海周邊不平靜！共軍7艦、6公務船出沒 國防部：嚴密監控",
+   "headline_source": "TVBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XU1hXUG9nUlI1NkVQSXNqOHp1NnBiLUdyZjk5M3RZWHNpcDR1eW5sYXlWVHhoSVJmOWI1Z2VpWXZsbDQ0cFJiNGZWV2RfV3FlNVFV?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-02T01:53:00Z",
+   "last_seen": "2026-11-02T01:53:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 32.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": true,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "정부·군 공식 발표 인용"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2d05b7c5d6d687b0"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2d05b7c5d6d687b0",
+     "title": "台海周邊不平靜！共軍7艦、6公務船出沒 國防部：嚴密監控",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5XU1hXUG9nUlI1NkVQSXNqOHp1NnBiLUdyZjk5M3RZWHNpcDR1eW5sYXlWVHhoSVJmOWI1Z2VpWXZsbDQ0cFJiNGZWV2RfV3FlNVFV?oc=5",
+     "published": "2026-11-02T01:53:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "taiwan_strait",
+      "tw_mnd"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261102_ec40b2",
+   "headline": "中國19架次軍機擾台 其中4架次逾越中線進入我空域",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EVHg0aEpzNkowc2dlZmFNTlMxWFFnbktZVGgxQWJsdmtMSWNadmtYck5JZm8yREhnbTgwYU5hYk5LdmVUTFVGQ0N6TGg1a19XbGdNMHR2aEo0X3FES1lOS9IBZkFVX3lxTE14LUYwa1A2SF9pVUVGY1c4bVczNm85OXAyQmpaR2N0Um1YazJfemtqeUNZMmRFWDZIVFl2YnhRenB5LTNhVTRKY19yZlhUd1FmVVN5ZzFEWHpuTl8yMGpyN2ZhT0trdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-02T01:20:00Z",
+   "last_seen": "2026-11-02T01:20:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "7557aff6287e380b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "7557aff6287e380b",
+     "title": "中國19架次軍機擾台 其中4架次逾越中線進入我空域",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5EVHg0aEpzNkowc2dlZmFNTlMxWFFnbktZVGgxQWJsdmtMSWNadmtYck5JZm8yREhnbTgwYU5hYk5LdmVUTFVGQ0N6TGg1a19XbGdNMHR2aEo0X3FES1lOS9IBZkFVX3lxTE14LUYwa1A2SF9pVUVGY1c4bVczNm85OXAyQmpaR2N0Um1YazJfemtqeUNZMmRFWDZIVFl2YnhRenB5LTNhVTRKY19yZlhUd1FmVVN5ZzFEWHpuTl8yMGpyN2ZhT0trdw?oc=5",
+     "published": "2026-11-02T01:20:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "line_crossing",
+      "median_line"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261102_c3fe2d",
    "headline": "台海又有新威脅！解放軍官宣無人機「攻擊-21」，在「四川號」兩棲攻擊艦成功起降| 國際中心| 新聞",
@@ -124,7 +488,7 @@
   {
    "id": "evt_20261101_e03129",
    "headline": "美日韓簽北極合作 美方重申台海和平",
-   "headline_source": "短新聞SHOTNEWS",
+   "headline_source": "小刀專欄",
    "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8wdTNrM2o1cEdubm1LN1JhYnZEZXN4dEx3WkZmZmJySHphR1R2cTg0SFRXQ3p4SEpYSlNNWGVTUFNZMUxKLXg4Smg2MEo2RVNmX3lDMA?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-11-01T13:15:00Z",
@@ -170,7 +534,7 @@
      "entities": [
       "taiwan_strait"
      ],
-     "source_name": "短新聞SHOTNEWS",
+     "source_name": "小刀專欄",
      "source_domain": "shotnews.tw",
      "tier": "T5",
      "tier_label": "미분류",
@@ -841,6 +1205,113 @@
    ]
   },
   {
+   "id": "evt_20261101_135969",
+   "headline": "共機32架次擾台26架次越過海峽中線國軍嚴密監控應處| 政治",
+   "headline_source": "新頭殼",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbzI3VUE0WTF1Wm5UbjV1a3RHYlc1aFlsS2tyRG5ONDIxNndOWk00U2o5T3VxVHhRUWNDcEV3eTlCaFdhdlRoVFV6bE9USjhILVZFSzVGd0hkWms?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-01T02:00:52Z",
+   "last_seen": "2026-11-01T04:15:06Z",
+   "langs": [
+    "ko",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 56.8,
+    "n_independent": 2,
+    "n_articles": 3,
+    "n_domains": 3,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "新頭殼 등이 같은 발표 수치를 인용 — 1곳으로 계산"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2172ee30fe7aa019",
+     "d3d68cf41f559d10",
+     "e5b63df02afbf256"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2172ee30fe7aa019",
+     "title": "共機32架次擾台26架次越過海峽中線國軍嚴密監控應處| 政治",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbzI3VUE0WTF1Wm5UbjV1a3RHYlc1aFlsS2tyRG5ONDIxNndOWk00U2o5T3VxVHhRUWNDcEV3eTlCaFdhdlRoVFV6bE9USjhILVZFSzVGd0hkWms?oc=5",
+     "published": "2026-11-01T02:00:52Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "median_line",
+      "roc_military"
+     ],
+     "source_name": "新頭殼",
+     "source_domain": "newtalk.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "d3d68cf41f559d10",
+     "title": "中國32架次軍機擾台 其中26架次逾越中線進入我空域",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWmMzNlh0bUh2VkhiYTA5TjRINnd3VTRBTjNrVWlnekhCT3dWbDdyVE51R3lxR0YxUDNuTi0xMmQwUHB6WDhvc2lkbzVFZTdrdUthQjV2NS1FTHNYdllKONIBZkFVX3lxTE1jMTVPMkZCdmI1S0picGdsc215d2NkNmhiVkVsdzZ1MlBtSW9qb0FueXNqSjM5eUdLN19RX2d0VGphNHhGZ2gwVS1EWWlnN0NlZ1JGY01yN3JydU9yVVZ3ZTNOUkdJdw?oc=5",
+     "published": "2026-11-01T02:06:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "line_crossing",
+      "median_line"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "e5b63df02afbf256",
+     "title": "中, 대만 주변 군용기 32대 전개…중간선 넘어 동부까지 활동",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE10NDF6bkJpS1RuUmViczI0NENHZkMxZWZudGRXc0JmNnp3elRzSExldUx0dTM2UUNzT1pkQTJlb1ViMFUtTHdTVkZTM0gwVVRucDV4Q3pTZHgyZV83Smc?oc=5",
+     "published": "2026-11-01T04:15:06Z",
+     "lang": "ko",
+     "entities": [
+      "aircraft_sortie",
+      "median_line"
+     ],
+     "source_name": "뉴스1",
+     "source_domain": "news1.kr",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261101_385041",
    "headline": "第十七届海峡两岸文博会开幕 台湾工艺师厦门以艺会友",
    "headline_source": "中國新聞網",
@@ -896,91 +1367,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261101_135969",
-   "headline": "共機32架次擾台26架次越過海峽中線國軍嚴密監控應處| 政治",
-   "headline_source": "新頭殼",
-   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbzI3VUE0WTF1Wm5UbjV1a3RHYlc1aFlsS2tyRG5ONDIxNndOWk00U2o5T3VxVHhRUWNDcEV3eTlCaFdhdlRoVFV6bE9USjhILVZFSzVGd0hkWms?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-01T02:00:52Z",
-   "last_seen": "2026-11-01T02:06:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.9,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "新頭殼 등이 같은 발표 수치를 인용 — 1곳으로 계산"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "2172ee30fe7aa019",
-     "d3d68cf41f559d10"
-    ]
-   },
-   "articles": [
-    {
-     "id": "2172ee30fe7aa019",
-     "title": "共機32架次擾台26架次越過海峽中線國軍嚴密監控應處| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRbzI3VUE0WTF1Wm5UbjV1a3RHYlc1aFlsS2tyRG5ONDIxNndOWk00U2o5T3VxVHhRUWNDcEV3eTlCaFdhdlRoVFV6bE9USjhILVZFSzVGd0hkWms?oc=5",
-     "published": "2026-11-01T02:00:52Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "median_line",
-      "roc_military"
-     ],
-     "source_name": "新頭殼",
-     "source_domain": "newtalk.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "d3d68cf41f559d10",
-     "title": "中國32架次軍機擾台 其中26架次逾越中線進入我空域",
-     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKWmMzNlh0bUh2VkhiYTA5TjRINnd3VTRBTjNrVWlnekhCT3dWbDdyVE51R3lxR0YxUDNuTi0xMmQwUHB6WDhvc2lkbzVFZTdrdUthQjV2NS1FTHNYdllKONIBZkFVX3lxTE1jMTVPMkZCdmI1S0picGdsc215d2NkNmhiVkVsdzZ1MlBtSW9qb0FueXNqSjM5eUdLN19RX2d0VGphNHhGZ2gwVS1EWWlnN0NlZ1JGY01yN3JydU9yVVZ3ZTNOUkdJdw?oc=5",
-     "published": "2026-11-01T02:06:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "incursion",
-      "line_crossing",
-      "median_line"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
      "hedged": false
     }
    ]
