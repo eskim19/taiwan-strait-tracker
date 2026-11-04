@@ -1,12 +1,310 @@
 {
  "month": "2026-11",
- "n_events": 82,
+ "n_events": 87,
  "events": [
+  {
+   "id": "evt_20261104_328dda",
+   "headline": "What’s the message for China as Japan weighs US$500 billion defence surge?",
+   "headline_source": "SCMP",
+   "headline_url": "https://www.scmp.com/news/china/military/article/3373139/whats-message-china-japan-weighs-us500-billion-defence-surge",
+   "headline_lang": "en",
+   "first_seen": "2026-11-04T23:00:10Z",
+   "last_seen": "2026-11-04T23:00:10Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "a5f2fdd577079709"
+    ]
+   },
+   "articles": [
+    {
+     "id": "a5f2fdd577079709",
+     "title": "What’s the message for China as Japan weighs US$500 billion defence surge?",
+     "url": "https://www.scmp.com/news/china/military/article/3373139/whats-message-china-japan-weighs-us500-billion-defence-surge",
+     "published": "2026-11-04T23:00:10Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "SCMP",
+     "source_domain": "scmp.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_bd1c62",
+   "headline": "【台海問題】台海局勢處於可控範圍之內- 內地",
+   "headline_source": "文匯報",
+   "headline_url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeWl6LXhHVEtBWm1NNTVrUGNpZVhpWE5DTW1ueElWdndFWUg1ODcxNGhhWC10VS0xX2pNTnkwZ081ZTY0dUNpQ25FUS01cTJJX0VIT3ZHUW9oQjN4clZkQW9obzNoZ0hEUFNPdk9JdXdIdXN0RXVF?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-04T20:30:57Z",
+   "last_seen": "2026-11-04T20:30:57Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "fa82757da7672f42"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "fa82757da7672f42",
+     "title": "【台海問題】台海局勢處於可控範圍之內- 內地",
+     "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBkeWl6LXhHVEtBWm1NNTVrUGNpZVhpWE5DTW1ueElWdndFWUg1ODcxNGhhWC10VS0xX2pNTnkwZ081ZTY0dUNpQ25FUS01cTJJX0VIT3ZHUW9oQjN4clZkQW9obzNoZ0hEUFNPdk9JdXdIdXN0RXVF?oc=5",
+     "published": "2026-11-04T20:30:57Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "文匯報",
+     "source_domain": "wenweipo.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "홍콩 친중공 매체",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_64faee",
+   "headline": "【禁聞】戰略專家：糧食安全或讓台海免於戰爭",
+   "headline_source": "新唐人 NTD",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tUW13YnRuV2NIbDl2b0pELWNFcXBKZEdlY2ZHemszcXREWXJhYXNtbUFYT0hULXd3OVpOZm15TFJiTlF1TUlLREZiTHJUODNGSzVweGxxLTNVZE8xMmNRX9IBZkFVX3lxTE81anRkZGw5T3RXMDNNelNJUXlzM1pJeGFLZkoxbUtUT283NDlGVF81RUNRTmpscnhkV2g4bV9NV01kd0xTUm9FQ296dDFJRm5yVTVXREM0RE53MmI0MDFpbktPTFpidw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-04T19:01:41Z",
+   "last_seen": "2026-11-04T19:01:41Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "9b82b720e2574b73"
+    ]
+   },
+   "articles": [
+    {
+     "id": "9b82b720e2574b73",
+     "title": "【禁聞】戰略專家：糧食安全或讓台海免於戰爭",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1tUW13YnRuV2NIbDl2b0pELWNFcXBKZEdlY2ZHemszcXREWXJhYXNtbUFYT0hULXd3OVpOZm15TFJiTlF1TUlLREZiTHJUODNGSzVweGxxLTNVZE8xMmNRX9IBZkFVX3lxTE81anRkZGw5T3RXMDNNelNJUXlzM1pJeGFLZkoxbUtUT283NDlGVF81RUNRTmpscnhkV2g4bV9NV01kd0xTUm9FQ296dDFJRm5yVTVXREM0RE53MmI0MDFpbktPTFpidw?oc=5",
+     "published": "2026-11-04T19:01:41Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "新唐人 NTD",
+     "source_domain": "ntdtv.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_7d182b",
+   "headline": "Before Taiwan war, can China stop manoeuvring missiles? HQ-9B drill tests split-second decisions |Xi | Hindustan Times",
+   "headline_source": "Hindustan Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNREJkbzdKc0QxeXhWSHlCb1F2WVFDZkxDVzlneDI2Wl9XelZLa2xEc19zSXlaZlpuMXR6dXZJb3F4XzBpRE5QYVR2bWo0cFdHRXEzLThXcjNHMUxjRGxLUE53ZFpTQ1N4MzA3QTJNaE9UZ181WEdDeTZYc1J2R012RjNkZENCa2N6VWtHMFgtWDVxeDNPcXdtTTNLUjlSUnJobjZMOFo4R0xqWUg1MXB6dXl0OW1qLXR0S1FoeDI4Y0hsNG9QVnh1cGJXZmhWS3RuYTVFWlZpR240di1aNzY1WEs1U3ZrbE1sR3lxQmhXTTYzbjNxV3MwZE1fONIBgAJBVV95cUxOd1FnS283OHZKWmt1QlpvSFFUNXh4Vjc4RHhmNXp1OS1TU0ZtdFdvS3FYRmxNMUNNbmdrQnJLSDA1Q3NxVnNJb3B5cHNQMjZ6SFpyYWZIdi0wRVpyRjc4UzZaaVNGNTRnMHZtVnlndVkyMzhOZExjTkdvY0pkdEhvZ2U1NGgxYlZ1MDYtcmNBNWN4YUt4cnZkbndLOWlsYWpfck16THdvWVUxaGpNUVNnUVRwTnJUNjVrOXpUb21BOFhraTV6TDRKWkx4TmpjQ0h3UFMta0JoZ3gxQnJseEI4bkUwOTZhazg3Wk1WUWlIQjZ1X3JON05adm92Tjd2cDVh?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-04T18:44:11Z",
+   "last_seen": "2026-11-04T18:44:11Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "151b4c60589b0406"
+    ]
+   },
+   "articles": [
+    {
+     "id": "151b4c60589b0406",
+     "title": "Before Taiwan war, can China stop manoeuvring missiles? HQ-9B drill tests split-second decisions |Xi | Hindustan Times",
+     "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNREJkbzdKc0QxeXhWSHlCb1F2WVFDZkxDVzlneDI2Wl9XelZLa2xEc19zSXlaZlpuMXR6dXZJb3F4XzBpRE5QYVR2bWo0cFdHRXEzLThXcjNHMUxjRGxLUE53ZFpTQ1N4MzA3QTJNaE9UZ181WEdDeTZYc1J2R012RjNkZENCa2N6VWtHMFgtWDVxeDNPcXdtTTNLUjlSUnJobjZMOFo4R0xqWUg1MXB6dXl0OW1qLXR0S1FoeDI4Y0hsNG9QVnh1cGJXZmhWS3RuYTVFWlZpR240di1aNzY1WEs1U3ZrbE1sR3lxQmhXTTYzbjNxV3MwZE1fONIBgAJBVV95cUxOd1FnS283OHZKWmt1QlpvSFFUNXh4Vjc4RHhmNXp1OS1TU0ZtdFdvS3FYRmxNMUNNbmdrQnJLSDA1Q3NxVnNJb3B5cHNQMjZ6SFpyYWZIdi0wRVpyRjc4UzZaaVNGNTRnMHZtVnlndVkyMzhOZExjTkdvY0pkdEhvZ2U1NGgxYlZ1MDYtcmNBNWN4YUt4cnZkbndLOWlsYWpfck16THdvWVUxaGpNUVNnUVRwTnJUNjVrOXpUb21BOFhraTV6TDRKWkx4TmpjQ0h3UFMta0JoZ3gxQnJseEI4bkUwOTZhazg3Wk1WUWlIQjZ1X3JON05adm92Tjd2cDVh?oc=5",
+     "published": "2026-11-04T18:44:11Z",
+     "lang": "en",
+     "entities": [
+      "missile",
+      "rehearsal"
+     ],
+     "source_name": "Hindustan Times",
+     "source_domain": "hindustantimes.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_58b586",
+   "headline": "中共軍機艦頻繁擾台 台防長：做好戰備應處",
+   "headline_source": "大紀元 Epoch Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yU25kNjRmQWI3WFlpQmlzZ1VfYjRsYWtRWTdDWEQ0MkV5NE5BZmF2ZHhIaVlwOS1JN2dIRjhkNXVUY01hWm9QSXJKaUtWZjlOY3lWUlJPdXdkdXJrbkpSVtIBZkFVX3lxTE9DNjIzTFZncFdPbmF2ZHVDSjFWbjFSY3dhYTc1b0NpS2NRT0JQR0k4ODhQd3U1N19zUXQ1am1qbWEzSE1adTNwcDE2UUppOGxrMHdzUVFyclBWeUhnRk1NS25JVTRUdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-04T17:07:00Z",
+   "last_seen": "2026-11-04T17:07:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "partisan",
+    "grade_label": "성향 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 16.5,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T4",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 성향 매체"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "e43ec6bdde15bea8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "e43ec6bdde15bea8",
+     "title": "中共軍機艦頻繁擾台 台防長：做好戰備應處",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1yU25kNjRmQWI3WFlpQmlzZ1VfYjRsYWtRWTdDWEQ0MkV5NE5BZmF2ZHhIaVlwOS1JN2dIRjhkNXVUY01hWm9QSXJKaUtWZjlOY3lWUlJPdXdkdXJrbkpSVtIBZkFVX3lxTE9DNjIzTFZncFdPbmF2ZHVDSjFWbjFSY3dhYTc1b0NpS2NRT0JQR0k4ODhQd3U1N19zUXQ1am1qbWEzSE1adTNwcDE2UUppOGxrMHdzUVFyclBWeUhnRk1NS25JVTRUdw?oc=5",
+     "published": "2026-11-04T17:07:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "pla"
+     ],
+     "source_name": "大紀元 Epoch Times",
+     "source_domain": "epochtimes.com",
+     "tier": "T4",
+     "tier_label": "성향 매체",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "파룬궁 계열·강한 반중공 논조",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261104_34e084",
    "headline": "快評：大陸握主動權 美國台海政策能怎麼變？",
    "headline_source": "中國評論新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZTJiY2xOOXkzLVljMDFvTDF0eHBPNHBTaXlaZDVVUFpGeGZuMjVlU2NIUm9oM1o3bnRTdEtuRnROOEw4dzhWbmtzb1NyUXR4OFlEZGpZQjlfSC1wVUwwaERhejRxQzRfZEU3Tjd6cw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jUEdyLXZHa1hHMmhOeWFmWjFZMUJyRUFyaV9DVUUyOF9sYlU2VG92RUZRR2xOVW5aeUcyLTVPcnI0dTQ5bUJUeU5uY3dtNVItMkJVaDhUQU1qVW5hYW5DVmtwd0phRTA?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-11-04T17:00:06Z",
    "last_seen": "2026-11-04T17:00:06Z",
@@ -45,7 +343,7 @@
     {
      "id": "ac4ee8e9f1927c73",
      "title": "快評：大陸握主動權 美國台海政策能怎麼變？",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZTJiY2xOOXkzLVljMDFvTDF0eHBPNHBTaXlaZDVVUFpGeGZuMjVlU2NIUm9oM1o3bnRTdEtuRnROOEw4dzhWbmtzb1NyUXR4OFlEZGpZQjlfSC1wVUwwaERhejRxQzRfZEU3Tjd6cw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jUEdyLXZHa1hHMmhOeWFmWjFZMUJyRUFyaV9DVUUyOF9sYlU2VG92RUZRR2xOVW5aeUcyLTVPcnI0dTQ5bUJUeU5uY3dtNVItMkJVaDhUQU1qVW5hYW5DVmtwd0phRTA?oc=5",
      "published": "2026-11-04T17:00:06Z",
      "lang": "zh",
      "entities": [
@@ -308,17 +606,16 @@
   },
   {
    "id": "evt_20261104_a69d92",
-   "headline": "Taiwan tracks 22 Chinese military aircraft and 12 ships",
-   "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kNU45V19xT1NuTHVoYmVMdVFURnJUVFhXRTJtVVNvRHlGbUdzU0k0TmRmbnJKYkcxTjBqcVRFWnkzQ1JSNFIwbTZ3LS1IZnJkTHRNUHpLc2o?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-11-04T01:15:53Z",
+   "headline": "殲-16等12架共機越台海中線顧立雄：共機增加反應敵情威脅時刻存在| 政治焦點",
+   "headline_source": "太報 TaiSounds",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5HZHN6T3BPUDhhOS1hVUhRZWtrbEhUb2pWWGVadTBhd1d1V1RVY3RQQ2Zwdk5sX0pkT1ZjN3VWTVRCWktVNVpSa2JLQ3N4X2hQVlZMa2VQd2FReEFZ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-04T09:54:21Z",
    "last_seen": "2026-11-04T09:54:21Z",
    "langs": [
-    "en",
     "zh"
    ],
-   "cross_language": true,
+   "cross_language": false,
    "credibility": {
     "grade": "B",
     "d_reason": null,
@@ -343,27 +640,10 @@
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "a9a21d5035b16f78",
      "1f5bcdbb9b1e49bc"
     ]
    },
    "articles": [
-    {
-     "id": "a9a21d5035b16f78",
-     "title": "Taiwan tracks 22 Chinese military aircraft and 12 ships",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1kNU45V19xT1NuTHVoYmVMdVFURnJUVFhXRTJtVVNvRHlGbUdzU0k0TmRmbnJKYkcxTjBqcVRFWnkzQ1JSNFIwbTZ3LS1IZnJkTHRNUHpLc2o?oc=5",
-     "published": "2026-11-04T01:15:53Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Taiwan News",
-     "source_domain": "taiwannews.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "1f5bcdbb9b1e49bc",
      "title": "殲-16等12架共機越台海中線顧立雄：共機增加反應敵情威脅時刻存在| 政治焦點",
@@ -623,6 +903,66 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "홍콩 소재·알리바바 그룹 소유",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_7013af",
+   "headline": "Defense, OAC ministers highlight China’s gray-zone harassment-News-Radio Taiwan International",
+   "headline_source": "中央廣播電臺",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ZnA3MTNjN1kwcWZwRW1ZSnFMd280cmlWcjhTN29zcU9uWVRiWnpqamZDUDRWckFTcmhyd3B6NDF1aGR3UVY2VTF4OWpuanpGXzdOUWF6MThJWTA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-04T07:56:35Z",
+   "last_seen": "2026-11-04T07:56:35Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "83f01f96924b9129"
+    ]
+   },
+   "articles": [
+    {
+     "id": "83f01f96924b9129",
+     "title": "Defense, OAC ministers highlight China’s gray-zone harassment-News-Radio Taiwan International",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91ZnA3MTNjN1kwcWZwRW1ZSnFMd280cmlWcjhTN29zcU9uWVRiWnpqamZDUDRWckFTcmhyd3B6NDF1aGR3UVY2VTF4OWpuanpGXzdOUWF6MThJWTA?oc=5",
+     "published": "2026-11-04T07:56:35Z",
+     "lang": "en",
+     "entities": [
+      "gray_zone"
+     ],
+     "source_name": "中央廣播電臺",
+     "source_domain": "rti.org.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 방송",
      "hedged": false
     }
    ]
@@ -1069,12 +1409,12 @@
    ]
   },
   {
-   "id": "evt_20261104_184a27",
-   "headline": "[正午国防军事]两岸各界围绕“一国两制”台湾方案研讨热烈国务院台办：祖国统一是不可阻挡的历史大势",
+   "id": "evt_20261104_cfa138",
+   "headline": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
    "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSTlVFQ0ZBdmh4Z3ZyQnFoUDRaZ3o5MzhVamt4c2FGV0RLNDVVeEJXLXhtNW82NVd4REoteC0zd3lBYmNtSlZGVFlHLWlrbjhCNjZ3NGM1MDY5aU1PQ0k0NXl3Mm9MdjRhbnhJaHZUT21WdFNIY1E?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-11-04T04:11:00Z",
+   "first_seen": "2026-11-04T02:46:41Z",
    "last_seen": "2026-11-04T04:11:00Z",
    "langs": [
     "zh"
@@ -1086,28 +1426,50 @@
     "grade_label": "발표 단독",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 20.0,
+    "score": 28.6,
     "n_independent": 1,
-    "n_articles": 1,
+    "n_articles": 2,
     "n_domains": 1,
     "blocs": [
      "prc_state"
     ],
     "top_tier": "T3",
-    "primary_cited": false,
+    "primary_cited": true,
     "reasons": [
      "중국 관영 진영 단독 보도",
      "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "CCTV 中央電視台 원고를 CCTV 中央電視台 가 전재 — 1곳으로 계산",
      "중국 관영 발표만 존재"
     ]
    },
    "perspectives": {
     "prc": [
+     "269f66f2441fcd84",
      "3a30cf7bc6e778dd"
     ],
     "tw_west": []
    },
    "articles": [
+    {
+     "id": "269f66f2441fcd84",
+     "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
+     "published": "2026-11-04T02:46:41Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "tao"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
+     "hedged": false
+    },
     {
      "id": "3a30cf7bc6e778dd",
      "title": "[正午国防军事]两岸各界围绕“一国两制”台湾方案研讨热烈国务院台办：祖国统一是不可阻挡的历史大势",
@@ -1184,68 +1546,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261104_cfa138",
-   "headline": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-   "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-04T02:46:41Z",
-   "last_seen": "2026-11-04T02:46:41Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 27.0,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "269f66f2441fcd84"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "269f66f2441fcd84",
-     "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
-     "published": "2026-11-04T02:46:41Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "tao"
-     ],
-     "source_name": "CCTV 中央電視台",
-     "source_domain": "cctv.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
      "hedged": false
     }
    ]
@@ -2151,7 +2451,7 @@
    ]
   },
   {
-   "id": "evt_20261103_825b3d",
+   "id": "evt_20261103_4ee02c",
    "headline": "對台軍售卡關！專家：恐讓習近平誤判 後果比1996台海危機更可怕",
    "headline_source": "ETtoday新聞雲",
    "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WVd2RW5GMUx4SWs5VWlVSVp3eEI2dHFERnd1ODBsUG5CWHNtUzNWNE9PdDFISGxGRE1BbjRDRzhndE83bVRIUTNoUEZuU2JRbDljeVFZdE1uSmoycWfSAUtBVV95cUxQNkpNQmZLYjRKcHFsVVJpcGVZZ0JrVWE0Q3kwTXE1czdQNHcyZDdyMVdmWkhiTF93LUtsYmJ3UjRCYlB5LVpzWG84eG8?oc=5",
@@ -2163,15 +2463,15 @@
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
+    "grade": "C",
     "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 5,
+    "grade_label": "단일 출처",
+    "n_originals": 2,
     "n_unrated": 1,
-    "score": 70.9,
-    "n_independent": 4,
-    "n_articles": 5,
-    "n_domains": 5,
+    "score": 29.4,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "independent",
      "unknown"
@@ -2179,7 +2479,7 @@
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 4곳",
+     "독립 출처 1곳",
      "최고 등급 주요 일간",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
@@ -2188,7 +2488,6 @@
     "prc": [],
     "tw_west": [
      "ec8fae2436059cdf",
-     "7bb5cdc133524ced",
      "bdf0951979f6b70a"
     ]
    },
@@ -2212,26 +2511,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "7bb5cdc133524ced",
-     "title": "美暫緩對台軍售專家：陸恐把「暫停」當承諾後果比1996台海危機更可怕- 國際",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reFU3VkZVNjhxaDFNNEJxYTQxMDllRVJLU3I0blc0bThZUVNNZ3k2QUI1eTl1ZnBrdjZoODNCcWZSMExDaGVRSFd4ejY3U3N5M2M1Nlp5MHNhelJ0cTMwb3VWZ0xFd3VPVmlfVml3?oc=5",
-     "published": "2026-11-03T07:26:11Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     },
     {

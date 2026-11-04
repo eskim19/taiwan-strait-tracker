@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-04T17:18:13Z",
+ "updated": "2026-11-04T23:42:43Z",
  "checked": "2026-11-04",
- "duration_sec": 32.1,
+ "duration_sec": 30.5,
  "rolling_days": 14,
- "n_events": 419,
+ "n_events": 421,
  "n_articles": 461,
  "grades": {
-  "D": 225,
-  "B": 26,
-  "C": 167,
+  "C": 166,
+  "D": 229,
+  "B": 25,
   "A": 1
  },
- "cross_language_events": 4,
+ "cross_language_events": 3,
  "tension_error": null,
  "archive_months": [
   "2026-10",
@@ -20,10 +20,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 14,
-  "T2": 187,
-  "T3": 103,
-  "T4": 15,
-  "T5": 122,
+  "T2": 183,
+  "T3": 105,
+  "T4": 17,
+  "T5": 123,
   "TA": 4
  },
  "t1_domains": [
@@ -42,8 +42,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
-   "n_adopted": 7,
+   "n_entries": 63,
+   "n_adopted": 8,
    "newest": "2026-11-04T04:31:00+00:00",
    "stale": false,
    "error": null
@@ -56,8 +56,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 21,
-   "n_adopted": 13,
-   "newest": "2026-11-04T10:45:17+00:00",
+   "n_adopted": 12,
+   "newest": "2026-11-04T18:44:11+00:00",
    "stale": false,
    "error": null
   },
@@ -68,9 +68,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 66,
+   "n_entries": 67,
    "n_adopted": 8,
-   "newest": "2026-11-04T05:49:26+00:00",
+   "newest": "2026-11-04T22:44:29+00:00",
    "stale": false,
    "error": null
   },
@@ -83,7 +83,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 62,
-   "newest": "2026-11-04T17:00:06+00:00",
+   "newest": "2026-11-04T20:30:57+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
+   "n_adopted": 9,
    "newest": "2026-11-04T15:23:21+00:00",
    "stale": false,
    "error": null
@@ -109,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 5,
-   "newest": "2026-11-04T15:57:27+00:00",
+   "newest": "2026-11-04T22:53:32+00:00",
    "stale": false,
    "error": null
   },
@@ -120,7 +120,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 72,
+   "n_entries": 50,
    "n_adopted": 4,
    "newest": "2026-11-04T13:01:24+00:00",
    "stale": false,
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 0,
-   "newest": "2026-11-04T16:01:13+00:00",
+   "n_adopted": 1,
+   "newest": "2026-11-04T23:00:10+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-04T11:04:00+00:00",
+   "newest": "2026-11-04T22:14:00+00:00",
    "stale": false,
    "error": null
   },
@@ -200,7 +200,7 @@
    "http": 200,
    "n_entries": 96,
    "n_adopted": 0,
-   "newest": "2026-11-04T14:53:25+00:00",
+   "newest": "2026-11-04T23:00:06+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-04T17:05:12+00:00",
+   "newest": "2026-11-04T22:45:24+00:00",
    "stale": false,
    "error": null
   },
@@ -276,6 +276,11 @@
    "sample_title": "福爾摩沙俱樂部呈遞聯合聲明予賴總統反對單方面改變台海現狀- 要聞"
   },
   {
+   "domain": "hindustantimes.com",
+   "n_articles": 3,
+   "sample_title": "Before Taiwan war, can China stop manoeuvring missiles? HQ-9B drill tests split-"
+  },
+  {
    "domain": "facebook.com",
    "n_articles": 3,
    "sample_title": "DW News. . Beijing is spending heavily on its military, in particular in areas t"
@@ -304,11 +309,6 @@
    "domain": "newswav.com",
    "n_articles": 2,
    "sample_title": "China Sends 49 Military Aircraft Around Taiwan as Local Elections Near"
-  },
-  {
-   "domain": "hindustantimes.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan spends billions on sea and aerial drones to deter China; defence push dra"
   },
   {
    "domain": "zaobao.com.sg",
