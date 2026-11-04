@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-03T23:26:30Z",
- "checked": "2026-11-03",
- "duration_sec": 34.7,
+ "updated": "2026-11-04T06:29:11Z",
+ "checked": "2026-11-04",
+ "duration_sec": 30.6,
  "rolling_days": 14,
- "n_events": 432,
- "n_articles": 481,
+ "n_events": 428,
+ "n_articles": 470,
  "grades": {
-  "B": 26,
-  "A": 1,
-  "C": 175,
-  "D": 230
+  "B": 25,
+  "C": 172,
+  "D": 230,
+  "A": 1
  },
- "cross_language_events": 1,
+ "cross_language_events": 0,
  "tension_error": null,
  "archive_months": [
   "2026-10",
@@ -19,11 +19,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 13,
-  "T2": 196,
-  "T3": 97,
+  "T1": 14,
+  "T2": 189,
+  "T3": 100,
   "T4": 15,
-  "T5": 136,
+  "T5": 130,
   "TA": 4
  },
  "t1_domains": [
@@ -42,9 +42,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 13,
-   "newest": "2026-11-03T09:00:00+00:00",
+   "n_entries": 66,
+   "n_adopted": 7,
+   "newest": "2026-11-04T04:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 48,
+   "n_entries": 47,
    "n_adopted": 25,
-   "newest": "2026-11-03T22:29:57+00:00",
+   "newest": "2026-11-04T03:14:00+00:00",
    "stale": false,
    "error": null
   },
@@ -68,9 +68,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-11-03T15:46:27+00:00",
+   "n_entries": 65,
+   "n_adopted": 7,
+   "newest": "2026-11-04T05:18:43+00:00",
    "stale": false,
    "error": null
   },
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 63,
-   "newest": "2026-11-03T21:30:00+00:00",
+   "n_adopted": 59,
+   "newest": "2026-11-04T06:16:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
-   "newest": "2026-11-02T14:39:00+00:00",
+   "n_adopted": 13,
+   "newest": "2026-11-04T04:53:40+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 20,
-   "newest": "2026-11-03T15:27:00+00:00",
+   "n_adopted": 10,
+   "newest": "2026-11-04T04:01:28+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
+   "n_entries": 58,
    "n_adopted": 3,
-   "newest": "2026-11-03T11:33:08+00:00",
+   "newest": "2026-11-04T05:13:46+00:00",
    "stale": false,
    "error": null
   },
@@ -147,8 +147,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 50,
-   "n_adopted": 1,
-   "newest": "2026-11-03T18:42:37+00:00",
+   "n_adopted": 0,
+   "newest": "2026-11-04T05:48:42+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-03T22:58:00+00:00",
+   "newest": "2026-11-04T05:23:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 96,
+   "n_entries": 97,
    "n_adopted": 0,
-   "newest": "2026-11-03T22:47:13+00:00",
+   "newest": "2026-11-04T06:23:11+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-03T11:51:08+00:00",
+   "newest": "2026-11-04T03:46:10+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-03T23:03:42+00:00",
+   "newest": "2026-11-04T05:49:43+00:00",
    "stale": false,
    "error": null
   },
@@ -247,13 +247,18 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 13,
-   "sample_title": "中國加碼狂造6艘「071型」登陸艦劍指台海 2030前或組5大遠征打擊群 | 上報"
+   "n_articles": 11,
+   "sample_title": "【交叉詰問2】雙城論壇、財劃法交鋒 沈伯洋：蔣論壇後台灣迎來最大共軍軍演 | 上報"
   },
   {
    "domain": "hk.crntt.com",
    "n_articles": 7,
    "sample_title": "翁明賢：美日“台海有事”劇本最緊迫是撤僑"
+  },
+  {
+   "domain": "n.yam.com",
+   "n_articles": 6,
+   "sample_title": "大西洋理事會揭台海危機時間表！2028至2029年風險高 台灣防線面臨考驗"
   },
   {
    "domain": "i-meihua.com",
@@ -262,13 +267,8 @@
   },
   {
    "domain": "taiwandaily.net",
-   "n_articles": 6,
+   "n_articles": 5,
    "sample_title": "新聞大破解-中央軍委剩兩人 共軍還能打台灣？1030"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 6,
-   "sample_title": "共軍主導批蔡康永、發布台北市空拍照 陸委會：干擾台灣選舉手法"
   },
   {
    "domain": "ctee.com.tw",
@@ -281,11 +281,6 @@
    "sample_title": "DW News. . Beijing is spending heavily on its military, in particular in areas t"
   },
   {
-   "domain": "worldjournal.com",
-   "n_articles": 3,
-   "sample_title": "中方研究船密集測繪 鋪路進攻台海戰略"
-  },
-  {
    "domain": "ctinews.com",
    "n_articles": 3,
    "sample_title": "美軍備戰台海！明年4月2日前完成前沿部署"
@@ -296,9 +291,19 @@
    "sample_title": "美軍評估中共2027年具攻台能力 顧立雄：中國始終沒有放棄武力併吞台灣"
   },
   {
+   "domain": "businessinsider.tw",
+   "n_articles": 2,
+   "sample_title": "共軍大規模出動後仍未停歇 14 架次進入臺灣西南與東部空域"
+  },
+  {
    "domain": "zaobao.com.sg",
    "n_articles": 2,
    "sample_title": "[China Desk] What the US midterm elections mean for the Taiwan Strait"
+  },
+  {
+   "domain": "fakti.bg",
+   "n_articles": 2,
+   "sample_title": "Taiwan can learn from Ukraines military experience ᐉ News from Fakti.bg - World"
   },
   {
    "domain": "shotnews.tw",
@@ -309,6 +314,11 @@
    "domain": "taiwanhot.net",
    "n_articles": 2,
    "sample_title": "美日韓外長重申台海和平穩定重要性 外交部：已是國際社會高度關切共同議題"
+  },
+  {
+   "domain": "worldjournal.com",
+   "n_articles": 2,
+   "sample_title": "中方研究船密集測繪 鋪路進攻台海戰略"
   },
   {
    "domain": "cmoney.tw",
@@ -331,19 +341,9 @@
    "sample_title": "川普又開砲！轟台灣「100%偷走美晶片生意」低價傾銷狂言：若有聰明總統台海根本沒人在乎- 鏡報"
   },
   {
-   "domain": "agenzianova.com",
-   "n_articles": 2,
-   "sample_title": "Taiwan: 166 Chinese military aircraft and 309 vessels detected in the Strait sin"
-  },
-  {
-   "domain": "mnews.tw",
-   "n_articles": 2,
-   "sample_title": "8艘日巡視船台海避颱遭中海警尾隨 海巡署批製造「台海內水化」假象"
-  },
-  {
-   "domain": "businessinsider.tw",
+   "domain": "taiwaninsight.org",
    "n_articles": 1,
-   "sample_title": "共軍 49 架次出動 航跡由臺灣西南延伸至東部外海"
+   "sample_title": "Falling Edifice: The Decay of the Nash Equilibrium in the Taiwan Strait"
   }
  ]
 }
