@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-04T23:42:43Z",
- "checked": "2026-11-04",
- "duration_sec": 30.5,
+ "updated": "2026-11-05T06:52:23Z",
+ "checked": "2026-11-05",
+ "duration_sec": 31.6,
  "rolling_days": 14,
- "n_events": 421,
- "n_articles": 461,
+ "n_events": 425,
+ "n_articles": 463,
  "grades": {
-  "C": 166,
-  "D": 229,
+  "C": 164,
   "B": 25,
+  "D": 235,
   "A": 1
  },
  "cross_language_events": 3,
@@ -19,10 +19,10 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
-  "T2": 183,
-  "T3": 105,
-  "T4": 17,
+  "T1": 15,
+  "T2": 181,
+  "T3": 109,
+  "T4": 15,
   "T5": 123,
   "TA": 4
  },
@@ -42,8 +42,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 63,
-   "n_adopted": 8,
+   "n_entries": 62,
+   "n_adopted": 6,
    "newest": "2026-11-04T04:31:00+00:00",
    "stale": false,
    "error": null
@@ -55,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 21,
+   "n_entries": 22,
    "n_adopted": 12,
-   "newest": "2026-11-04T18:44:11+00:00",
+   "newest": "2026-11-05T04:45:02+00:00",
    "stale": false,
    "error": null
   },
@@ -68,8 +68,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
-   "n_adopted": 8,
+   "n_entries": 66,
+   "n_adopted": 7,
    "newest": "2026-11-04T22:44:29+00:00",
    "stale": false,
    "error": null
@@ -82,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 62,
-   "newest": "2026-11-04T20:30:57+00:00",
+   "n_adopted": 65,
+   "newest": "2026-11-05T06:47:59+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +96,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 9,
-   "newest": "2026-11-04T15:23:21+00:00",
+   "newest": "2026-11-05T01:31:31+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +108,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-11-04T22:53:32+00:00",
+   "n_adopted": 15,
+   "newest": "2026-11-05T06:41:13+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
-   "n_adopted": 4,
-   "newest": "2026-11-04T13:01:24+00:00",
+   "n_entries": 57,
+   "n_adopted": 5,
+   "newest": "2026-11-05T05:51:01+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-11-04T23:00:10+00:00",
+   "newest": "2026-11-05T06:50:02+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-04T22:14:00+00:00",
+   "newest": "2026-11-05T06:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 96,
+   "n_entries": 87,
    "n_adopted": 0,
-   "newest": "2026-11-04T23:00:06+00:00",
+   "newest": "2026-11-05T06:38:21+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-04T07:39:38+00:00",
+   "newest": "2026-11-05T06:35:25+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-04T22:45:24+00:00",
+   "newest": "2026-11-05T06:10:51+00:00",
    "stale": false,
    "error": null
   },
@@ -247,18 +247,18 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 10,
-   "sample_title": "美日韓外長G20會談 關切台海 | 中華日報"
-  },
-  {
-   "domain": "hk.crntt.com",
-   "n_articles": 6,
-   "sample_title": "快評：大陸握主動權 美國台海政策能怎麼變？"
+   "n_articles": 8,
+   "sample_title": "【交叉詰問2】雙城論壇、財劃法交鋒 沈伯洋：蔣論壇後台灣迎來最大共軍軍演 | 上報"
   },
   {
    "domain": "i-meihua.com",
    "n_articles": 6,
    "sample_title": "大陸低價版「見證者」飛龍-300D無人機亮相 恐改變台海、南海作戰模式"
+  },
+  {
+   "domain": "hk.crntt.com",
+   "n_articles": 5,
+   "sample_title": "快評：大陸握主動權 美國台海政策能怎麼變？"
   },
   {
    "domain": "n.yam.com",
@@ -296,6 +296,11 @@
    "sample_title": "美軍評估中共2027年具攻台能力 顧立雄：中國始終沒有放棄武力併吞台灣"
   },
   {
+   "domain": "digitimes.com.tw",
+   "n_articles": 2,
+   "sample_title": "吳敏求：AI不因美國政黨變化踩煞車 台海不確定風險延續至2027年"
+  },
+  {
    "domain": "taiwanreports.com",
    "n_articles": 2,
    "sample_title": "社論 /美國國會變天之後的台海局勢不該再押寶"
@@ -324,11 +329,6 @@
    "domain": "shotnews.tw",
    "n_articles": 2,
    "sample_title": "美日韓簽北極合作 美方重申台海和平"
-  },
-  {
-   "domain": "taiwanhot.net",
-   "n_articles": 2,
-   "sample_title": "美日韓外長重申台海和平穩定重要性 外交部：已是國際社會高度關切共同議題"
   },
   {
    "domain": "worldjournal.com",
