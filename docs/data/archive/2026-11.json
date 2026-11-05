@@ -1,7 +1,267 @@
 {
  "month": "2026-11",
- "n_events": 100,
+ "n_events": 108,
  "events": [
+  {
+   "id": "evt_20261105_9988ec",
+   "headline": "2 Chinese men sentenced over illegal entry into Taiwan by rubber dinghy",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/society/202611050016",
+   "headline_lang": "en",
+   "first_seen": "2026-11-05T10:12:23Z",
+   "last_seen": "2026-11-05T10:12:23Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "4051df8898f05ca9"
+    ]
+   },
+   "articles": [
+    {
+     "id": "4051df8898f05ca9",
+     "title": "2 Chinese men sentenced over illegal entry into Taiwan by rubber dinghy",
+     "url": "https://focustaiwan.tw/society/202611050016",
+     "published": "2026-11-05T10:12:23Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261105_cb3dca",
+   "headline": "一周內2度大動作擾台！21共機四面「圍台」路線曝 挑釁意味濃",
+   "headline_source": "TVBS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ydGFFRmlrTS12a2U3X0huQkNBeW1hczlBeXpMdzRyaWlPX0dQazlDdUo4c0RPYkZISF85NjRUc254V0pObVN5OXJkektXdXF6WkdN?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-05T07:22:00Z",
+   "last_seen": "2026-11-05T07:23:00Z",
+   "langs": [
+    "en",
+    "zh"
+   ],
+   "cross_language": true,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 2,
+    "n_unrated": 1,
+    "score": 38.1,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간",
+     "2개 언어권에서 확인",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "7b975ad4329d08ee",
+     "36095ac60d178fbc"
+    ]
+   },
+   "articles": [
+    {
+     "id": "7b975ad4329d08ee",
+     "title": "Chinese military aircraft make 21 flights around Taiwan",
+     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMDhJSmpyNUhmbU9OUFBCdFFSRENPVjc3bjJBeGhrRjUzVWhjWGt1ajJpdUFlZmUxNEpTOVpDOE93aFl2ejF3OW8zTGhfX0pNVzNTU0VwRjVrZEVOak5RZ2ZJM1BOSkhDZmlWa3VLZlM4ZlQxclh1WHI4NUJ3QUJnUXhzdTA2dURaRXZ3SFFHWXVkTVdQYmc?oc=5",
+     "published": "2026-11-05T07:22:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Operativ Məlumat Mərkəzi",
+     "source_domain": "operativmm.az",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "36095ac60d178fbc",
+     "title": "一周內2度大動作擾台！21共機四面「圍台」路線曝 挑釁意味濃",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ydGFFRmlrTS12a2U3X0huQkNBeW1hczlBeXpMdzRyaWlPX0dQazlDdUo4c0RPYkZISF85NjRUc254V0pObVN5OXJkektXdXF6WkdN?oc=5",
+     "published": "2026-11-05T07:23:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion"
+     ],
+     "source_name": "TVBS",
+     "source_domain": "tvbs.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261105_c314f0",
+   "headline": "美國中期選舉民主黨勝出 學者指台海政策或重回戰略模糊",
+   "headline_source": "Singtaousa",
+   "headline_url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0V2ZlBGNDVPaVN5ZWdVRl9xOFRQYUllTzQ1ZjhlejI0UzBSNG00YXNPdzl6SHZETVVBVkUzU3JfY2NiLXZ6NE5MYkJ4QWlVS0x2LW5fbXlyenpNakxCOXNJMFN3UDA0bl94dmVWdWRTd0hoWkZ5SHVNWmI0TUN6WU0wN20wSUNEaU9ycHA0SElMZw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-05T07:22:34Z",
+   "last_seen": "2026-11-05T07:22:34Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8671454427227dec"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8671454427227dec",
+     "title": "美國中期選舉民主黨勝出 學者指台海政策或重回戰略模糊",
+     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNS0V2ZlBGNDVPaVN5ZWdVRl9xOFRQYUllTzQ1ZjhlejI0UzBSNG00YXNPdzl6SHZETVVBVkUzU3JfY2NiLXZ6NE5MYkJ4QWlVS0x2LW5fbXlyenpNakxCOXNJMFN3UDA0bl94dmVWdWRTd0hoWkZ5SHVNWmI0TUN6WU0wN20wSUNEaU9ycHA0SElMZw?oc=5",
+     "published": "2026-11-05T07:22:34Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Singtaousa",
+     "source_domain": "singtaousa.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261105_156c96",
+   "headline": "王在希：“台独”是死路，台湾社会开始思考统一后安排",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEMTJmb3pUQUdOVE0tTThOVkF2Mm5MVWUzSG80TUdDVElrbXgzaTRwRllSSzdCaDNPU0s2b3FqTjNkbVlZTVc0Z19lZVZENHp2VEg0WmdqeDR1VWdmOHktQXFUSkszVzJPaUhMMGFRSS0?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-05T06:58:09Z",
+   "last_seen": "2026-11-05T06:58:09Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "4cd34e4594a8a2bb"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "4cd34e4594a8a2bb",
+     "title": "王在希：“台独”是死路，台湾社会开始思考统一后安排",
+     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBEMTJmb3pUQUdOVE0tTThOVkF2Mm5MVWUzSG80TUdDVElrbXgzaTRwRllSSzdCaDNPU0s2b3FqTjNkbVlZTVc0Z19lZVZENHp2VEg0WmdqeDR1VWdmOHktQXFUSkszVzJPaUhMMGFRSS0?oc=5",
+     "published": "2026-11-05T06:58:09Z",
+     "lang": "zh",
+     "entities": [
+      "independence",
+      "reunification"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261105_238a2b",
    "headline": "搭橡皮艇橫渡台海想當網紅 2陸男偷渡八里下場曝光",
@@ -62,61 +322,81 @@
    ]
   },
   {
-   "id": "evt_20261105_44fc57",
-   "headline": "中國海警船1週4度闖金門海域 我海巡一對一併航監控",
-   "headline_source": "公視 PTS",
-   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOaDd2NGkwMkZTR0NNUkxqQ1huWlZyY0M2cEhnclh5a0ZwMVpLVnB6XzAzcmxITnc0TjhYekdSNXA1NmZpZ0pRekxQVXJCaTg?oc=5",
+   "id": "evt_20261105_864643",
+   "headline": "美期中選舉恐牽動台海？江啟臣：短期震盪難免但「產業長期看好」",
+   "headline_source": "NOWnews今日新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdXBnOHJVVzJZQWs0WENNWnJPZWdSNE1JdlB4ajNfYkUyWlU5UlNISFdiTmFNWXN4LXE5aGZXb3FBd0lwVDRiejh4UUzSAVJBVV95cUxQMzQ1R09OM3lyY1JTZC1TVncyVlhUQWd4YkZLcUdYMUhzREpDeHNiWmVSQ3huZnNIT2QycjQxN2FibDZGdUJQYW9kTjRvLVpsUHZ3?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-11-05T05:19:55Z",
-   "last_seen": "2026-11-05T05:19:55Z",
+   "first_seen": "2026-11-05T04:12:04Z",
+   "last_seen": "2026-11-05T05:38:56Z",
    "langs": [
     "zh"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.3,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 2,
+    "n_unrated": 2,
+    "score": 3.8,
+    "n_independent": 0,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
-     "independent"
+     "unknown"
     ],
-    "top_tier": "T1",
+    "top_tier": "T5",
     "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영"
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "c959b8d49f90b2f5"
+     "04b1db46314c2efb",
+     "ff9ee517fc0a78c9"
     ]
    },
    "articles": [
     {
-     "id": "c959b8d49f90b2f5",
-     "title": "中國海警船1週4度闖金門海域 我海巡一對一併航監控",
-     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOaDd2NGkwMkZTR0NNUkxqQ1huWlZyY0M2cEhnclh5a0ZwMVpLVnB6XzAzcmxITnc0TjhYekdSNXA1NmZpZ0pRekxQVXJCaTg?oc=5",
-     "published": "2026-11-05T05:19:55Z",
+     "id": "04b1db46314c2efb",
+     "title": "美期中選舉恐牽動台海？江啟臣：短期震盪難免但「產業長期看好」",
+     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdXBnOHJVVzJZQWs0WENNWnJPZWdSNE1JdlB4ajNfYkUyWlU5UlNISFdiTmFNWXN4LXE5aGZXb3FBd0lwVDRiejh4UUzSAVJBVV95cUxQMzQ1R09OM3lyY1JTZC1TVncyVlhUQWd4YkZLcUdYMUhzREpDeHNiWmVSQ3huZnNIT2QycjQxN2FibDZGdUJQYW9kTjRvLVpsUHZ3?oc=5",
+     "published": "2026-11-05T04:12:04Z",
      "lang": "zh",
      "entities": [
-      "coast_guard",
-      "kinmen"
+      "taiwan_strait"
      ],
-     "source_name": "公視 PTS",
-     "source_domain": "pts.org.tw",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 공영방송(편집권 독립)",
+     "source_name": "NOWnews今日新聞",
+     "source_domain": "nownews.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "ff9ee517fc0a78c9",
+     "title": "川普期中選舉失利影響台海？江啟臣：短期震盪難免",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5xWTRva2NIbWJGazViQjlRZzFUTlhiR0RhS0hvMldVX094a1lyVTJkYzBkQVYxOVotNWV1a240YUdaVGFIcEhib2dxRHozamVlNkE?oc=5",
+     "published": "2026-11-05T05:38:56Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "蕃新聞",
+     "source_domain": "n.yam.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
      "hedged": false
     }
    ]
@@ -182,61 +462,61 @@
    ]
   },
   {
-   "id": "evt_20261105_864643",
-   "headline": "美期中選舉恐牽動台海？江啟臣：短期震盪難免但「產業長期看好」",
-   "headline_source": "NOWnews今日新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdXBnOHJVVzJZQWs0WENNWnJPZWdSNE1JdlB4ajNfYkUyWlU5UlNISFdiTmFNWXN4LXE5aGZXb3FBd0lwVDRiejh4UUzSAVJBVV95cUxQMzQ1R09OM3lyY1JTZC1TVncyVlhUQWd4YkZLcUdYMUhzREpDeHNiWmVSQ3huZnNIT2QycjQxN2FibDZGdUJQYW9kTjRvLVpsUHZ3?oc=5",
+   "id": "evt_20261105_44fc57",
+   "headline": "中國海警船1週4度闖金門海域 我海巡一對一併航監控",
+   "headline_source": "公視 PTS",
+   "headline_url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOaDd2NGkwMkZTR0NNUkxqQ1huWlZyY0M2cEhnclh5a0ZwMVpLVnB6XzAzcmxITnc0TjhYekdSNXA1NmZpZ0pRekxQVXJCaTg?oc=5",
    "headline_lang": "zh",
-   "first_seen": "2026-11-05T04:12:04Z",
-   "last_seen": "2026-11-05T04:12:04Z",
+   "first_seen": "2026-11-05T04:34:57Z",
+   "last_seen": "2026-11-05T04:34:57Z",
    "langs": [
     "zh"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
     "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
     "n_articles": 1,
     "n_domains": 1,
     "blocs": [
-     "unknown"
+     "independent"
     ],
-    "top_tier": "T5",
+    "top_tier": "T1",
     "primary_cited": false,
     "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "04b1db46314c2efb"
+     "c959b8d49f90b2f5"
     ]
    },
    "articles": [
     {
-     "id": "04b1db46314c2efb",
-     "title": "美期中選舉恐牽動台海？江啟臣：短期震盪難免但「產業長期看好」",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9zdXBnOHJVVzJZQWs0WENNWnJPZWdSNE1JdlB4ajNfYkUyWlU5UlNISFdiTmFNWXN4LXE5aGZXb3FBd0lwVDRiejh4UUzSAVJBVV95cUxQMzQ1R09OM3lyY1JTZC1TVncyVlhUQWd4YkZLcUdYMUhzREpDeHNiWmVSQ3huZnNIT2QycjQxN2FibDZGdUJQYW9kTjRvLVpsUHZ3?oc=5",
-     "published": "2026-11-05T04:12:04Z",
+     "id": "c959b8d49f90b2f5",
+     "title": "中國海警船1週4度闖金門海域 我海巡一對一併航監控",
+     "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBOaDd2NGkwMkZTR0NNUkxqQ1huWlZyY0M2cEhnclh5a0ZwMVpLVnB6XzAzcmxITnc0TjhYekdSNXA1NmZpZ0pRekxQVXJCaTg?oc=5",
+     "published": "2026-11-05T04:34:57Z",
      "lang": "zh",
      "entities": [
-      "taiwan_strait"
+      "coast_guard",
+      "kinmen"
      ],
-     "source_name": "NOWnews今日新聞",
-     "source_domain": "nownews.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
+     "source_name": "公視 PTS",
+     "source_domain": "pts.org.tw",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 공영방송(편집권 독립)",
      "hedged": false
     }
    ]
@@ -303,7 +583,7 @@
    "id": "evt_20261105_24a062",
    "headline": "吳敏求：AI不因美國政黨變化踩煞車 台海不確定風險延續至2027年",
    "headline_source": "DIGITIMES",
-   "headline_url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMS1iaHBUd0wtdm9iTENOMVhjWGlDTjdudXJ3eS1YY0pGSlM4TWpabUM4SWgtYURZSnRnMV9rQU5xZnMzaXE0U0hZUHBDU3V3ZUQzTlNKMkxVcjktVjZZZVYyNk1UbnpQX1Jj?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGNpV2tZRnh2REFwZGxKbHlaWGhLYVFNNkpLX3VhLTF4cDRZejBtSTRRSXhmeWVoajhuZzloMkREX2FtWXYteGx4U1N3SVMtOVpsWWZreDBzdXdpaEY0bnFsbnFzVDl4elAxRm5yaXJoZWl0dXdNd3l5dTllV0ZZZVRBTkhxMkJXWXkwX2xn?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-11-05T03:21:00Z",
    "last_seen": "2026-11-05T03:21:00Z",
@@ -342,7 +622,7 @@
     {
      "id": "02f533be09dd3fb1",
      "title": "吳敏求：AI不因美國政黨變化踩煞車 台海不確定風險延續至2027年",
-     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1jMS1iaHBUd0wtdm9iTENOMVhjWGlDTjdudXJ3eS1YY0pGSlM4TWpabUM4SWgtYURZSnRnMV9rQU5xZnMzaXE0U0hZUHBDU3V3ZUQzTlNKMkxVcjktVjZZZVYyNk1UbnpQX1Jj?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTGNpV2tZRnh2REFwZGxKbHlaWGhLYVFNNkpLX3VhLTF4cDRZejBtSTRRSXhmeWVoajhuZzloMkREX2FtWXYteGx4U1N3SVMtOVpsWWZreDBzdXdpaEY0bnFsbnFzVDl4elAxRm5yaXJoZWl0dXdNd3l5dTllV0ZZZVRBTkhxMkJXWXkwX2xn?oc=5",
      "published": "2026-11-05T03:21:00Z",
      "lang": "zh",
      "entities": [
@@ -350,6 +630,195 @@
      ],
      "source_name": "DIGITIMES",
      "source_domain": "digitimes.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261105_589143",
+   "headline": "“漳州非遗”之歌仔戏：一曲弦歌牵两岸",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlNHA4ZTg4WTVjY0hQb09DZjdqRm9qdWJhN3hHZGNHbS1Od08yMDUwdUxaeEdzRy02MlRIR1d2cTEtbHVKTXlndWVIUExkYkRjTm5saUd0SHNXam42N1hKVlZyRUR2Vkk4bXZCc0I1dXU4UQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-05T03:14:09Z",
+   "last_seen": "2026-11-05T03:14:09Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "49a118fc84fd5027"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "49a118fc84fd5027",
+     "title": "“漳州非遗”之歌仔戏：一曲弦歌牵两岸",
+     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBlNHA4ZTg4WTVjY0hQb09DZjdqRm9qdWJhN3hHZGNHbS1Od08yMDUwdUxaeEdzRy02MlRIR1d2cTEtbHVKTXlndWVIUExkYkRjTm5saUd0SHNXam42N1hKVlZyRUR2Vkk4bXZCc0I1dXU4UQ?oc=5",
+     "published": "2026-11-05T03:14:09Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261103_fd08d0",
+   "headline": "對台軍售卡關！專家：恐讓習近平誤判 後果比1996台海危機更可怕",
+   "headline_source": "ETtoday新聞雲",
+   "headline_url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WVd2RW5GMUx4SWs5VWlVSVp3eEI2dHFERnd1ODBsUG5CWHNtUzNWNE9PdDFISGxGRE1BbjRDRzhndE83bVRIUTNoUEZuU2JRbDljeVFZdE1uSmoycWfSAUtBVV95cUxQNkpNQmZLYjRKcHFsVVJpcGVZZ0JrVWE0Q3kwTXE1czdQNHcyZDdyMVdmWkhiTF93LUtsYmJ3UjRCYlB5LVpzWG84eG8?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-03T05:38:00Z",
+   "last_seen": "2026-11-05T03:06:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 4,
+    "n_unrated": 2,
+    "score": 51.5,
+    "n_independent": 2,
+    "n_articles": 4,
+    "n_domains": 4,
+    "blocs": [
+     "independent",
+     "unknown"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 2곳",
+     "최고 등급 주요 일간",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ec8fae2436059cdf",
+     "7bb5cdc133524ced",
+     "bdf0951979f6b70a",
+     "0bac58edec6e7d21"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ec8fae2436059cdf",
+     "title": "對台軍售卡關！專家：恐讓習近平誤判 後果比1996台海危機更可怕",
+     "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82WVd2RW5GMUx4SWs5VWlVSVp3eEI2dHFERnd1ODBsUG5CWHNtUzNWNE9PdDFISGxGRE1BbjRDRzhndE83bVRIUTNoUEZuU2JRbDljeVFZdE1uSmoycWfSAUtBVV95cUxQNkpNQmZLYjRKcHFsVVJpcGVZZ0JrVWE0Q3kwTXE1czdQNHcyZDdyMVdmWkhiTF93LUtsYmJ3UjRCYlB5LVpzWG84eG8?oc=5",
+     "published": "2026-11-03T05:38:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait",
+      "xi_jinping"
+     ],
+     "source_name": "ETtoday新聞雲",
+     "source_domain": "ettoday.net",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "7bb5cdc133524ced",
+     "title": "美暫緩對台軍售專家：陸恐把「暫停」當承諾後果比1996台海危機更可怕- 國際",
+     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reFU3VkZVNjhxaDFNNEJxYTQxMDllRVJLU3I0blc0bThZUVNNZ3k2QUI1eTl1ZnBrdjZoODNCcWZSMExDaGVRSFd4ejY3U3N5M2M1Nlp5MHNhelJ0cTMwb3VWZ0xFd3VPVmlfVml3?oc=5",
+     "published": "2026-11-03T07:26:11Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報",
+     "source_domain": "chinatimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    },
+    {
+     "id": "bdf0951979f6b70a",
+     "title": "川普暫緩對台軍售恐弄巧成拙？美專家：埋下比1996更危險的台海衝突",
+     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwbjd4T19zNk56dTkyeHRweFJIR2puM2FzYWp4S2N4ajkxeXB1ajZzLWhoSUxKNi1IVHBqVnI1UTRVbF9IUXI3MkM4RXlFSkVreWVJc2FiT0Q?oc=5",
+     "published": "2026-11-03T08:07:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "roc_military",
+      "taiwan_strait",
+      "trump"
+     ],
+     "source_name": "梅花新聞網",
+     "source_domain": "i-meihua.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "0bac58edec6e7d21",
+     "title": "分析｜美國會變天牽動台海局勢 民主黨料加強對台軍售、收緊AI和半導體出口",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWDhxeDA2ZWktbkljYVRqZ0oxRnIzNGNncm8ycnllNmZ5ZTVEWDB1RnBBZXpIa19KS2xOMk9JWVdjSlpoXzJvNGtJWE1DWldSSEExWFQ4QnFjOVo0QWdyRlpWNGk2NnBKc1RXa2pZdw?oc=5",
+     "published": "2026-11-05T03:06:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "chip_war",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "知新聞",
+     "source_domain": "knews.com.tw",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -476,6 +945,129 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261105_2679a6",
+   "headline": "快訊／19架共機越中線！共艦公務船各8艘擾台",
+   "headline_source": "東森新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rWkdwMG1Ic3lLemR6S2dJa1NOY01PQUxLT1RuQlE5QU4wdjBwU2RidEd3NXRsdXJGYU85QUN6eGxoYnNub2VMczFVY1lVZVFIY1hsbmxnZw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-05T01:34:00Z",
+   "last_seen": "2026-11-05T01:34:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "4ffce0e32b4caf7a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "4ffce0e32b4caf7a",
+     "title": "快訊／19架共機越中線！共艦公務船各8艘擾台",
+     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rWkdwMG1Ic3lLemR6S2dJa1NOY01PQUxLT1RuQlE5QU4wdjBwU2RidEd3NXRsdXJGYU85QUN6eGxoYnNub2VMczFVY1lVZVFIY1hsbmxnZw?oc=5",
+     "published": "2026-11-05T01:34:00Z",
+     "lang": "zh",
+     "entities": [
+      "aircraft_sortie",
+      "incursion",
+      "line_crossing",
+      "median_line",
+      "warship"
+     ],
+     "source_name": "東森新聞",
+     "source_domain": "ebc.net.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261105_160d12",
+   "headline": "鲁台艺术家根植同源文脉 共探两岸艺术时代命题",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14RVltUk1RU1B0RHJZSTdmQkNHMGU0eW1mNWFvVVNvc2d2X09JcVA2eDROX2xrcDlnV1pLcVI3anBvMXYwTUR4YUxaYjFqNGhnSkotZ3hBckZFMUppeGt2Z1doV3A?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-05T01:18:00Z",
+   "last_seen": "2026-11-05T01:18:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "e4dff759983a0646"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "e4dff759983a0646",
+     "title": "鲁台艺术家根植同源文脉 共探两岸艺术时代命题",
+     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE14RVltUk1RU1B0RHJZSTdmQkNHMGU0eW1mNWFvVVNvc2d2X09JcVA2eDROX2xrcDlnV1pLcVI3anBvMXYwTUR4YUxaYjFqNGhnSkotZ3hBckZFMUppeGt2Z1doV3A?oc=5",
+     "published": "2026-11-05T01:18:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
      "hedged": false
     }
    ]
@@ -1004,7 +1596,7 @@
    "id": "evt_20261104_34e084",
    "headline": "快評：大陸握主動權 美國台海政策能怎麼變？",
    "headline_source": "中國評論新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZTJiY2xOOXkzLVljMDFvTDF0eHBPNHBTaXlaZDVVUFpGeGZuMjVlU2NIUm9oM1o3bnRTdEtuRnROOEw4dzhWbmtzb1NyUXR4OFlEZGpZQjlfSC1wVUwwaERhejRxQzRfZEU3Tjd6cw?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jUEdyLXZHa1hHMmhOeWFmWjFZMUJyRUFyaV9DVUUyOF9sYlU2VG92RUZRR2xOVW5aeUcyLTVPcnI0dTQ5bUJUeU5uY3dtNVItMkJVaDhUQU1qVW5hYW5DVmtwd0phRTA?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-11-04T17:00:06Z",
    "last_seen": "2026-11-04T17:00:06Z",
@@ -1043,7 +1635,7 @@
     {
      "id": "ac4ee8e9f1927c73",
      "title": "快評：大陸握主動權 美國台海政策能怎麼變？",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE00ZTJiY2xOOXkzLVljMDFvTDF0eHBPNHBTaXlaZDVVUFpGeGZuMjVlU2NIUm9oM1o3bnRTdEtuRnROOEw4dzhWbmtzb1NyUXR4OFlEZGpZQjlfSC1wVUwwaERhejRxQzRfZEU3Tjd6cw?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jUEdyLXZHa1hHMmhOeWFmWjFZMUJyRUFyaV9DVUUyOF9sYlU2VG92RUZRR2xOVW5aeUcyLTVPcnI0dTQ5bUJUeU5uY3dtNVItMkJVaDhUQU1qVW5hYW5DVmtwd0phRTA?oc=5",
      "published": "2026-11-04T17:00:06Z",
      "lang": "zh",
      "entities": [
@@ -1173,6 +1765,66 @@
      "bloc": "unknown",
      "bloc_label": "미분류",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_3e1377",
+   "headline": "（第九届进博会）台湾木雕工艺师：两岸文化都是同根同源",
+   "headline_source": "中國新聞網",
+   "headline_url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GV3FRTF9RNjRjRHVuaG1mSU16MEIwSEpTUXU0Q0RSSTY5dk5lWEVNTnc2UE1BUXh1MEF1ajJPOFBTSFdXTThvQWU0cUtOSF9IQ1l4TF8xdDhkQmktY2VKb3cwclJZOHhFTjZiRURzeDZqSWEtN0E?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-04T11:09:00Z",
+   "last_seen": "2026-11-04T11:09:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 20.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": false,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "4ef3abe25e48334f"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "4ef3abe25e48334f",
+     "title": "（第九届进博会）台湾木雕工艺师：两岸文化都是同根同源",
+     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GV3FRTF9RNjRjRHVuaG1mSU16MEIwSEpTUXU0Q0RSSTY5dk5lWEVNTnc2UE1BUXh1MEF1ajJPOFBTSFdXTThvQWU0cUtOSF9IQ1l4TF8xdDhkQmktY2VKb3cwclJZOHhFTjZiRURzeDZqSWEtN0E?oc=5",
+     "published": "2026-11-04T11:09:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國新聞網",
+     "source_domain": "chinanews.com.cn",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 통신사",
      "hedged": false
     }
    ]
@@ -3237,91 +3889,6 @@
      ],
      "source_name": "Taiwan Insight",
      "source_domain": "taiwaninsight.org",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261103_825b3d",
-   "headline": "美暫緩對台軍售專家：陸恐把「暫停」當承諾後果比1996台海危機更可怕- 國際",
-   "headline_source": "中國時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reFU3VkZVNjhxaDFNNEJxYTQxMDllRVJLU3I0blc0bThZUVNNZ3k2QUI1eTl1ZnBrdjZoODNCcWZSMExDaGVRSFd4ejY3U3N5M2M1Nlp5MHNhelJ0cTMwb3VWZ0xFd3VPVmlfVml3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-03T07:26:11Z",
-   "last_seen": "2026-11-03T08:07:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 2,
-    "n_unrated": 1,
-    "score": 28.0,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "7bb5cdc133524ced",
-     "bdf0951979f6b70a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "7bb5cdc133524ced",
-     "title": "美暫緩對台軍售專家：陸恐把「暫停」當承諾後果比1996台海危機更可怕- 國際",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reFU3VkZVNjhxaDFNNEJxYTQxMDllRVJLU3I0blc0bThZUVNNZ3k2QUI1eTl1ZnBrdjZoODNCcWZSMExDaGVRSFd4ejY3U3N5M2M1Nlp5MHNhelJ0cTMwb3VWZ0xFd3VPVmlfVml3?oc=5",
-     "published": "2026-11-03T07:26:11Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "bdf0951979f6b70a",
-     "title": "川普暫緩對台軍售恐弄巧成拙？美專家：埋下比1996更危險的台海衝突",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwbjd4T19zNk56dTkyeHRweFJIR2puM2FzYWp4S2N4ajkxeXB1ajZzLWhoSUxKNi1IVHBqVnI1UTRVbF9IUXI3MkM4RXlFSkVreWVJc2FiT0Q?oc=5",
-     "published": "2026-11-03T08:07:00Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "梅花新聞網",
-     "source_domain": "i-meihua.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
