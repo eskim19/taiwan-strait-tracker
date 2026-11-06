@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-05T23:40:20Z",
- "checked": "2026-11-05",
- "duration_sec": 34.9,
+ "updated": "2026-11-06T06:52:31Z",
+ "checked": "2026-11-06",
+ "duration_sec": 32.5,
  "rolling_days": 14,
- "n_events": 412,
- "n_articles": 452,
+ "n_events": 403,
+ "n_articles": 446,
  "grades": {
-  "D": 230,
-  "C": 157,
-  "B": 24,
+  "C": 155,
+  "B": 23,
+  "D": 224,
   "A": 1
  },
  "cross_language_events": 4,
@@ -19,15 +19,14 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 14,
+  "T1": 13,
   "T2": 174,
-  "T3": 112,
+  "T3": 107,
   "T4": 12,
-  "T5": 120,
+  "T5": 119,
   "TA": 3
  },
  "t1_domains": [
-  "aninews.in",
   "bloomberg.com",
   "pts.org.tw",
   "reuters.com",
@@ -42,9 +41,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 58,
-   "n_adopted": 3,
-   "newest": "2026-11-04T04:31:00+00:00",
+   "n_entries": 61,
+   "n_adopted": 5,
+   "newest": "2026-11-06T05:08:25+00:00",
    "stale": false,
    "error": null
   },
@@ -55,9 +54,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 24,
-   "n_adopted": 12,
-   "newest": "2026-11-05T16:00:00+00:00",
+   "n_entries": 21,
+   "n_adopted": 15,
+   "newest": "2026-11-06T02:26:00+00:00",
    "stale": false,
    "error": null
   },
@@ -68,9 +67,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 65,
+   "n_entries": 63,
    "n_adopted": 7,
-   "newest": "2026-11-04T22:44:29+00:00",
+   "newest": "2026-11-06T01:11:00+00:00",
    "stale": false,
    "error": null
   },
@@ -83,7 +82,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 64,
-   "newest": "2026-11-05T23:18:05+00:00",
+   "newest": "2026-11-06T05:00:53+00:00",
    "stale": false,
    "error": null
   },
@@ -96,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 6,
-   "newest": "2026-11-05T13:12:00+00:00",
+   "newest": "2026-11-06T01:38:02+00:00",
    "stale": false,
    "error": null
   },
@@ -108,8 +107,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 16,
-   "newest": "2026-11-05T22:03:00+00:00",
+   "n_adopted": 3,
+   "newest": "2026-11-06T06:43:49+00:00",
    "stale": false,
    "error": null
   },
@@ -120,9 +119,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 42,
+   "n_entries": 50,
    "n_adopted": 3,
-   "newest": "2026-11-05T12:28:36+00:00",
+   "newest": "2026-11-06T05:21:14+00:00",
    "stale": false,
    "error": null
   },
@@ -148,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-11-05T21:31:34+00:00",
+   "newest": "2026-11-06T06:00:34+00:00",
    "stale": false,
    "error": null
   },
@@ -161,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-05T11:20:00+00:00",
+   "newest": "2026-11-06T06:22:00+00:00",
    "stale": false,
    "error": null
   },
@@ -198,9 +197,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 91,
+   "n_entries": 84,
    "n_adopted": 0,
-   "newest": "2026-11-05T23:20:33+00:00",
+   "newest": "2026-11-06T06:45:53+00:00",
    "stale": false,
    "error": null
   },
@@ -213,7 +212,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-05T13:51:03+00:00",
+   "newest": "2026-11-06T06:46:21+00:00",
    "stale": false,
    "error": null
   },
@@ -226,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-05T21:49:31+00:00",
+   "newest": "2026-11-06T06:06:24+00:00",
    "stale": false,
    "error": null
   },
@@ -246,24 +245,24 @@
  ],
  "unrated_domains": [
   {
-   "domain": "today.line.me",
-   "n_articles": 7,
-   "sample_title": "【交叉詰問2】雙城論壇、財劃法交鋒 沈伯洋：蔣論壇後台灣迎來最大共軍軍演 | 上報"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 6,
-   "sample_title": "川普期中選舉失利影響台海？江啟臣：短期震盪難免"
-  },
-  {
    "domain": "i-meihua.com",
    "n_articles": 6,
-   "sample_title": "大陸低價版「見證者」飛龍-300D無人機亮相 恐改變台海、南海作戰模式"
+   "sample_title": "川普暫緩對台軍售恐弄巧成拙？美專家：埋下比1996更危險的台海衝突"
+  },
+  {
+   "domain": "today.line.me",
+   "n_articles": 6,
+   "sample_title": "【交叉詰問2】雙城論壇、財劃法交鋒 沈伯洋：蔣論壇後台灣迎來最大共軍軍演 | 上報"
   },
   {
    "domain": "hk.crntt.com",
    "n_articles": 5,
    "sample_title": "快評：大陸握主動權 美國台海政策能怎麼變？"
+  },
+  {
+   "domain": "n.yam.com",
+   "n_articles": 5,
+   "sample_title": "大西洋理事會揭台海危機時間表！2028至2029年風險高 台灣防線面臨考驗"
   },
   {
    "domain": "taiwandaily.net",
@@ -274,6 +273,11 @@
    "domain": "ctee.com.tw",
    "n_articles": 4,
    "sample_title": "福爾摩沙俱樂部呈遞聯合聲明予賴總統反對單方面改變台海現狀- 要聞"
+  },
+  {
+   "domain": "upmedia.mg",
+   "n_articles": 3,
+   "sample_title": "台海開戰澳洲恐先遭殃！澳智庫揭解放軍南部戰區3大殺招 狙擊盟軍北上援台"
   },
   {
    "domain": "hindustantimes.com",
@@ -291,24 +295,34 @@
    "sample_title": "美軍備戰台海！明年4月2日前完成前沿部署"
   },
   {
-   "domain": "digitimes.com.tw",
+   "domain": "news.jkn.co.kr",
    "n_articles": 2,
-   "sample_title": "吳敏求：AI不因美國政黨變化踩煞車 台海不確定風險延續至2027年"
-  },
-  {
-   "domain": "taiwanreports.com",
-   "n_articles": 2,
-   "sample_title": "社論 /美國國會變天之後的台海局勢不該再押寶"
+   "sample_title": "대만 국방부 “중국 육군 104만명·해군 작전함 474척” : 국제"
   },
   {
    "domain": "businessinsider.tw",
    "n_articles": 2,
-   "sample_title": "共軍大規模出動後仍未停歇 14 架次進入臺灣西南與東部空域"
+   "sample_title": "共軍 49 架次出動 航跡由臺灣西南延伸至東部外海"
   },
   {
    "domain": "newswav.com",
    "n_articles": 2,
    "sample_title": "China Sends 49 Military Aircraft Around Taiwan as Local Elections Near"
+  },
+  {
+   "domain": "digitimes.com.tw",
+   "n_articles": 2,
+   "sample_title": "吳敏求：AI不因美國政黨變化踩煞車 台海不確定風險延續至2027年"
+  },
+  {
+   "domain": "knews.com.tw",
+   "n_articles": 2,
+   "sample_title": "分析｜美國會變天牽動台海局勢 民主黨料加強對台軍售、收緊AI和半導體出口"
+  },
+  {
+   "domain": "taiwanreports.com",
+   "n_articles": 2,
+   "sample_title": "社論 /美國國會變天之後的台海局勢不該再押寶"
   },
   {
    "domain": "zaobao.com.sg",
@@ -321,11 +335,6 @@
    "sample_title": "Taiwan can learn from Ukraines military experience ᐉ News from Fakti.bg - World"
   },
   {
-   "domain": "shotnews.tw",
-   "n_articles": 2,
-   "sample_title": "美日韓簽北極合作 美方重申台海和平"
-  },
-  {
    "domain": "cmoney.tw",
    "n_articles": 2,
    "sample_title": "台海风暴将至？美军紧盯2027 五中全会究竟藏了什么？(视频)"
@@ -334,16 +343,6 @@
    "domain": "sunmedia.tw",
    "n_articles": 2,
    "sample_title": "美軍高層重申2027台海潛在衝突窗口有效 籲強化備戰"
-  },
-  {
-   "domain": "ftnn.com.tw",
-   "n_articles": 2,
-   "sample_title": "美軍評估中共2027年具攻台能力 顧立雄：中國始終沒有放棄武力併吞台灣"
-  },
-  {
-   "domain": "upmedia.mg",
-   "n_articles": 2,
-   "sample_title": "德總理會晤高市早苗強調台海「禁用武力」 研議加入日英義第6代戰機計畫"
   }
  ]
 }
