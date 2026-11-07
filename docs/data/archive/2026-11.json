@@ -1,7 +1,248 @@
 {
  "month": "2026-11",
- "n_events": 146,
+ "n_events": 151,
  "events": [
+  {
+   "id": "evt_20261108_68ec77",
+   "headline": "PLA may be simulating Taiwan isolation: report",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://www.taipeitimes.com/News/front/archives/2026/11/08/2003867351",
+   "headline_lang": "en",
+   "first_seen": "2026-11-08T00:00:00Z",
+   "last_seen": "2026-11-08T00:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b8a601ad32f32818"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b8a601ad32f32818",
+     "title": "PLA may be simulating Taiwan isolation: report",
+     "url": "https://www.taipeitimes.com/News/front/archives/2026/11/08/2003867351",
+     "published": "2026-11-08T00:00:00Z",
+     "lang": "en",
+     "entities": [
+      "pla"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261107_ee0047",
+   "headline": "美智庫：共軍可能正在台海軍演 但未公布",
+   "headline_source": "聯合報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSW1ycVNpdWtrQ3VEWWJSUjMxdXJVNm5HeWUxTDVXMWdtMEhKMkxkOV9kUlA1dDB5MG0wSHRCMEVCN1ZLMmJiOUdDbFJyQUFTWEHSAVdBVV95cUxNLVFDM09haTdkTXVtNWJTLW5qRlp6bkNvbnZHaGZfRHIwejI3QU14VmViZVUzQUZxQnRtTy1ydVNwNXR2S0xjX21jUkJfS0FpVGFqQjBTUDQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-07T17:42:00Z",
+   "last_seen": "2026-11-07T17:42:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b63872d53d40fccf"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b63872d53d40fccf",
+     "title": "美智庫：共軍可能正在台海軍演 但未公布",
+     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSW1ycVNpdWtrQ3VEWWJSUjMxdXJVNm5HeWUxTDVXMWdtMEhKMkxkOV9kUlA1dDB5MG0wSHRCMEVCN1ZLMmJiOUdDbFJyQUFTWEHSAVdBVV95cUxNLVFDM09haTdkTXVtNWJTLW5qRlp6bkNvbnZHaGZfRHIwejI3QU14VmViZVUzQUZxQnRtTy1ydVNwNXR2S0xjX21jUkJfS0FpVGFqQjBTUDQ?oc=5",
+     "published": "2026-11-07T17:42:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla",
+      "plan_navy",
+      "taiwan_strait"
+     ],
+     "source_name": "聯合報",
+     "source_domain": "udn.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범파란(친국민당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261107_ea3fcd",
+   "headline": "Taiwan Strait peace a priority: IPAC",
+   "headline_source": "Taipei Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xT3dRTWlWWS10NGpuV1FWOWpielRFZWppS0ZSZ3M5X25LbGlGdmgyM0dIaDQ4SUVDb1k2SmNBZ29TS0xaNFc2LVkwVE5ieDZNT3BVNHdPbUxwRUxaWVlpc2s2M2ZVSFd4elFobUJ2Zld2TnloZWFGcQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-07T16:00:00Z",
+   "last_seen": "2026-11-07T16:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "25f21ed8e47eb3ee"
+    ]
+   },
+   "articles": [
+    {
+     "id": "25f21ed8e47eb3ee",
+     "title": "Taiwan Strait peace a priority: IPAC",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xT3dRTWlWWS10NGpuV1FWOWpielRFZWppS0ZSZ3M5X25LbGlGdmgyM0dIaDQ4SUVDb1k2SmNBZ29TS0xaNFc2LVkwVE5ieDZNT3BVNHdPbUxwRUxaWVlpc2s2M2ZVSFd4elFobUJ2Zld2TnloZWFGcQ?oc=5",
+     "published": "2026-11-07T16:00:00Z",
+     "lang": "en",
+     "entities": [
+      "ipac",
+      "taiwan_strait"
+     ],
+     "source_name": "Taipei Times",
+     "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261107_0f9caf",
+   "headline": "2027台海危機倒數？台美日頂尖國防專家：「兵棋推演」3大目的",
+   "headline_source": "遠見雜誌",
+   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0b3lRTUhPVG4xMHpqZzdLWl9hc3M1OTBRUGR3Q0hXVmthNVFIby1iUGEtQjAzRkdhR0hZdWk4aEpqNndGVFEwT1loNW5Kdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-07T13:31:06Z",
+   "last_seen": "2026-11-07T13:31:06Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "69d0f99b5f0d7b47"
+    ]
+   },
+   "articles": [
+    {
+     "id": "69d0f99b5f0d7b47",
+     "title": "2027台海危機倒數？台美日頂尖國防專家：「兵棋推演」3大目的",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0b3lRTUhPVG4xMHpqZzdLWl9hc3M1OTBRUGR3Q0hXVmthNVFIby1iUGEtQjAzRkdhR0hZdWk4aEpqNndGVFEwT1loNW5Kdw?oc=5",
+     "published": "2026-11-07T13:31:06Z",
+     "lang": "zh",
+     "entities": [
+      "tabletop_wargame",
+      "taiwan_strait"
+     ],
+     "source_name": "遠見雜誌",
+     "source_domain": "gvm.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261107_37f792",
    "headline": "Taiwan detects intensive Chinese military activity in its vicinity, with dozens of aircraft and vessels spotted",
@@ -756,6 +997,64 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261106_047d33",
+   "headline": "The “anaconda strategy”: How China’s navy could isolate Taiwan’s islands without invading",
+   "headline_source": "Zona Militar",
+   "headline_url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXlJZzNJV1Z1RWpiYVFkY3pHaXdsdXB6eWwtQ2YtazdhQXRaUGhYdi1sRG5NUGR6QkNXQ0hodXYwcWVtSEF6R21EWlJuY0dFY0d3T25RZUtBc0VhRVFwZU14WkYycjhtZVBubVdjeTdlOWVYQ3ZOVUVNbW4zVXZkZllTaWFJZXVyRzVNM2VuYUdndlhjVTUySTNuaEtiMEwxTE5uRG94RllJOWIwanV5M1V1WlBQR0F5M1FfZ0dxMjZsQVh4Sjhz?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-06T23:05:00Z",
+   "last_seen": "2026-11-06T23:05:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "c6b41ea8145bdb9a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c6b41ea8145bdb9a",
+     "title": "The “anaconda strategy”: How China’s navy could isolate Taiwan’s islands without invading",
+     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNLXlJZzNJV1Z1RWpiYVFkY3pHaXdsdXB6eWwtQ2YtazdhQXRaUGhYdi1sRG5NUGR6QkNXQ0hodXYwcWVtSEF6R21EWlJuY0dFY0d3T25RZUtBc0VhRVFwZU14WkYycjhtZVBubVdjeTdlOWVYQ3ZOVUVNbW4zVXZkZllTaWFJZXVyRzVNM2VuYUdndlhjVTUySTNuaEtiMEwxTE5uRG94RllJOWIwanV5M1V1WlBQR0F5M1FfZ0dxMjZsQVh4Sjhz?oc=5",
+     "published": "2026-11-06T23:05:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Zona Militar",
+     "source_domain": "zona-militar.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
@@ -6472,65 +6771,6 @@
    ]
   },
   {
-   "id": "evt_20261103_713e40",
-   "headline": "Sea drone makers compete in Taiwan for soaring investment",
-   "headline_source": "Japan Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWE1sZ1dkUnpQSDRrdmIwUzdlV0JFdzl3YnVkSUpSbV94S182V095Mmo5TWx1WDAxWlB2MmJhZG14STFrd2ExWE5MZVJOSi1PT0d5aWt5cHFicEhxVGhvbGVPbW9KOWJCODdCRXIwVVM5Mnc3cFZWZC1kOHR4UlU3TFRxZG9Id01HYkhsTXdINA?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-11-03T04:04:00Z",
-   "last_seen": "2026-11-03T04:04:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "482e8858d456d6d8"
-    ]
-   },
-   "articles": [
-    {
-     "id": "482e8858d456d6d8",
-     "title": "Sea drone makers compete in Taiwan for soaring investment",
-     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWE1sZ1dkUnpQSDRrdmIwUzdlV0JFdzl3YnVkSUpSbV94S182V095Mmo5TWx1WDAxWlB2MmJhZG14STFrd2ExWE5MZVJOSi1PT0d5aWt5cHFicEhxVGhvbGVPbW9KOWJCODdCRXIwVVM5Mnc3cFZWZC1kOHR4UlU3TFRxZG9Id01HYkhsTXdINA?oc=5",
-     "published": "2026-11-03T04:04:00Z",
-     "lang": "en",
-     "entities": [
-      "drone"
-     ],
-     "source_name": "Japan Times",
-     "source_domain": "japantimes.co.jp",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261103_ee577d",
    "headline": "不出意外的話，一場小小的台海之戰，很可能成為中國的世紀之戰",
    "headline_source": "《超越新聞網》",
@@ -6764,6 +7004,65 @@
      ],
      "source_name": "風傳媒",
      "source_domain": "storm.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261103_713e40",
+   "headline": "Sea drone makers compete in Taiwan for soaring investment",
+   "headline_source": "Straits Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFJZYTFiSXBGcWs4b0kzTDl6RkdEZkVuc2lSSHB6SFBlSkp2M1dzNGgtQU9LNXhESGVCWm8xOEoyNE91SEtJcnBtRjdWaW5nY29sT3czVzhmWXYtdGdNeWNEV3RIZzAyZ25SSEFnX3hJZ2FOMk95S0d0RHJ0Xy1sMzAxc3NseU1wX1k3aFpYWWFSNk5aX2MtWjNDR19jYklpeDlV?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-03T03:15:00Z",
+   "last_seen": "2026-11-03T03:15:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "482e8858d456d6d8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "482e8858d456d6d8",
+     "title": "Sea drone makers compete in Taiwan for soaring investment",
+     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdFJZYTFiSXBGcWs4b0kzTDl6RkdEZkVuc2lSSHB6SFBlSkp2M1dzNGgtQU9LNXhESGVCWm8xOEoyNE91SEtJcnBtRjdWaW5nY29sT3czVzhmWXYtdGdNeWNEV3RIZzAyZ25SSEFnX3hJZ2FOMk95S0d0RHJ0Xy1sMzAxc3NseU1wX1k3aFpYWWFSNk5aX2MtWjNDR19jYklpeDlV?oc=5",
+     "published": "2026-11-03T03:15:00Z",
+     "lang": "en",
+     "entities": [
+      "drone"
+     ],
+     "source_name": "Straits Times",
+     "source_domain": "straitstimes.com",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
