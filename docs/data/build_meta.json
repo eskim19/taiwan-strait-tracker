@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-07T19:27:15Z",
- "checked": "2026-11-07",
- "duration_sec": 33.2,
+ "updated": "2026-11-08T00:41:02Z",
+ "checked": "2026-11-08",
+ "duration_sec": 33.4,
  "rolling_days": 14,
  "n_events": 395,
- "n_articles": 441,
+ "n_articles": 438,
  "grades": {
-  "C": 155,
+  "C": 156,
   "D": 216,
-  "B": 23,
+  "B": 22,
   "A": 1
  },
  "cross_language_events": 6,
@@ -21,9 +21,9 @@
  "tier_articles": {
   "T1": 12,
   "T2": 173,
-  "T3": 103,
+  "T3": 101,
   "T4": 12,
-  "T5": 121,
+  "T5": 120,
   "TA": 3
  },
  "t1_domains": [
@@ -41,9 +41,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 60,
-   "n_adopted": 4,
-   "newest": "2026-11-07T16:00:00+00:00",
+   "n_entries": 61,
+   "n_adopted": 6,
+   "newest": "2026-11-07T21:38:53+00:00",
    "stale": false,
    "error": null
   },
@@ -54,7 +54,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 27,
+   "n_entries": 28,
    "n_adopted": 17,
    "newest": "2026-11-07T12:06:16+00:00",
    "stale": false,
@@ -67,8 +67,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 67,
-   "n_adopted": 10,
+   "n_entries": 66,
+   "n_adopted": 9,
    "newest": "2026-11-06T01:11:00+00:00",
    "stale": false,
    "error": null
@@ -81,8 +81,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 73,
-   "newest": "2026-11-07T17:42:00+00:00",
+   "n_adopted": 72,
+   "newest": "2026-11-07T21:30:00+00:00",
    "stale": false,
    "error": null
   },
@@ -95,7 +95,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 7,
-   "newest": "2026-11-07T07:54:00+00:00",
+   "newest": "2026-11-07T13:57:32+00:00",
    "stale": false,
    "error": null
   },
@@ -107,8 +107,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 6,
-   "newest": "2026-11-07T16:44:35+00:00",
+   "n_adopted": 1,
+   "newest": "2026-11-08T00:04:00+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +147,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-11-07T14:00:08+00:00",
+   "newest": "2026-11-07T22:00:12+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +160,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-07T04:27:00+00:00",
+   "newest": "2026-11-07T23:05:00+00:00",
    "stale": false,
    "error": null
   },
@@ -197,7 +197,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 94,
+   "n_entries": 93,
    "n_adopted": 0,
    "newest": "2026-11-07T19:12:11+00:00",
    "stale": false,
@@ -212,7 +212,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-07T12:40:38+00:00",
+   "newest": "2026-11-07T23:02:35+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +225,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-07T19:10:34+00:00",
+   "newest": "2026-11-08T00:00:56+00:00",
    "stale": false,
    "error": null
   },
@@ -245,11 +245,6 @@
  ],
  "unrated_domains": [
   {
-   "domain": "i-meihua.com",
-   "n_articles": 6,
-   "sample_title": "川普暫緩對台軍售恐弄巧成拙？美專家：埋下比1996更危險的台海衝突"
-  },
-  {
    "domain": "today.line.me",
    "n_articles": 6,
    "sample_title": "【交叉詰問2】雙城論壇、財劃法交鋒 沈伯洋：蔣論壇後台灣迎來最大共軍軍演 | 上報"
@@ -258,6 +253,11 @@
    "domain": "n.yam.com",
    "n_articles": 5,
    "sample_title": "川普期中選舉失利影響台海？江啟臣：短期震盪難免"
+  },
+  {
+   "domain": "i-meihua.com",
+   "n_articles": 5,
+   "sample_title": "大陸低價版「見證者」飛龍-300D無人機亮相 恐改變台海、南海作戰模式"
   },
   {
    "domain": "hk.crntt.com",
@@ -310,6 +310,11 @@
    "sample_title": "2027台海危機倒數？台美日頂尖國防專家：「兵棋推演」3大目的"
   },
   {
+   "domain": "knews.com.tw",
+   "n_articles": 2,
+   "sample_title": "分析｜美國會變天牽動台海局勢 民主黨料加強對台軍售、收緊AI和半導體出口"
+  },
+  {
    "domain": "news.nextapple.com",
    "n_articles": 2,
    "sample_title": "菲律賓對中最強硬部長：中共若武力攻台將得不償失、代價更大"
@@ -320,19 +325,9 @@
    "sample_title": "대만 국방부 “중국 육군 104만명·해군 작전함 474척” : 국제"
   },
   {
-   "domain": "businessinsider.tw",
-   "n_articles": 2,
-   "sample_title": "共軍 49 架次出動 航跡由臺灣西南延伸至東部外海"
-  },
-  {
    "domain": "digitimes.com.tw",
    "n_articles": 2,
    "sample_title": "吳敏求：AI不因美國政黨變化踩煞車 台海不確定風險延續至2027年"
-  },
-  {
-   "domain": "knews.com.tw",
-   "n_articles": 2,
-   "sample_title": "分析｜美國會變天牽動台海局勢 民主黨料加強對台軍售、收緊AI和半導體出口"
   },
   {
    "domain": "taiwanreports.com",
@@ -343,6 +338,11 @@
    "domain": "zaobao.com.sg",
    "n_articles": 2,
    "sample_title": "[China Desk] What the US midterm elections mean for the Taiwan Strait"
+  },
+  {
+   "domain": "fakti.bg",
+   "n_articles": 2,
+   "sample_title": "Taiwan can learn from Ukraines military experience ᐉ News from Fakti.bg - World"
   }
  ]
 }

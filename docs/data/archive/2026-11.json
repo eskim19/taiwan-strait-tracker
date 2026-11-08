@@ -1,6 +1,6 @@
 {
  "month": "2026-11",
- "n_events": 151,
+ "n_events": 152,
  "events": [
   {
    "id": "evt_20261108_68ec77",
@@ -52,6 +52,127 @@
      ],
      "source_name": "Taipei Times",
      "source_domain": "taipeitimes.com",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": "대만 범녹색(친민진당) 성향",
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261107_bf1248",
+   "headline": "No Fijian soldiers going to Taiwan Strait: Tikoduadua",
+   "headline_source": "Fiji Sun",
+   "headline_url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUVITGNrZVRVWG92bWM2NXE0YXl6bFNPUkRCUHpEQmFVUkJFbUtkQ3pTRjZVM0V6SVk5cDB6cVMtcVRjeHozalFsNV9WV2lCZjh4SVVhNjRtZUdxeFhwSUUzbUtHdzk1Z01HYVRMWlBxVGE2X2dRS1Y4ZUlaOEFtaGlIMmF4NzZhSWtWMkVrYnQ?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-07T21:38:53Z",
+   "last_seen": "2026-11-07T21:38:53Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "d6bb43e3dfd85b7a"
+    ]
+   },
+   "articles": [
+    {
+     "id": "d6bb43e3dfd85b7a",
+     "title": "No Fijian soldiers going to Taiwan Strait: Tikoduadua",
+     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQdUVITGNrZVRVWG92bWM2NXE0YXl6bFNPUkRCUHpEQmFVUkJFbUtkQ3pTRjZVM0V6SVk5cDB6cVMtcVRjeHozalFsNV9WV2lCZjh4SVVhNjRtZUdxeFhwSUUzbUtHdzk1Z01HYVRMWlBxVGE2X2dRS1Y4ZUlaOEFtaGlIMmF4NzZhSWtWMkVrYnQ?oc=5",
+     "published": "2026-11-07T21:38:53Z",
+     "lang": "en",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "Fiji Sun",
+     "source_domain": "fijisun.com.fj",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261107_876163",
+   "headline": "對中政策跨國議會聯盟：台海、南海和平列全球優先行動",
+   "headline_source": "自由時報",
+   "headline_url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4aVBoTUZ4Q015WXB3Y2FqY2xlOXhmZlVLZGl1elJ0RXM0UXJBUlB5ZG9PMGl0OEU3TnhfZ2oyTEZqN3RpaWVDNEZHLXF3QThRYUNRY0NRTExDVGNXaUsybdIBZkFVX3lxTE01THJmSUFMRnNGMXdQT2lERWpsSTNSUGU2cF8wUTNmZ19FUXpDaTVXZHRYM05kVDVnT3BHTWsxRUlUZ2xEeDE1b0l0TEZjZkR4ak5tVml2SXM5S0s2YzFYbk9aSlc1Zw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-07T21:30:00Z",
+   "last_seen": "2026-11-07T21:30:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2c037499b2bf9d27"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2c037499b2bf9d27",
+     "title": "對中政策跨國議會聯盟：台海、南海和平列全球優先行動",
+     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB4aVBoTUZ4Q015WXB3Y2FqY2xlOXhmZlVLZGl1elJ0RXM0UXJBUlB5ZG9PMGl0OEU3TnhfZ2oyTEZqN3RpaWVDNEZHLXF3QThRYUNRY0NRTExDVGNXaUsybdIBZkFVX3lxTE01THJmSUFMRnNGMXdQT2lERWpsSTNSUGU2cF8wUTNmZ19FUXpDaTVXZHRYM05kVDVnT3BHTWsxRUlUZ2xEeDE1b0l0TEZjZkR4ak5tVml2SXM5S0s2YzFYbk9aSlc1Zw?oc=5",
+     "published": "2026-11-07T21:30:00Z",
+     "lang": "zh",
+     "entities": [
+      "ipac",
+      "south_china_sea",
+      "taiwan_strait"
+     ],
+     "source_name": "自由時報",
+     "source_domain": "ltn.com.tw",
      "tier": "T2",
      "tier_label": "주요 일간",
      "bloc": "independent",
@@ -663,7 +784,7 @@
    "id": "evt_20261107_1be21a",
    "headline": "Taiwan tracks 11 Chinese military aircraft and 13 ships",
    "headline_source": "Taiwan News",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9COExfLVlnNjEwUlhZMFMxbEJUOGdKakNlWmtZazhGUDhOckc2MGpqcXdaWEw4V3JSMjNHVm0zWGpPRVl5Rlpkb2tLbFRtaURrRXB0WEpVRUg?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JUHNrLUlpYlpvZjd6ZkRFcmU0LW1tYndXZEt3dHBEc0V5SnVFM2N3Sl96YWk4WTBHLXVDOGNTMnQwb1dfNlQ2UHJteU5TUUVaelVVNA?oc=5",
    "headline_lang": "en",
    "first_seen": "2026-11-07T02:53:00Z",
    "last_seen": "2026-11-07T02:53:00Z",
@@ -701,7 +822,7 @@
     {
      "id": "daca651be6925a96",
      "title": "Taiwan tracks 11 Chinese military aircraft and 13 ships",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9COExfLVlnNjEwUlhZMFMxbEJUOGdKakNlWmtZazhGUDhOckc2MGpqcXdaWEw4V3JSMjNHVm0zWGpPRVl5Rlpkb2tLbFRtaURrRXB0WEpVRUg?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1JUHNrLUlpYlpvZjd6ZkRFcmU0LW1tYndXZEt3dHBEc0V5SnVFM2N3Sl96YWk4WTBHLXVDOGNTMnQwb1dfNlQ2UHJteU5TUUVaelVVNA?oc=5",
      "published": "2026-11-07T02:53:00Z",
      "lang": "en",
      "entities": [],
@@ -860,12 +981,12 @@
    ]
   },
   {
-   "id": "evt_20261106_ca3445",
+   "id": "evt_20261105_fd08d0",
    "headline": "Democratic Congress to guard US’ Taiwan policy and press Trump on arms sales",
    "headline_source": "SCMP",
    "headline_url": "https://www.scmp.com/news/china/politics/article/3373517/democratic-congress-guard-us-taiwan-policy-and-press-trump-arms-sales",
    "headline_lang": "en",
-   "first_seen": "2026-11-06T14:00:06Z",
+   "first_seen": "2026-11-05T03:06:00Z",
    "last_seen": "2026-11-07T00:30:00Z",
    "langs": [
     "en",
@@ -876,31 +997,55 @@
     "grade": "B",
     "d_reason": null,
     "grade_label": "개연적",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 59.2,
+    "n_originals": 3,
+    "n_unrated": 1,
+    "score": 62.5,
     "n_independent": 2,
-    "n_articles": 2,
-    "n_domains": 2,
+    "n_articles": 3,
+    "n_domains": 3,
     "blocs": [
-     "independent"
+     "independent",
+     "unknown"
     ],
     "top_tier": "T2",
     "primary_cited": false,
     "reasons": [
      "독립 출처 2곳",
      "최고 등급 주요 일간",
-     "2개 언어권에서 확인"
+     "2개 언어권에서 확인",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
+     "0bac58edec6e7d21",
      "ff93766dc91d7b1b",
      "272c2360de6eb885"
     ]
    },
    "articles": [
+    {
+     "id": "0bac58edec6e7d21",
+     "title": "分析｜美國會變天牽動台海局勢 民主黨料加強對台軍售、收緊AI和半導體出口",
+     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWDhxeDA2ZWktbkljYVRqZ0oxRnIzNGNncm8ycnllNmZ5ZTVEWDB1RnBBZXpIa19KS2xOMk9JWVdjSlpoXzJvNGtJWE1DWldSSEExWFQ4QnFjOVo0QWdyRlpWNGk2NnBKc1RXa2pZdw?oc=5",
+     "published": "2026-11-05T03:06:00Z",
+     "lang": "zh",
+     "entities": [
+      "arms_sale",
+      "chip_war",
+      "roc_military",
+      "taiwan_strait"
+     ],
+     "source_name": "知新聞",
+     "source_domain": "knews.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
     {
      "id": "ff93766dc91d7b1b",
      "title": "Democratic Congress to guard US’ Taiwan policy and press Trump on arms sales",
@@ -2540,7 +2685,6 @@
     "tw_west": [
      "19b753fd9df6ac4e",
      "d05e916e61654e74",
-     "2c11492c6b40f57c",
      "c121d5c9dae9a923",
      "342afbab2e8749e1",
      "5d53411863777252",
@@ -2581,25 +2725,6 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "2c11492c6b40f57c",
-     "title": "共軍 49 架次出動 航跡由臺灣西南延伸至東部外海",
-     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBNNkVBWVR5NkplVy05LWZ2R2w2RUI3dEIzY2g0MEEwNVlaS1I5UF92V1lOR09WOFVSSGNXZERVNW5JUFlLcWppa19KQTlEdTlZbXoyZEZR?oc=5",
-     "published": "2026-11-03T03:21:00Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "pla"
-     ],
-     "source_name": "Business Insider Taiwan",
-     "source_domain": "businessinsider.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     },
@@ -3491,113 +3616,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261103_fd08d0",
-   "headline": "美暫緩對台軍售專家：陸恐把「暫停」當承諾後果比1996台海危機更可怕- 國際",
-   "headline_source": "中國時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reFU3VkZVNjhxaDFNNEJxYTQxMDllRVJLU3I0blc0bThZUVNNZ3k2QUI1eTl1ZnBrdjZoODNCcWZSMExDaGVRSFd4ejY3U3N5M2M1Nlp5MHNhelJ0cTMwb3VWZ0xFd3VPVmlfVml3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-03T07:26:11Z",
-   "last_seen": "2026-11-05T03:06:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 5,
-    "n_unrated": 2,
-    "score": 64.1,
-    "n_independent": 3,
-    "n_articles": 5,
-    "n_domains": 5,
-    "blocs": [
-     "independent",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "7bb5cdc133524ced",
-     "bdf0951979f6b70a",
-     "0bac58edec6e7d21"
-    ]
-   },
-   "articles": [
-    {
-     "id": "7bb5cdc133524ced",
-     "title": "美暫緩對台軍售專家：陸恐把「暫停」當承諾後果比1996台海危機更可怕- 國際",
-     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5reFU3VkZVNjhxaDFNNEJxYTQxMDllRVJLU3I0blc0bThZUVNNZ3k2QUI1eTl1ZnBrdjZoODNCcWZSMExDaGVRSFd4ejY3U3N5M2M1Nlp5MHNhelJ0cTMwb3VWZ0xFd3VPVmlfVml3?oc=5",
-     "published": "2026-11-03T07:26:11Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "中國時報",
-     "source_domain": "chinatimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "bdf0951979f6b70a",
-     "title": "川普暫緩對台軍售恐弄巧成拙？美專家：埋下比1996更危險的台海衝突",
-     "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAwbjd4T19zNk56dTkyeHRweFJIR2puM2FzYWp4S2N4ajkxeXB1ajZzLWhoSUxKNi1IVHBqVnI1UTRVbF9IUXI3MkM4RXlFSkVreWVJc2FiT0Q?oc=5",
-     "published": "2026-11-03T08:07:00Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "roc_military",
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "梅花新聞網",
-     "source_domain": "i-meihua.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "0bac58edec6e7d21",
-     "title": "分析｜美國會變天牽動台海局勢 民主黨料加強對台軍售、收緊AI和半導體出口",
-     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9nWDhxeDA2ZWktbkljYVRqZ0oxRnIzNGNncm8ycnllNmZ5ZTVEWDB1RnBBZXpIa19KS2xOMk9JWVdjSlpoXzJvNGtJWE1DWldSSEExWFQ4QnFjOVo0QWdyRlpWNGk2NnBKc1RXa2pZdw?oc=5",
-     "published": "2026-11-05T03:06:00Z",
-     "lang": "zh",
-     "entities": [
-      "arms_sale",
-      "chip_war",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "知新聞",
-     "source_domain": "knews.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -4672,88 +4690,6 @@
    ]
   },
   {
-   "id": "evt_20261104_cfa138",
-   "headline": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-   "headline_source": "CCTV 中央電視台",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-04T02:46:41Z",
-   "last_seen": "2026-11-04T10:33:55Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "state_only",
-    "grade_label": "발표 단독",
-    "n_originals": 2,
-    "n_unrated": 0,
-    "score": 31.0,
-    "n_independent": 1,
-    "n_articles": 2,
-    "n_domains": 2,
-    "blocs": [
-     "prc_state"
-    ],
-    "top_tier": "T3",
-    "primary_cited": true,
-    "reasons": [
-     "중국 관영 진영 단독 보도",
-     "최고 등급 관영·정부",
-     "정부·군 공식 발표 인용",
-     "중국 관영 발표만 존재"
-    ]
-   },
-   "perspectives": {
-    "prc": [
-     "269f66f2441fcd84",
-     "5c8bc282e729fa2c"
-    ],
-    "tw_west": []
-   },
-   "articles": [
-    {
-     "id": "269f66f2441fcd84",
-     "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
-     "published": "2026-11-04T02:46:41Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "tao"
-     ],
-     "source_name": "CCTV 中央電視台",
-     "source_domain": "cctv.com",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 방송",
-     "hedged": false
-    },
-    {
-     "id": "5c8bc282e729fa2c",
-     "title": "围绕“一国两制”台湾方案研讨热烈 国台办：欢迎两岸同胞集思广益",
-     "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBORmN6ZHNyNlk5TnpOY01TOGxUcmhUSUhPdDNOdnA1VmtYQU0wd3AzUkN5ZU93ZjJDSTY1N1hycldFR2FMdkw0VEZCa1AyNkRTQkxNX3Etb293LTc1WGhnNUkxOTMtd2Zj?oc=5",
-     "published": "2026-11-04T10:33:55Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "tao"
-     ],
-     "source_name": "中國新聞網",
-     "source_domain": "chinanews.com.cn",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "prc_state",
-     "bloc_label": "중국 관영",
-     "bias": "중국 국영 통신사",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261104_ffda7f",
    "headline": "Cross-Strait Ties: Chinese mainland: Taiwan region not eligible for Interpol membership",
    "headline_source": "CGTN",
@@ -5648,6 +5584,68 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261104_cfa138",
+   "headline": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+   "headline_source": "CCTV 中央電視台",
+   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-04T02:46:41Z",
+   "last_seen": "2026-11-04T02:46:41Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 2,
+    "n_unrated": 0,
+    "score": 31.0,
+    "n_independent": 1,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "prc_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "중국 관영 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "중국 관영 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [
+     "269f66f2441fcd84"
+    ],
+    "tw_west": []
+   },
+   "articles": [
+    {
+     "id": "269f66f2441fcd84",
+     "title": "两岸各界围绕“两制”台湾方案研讨热烈 国台办回应",
+     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByTm1jUzF4RVdGdG9KZFkxMkhOLTJxRjBUSEVvWkNxalF1bGlIdGIweG1KTUU0Rl9iMUd4VDdqZlZiT0JRdld0b0x2TmZIMFpBdlVFZUFSc1dYR185MUJlSUczSmhpcEtTdUxDUFhfT3RhUWJKUTdiYg?oc=5",
+     "published": "2026-11-04T02:46:41Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "tao"
+     ],
+     "source_name": "CCTV 中央電視台",
+     "source_domain": "cctv.com",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "prc_state",
+     "bloc_label": "중국 관영",
+     "bias": "중국 국영 방송",
      "hedged": false
     }
    ]
