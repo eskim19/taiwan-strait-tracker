@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-13T11:04:03Z",
+ "updated": "2026-11-13T19:45:45Z",
  "checked": "2026-11-13",
- "duration_sec": 30.1,
+ "duration_sec": 35.6,
  "rolling_days": 14,
- "n_events": 340,
- "n_articles": 394,
+ "n_events": 339,
+ "n_articles": 395,
  "grades": {
+  "B": 27,
+  "D": 178,
   "A": 2,
-  "B": 29,
-  "D": 176,
-  "C": 133
+  "C": 132
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -19,17 +19,18 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 16,
-  "T2": 147,
-  "T3": 83,
-  "T4": 14,
-  "T5": 106,
+  "T1": 17,
+  "T2": 146,
+  "T3": 84,
+  "T4": 13,
+  "T5": 107,
   "TA": 8
  },
  "t1_domains": [
   "aljazeera.com",
   "bloomberg.com",
   "dw.com",
+  "france24.com",
   "kyodonews.net",
   "nhk.or.jp",
   "pts.org.tw",
@@ -46,8 +47,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 65,
-   "n_adopted": 9,
-   "newest": "2026-11-13T05:19:44+00:00",
+   "n_adopted": 10,
+   "newest": "2026-11-13T11:29:42+00:00",
    "stale": false,
    "error": null
   },
@@ -58,9 +59,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 45,
-   "n_adopted": 34,
-   "newest": "2026-11-13T10:02:17+00:00",
+   "n_entries": 54,
+   "n_adopted": 39,
+   "newest": "2026-11-13T18:50:56+00:00",
    "stale": false,
    "error": null
   },
@@ -71,9 +72,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
-   "n_adopted": 2,
-   "newest": "2026-11-11T17:10:01+00:00",
+   "n_entries": 54,
+   "n_adopted": 1,
+   "newest": "2026-11-09T10:55:10+00:00",
    "stale": false,
    "error": null
   },
@@ -85,8 +86,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
-   "newest": "2026-11-13T07:56:38+00:00",
+   "n_adopted": 57,
+   "newest": "2026-11-13T18:02:27+00:00",
    "stale": false,
    "error": null
   },
@@ -98,8 +99,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-11-13T03:44:31+00:00",
+   "n_adopted": 5,
+   "newest": "2026-11-13T13:45:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,8 +112,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 5,
-   "newest": "2026-11-13T10:27:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-11-13T14:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +124,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 61,
+   "n_entries": 42,
    "n_adopted": 2,
-   "newest": "2026-11-13T09:44:47+00:00",
+   "newest": "2026-11-13T11:05:52+00:00",
    "stale": false,
    "error": null
   },
@@ -136,9 +137,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 50,
-   "n_adopted": 0,
-   "newest": "2026-11-13T00:00:00+00:00",
+   "n_entries": 47,
+   "n_adopted": 1,
+   "newest": "2026-11-14T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +152,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-11-13T10:00:15+00:00",
+   "newest": "2026-11-13T18:39:05+00:00",
    "stale": false,
    "error": null
   },
@@ -163,7 +164,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 1,
+   "n_adopted": 0,
    "newest": "2026-11-13T09:16:00+00:00",
    "stale": false,
    "error": null
@@ -201,9 +202,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 89,
+   "n_entries": 92,
    "n_adopted": 0,
-   "newest": "2026-11-13T10:08:48+00:00",
+   "newest": "2026-11-13T18:52:44+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +217,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-13T08:20:28+00:00",
+   "newest": "2026-11-13T19:01:36+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +230,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-13T10:26:37+00:00",
+   "newest": "2026-11-13T18:57:43+00:00",
    "stale": false,
    "error": null
   },
@@ -259,14 +260,9 @@
    "sample_title": "陸克文示警台海「引爆點」逼近！中共若武力奪台 恐引發美國衰退、日韓核武競賽"
   },
   {
-   "domain": "hk.crntt.com",
-   "n_articles": 4,
-   "sample_title": "雷倩籲堅持反戰避戰 讓台海成為和平之海"
-  },
-  {
    "domain": "moderndiplomacy.eu",
-   "n_articles": 3,
-   "sample_title": "Xi Jinping Says Taiwan Reunification Is Inevitable as US-China Tensions Loom Ahe"
+   "n_articles": 4,
+   "sample_title": "Could China Blockade Taiwan? Naval Drills Raise Fears of a Wider Indo-Pacific Cr"
   },
   {
    "domain": "shotnews.tw",
@@ -294,6 +290,16 @@
    "sample_title": "Before Taiwan war, can China stop manoeuvring missiles? HQ-9B drill tests split-"
   },
   {
+   "domain": "ua.news",
+   "n_articles": 2,
+   "sample_title": "Chinese drills did not create a blockade of Taiwan — France 24"
+  },
+  {
+   "domain": "cmoney.tw",
+   "n_articles": 2,
+   "sample_title": "航母百舰威慑台海 中共军工体系却在崩塌(视频)"
+  },
+  {
    "domain": "n.yam.com",
    "n_articles": 2,
    "sample_title": "守護台海安全 賴清德支持海洋科技自主研發"
@@ -314,19 +320,14 @@
    "sample_title": "G7外長聲明強調維護台海和平 批大陸威脅航行自由"
   },
   {
+   "domain": "hk.crntt.com",
+   "n_articles": 2,
+   "sample_title": "雷倩籲堅持反戰避戰 讓台海成為和平之海"
+  },
+  {
    "domain": "crntt.tw",
    "n_articles": 2,
    "sample_title": "陸在台海軍演未公布 邱垂正： 高度關注"
-  },
-  {
-   "domain": "taiwandaily.net",
-   "n_articles": 2,
-   "sample_title": "尖鋒對話-共軍圍台”無聲軍演”靜悄悄 因台灣大選? 1111"
-  },
-  {
-   "domain": "cmoney.tw",
-   "n_articles": 2,
-   "sample_title": "6407 相互 - 《國際早點名》G7關切台海安全川習會前聚焦經貿等8則 - 股市爆料同學會"
   },
   {
    "domain": "knews.com.tw",
