@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-16T19:39:09Z",
- "checked": "2026-11-16",
- "duration_sec": 31.5,
+ "updated": "2026-11-17T03:56:31Z",
+ "checked": "2026-11-17",
+ "duration_sec": 32.9,
  "rolling_days": 14,
- "n_events": 324,
- "n_articles": 380,
+ "n_events": 320,
+ "n_articles": 358,
  "grades": {
-  "B": 27,
-  "D": 174,
-  "C": 121,
-  "A": 2
+  "C": 123,
+  "D": 173,
+  "B": 23,
+  "A": 1
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,17 +18,16 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 17,
-  "T2": 134,
-  "T3": 72,
+  "T1": 15,
+  "T2": 128,
+  "T3": 73,
   "T4": 11,
-  "T5": 112,
-  "TA": 8
+  "T5": 104,
+  "TA": 7
  },
  "t1_domains": [
   "bloomberg.com",
   "dw.com",
-  "france24.com",
   "kyodonews.net",
   "nhk.or.jp",
   "pts.org.tw",
@@ -54,14 +53,14 @@
    "id": "gn_en_mil",
    "name": "Google News (영어·군사)",
    "critical": true,
-   "status": "ok",
-   "health": "ok",
-   "http": 200,
-   "n_entries": 46,
-   "n_adopted": 34,
-   "newest": "2026-11-16T14:34:59+00:00",
+   "status": "error",
+   "health": "error",
+   "http": 429,
+   "n_entries": 0,
+   "n_adopted": 0,
+   "newest": null,
    "stale": false,
-   "error": null
+   "error": "HTTP 429"
   },
   {
    "id": "gn_ko",
@@ -84,8 +83,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 57,
-   "newest": "2026-11-16T17:44:47+00:00",
+   "n_adopted": 62,
+   "newest": "2026-11-17T03:35:29+00:00",
    "stale": false,
    "error": null
   },
@@ -93,25 +92,25 @@
    "id": "gn_prc_state",
    "name": "Google News (중국 관영 감시)",
    "critical": true,
-   "status": "error",
-   "health": "error",
-   "http": 429,
-   "n_entries": 0,
-   "n_adopted": 0,
-   "newest": null,
+   "status": "ok",
+   "health": "ok",
+   "http": 200,
+   "n_entries": 100,
+   "n_adopted": 7,
+   "newest": "2026-11-16T09:31:58+00:00",
    "stale": false,
-   "error": "HTTP 429"
+   "error": null
   },
   {
    "id": "gn_prc_zh",
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
    "status": "ok",
-   "health": "no_adopt",
+   "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 0,
-   "newest": "2026-11-16T08:34:32+00:00",
+   "n_adopted": 6,
+   "newest": "2026-11-16T23:52:00+00:00",
    "stale": false,
    "error": null
   },
@@ -122,9 +121,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 36,
+   "n_entries": 40,
    "n_adopted": 2,
-   "newest": "2026-11-16T13:27:09+00:00",
+   "newest": "2026-11-17T03:08:37+00:00",
    "stale": false,
    "error": null
   },
@@ -150,7 +149,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-11-16T17:47:31+00:00",
+   "newest": "2026-11-17T03:00:09+00:00",
    "stale": false,
    "error": null
   },
@@ -162,8 +161,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 30,
-   "n_adopted": 0,
-   "newest": "2026-11-16T19:27:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-11-17T03:42:00+00:00",
    "stale": false,
    "error": null
   },
@@ -202,7 +201,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-11-16T15:05:52+00:00",
+   "newest": "2026-11-17T03:00:17+00:00",
    "stale": false,
    "error": null
   },
@@ -215,7 +214,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-16T07:19:11+00:00",
+   "newest": "2026-11-17T01:26:01+00:00",
    "stale": false,
    "error": null
   },
@@ -228,7 +227,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-16T19:26:40+00:00",
+   "newest": "2026-11-17T03:12:54+00:00",
    "stale": false,
    "error": null
   },
@@ -263,24 +262,24 @@
    "sample_title": "記者編輯部| 【李其澤專欄】2028年台海警訊與台灣的封控應變"
   },
   {
+   "domain": "hk.on.cc",
+   "n_articles": 4,
+   "sample_title": "台海鯤號海測進入關鍵階段 未來不與菲聯合作戰"
+  },
+  {
    "domain": "upmedia.mg",
    "n_articles": 4,
    "sample_title": "【專訪】金正恩放棄統一南韓恐牽動台海 專家：中國或盼北韓制衡駐韓美軍"
   },
   {
-   "domain": "hk.on.cc",
+   "domain": "n.yam.com",
    "n_articles": 3,
-   "sample_title": "台海鯤號海測進入關鍵階段 未來不與菲聯合作戰"
+   "sample_title": "《美中在台佈局全面加速！從「兩岸和平倡議」到《台灣學人計畫》，台海政經版圖迎來結構重組》"
   },
   {
    "domain": "shotnews.tw",
    "n_articles": 3,
    "sample_title": "台海週報：共機少逾一半 共艦一艘沒少"
-  },
-  {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 3,
-   "sample_title": "Could China Blockade Taiwan? Naval Drills Raise Fears of a Wider Indo-Pacific Cr"
   },
   {
    "domain": "news.nextapple.com",
@@ -318,24 +317,9 @@
    "sample_title": "Japan’s Takaichi to visit China amid Taiwan tensions"
   },
   {
-   "domain": "ua.news",
-   "n_articles": 2,
-   "sample_title": "Chinese drills did not create a blockade of Taiwan — France 24"
-  },
-  {
    "domain": "cmoney.tw",
    "n_articles": 2,
    "sample_title": "航母百舰威慑台海 中共军工体系却在崩塌(视频)"
-  },
-  {
-   "domain": "zaobao.com.sg",
-   "n_articles": 2,
-   "sample_title": "Taiwan official: Mainland China’s unannounced western Pacific drills a form of ‘"
-  },
-  {
-   "domain": "n.yam.com",
-   "n_articles": 2,
-   "sample_title": "守護台海安全 賴清德支持海洋科技自主研發"
   },
   {
    "domain": "zona-militar.com",
@@ -343,9 +327,24 @@
    "sample_title": "Taiwan detects 29 Chinese military aircraft, including J-16 fighters and KJ-500 "
   },
   {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 2,
+   "sample_title": "Why Are G7 Countries Raising Concerns About China’s Military Activity East of Ta"
+  },
+  {
    "domain": "hk.crntt.com",
    "n_articles": 2,
    "sample_title": "雷倩籲堅持反戰避戰 讓台海成為和平之海"
+  },
+  {
+   "domain": "crntt.tw",
+   "n_articles": 2,
+   "sample_title": "陸在台海軍演未公布 邱垂正： 高度關注"
+  },
+  {
+   "domain": "knews.com.tw",
+   "n_articles": 2,
+   "sample_title": "百艘共艦模擬圍台情境！ 陳冠廷驚：中國欲阻外部力量介入台海衝突"
   }
  ]
 }
