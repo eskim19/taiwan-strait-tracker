@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-18T11:48:03Z",
+ "updated": "2026-11-18T20:35:48Z",
  "checked": "2026-11-18",
- "duration_sec": 36.3,
+ "duration_sec": 34.5,
  "rolling_days": 14,
- "n_events": 322,
- "n_articles": 368,
+ "n_events": 326,
+ "n_articles": 371,
  "grades": {
-  "C": 132,
-  "D": 163,
-  "B": 26,
+  "D": 164,
+  "B": 27,
+  "C": 134,
   "A": 1
  },
  "cross_language_events": 2,
@@ -18,12 +18,12 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 20,
-  "T2": 136,
-  "T3": 62,
-  "T4": 10,
-  "T5": 110,
-  "TA": 7
+  "T1": 21,
+  "T2": 135,
+  "T3": 64,
+  "T4": 9,
+  "T5": 111,
+  "TA": 8
  },
  "t1_domains": [
   "aljazeera.com",
@@ -45,9 +45,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 63,
-   "n_adopted": 9,
-   "newest": "2026-11-15T23:38:00+00:00",
+   "n_entries": 62,
+   "n_adopted": 8,
+   "newest": "2026-11-14T07:20:39+00:00",
    "stale": false,
    "error": null
   },
@@ -58,9 +58,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 40,
-   "n_adopted": 27,
-   "newest": "2026-11-17T21:18:29+00:00",
+   "n_entries": 45,
+   "n_adopted": 28,
+   "newest": "2026-11-18T17:10:27+00:00",
    "stale": false,
    "error": null
   },
@@ -72,7 +72,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 58,
-   "n_adopted": 2,
+   "n_adopted": 3,
    "newest": "2026-11-18T03:22:45+00:00",
    "stale": false,
    "error": null
@@ -86,7 +86,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 64,
-   "newest": "2026-11-18T11:07:19+00:00",
+   "newest": "2026-11-18T18:25:00+00:00",
    "stale": false,
    "error": null
   },
@@ -98,8 +98,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-11-18T07:24:13+00:00",
+   "n_adopted": 6,
+   "newest": "2026-11-18T14:22:00+00:00",
    "stale": false,
    "error": null
   },
@@ -111,8 +111,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-11-18T10:02:00+00:00",
+   "n_adopted": 4,
+   "newest": "2026-11-18T17:24:00+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 63,
+   "n_entries": 66,
    "n_adopted": 4,
-   "newest": "2026-11-18T10:10:34+00:00",
+   "newest": "2026-11-18T13:03:44+00:00",
    "stale": false,
    "error": null
   },
@@ -136,9 +136,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 49,
-   "n_adopted": 1,
-   "newest": "2026-11-18T00:00:00+00:00",
+   "n_entries": 53,
+   "n_adopted": 0,
+   "newest": "2026-11-19T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-11-18T11:07:30+00:00",
+   "newest": "2026-11-18T16:24:15+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-18T09:02:00+00:00",
+   "newest": "2026-11-18T12:16:00+00:00",
    "stale": false,
    "error": null
   },
@@ -203,7 +203,7 @@
    "http": 200,
    "n_entries": 102,
    "n_adopted": 0,
-   "newest": "2026-11-18T10:23:32+00:00",
+   "newest": "2026-11-18T14:49:04+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-18T10:38:13+00:00",
+   "newest": "2026-11-18T20:24:50+00:00",
    "stale": false,
    "error": null
   },
@@ -259,6 +259,11 @@
    "sample_title": "《美中在台佈局全面加速！從「兩岸和平倡議」到《台灣學人計畫》，台海政經版圖迎來結構重組》"
   },
   {
+   "domain": "cmoney.tw",
+   "n_articles": 4,
+   "sample_title": "川習會前示警！台海進入關鍵24個月美報告揭中國封鎖台灣風險- 股市爆料同學會"
+  },
+  {
    "domain": "i-meihua.com",
    "n_articles": 4,
    "sample_title": "海軍4年280架360億元無人機採購招標 強化台海監偵"
@@ -272,11 +277,6 @@
    "domain": "upmedia.mg",
    "n_articles": 4,
    "sample_title": "【專訪】金正恩放棄統一南韓恐牽動台海 專家：中國或盼北韓制衡駐韓美軍"
-  },
-  {
-   "domain": "hk.crntt.com",
-   "n_articles": 3,
-   "sample_title": "快評：中美峰會提台海 三方會晤談世局"
   },
   {
    "domain": "crntt.tw",
@@ -302,6 +302,11 @@
    "domain": "kinliu.hk",
    "n_articles": 2,
    "sample_title": "和平是台海最大民意 卻成選舉最稀缺聲音 文：文 武"
+  },
+  {
+   "domain": "hk.crntt.com",
+   "n_articles": 2,
+   "sample_title": "快評：中美峰會提台海 三方會晤談世局"
   },
   {
    "domain": "dominotheory.com",
@@ -332,11 +337,6 @@
    "domain": "operativmm.az",
    "n_articles": 2,
    "sample_title": "Japan’s Takaichi to visit China amid Taiwan tensions"
-  },
-  {
-   "domain": "cmoney.tw",
-   "n_articles": 2,
-   "sample_title": "航母百舰威慑台海 中共军工体系却在崩塌(视频)"
   },
   {
    "domain": "zona-militar.com",
