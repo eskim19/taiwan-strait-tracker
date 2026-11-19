@@ -1,7 +1,64 @@
 {
  "month": "2026-11",
- "n_events": 417,
+ "n_events": 418,
  "events": [
+  {
+   "id": "evt_20261119_c755ee",
+   "headline": "Russian military aircraft deployment sends potent message to Asia",
+   "headline_source": "Japan Times",
+   "headline_url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/russian-military-aircraft-asia/",
+   "headline_lang": "en",
+   "first_seen": "2026-11-19T01:53:00Z",
+   "last_seen": "2026-11-19T01:53:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "7aeff51c40230856"
+    ]
+   },
+   "articles": [
+    {
+     "id": "7aeff51c40230856",
+     "title": "Russian military aircraft deployment sends potent message to Asia",
+     "url": "https://www.japantimes.co.jp/news/2026/11/19/asia-pacific/politics/russian-military-aircraft-asia/",
+     "published": "2026-11-19T01:53:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Japan Times",
+     "source_domain": "japantimes.co.jp",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261118_75ca73",
    "headline": "US report warns of China’s growing military, technological influence, pressure on Taiwan",
@@ -979,131 +1036,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261115_38c88f",
-   "headline": "2027非攻台期限！ 經濟學人揭2028台海10個月風險",
-   "headline_source": "自由時報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56Y09zM3hTNXcyWDRsMFUyc3QzcEQ1N2s4RzFJc19vQUdKLTRDWlc4Ukg5SHh3QVcwbUZZcjRlQ25vSS12b0o4UFZhSE9tb3dtQnRGWjR5NXJBUF8yRmhtQ2hkal8zd9IBa0FVX3lxTE1Bc0syLUFCQWxiSWhPcEZKR1BzSFA2UnN6cEYyZmtzVkJGMm9LM2ZkdmUyVVRNS3pkeFZVSktVcHAtOTZIYWZCZVhnR0o3NEdoQURlOXpRd3J3Q0hBTElPNmZHTlhBcWFCX2xr?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-15T23:38:00Z",
-   "last_seen": "2026-11-18T03:12:26Z",
-   "langs": [
-    "en",
-    "zh"
-   ],
-   "cross_language": true,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 4,
-    "n_unrated": 1,
-    "score": 73.3,
-    "n_independent": 3,
-    "n_articles": 4,
-    "n_domains": 4,
-    "blocs": [
-     "independent",
-     "tw_state",
-     "unknown"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 3곳",
-     "최고 등급 주요 일간",
-     "2개 언어권에서 확인",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "c1c16e8805c6c27a",
-     "3e49533bce07cb3d",
-     "a503e84cde3263a7",
-     "c253b3981c93708a"
-    ]
-   },
-   "articles": [
-    {
-     "id": "c1c16e8805c6c27a",
-     "title": "China’s HQ-17A air-defense network offers mobile missile protection for troops near Taiwan Strait",
-     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUxxRmJkZ1dnNjBEanhpWTR5ck1hRXNGX3FMZ0hTZVhnLUtCLS1rT1RlVlR6cHNoRUFqQ1QxZElRb3dkVDVlUmp2REVhQmk1a2hRYUxjLXBQellKcFBXbDJkY2MyUHVUT2pvWDVXWnd4YXZDMm9iYnc2cUFSYmJDa0JIWUxhanlBQ2c?oc=5",
-     "published": "2026-11-15T23:38:00Z",
-     "lang": "en",
-     "entities": [
-      "missile",
-      "taiwan_strait"
-     ],
-     "source_name": "Interesting Engineering",
-     "source_domain": "interestingengineering.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
-    {
-     "id": "3e49533bce07cb3d",
-     "title": "2027非攻台期限！ 經濟學人揭2028台海10個月風險",
-     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE56Y09zM3hTNXcyWDRsMFUyc3QzcEQ1N2s4RzFJc19vQUdKLTRDWlc4Ukg5SHh3QVcwbUZZcjRlQ25vSS12b0o4UFZhSE9tb3dtQnRGWjR5NXJBUF8yRmhtQ2hkal8zd9IBa0FVX3lxTE1Bc0syLUFCQWxiSWhPcEZKR1BzSFA2UnN6cEYyZmtzVkJGMm9LM2ZkdmUyVVRNS3pkeFZVSktVcHAtOTZIYWZCZVhnR0o3NEdoQURlOXpRd3J3Q0hBTElPNmZHTlhBcWFCX2xr?oc=5",
-     "published": "2026-11-17T02:59:23Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "taiwan_strait"
-     ],
-     "source_name": "自由時報",
-     "source_domain": "ltn.com.tw",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "a503e84cde3263a7",
-     "title": "KMT distances itself from '10-year cross-strait proposal'",
-     "url": "https://focustaiwan.tw/politics/202611170019",
-     "published": "2026-11-17T10:00:15Z",
-     "lang": "en",
-     "entities": [
-      "taiwan_strait"
-     ],
-     "source_name": "中央社 CNA",
-     "source_domain": "cna.com.tw",
-     "tier": "T3",
-     "tier_label": "관영·정부",
-     "bloc": "tw_state",
-     "bloc_label": "대만 국영·정부",
-     "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "c253b3981c93708a",
-     "title": "中共17機艦船台海周邊活動 國軍嚴密監控應處",
-     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5XTDZyVE5JX2ZESXpMYmRLR2E5Ym5YcWZWZ1lRbjNVU29Ld3lRZEk0aFRkSmdlSDZVdlg1QmtWS2lMdXM0VkZ5RC1fQk5rSlZ6dXVJQzlLSnZJTm_SAWBBVV95cUxOVE9NM01DWFdoWmRQeUlzNnF6cVR6dDFTanRQajhpakNMRnh6SEp1WkVTUDFtNkRpbFMtNjNNTHNLa0F1MjFNeDdKTGhtLTQxb1cxcFc5SUxfNXFCZUpGVDU?oc=5",
-     "published": "2026-11-18T03:12:26Z",
-     "lang": "zh",
-     "entities": [
-      "aircraft_sortie",
-      "roc_military",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
      "hedged": false
     }
    ]
@@ -2109,76 +2041,53 @@
    ]
   },
   {
-   "id": "evt_20261116_d5aee9",
-   "headline": "Russian military aircraft enter Taiwan’s ADIZ",
-   "headline_source": "Taipei Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NWkcwNHdLNzdXQTFDd09CMDJQcUlROFQzNTBkTC1uMHZvNll1Q2RaUGlMbzd0a0JtMXBpSl85OUtlOXBPZlZtT2E3cTBfTnBPaTFaVHRYRFVKd0xWM0xaZTVRUXd5M3F0LUNSTVZXYXJtVXpZUzlvdQ?oc=5",
+   "id": "evt_20261117_231571",
+   "headline": "KMT distances itself from '10-year cross-strait proposal'",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202611170019",
    "headline_lang": "en",
-   "first_seen": "2026-11-16T16:00:00Z",
-   "last_seen": "2026-11-17T10:16:36Z",
+   "first_seen": "2026-11-17T10:00:15Z",
+   "last_seen": "2026-11-17T10:00:15Z",
    "langs": [
     "en"
    ],
    "cross_language": false,
    "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
     "n_originals": 1,
     "n_unrated": 0,
-    "score": 39.3,
+    "score": 20.0,
     "n_independent": 1,
-    "n_articles": 4,
-    "n_domains": 3,
+    "n_articles": 1,
+    "n_domains": 1,
     "blocs": [
-     "independent",
-     "tw_state",
-     "unknown"
+     "tw_state"
     ],
-    "top_tier": "T2",
-    "primary_cited": true,
+    "top_tier": "T3",
+    "primary_cited": false,
     "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간",
-     "정부·군 공식 발표 인용",
-     "Taipei Times 원고를 中央社 CNA·https://dominotheory.com/·Taipei Times 가 전재 — 1곳으로 계산"
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "대만 국영·정부 발표만 존재"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "527074fbaf3b8c05",
-     "4c52af1de79a1332",
-     "b59986e926f9b5af"
+     "a503e84cde3263a7"
     ]
    },
    "articles": [
     {
-     "id": "527074fbaf3b8c05",
-     "title": "Russian military aircraft enter Taiwan’s ADIZ",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NWkcwNHdLNzdXQTFDd09CMDJQcUlROFQzNTBkTC1uMHZvNll1Q2RaUGlMbzd0a0JtMXBpSl85OUtlOXBPZlZtT2E3cTBfTnBPaTFaVHRYRFVKd0xWM0xaZTVRUXd5M3F0LUNSTVZXYXJtVXpZUzlvdQ?oc=5",
-     "published": "2026-11-16T16:00:00Z",
+     "id": "a503e84cde3263a7",
+     "title": "KMT distances itself from '10-year cross-strait proposal'",
+     "url": "https://focustaiwan.tw/politics/202611170019",
+     "published": "2026-11-17T10:00:15Z",
      "lang": "en",
      "entities": [
-      "adiz"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "4c52af1de79a1332",
-     "title": "Russian military aircraft enter Taiwan's ADIZ: Defense ministry",
-     "url": "https://focustaiwan.tw/politics/202611170014",
-     "published": "2026-11-17T07:00:00Z",
-     "lang": "en",
-     "entities": [
-      "adiz"
+      "taiwan_strait"
      ],
      "source_name": "中央社 CNA",
      "source_domain": "cna.com.tw",
@@ -2187,22 +2096,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "b59986e926f9b5af",
-     "title": "Russian Military Aircraft Enter Taiwan’s Air Defense Zone",
-     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPai1UMjlsSi1JTkVmZjBwRmJWQXp6Z25RRlR5VVdBbXgtUDdvaDBTM3ZaVVlPV2ptdW1vaVJEMlNCT1VKM1VpcUNvNl9ocXZ2b3NlaERjbHhpNGNnTk5udkpBX0xKVHJXeU53SXFKRXY5WUhNTFVtVFUwWl8zYkV1ZzNTc1BlTDkwcUJhSQ?oc=5",
-     "published": "2026-11-17T10:16:36Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "https://dominotheory.com/",
-     "source_domain": "dominotheory.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -2468,6 +2361,67 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261117_d5aee9",
+   "headline": "Russian military aircraft enter Taiwan's ADIZ: Defense ministry",
+   "headline_source": "中央社 CNA",
+   "headline_url": "https://focustaiwan.tw/politics/202611170014",
+   "headline_lang": "en",
+   "first_seen": "2026-11-17T07:00:00Z",
+   "last_seen": "2026-11-17T07:00:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "state_only",
+    "grade_label": "발표 단독",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 27.0,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "tw_state"
+    ],
+    "top_tier": "T3",
+    "primary_cited": true,
+    "reasons": [
+     "대만 국영·정부 진영 단독 보도",
+     "최고 등급 관영·정부",
+     "정부·군 공식 발표 인용",
+     "대만 국영·정부 발표만 존재"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "4c52af1de79a1332"
+    ]
+   },
+   "articles": [
+    {
+     "id": "4c52af1de79a1332",
+     "title": "Russian military aircraft enter Taiwan's ADIZ: Defense ministry",
+     "url": "https://focustaiwan.tw/politics/202611170014",
+     "published": "2026-11-17T07:00:00Z",
+     "lang": "en",
+     "entities": [
+      "adiz"
+     ],
+     "source_name": "中央社 CNA",
+     "source_domain": "cna.com.tw",
+     "tier": "T3",
+     "tier_label": "관영·정부",
+     "bloc": "tw_state",
+     "bloc_label": "대만 국영·정부",
+     "bias": "대만 국영 통신사",
      "hedged": false
     }
    ]
