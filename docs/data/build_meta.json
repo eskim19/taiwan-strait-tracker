@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-20T02:21:35Z",
+ "updated": "2026-11-20T11:45:25Z",
  "checked": "2026-11-20",
- "duration_sec": 34.1,
+ "duration_sec": 31.0,
  "rolling_days": 14,
- "n_events": 329,
- "n_articles": 375,
+ "n_events": 334,
+ "n_articles": 380,
  "grades": {
-  "C": 143,
+  "D": 165,
+  "C": 142,
   "B": 26,
-  "D": 159,
   "A": 1
  },
- "cross_language_events": 2,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-11"
@@ -19,11 +19,11 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 21,
-  "T2": 143,
-  "T3": 63,
+  "T2": 140,
+  "T3": 65,
   "T4": 11,
-  "T5": 106,
-  "TA": 10
+  "T5": 107,
+  "TA": 11
  },
  "t1_domains": [
   "aljazeera.com",
@@ -45,9 +45,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
-   "n_adopted": 4,
-   "newest": "2026-11-13T11:59:53+00:00",
+   "n_entries": 100,
+   "n_adopted": 13,
+   "newest": "2026-11-18T00:00:01+00:00",
    "stale": false,
    "error": null
   },
@@ -58,8 +58,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 42,
-   "n_adopted": 19,
+   "n_entries": 37,
+   "n_adopted": 18,
    "newest": "2026-11-19T18:20:46+00:00",
    "stale": false,
    "error": null
@@ -71,7 +71,7 @@
    "status": "ok",
    "health": "no_adopt",
    "http": 200,
-   "n_entries": 56,
+   "n_entries": 58,
    "n_adopted": 0,
    "newest": "2026-11-19T03:20:07+00:00",
    "stale": false,
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 75,
-   "newest": "2026-11-20T02:03:00+00:00",
+   "n_adopted": 74,
+   "newest": "2026-11-20T09:32:00+00:00",
    "stale": false,
    "error": null
   },
@@ -98,8 +98,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-11-20T02:10:22+00:00",
+   "n_adopted": 2,
+   "newest": "2026-11-20T10:52:05+00:00",
    "stale": false,
    "error": null
   },
@@ -111,8 +111,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-11-20T00:40:00+00:00",
+   "n_adopted": 1,
+   "newest": "2026-11-20T08:52:18+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 2,
-   "newest": "2026-11-20T01:07:21+00:00",
+   "n_entries": 62,
+   "n_adopted": 3,
+   "newest": "2026-11-20T10:10:05+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-11-19T23:46:10+00:00",
+   "newest": "2026-11-20T11:27:21+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-20T02:12:00+00:00",
+   "newest": "2026-11-20T11:07:00+00:00",
    "stale": false,
    "error": null
   },
@@ -201,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 102,
+   "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-11-20T01:42:50+00:00",
+   "newest": "2026-11-20T11:03:14+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +216,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 1,
-   "newest": "2026-11-20T01:48:08+00:00",
+   "newest": "2026-11-20T10:16:19+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-20T01:29:28+00:00",
+   "newest": "2026-11-20T11:26:28+00:00",
    "stale": false,
    "error": null
   },
@@ -249,14 +249,14 @@
  ],
  "unrated_domains": [
   {
-   "domain": "n.yam.com",
+   "domain": "today.line.me",
    "n_articles": 6,
-   "sample_title": "美報告示警台海兩年關鍵期！北京恐升高封鎖、隔離風險 建議美國安顧問主導設應變機制"
+   "sample_title": "學者：美中俄峰會務虛 北京以拖待變奏效、恐在台海進一步要求 | 自由電子報"
   },
   {
-   "domain": "today.line.me",
+   "domain": "n.yam.com",
    "n_articles": 5,
-   "sample_title": "菲律賓與澳洲簽署新協議強化南海嚇阻 被問及台海未直接回應 | 上報"
+   "sample_title": "《美中在台佈局全面加速！從「兩岸和平倡議」到《台灣學人計畫》，台海政經版圖迎來結構重組》"
   },
   {
    "domain": "i-meihua.com",
@@ -304,11 +304,6 @@
    "sample_title": "【專訪】金正恩放棄統一南韓恐牽動台海 專家：中國或盼北韓制衡駐韓美軍"
   },
   {
-   "domain": "moderndiplomacy.eu",
-   "n_articles": 3,
-   "sample_title": "Could China Blockade Taiwan? Naval Drills Raise Fears of a Wider Indo-Pacific Cr"
-  },
-  {
    "domain": "news.nextapple.com",
    "n_articles": 3,
    "sample_title": "中國軍艦分布台海周邊與西太平洋 美智庫：未預告的動作需注意"
@@ -322,11 +317,6 @@
    "domain": "hk.crntt.com",
    "n_articles": 2,
    "sample_title": "快評：中美峰會提台海 三方會晤談世局"
-  },
-  {
-   "domain": "dominotheory.com",
-   "n_articles": 2,
-   "sample_title": "Russian Military Aircraft Enter Taiwan’s Air Defense Zone"
   },
   {
    "domain": "epochtimes.com.tw",
@@ -347,6 +337,16 @@
    "domain": "ctee.com.tw",
    "n_articles": 2,
    "sample_title": "G7關切台海局勢陸批集團政治「小圈子」：粗暴干涉內政- 兩岸"
+  },
+  {
+   "domain": "moderndiplomacy.eu",
+   "n_articles": 2,
+   "sample_title": "Why Are G7 Countries Raising Concerns About China’s Military Activity East of Ta"
+  },
+  {
+   "domain": "ctinews.com",
+   "n_articles": 2,
+   "sample_title": "美軍工「缺稀土斷糧」 解放軍連造5艘野牛艇直逼台海！退將揭大國博弈驚人內幕"
   }
  ]
 }
