@@ -1,14 +1,14 @@
 {
- "updated": "2026-11-21T11:09:35Z",
+ "updated": "2026-11-21T19:19:53Z",
  "checked": "2026-11-21",
- "duration_sec": 32.3,
+ "duration_sec": 41.3,
  "rolling_days": 14,
- "n_events": 341,
- "n_articles": 387,
+ "n_events": 342,
+ "n_articles": 388,
  "grades": {
-  "D": 167,
+  "C": 148,
+  "D": 166,
   "B": 27,
-  "C": 146,
   "A": 1
  },
  "cross_language_events": 0,
@@ -19,10 +19,10 @@
  "all_feeds_failed": false,
  "tier_articles": {
   "T1": 21,
-  "T2": 145,
+  "T2": 146,
   "T3": 64,
   "T4": 9,
-  "T5": 113,
+  "T5": 111,
   "TA": 11
  },
  "t1_domains": [
@@ -45,9 +45,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
-   "n_adopted": 14,
-   "newest": "2026-11-20T17:02:31+00:00",
+   "n_entries": 60,
+   "n_adopted": 4,
+   "newest": "2026-11-20T19:07:57+00:00",
    "stale": false,
    "error": null
   },
@@ -58,8 +58,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 38,
-   "n_adopted": 20,
+   "n_entries": 34,
+   "n_adopted": 19,
    "newest": "2026-11-21T04:31:00+00:00",
    "stale": false,
    "error": null
@@ -85,8 +85,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 74,
-   "newest": "2026-11-21T10:19:10+00:00",
+   "n_adopted": 73,
+   "newest": "2026-11-21T16:04:20+00:00",
    "stale": false,
    "error": null
   },
@@ -95,11 +95,11 @@
    "name": "Google News (중국 관영 감시)",
    "critical": true,
    "status": "ok",
-   "health": "ok",
+   "health": "no_adopt",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-11-21T00:57:00+00:00",
+   "n_adopted": 0,
+   "newest": "2026-11-20T23:13:41+00:00",
    "stale": false,
    "error": null
   },
@@ -108,11 +108,11 @@
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
    "status": "ok",
-   "health": "ok",
+   "health": "no_adopt",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 3,
-   "newest": "2026-11-21T09:52:00+00:00",
+   "n_adopted": 0,
+   "newest": "2026-11-21T14:31:00+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
-   "n_adopted": 3,
-   "newest": "2026-11-21T09:48:13+00:00",
+   "n_entries": 39,
+   "n_adopted": 2,
+   "newest": "2026-11-21T12:59:27+00:00",
    "stale": false,
    "error": null
   },
@@ -138,7 +138,7 @@
    "http": 200,
    "n_entries": 47,
    "n_adopted": 0,
-   "newest": "2026-11-21T00:00:00+00:00",
+   "newest": "2026-11-22T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-11-21T08:00:15+00:00",
+   "newest": "2026-11-21T14:00:05+00:00",
    "stale": false,
    "error": null
   },
@@ -201,9 +201,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 100,
+   "n_entries": 99,
    "n_adopted": 0,
-   "newest": "2026-11-21T09:57:16+00:00",
+   "newest": "2026-11-21T12:10:15+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-21T10:54:22+00:00",
+   "newest": "2026-11-21T18:42:38+00:00",
    "stale": false,
    "error": null
   },
@@ -250,7 +250,7 @@
  "unrated_domains": [
   {
    "domain": "today.line.me",
-   "n_articles": 5,
+   "n_articles": 6,
    "sample_title": "學者：美中俄峰會務虛 北京以拖待變奏效、恐在台海進一步要求 | 自由電子報"
   },
   {
@@ -269,11 +269,6 @@
    "sample_title": "学者：美中战略稳定认知不同 台海安全仍是关键议题(图)"
   },
   {
-   "domain": "shotnews.tw",
-   "n_articles": 3,
-   "sample_title": "國防院：台灣模式 讓台海安全成歐洲利益"
-  },
-  {
    "domain": "thenewslens.com",
    "n_articles": 3,
    "sample_title": "《經濟學人》2027十大趨勢：川普要當「憤怒鳥」、主編憂台海危機⋯⋯去年的預測準不準？"
@@ -287,11 +282,6 @@
    "domain": "i-meihua.com",
    "n_articles": 3,
    "sample_title": "記者編輯部| 【李其澤專欄】2028年台海警訊與台灣的封控應變"
-  },
-  {
-   "domain": "gvm.com.tw",
-   "n_articles": 3,
-   "sample_title": "台海危機倒數怎麼自保？國防專家「買保險」神比喻：看懂兵推真義"
   },
   {
    "domain": "upmedia.mg",
@@ -324,6 +314,11 @@
    "sample_title": "China and Russia take clearer positions on Taiwan as military order takes on tri"
   },
   {
+   "domain": "shotnews.tw",
+   "n_articles": 2,
+   "sample_title": "國防院：台灣模式 讓台海安全成歐洲利益"
+  },
+  {
    "domain": "kinliu.hk",
    "n_articles": 2,
    "sample_title": "和平是台海最大民意 卻成選舉最稀缺聲音 文：文 武"
@@ -344,9 +339,14 @@
    "sample_title": "習特會3.0台海議題勢「搬上枱」"
   },
   {
-   "domain": "voiceofemirates.com",
+   "domain": "gvm.com.tw",
    "n_articles": 2,
-   "sample_title": "Taiwan’s defense ministry detects intensive Chinese military activity around the"
+   "sample_title": "台海危機倒數怎麼自保？國防專家「買保險」神比喻：看懂兵推真義"
+  },
+  {
+   "domain": "ua.news",
+   "n_articles": 2,
+   "sample_title": "Taiwan says China held drills involving more than 100 vessels — Taipei Times"
   }
  ]
 }

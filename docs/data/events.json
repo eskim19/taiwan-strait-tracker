@@ -1,6 +1,66 @@
 {
- "updated": "2026-11-21T11:09:35Z",
+ "updated": "2026-11-21T19:19:53Z",
  "events": [
+  {
+   "id": "evt_20261121_62239b",
+   "headline": "美國最糟噩夢！輝達晶片流向「攻台共軍實驗室」",
+   "headline_source": "東森新聞",
+   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0aW1uVW40WVdFRzJLSUlfZDdtYU1WVEsyMGZKUGRVaDFPdzZ5S3VQLWpaSFhCb1dCVWwzNzNsRDk1MFZfNnEwLTVpWEVIV2hfbFNB?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-21T12:22:00Z",
+   "last_seen": "2026-11-21T12:22:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2268a77aff066cd7"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2268a77aff066cd7",
+     "title": "美國最糟噩夢！輝達晶片流向「攻台共軍實驗室」",
+     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0aW1uVW40WVdFRzJLSUlfZDdtYU1WVEsyMGZKUGRVaDFPdzZ5S3VQLWpaSFhCb1dCVWwzNzNsRDk1MFZfNnEwLTVpWEVIV2hfbFNB?oc=5",
+     "published": "2026-11-21T12:22:00Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "pla"
+     ],
+     "source_name": "東森新聞",
+     "source_domain": "ebc.net.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
   {
    "id": "evt_20261121_648c87",
    "headline": "解放軍9機艦4空飄氣球現台海 台軍監控應處",
@@ -249,6 +309,67 @@
    ]
   },
   {
+   "id": "evt_20261121_ba4072",
+   "headline": "爆輝達晶片流入之江實驗室！ 共軍恐研究「攻台」",
+   "headline_source": "年代電視",
+   "headline_url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEUlA4OW5aZ2Q3dlNSSGUwY1VZcXNwVnZaN2ZXb0lnLVhFaHB4Ujl3ZjFVM2d0cllSYTJzN1VOeUFIdzgyTUtRcWtlaldXM1N0bE5lVmtneDJBQWU5YURYVF9CZm5DNGg0Yk9nZ2NxaFhXZ0F5eUp2Ynh5OXo?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-21T09:18:15Z",
+   "last_seen": "2026-11-21T09:18:15Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "b25ca59398f6f16e"
+    ]
+   },
+   "articles": [
+    {
+     "id": "b25ca59398f6f16e",
+     "title": "爆輝達晶片流入之江實驗室！ 共軍恐研究「攻台」",
+     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBEUlA4OW5aZ2Q3dlNSSGUwY1VZcXNwVnZaN2ZXb0lnLVhFaHB4Ujl3ZjFVM2d0cllSYTJzN1VOeUFIdzgyTUtRcWtlaldXM1N0bE5lVmtneDJBQWU5YURYVF9CZm5DNGg0Yk9nZ2NxaFhXZ0F5eUp2Ynh5OXo?oc=5",
+     "published": "2026-11-21T09:18:15Z",
+     "lang": "zh",
+     "entities": [
+      "invasion",
+      "pla"
+     ],
+     "source_name": "年代電視",
+     "source_domain": "eracom.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261121_654602",
    "headline": "共軍氣球一連2日擾台後 今再「聯合戰備警巡」",
    "headline_source": "中國時報",
@@ -305,67 +426,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261121_ba4072",
-   "headline": "爆輝達晶片流入之江實驗室！ 共軍恐研究「攻台」",
-   "headline_source": "壹電視",
-   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFdvZkk0ZUNpNWRBTURQSzU0V09Lc2doYzFBVEdGbk5UdXpZcE9mUFNXa1dXYVhXbDZiLWl3N0lzeXVMT0ROT2IxX0NSZWNTRmJXU2xmNk1rakZ4amdLdnQ3a0VONU1Rb095S1Y2QV9ZZTNRUk1nY09JOTBDd1Q2eUh3?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-21T06:10:34Z",
-   "last_seen": "2026-11-21T06:10:34Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b25ca59398f6f16e"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b25ca59398f6f16e",
-     "title": "爆輝達晶片流入之江實驗室！ 共軍恐研究「攻台」",
-     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOFdvZkk0ZUNpNWRBTURQSzU0V09Lc2doYzFBVEdGbk5UdXpZcE9mUFNXa1dXYVhXbDZiLWl3N0lzeXVMT0ROT2IxX0NSZWNTRmJXU2xmNk1rakZ4amdLdnQ3a0VONU1Rb095S1Y2QV9ZZTNRUk1nY09JOTBDd1Q2eUh3?oc=5",
-     "published": "2026-11-21T06:10:34Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "pla"
-     ],
-     "source_name": "壹電視",
-     "source_domain": "nexttv.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -566,65 +626,6 @@
    ]
   },
   {
-   "id": "evt_20261121_80ff1a",
-   "headline": "紐時記者曝輝達晶片流入共軍實驗室 直言協助研究「如何攻占台灣」",
-   "headline_source": "三立新聞",
-   "headline_url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CVkVsYWFtYXJqNkh1dFI5Z2tkU3ZQTnFVeTBuaS10M2dWNGVIZm05NFJQZWFtSjYxbTRxNkpqVUtOYzhlcTY5OEtB?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-21T03:29:53Z",
-   "last_seen": "2026-11-21T03:29:53Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "8501791c707c3a13"
-    ]
-   },
-   "articles": [
-    {
-     "id": "8501791c707c3a13",
-     "title": "紐時記者曝輝達晶片流入共軍實驗室 直言協助研究「如何攻占台灣」",
-     "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5CVkVsYWFtYXJqNkh1dFI5Z2tkU3ZQTnFVeTBuaS10M2dWNGVIZm05NFJQZWFtSjYxbTRxNkpqVUtOYzhlcTY5OEtB?oc=5",
-     "published": "2026-11-21T03:29:53Z",
-     "lang": "zh",
-     "entities": [
-      "pla"
-     ],
-     "source_name": "三立新聞",
-     "source_domain": "setn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
    "id": "evt_20261121_cf107f",
    "headline": "輝達晶片被爆流入共軍攻台實驗室！紐時追查與阿里巴巴有關聯：對華府來說是最糟的噩夢",
    "headline_source": "今周刊",
@@ -811,7 +812,7 @@
    "id": "evt_20261121_c5de57",
    "headline": "2架次共機.6軍艦擾台國防部:另偵獲4顆空飄氣球| 政治",
    "headline_source": "新頭殼",
-   "headline_url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZVRwbDA0VVdSc0pHMW1JVEppeXFxQkxidDVrUmplODhlV3pTbmJ2ZlZyeHo2bFNWZjJWdDJ2OHVOaXZacmZvWVdENDV3VExLN2VCYzRvZFZaUQ?oc=5",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMVpFd3dqclJqWGpoTzNtbGJxSzAtZUFDYXhWNnVhSEdxZzhoOGxhdU5qam1yT29WM3VsYzU4MlBWWllWZ2xEdWlCdHFqYWNYLVNBM1NrQzViU3c?oc=5",
    "headline_lang": "zh",
    "first_seen": "2026-11-21T02:27:49Z",
    "last_seen": "2026-11-21T02:27:49Z",
@@ -850,7 +851,7 @@
     {
      "id": "07443f4e143864e4",
      "title": "2架次共機.6軍艦擾台國防部:另偵獲4顆空飄氣球| 政治",
-     "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8xZVRwbDA0VVdSc0pHMW1JVEppeXFxQkxidDVrUmplODhlV3pTbmJ2ZlZyeHo2bFNWZjJWdDJ2OHVOaXZacmZvWVdENDV3VExLN2VCYzRvZFZaUQ?oc=5",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5hMVpFd3dqclJqWGpoTzNtbGJxSzAtZUFDYXhWNnVhSEdxZzhoOGxhdU5qam1yT29WM3VsYzU4MlBWWllWZ2xEdWlCdHFqYWNYLVNBM1NrQzViU3c?oc=5",
      "published": "2026-11-21T02:27:49Z",
      "lang": "zh",
      "entities": [
@@ -953,6 +954,126 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261121_80ff1a",
+   "headline": "紐時記者曝輝達晶片流入共軍實驗室 直言協助研究「如何攻占台灣」",
+   "headline_source": "鏡週刊",
+   "headline_url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FN0Ryd01jMGI4dmt3NDBrTDRVN2pvZmFUWDR1ejJvOVJDTl83Z09nY0ljTGxzN0xDSlZxeEM3N0tpcHYyR0txemZ6QmVLMWp5Z0VmU2ZVSjY3TknSAWBBVV95cUxNVDJ1RG5vMzFCX29pSU1ocElpQTdfWU01d2l4Z1FweFE3VllBcXdCTXlSMG9paVN4X2hGRVBVeXJDTXNoNjk1MVFyUHFZTFFRZFowcGg5Mm1LNVQ5eFp5amc?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-21T01:08:00Z",
+   "last_seen": "2026-11-21T01:08:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "8501791c707c3a13"
+    ]
+   },
+   "articles": [
+    {
+     "id": "8501791c707c3a13",
+     "title": "紐時記者曝輝達晶片流入共軍實驗室 直言協助研究「如何攻占台灣」",
+     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9FN0Ryd01jMGI4dmt3NDBrTDRVN2pvZmFUWDR1ejJvOVJDTl83Z09nY0ljTGxzN0xDSlZxeEM3N0tpcHYyR0txemZ6QmVLMWp5Z0VmU2ZVSjY3TknSAWBBVV95cUxNVDJ1RG5vMzFCX29pSU1ocElpQTdfWU01d2l4Z1FweFE3VllBcXdCTXlSMG9paVN4X2hGRVBVeXJDTXNoNjk1MVFyUHFZTFFRZFowcGg5Mm1LNVQ5eFp5amc?oc=5",
+     "published": "2026-11-21T01:08:00Z",
+     "lang": "zh",
+     "entities": [
+      "pla"
+     ],
+     "source_name": "鏡週刊",
+     "source_domain": "mirrormedia.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261121_4f8761",
+   "headline": "台海解碼》為何川普對中國節節進逼，習近平以拖待變奏效？從國共內戰與蔣經國的「三不政策」說起| 劉煥彥 | 新聞",
+   "headline_source": "風傳媒",
+   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94Mmh3ZzR2YkdTeFlrSGE2a1V0ZzlXOUtkb2NNYkhJcC1ZVHN6TUxRZF9TVzgxWnR5eWUwdmg2VVFuak1tTUEwMXZuRVhrUQ?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-21T01:00:00Z",
+   "last_seen": "2026-11-21T01:00:00Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "698191e067c17e22"
+    ]
+   },
+   "articles": [
+    {
+     "id": "698191e067c17e22",
+     "title": "台海解碼》為何川普對中國節節進逼，習近平以拖待變奏效？從國共內戰與蔣經國的「三不政策」說起| 劉煥彥 | 新聞",
+     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE94Mmh3ZzR2YkdTeFlrSGE2a1V0ZzlXOUtkb2NNYkhJcC1ZVHN6TUxRZF9TVzgxWnR5eWUwdmg2VVFuak1tTUEwMXZuRVhrUQ?oc=5",
+     "published": "2026-11-21T01:00:00Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait",
+      "trump",
+      "xi_jinping"
+     ],
+     "source_name": "風傳媒",
+     "source_domain": "storm.mg",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -1141,13 +1262,13 @@
    ]
   },
   {
-   "id": "evt_20261120_e058eb",
-   "headline": "Japan slams China's 'discriminatory treatment' of PM Sanae Takaichi at APEC summit amid Taiwan tensions",
-   "headline_source": "Moneycontrol.com",
-   "headline_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVFBXeDkycWZlNGc4UEJUYk81NENNZmdyQXEzcmc0alRNUWNaMmZKTVp4VWtyTXYxRmNQUFhkUk12Z1o1QWRjRTR0aEktdm50Skladm4xbVhyUVFOZm9PMkN2emdEcGZ0a2J5TzNpY1ZHMWdabEVmR0daMF93a2VnWFA0TENrMVJocGlPZm00UTU0OEc5MkM0WG1qSVV2UlRqUHBQV0JTOC1fWjkzZFpsRXFFNTB5MERDSkNuUnRHY1h3bWhBSmVtR3ZCOURmZUU2Z0FMQ05TOVFXUmx5cFpUMnBidHk1b0NpT2w1ZjNLd9IB9AFBVV95cUxQelctZl9BajcxT1h1MS1kcFRyWjNUMzk2QW1XaTh5UzEzdUdxcG9rWEx3aVAwZ25pWmlQR1kwdmJFdkM3bFVEWDV4NDhIb3ZvWDlfcUt1emRCankyZjBoZnpRcUR1TUduam10c25rV00wLU1hbUktR0ZPeTYzQ2xDaTI1c0gzUVgxZWtVR0czWWJGWnpxRGFiaDZZendvaUdHWWo2OWtHZ3N0dWRBaENNVjFjaDJwMFdEamlTTnZlQnFVWjc0VzZ4clBQdnVBMjhGN3MzR0xqdVpfUEVOWDZkSVJ4RndNNFNPOXpnMW5UbDlCeXB3?oc=5",
+   "id": "evt_20261120_7fdd87",
+   "headline": "Japan PM Sanae Takaichi Gets Low-Key APEC Welcome in China Amid Taiwan Tensions",
+   "headline_source": "Latin Times",
+   "headline_url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNURlQjRRZHRrVVQtZDktWW5ud0ItNlV4MFdlNERvMmVvcG5QdVJMX3VuTWNpTHlld0hMMWdrbFc1bGxvWlJYV0c5RmtkYTZYYmY1Q01ZS09wLTNHaDJxWndzeTJ1Z1NxVXhPSVdpd25nd3d0YTFOYWxPQW4tOFgzUUdR?oc=5",
    "headline_lang": "en",
-   "first_seen": "2026-11-20T11:30:39Z",
-   "last_seen": "2026-11-20T17:02:31Z",
+   "first_seen": "2026-11-20T17:02:31Z",
+   "last_seen": "2026-11-20T19:07:57Z",
    "langs": [
     "en"
    ],
@@ -1156,9 +1277,9 @@
     "grade": "D",
     "d_reason": "unrated",
     "grade_label": "출처 미확인",
-    "n_originals": 2,
-    "n_unrated": 2,
-    "score": 5.6,
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 4.2,
     "n_independent": 0,
     "n_articles": 2,
     "n_domains": 2,
@@ -1170,33 +1291,18 @@
     "reasons": [
      "등급표에 없는 매체만 보도",
      "최고 등급 미분류",
-     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+     "Latin Times 원고를 JournalArta 가 전재 — 1곳으로 계산",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
     ]
    },
    "perspectives": {
     "prc": [],
     "tw_west": [
-     "2de4170391e92106",
-     "f4ccf49b1b057beb"
+     "f4ccf49b1b057beb",
+     "189d1f1ce58dc732"
     ]
    },
    "articles": [
-    {
-     "id": "2de4170391e92106",
-     "title": "Japan slams China's 'discriminatory treatment' of PM Sanae Takaichi at APEC summit amid Taiwan tensions",
-     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVFBXeDkycWZlNGc4UEJUYk81NENNZmdyQXEzcmc0alRNUWNaMmZKTVp4VWtyTXYxRmNQUFhkUk12Z1o1QWRjRTR0aEktdm50Skladm4xbVhyUVFOZm9PMkN2emdEcGZ0a2J5TzNpY1ZHMWdabEVmR0daMF93a2VnWFA0TENrMVJocGlPZm00UTU0OEc5MkM0WG1qSVV2UlRqUHBQV0JTOC1fWjkzZFpsRXFFNTB5MERDSkNuUnRHY1h3bWhBSmVtR3ZCOURmZUU2Z0FMQ05TOVFXUmx5cFpUMnBidHk1b0NpT2w1ZjNLd9IB9AFBVV95cUxQelctZl9BajcxT1h1MS1kcFRyWjNUMzk2QW1XaTh5UzEzdUdxcG9rWEx3aVAwZ25pWmlQR1kwdmJFdkM3bFVEWDV4NDhIb3ZvWDlfcUt1emRCankyZjBoZnpRcUR1TUduam10c25rV00wLU1hbUktR0ZPeTYzQ2xDaTI1c0gzUVgxZWtVR0czWWJGWnpxRGFiaDZZendvaUdHWWo2OWtHZ3N0dWRBaENNVjFjaDJwMFdEamlTTnZlQnFVWjc0VzZ4clBQdnVBMjhGN3MzR0xqdVpfUEVOWDZkSVJ4RndNNFNPOXpnMW5UbDlCeXB3?oc=5",
-     "published": "2026-11-20T11:30:39Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "Moneycontrol.com",
-     "source_domain": "moneycontrol.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    },
     {
      "id": "f4ccf49b1b057beb",
      "title": "Japan PM Sanae Takaichi Gets Low-Key APEC Welcome in China Amid Taiwan Tensions",
@@ -1206,6 +1312,22 @@
      "entities": [],
      "source_name": "Latin Times",
      "source_domain": "latintimes.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    },
+    {
+     "id": "189d1f1ce58dc732",
+     "title": "Sanae Takaichi Gets Muted Welcome in China as Taiwan Tensions Persist",
+     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX19HRi1yNGk2Tkt3Y1piNmsyc1JCSUs5ZEtCck15MEw4OV92SElKN1JkZjVZcE1WeWEwMXJWeTdxcHc2dHBUSXlBNjE3QW1YaFNtaXlveXVXTERTU2VfbW1GX2JIUEVXSDlId2xKRzBmQ1ZxS2lZUkFlX0ZhdGNvLVFXOTYxVF9FOFE?oc=5",
+     "published": "2026-11-20T19:07:57Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "JournalArta",
+     "source_domain": "journalarta.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -1274,7 +1396,7 @@
    ]
   },
   {
-   "id": "evt_20261120_31cb7c",
+   "id": "evt_20261120_3c9db6",
    "headline": "紐時記者：輝達晶片流入共軍實驗室 協助攻台研究 | 國際",
    "headline_source": "中央社 CNA",
    "headline_url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0xOXZIOWpxaEFuVWNaMWVlZTBiQ2FYRzIxU25FeWZjeldhOUtJd2REbnp3T2NOejNuVXRCVWRDRDFEWHZlNi1XUHotbHg4RTlTaWxydEtzNmhhcmp4Z1Bj?oc=5",
@@ -1293,8 +1415,8 @@
     "n_unrated": 1,
     "score": 23.0,
     "n_independent": 1,
-    "n_articles": 3,
-    "n_domains": 3,
+    "n_articles": 2,
+    "n_domains": 2,
     "blocs": [
      "tw_state",
      "unknown"
@@ -1304,7 +1426,6 @@
     "reasons": [
      "대만 국영·정부 진영 단독 보도",
      "최고 등급 관영·정부",
-     "中央社 CNA 원고를 聚財網 가 전재 — 1곳으로 계산",
      "미분류 매체 1곳 추가 보도(교차검증 미산입)",
      "대만 국영·정부 발표만 존재"
     ]
@@ -1313,7 +1434,6 @@
     "prc": [],
     "tw_west": [
      "aac144a4edc9fdb5",
-     "8345edb77c5e3472",
      "d3898609ad5433c5"
     ]
    },
@@ -1335,25 +1455,6 @@
      "bloc": "tw_state",
      "bloc_label": "대만 국영·정부",
      "bias": "대만 국영 통신사",
-     "hedged": false
-    },
-    {
-     "id": "8345edb77c5e3472",
-     "title": "紐時記者：輝達晶片流入共軍實驗室 協助攻台研究",
-     "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE50d25OaHoxR3EwT3F6VC1mNW8wbElYWHBSSzRXT0M2RWZRRk1tUkt5QW4ydUdHZ0RiclFuZjhGNjMzS1VqTFN5ejJJYXE?oc=5",
-     "published": "2026-11-20T13:37:20Z",
-     "lang": "zh",
-     "entities": [
-      "invasion",
-      "pla"
-     ],
-     "source_name": "聚財網",
-     "source_domain": "news.wearn.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     },
     {
@@ -1548,6 +1649,64 @@
      ],
      "source_name": "DD News",
      "source_domain": "ddnews.gov.in",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261120_e058eb",
+   "headline": "Japan slams China's 'discriminatory treatment' of PM Sanae Takaichi at APEC summit amid Taiwan tensions",
+   "headline_source": "Moneycontrol.com",
+   "headline_url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVFBXeDkycWZlNGc4UEJUYk81NENNZmdyQXEzcmc0alRNUWNaMmZKTVp4VWtyTXYxRmNQUFhkUk12Z1o1QWRjRTR0aEktdm50Skladm4xbVhyUVFOZm9PMkN2emdEcGZ0a2J5TzNpY1ZHMWdabEVmR0daMF93a2VnWFA0TENrMVJocGlPZm00UTU0OEc5MkM0WG1qSVV2UlRqUHBQV0JTOC1fWjkzZFpsRXFFNTB5MERDSkNuUnRHY1h3bWhBSmVtR3ZCOURmZUU2Z0FMQ05TOVFXUmx5cFpUMnBidHk1b0NpT2w1ZjNLd9IB9AFBVV95cUxQelctZl9BajcxT1h1MS1kcFRyWjNUMzk2QW1XaTh5UzEzdUdxcG9rWEx3aVAwZ25pWmlQR1kwdmJFdkM3bFVEWDV4NDhIb3ZvWDlfcUt1emRCankyZjBoZnpRcUR1TUduam10c25rV00wLU1hbUktR0ZPeTYzQ2xDaTI1c0gzUVgxZWtVR0czWWJGWnpxRGFiaDZZendvaUdHWWo2OWtHZ3N0dWRBaENNVjFjaDJwMFdEamlTTnZlQnFVWjc0VzZ4clBQdnVBMjhGN3MzR0xqdVpfUEVOWDZkSVJ4RndNNFNPOXpnMW5UbDlCeXB3?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-20T11:30:39Z",
+   "last_seen": "2026-11-20T11:30:39Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 2,
+    "n_unrated": 2,
+    "score": 5.6,
+    "n_independent": 0,
+    "n_articles": 2,
+    "n_domains": 2,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 2곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "2de4170391e92106"
+    ]
+   },
+   "articles": [
+    {
+     "id": "2de4170391e92106",
+     "title": "Japan slams China's 'discriminatory treatment' of PM Sanae Takaichi at APEC summit amid Taiwan tensions",
+     "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVFBXeDkycWZlNGc4UEJUYk81NENNZmdyQXEzcmc0alRNUWNaMmZKTVp4VWtyTXYxRmNQUFhkUk12Z1o1QWRjRTR0aEktdm50Skladm4xbVhyUVFOZm9PMkN2emdEcGZ0a2J5TzNpY1ZHMWdabEVmR0daMF93a2VnWFA0TENrMVJocGlPZm00UTU0OEc5MkM0WG1qSVV2UlRqUHBQV0JTOC1fWjkzZFpsRXFFNTB5MERDSkNuUnRHY1h3bWhBSmVtR3ZCOURmZUU2Z0FMQ05TOVFXUmx5cFpUMnBidHk1b0NpT2w1ZjNLd9IB9AFBVV95cUxQelctZl9BajcxT1h1MS1kcFRyWjNUMzk2QW1XaTh5UzEzdUdxcG9rWEx3aVAwZ25pWmlQR1kwdmJFdkM3bFVEWDV4NDhIb3ZvWDlfcUt1emRCankyZjBoZnpRcUR1TUduam10c25rV00wLU1hbUktR0ZPeTYzQ2xDaTI1c0gzUVgxZWtVR0czWWJGWnpxRGFiaDZZendvaUdHWWo2OWtHZ3N0dWRBaENNVjFjaDJwMFdEamlTTnZlQnFVWjc0VzZ4clBQdnVBMjhGN3MzR0xqdVpfUEVOWDZkSVJ4RndNNFNPOXpnMW5UbDlCeXB3?oc=5",
+     "published": "2026-11-20T11:30:39Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Moneycontrol.com",
+     "source_domain": "moneycontrol.com",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -1918,6 +2077,65 @@
    ]
   },
   {
+   "id": "evt_20261120_bc97ad",
+   "headline": "Taiwan tracks 9 Chinese ships, 8 military aircraft, and 4 balloons",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13LW5vQTViWlE2Z1JJWlB2Q2tqdU9UWkVqS19NLW9zUF9WUXJJcVh5UTNPZlUxLUtqeW5NQ3BRY3ZsTzhDSWd5U25JMTF6RUVadjE4Xw?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-20T03:03:00Z",
+   "last_seen": "2026-11-20T03:03:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "26a74fdfd6719db8"
+    ]
+   },
+   "articles": [
+    {
+     "id": "26a74fdfd6719db8",
+     "title": "Taiwan tracks 9 Chinese ships, 8 military aircraft, and 4 balloons",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE13LW5vQTViWlE2Z1JJWlB2Q2tqdU9UWkVqS19NLW9zUF9WUXJJcVh5UTNPZlUxLUtqeW5NQ3BRY3ZsTzhDSWd5U25JMTF6RUVadjE4Xw?oc=5",
+     "published": "2026-11-20T03:03:00Z",
+     "lang": "en",
+     "entities": [
+      "balloon"
+     ],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261118_c48f8c",
    "headline": "中共17機艦船台海周邊活動 國軍嚴密監控應處",
    "headline_source": "中央廣播電臺",
@@ -2187,6 +2405,66 @@
      "tier_label": "주요 일간",
      "bloc": "independent",
      "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261120_11c15e",
+   "headline": "峰會機制成形 將牽動台海局勢",
+   "headline_source": "中國時報- 翻爆",
+   "headline_url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjFFUzZaOXJmeEtXazRmRFFwNVpvNEN6R1lNWEVaVG1FTmpqTGVEVTFlc2E5em42clc1b0F1S0dNRGt6empXX1MweUhqREtoOGhzZUVKakVrcmo4azd0NmkwZFdJWHZHVU5MSHRMLVFrbXZ3SEVkNWVGRTRNRVB6UzZxX0VQdw?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-20T00:52:42Z",
+   "last_seen": "2026-11-20T00:52:42Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "c9a31d968b2685b5"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c9a31d968b2685b5",
+     "title": "峰會機制成形 將牽動台海局勢",
+     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUjFFUzZaOXJmeEtXazRmRFFwNVpvNEN6R1lNWEVaVG1FTmpqTGVEVTFlc2E5em42clc1b0F1S0dNRGt6empXX1MweUhqREtoOGhzZUVKakVrcmo4azd0NmkwZFdJWHZHVU5MSHRMLVFrbXZ3SEVkNWVGRTRNRVB6UzZxX0VQdw?oc=5",
+     "published": "2026-11-20T00:52:42Z",
+     "lang": "zh",
+     "entities": [
+      "taiwan_strait"
+     ],
+     "source_name": "中國時報- 翻爆",
+     "source_domain": "reader.turnnewsapp.com",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
      "bias": null,
      "hedged": false
     }
@@ -3974,6 +4252,65 @@
    ]
   },
   {
+   "id": "evt_20261119_0571b4",
+   "headline": "Taiwan, Japan flag incursions by Russian aircraft ahead of Putin's arrival in China",
+   "headline_source": "Reuters",
+   "headline_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGFJMTUwWmFyejl3MmtfWlhQM2Fud3FVQWFpYXFuU1lLUC0zREVYZDZ0SHgtU3drVzhYdkRXdGtKU0dQUFBCa3A4RWpIVjl5bnVDd0tRY2sxUHRZZlVvQzZtTDBtaHdUa3ZYSVREOE1wZEZUNVAtWWFKcVQyTjdvbnRreGpsbjZtQ2JMc25ZcUNTVkZVMTVjb21XbmZySkhIczRzRU8xRDRGMFpTbDVTQ1QzeWtRYlo4UkNoVHZQMHhiWlVCOERxU0t2cXI?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-19T04:37:24Z",
+   "last_seen": "2026-11-19T04:37:24Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "B",
+    "d_reason": null,
+    "grade_label": "개연적",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 29.3,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T1",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 통신사·공영"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "ea1dba1eaf52389b"
+    ]
+   },
+   "articles": [
+    {
+     "id": "ea1dba1eaf52389b",
+     "title": "Taiwan, Japan flag incursions by Russian aircraft ahead of Putin's arrival in China",
+     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGFJMTUwWmFyejl3MmtfWlhQM2Fud3FVQWFpYXFuU1lLUC0zREVYZDZ0SHgtU3drVzhYdkRXdGtKU0dQUFBCa3A4RWpIVjl5bnVDd0tRY2sxUHRZZlVvQzZtTDBtaHdUa3ZYSVREOE1wZEZUNVAtWWFKcVQyTjdvbnRreGpsbjZtQ2JMc25ZcUNTVkZVMTVjb21XbmZySkhIczRzRU8xRDRGMFpTbDVTQ1QzeWtRYlo4UkNoVHZQMHhiWlVCOERxU0t2cXI?oc=5",
+     "published": "2026-11-19T04:37:24Z",
+     "lang": "en",
+     "entities": [
+      "incursion"
+     ],
+     "source_name": "Reuters",
+     "source_domain": "reuters.com",
+     "tier": "T1",
+     "tier_label": "통신사·공영",
+     "bloc": "independent",
+     "bloc_label": "독립",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
    "id": "evt_20261119_fb8a49",
    "headline": "經濟學人列2027年十大趨勢 警示AI金融清算與台海變局",
    "headline_source": "商傳媒",
@@ -4108,6 +4445,67 @@
      ],
      "source_name": "FTNN 新聞網",
      "source_domain": "ftnn.com.tw",
+     "tier": "T5",
+     "tier_label": "미분류",
+     "bloc": "unknown",
+     "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261119_f62e08",
+   "headline": "谷瑞生：台海和平是國際共同利益 籲明確反對片面改變現狀 | 中央廣播電臺",
+   "headline_source": "LINE TODAY",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pNEp3VDQ2SFFvb3g3N3NaWHVHcUtmSmotVkVsaFJuZXZRUTRfdXM4UldaWmNNVFVTWC1KTFVBRmxnS0VPbXd0c3hVaVJHZ2liMDN1RElB?oc=5",
+   "headline_lang": "zh",
+   "first_seen": "2026-11-19T02:06:04Z",
+   "last_seen": "2026-11-19T02:06:04Z",
+   "langs": [
+    "zh"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "D",
+    "d_reason": "unrated",
+    "grade_label": "출처 미확인",
+    "n_originals": 1,
+    "n_unrated": 1,
+    "score": 2.1,
+    "n_independent": 0,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "unknown"
+    ],
+    "top_tier": "T5",
+    "primary_cited": false,
+    "reasons": [
+     "등급표에 없는 매체만 보도",
+     "최고 등급 미분류",
+     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "fcbe3cc45bdc27e6"
+    ]
+   },
+   "articles": [
+    {
+     "id": "fcbe3cc45bdc27e6",
+     "title": "谷瑞生：台海和平是國際共同利益 籲明確反對片面改變現狀 | 中央廣播電臺",
+     "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9pNEp3VDQ2SFFvb3g3N3NaWHVHcUtmSmotVkVsaFJuZXZRUTRfdXM4UldaWmNNVFVTWC1KTFVBRmxnS0VPbXd0c3hVaVJHZ2liMDN1RElB?oc=5",
+     "published": "2026-11-19T02:06:04Z",
+     "lang": "zh",
+     "entities": [
+      "status_quo",
+      "taiwan_strait"
+     ],
+     "source_name": "LINE TODAY",
+     "source_domain": "today.line.me",
      "tier": "T5",
      "tier_label": "미분류",
      "bloc": "unknown",
@@ -4505,7 +4903,6 @@
     "prc": [],
     "tw_west": [
      "527074fbaf3b8c05",
-     "f85ec3601a168d8f",
      "d85354f21cf1a251"
     ]
    },
@@ -4515,24 +4912,6 @@
      "title": "Russian military aircraft enter Taiwan’s ADIZ",
      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5NWkcwNHdLNzdXQTFDd09CMDJQcUlROFQzNTBkTC1uMHZvNll1Q2RaUGlMbzd0a0JtMXBpSl85OUtlOXBPZlZtT2E3cTBfTnBPaTFaVHRYRFVKd0xWM0xaZTVRUXd5M3F0LUNSTVZXYXJtVXpZUzlvdQ?oc=5",
      "published": "2026-11-16T16:00:00Z",
-     "lang": "en",
-     "entities": [
-      "adiz"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    },
-    {
-     "id": "f85ec3601a168d8f",
-     "title": "Russian warplanes enter Taiwan ADIZ",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE11d2pDMVZvQndaY25adDRWM1JNRTRqM0VWV182c0sybXlhTWMtV1RtZTdyNFBYYXZ3eGtWT3hBd3Q0Uy1UMGJWVDU4T1pmeU5lYTE0Snc0dlFtRXRpRjhDWHFNaVlJMVZXRHNjNlJzZjVmc0pzT3RkMQ?oc=5",
-     "published": "2026-11-17T16:00:00Z",
      "lang": "en",
      "entities": [
       "adiz"
@@ -5308,65 +5687,6 @@
      "bloc": "prc_state",
      "bloc_label": "중국 관영",
      "bias": "중국 국영 방송",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261118_0571b4",
-   "headline": "Taiwan, Japan flag incursions by Russian aircraft ahead of Putin's arrival in China",
-   "headline_source": "Reuters",
-   "headline_url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGFJMTUwWmFyejl3MmtfWlhQM2Fud3FVQWFpYXFuU1lLUC0zREVYZDZ0SHgtU3drVzhYdkRXdGtKU0dQUFBCa3A4RWpIVjl5bnVDd0tRY2sxUHRZZlVvQzZtTDBtaHdUa3ZYSVREOE1wZEZUNVAtWWFKcVQyTjdvbnRreGpsbjZtQ2JMc25ZcUNTVkZVMTVjb21XbmZySkhIczRzRU8xRDRGMFpTbDVTQ1QzeWtRYlo4UkNoVHZQMHhiWlVCOERxU0t2cXI?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-11-18T02:48:35Z",
-   "last_seen": "2026-11-18T02:48:35Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "B",
-    "d_reason": null,
-    "grade_label": "개연적",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 29.3,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T1",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 통신사·공영"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ea1dba1eaf52389b"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ea1dba1eaf52389b",
-     "title": "Taiwan, Japan flag incursions by Russian aircraft ahead of Putin's arrival in China",
-     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZGFJMTUwWmFyejl3MmtfWlhQM2Fud3FVQWFpYXFuU1lLUC0zREVYZDZ0SHgtU3drVzhYdkRXdGtKU0dQUFBCa3A4RWpIVjl5bnVDd0tRY2sxUHRZZlVvQzZtTDBtaHdUa3ZYSVREOE1wZEZUNVAtWWFKcVQyTjdvbnRreGpsbjZtQ2JMc25ZcUNTVkZVMTVjb21XbmZySkhIczRzRU8xRDRGMFpTbDVTQ1QzeWtRYlo4UkNoVHZQMHhiWlVCOERxU0t2cXI?oc=5",
-     "published": "2026-11-18T02:48:35Z",
-     "lang": "en",
-     "entities": [
-      "incursion"
-     ],
-     "source_name": "Reuters",
-     "source_domain": "reuters.com",
-     "tier": "T1",
-     "tier_label": "통신사·공영",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": null,
      "hedged": false
     }
    ]
@@ -6926,6 +7246,63 @@
      "tier_label": "미분류",
      "bloc": "unknown",
      "bloc_label": "미분류",
+     "bias": null,
+     "hedged": false
+    }
+   ]
+  },
+  {
+   "id": "evt_20261117_86f280",
+   "headline": "Taiwan tracks 8 Chinese ships and 5 military aircraft",
+   "headline_source": "Taiwan News",
+   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxNHBuU2psTTdsRFFEVzVfSVhxYklLUFQ4Vjl1em1oTkt4dXRadGM4LVl0am8yZFE0eDZfZHVxWUo1ZDJ5YzJWMFRSU0NOeHVKWkV4bA?oc=5",
+   "headline_lang": "en",
+   "first_seen": "2026-11-17T02:50:00Z",
+   "last_seen": "2026-11-17T02:50:00Z",
+   "langs": [
+    "en"
+   ],
+   "cross_language": false,
+   "credibility": {
+    "grade": "C",
+    "d_reason": null,
+    "grade_label": "단일 출처",
+    "n_originals": 1,
+    "n_unrated": 0,
+    "score": 25.8,
+    "n_independent": 1,
+    "n_articles": 1,
+    "n_domains": 1,
+    "blocs": [
+     "independent"
+    ],
+    "top_tier": "T2",
+    "primary_cited": false,
+    "reasons": [
+     "독립 출처 1곳",
+     "최고 등급 주요 일간"
+    ]
+   },
+   "perspectives": {
+    "prc": [],
+    "tw_west": [
+     "c2d26686b8723f05"
+    ]
+   },
+   "articles": [
+    {
+     "id": "c2d26686b8723f05",
+     "title": "Taiwan tracks 8 Chinese ships and 5 military aircraft",
+     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBxNHBuU2psTTdsRFFEVzVfSVhxYklLUFQ4Vjl1em1oTkt4dXRadGM4LVl0am8yZFE0eDZfZHVxWUo1ZDJ5YzJWMFRSU0NOeHVKWkV4bA?oc=5",
+     "published": "2026-11-17T02:50:00Z",
+     "lang": "en",
+     "entities": [],
+     "source_name": "Taiwan News",
+     "source_domain": "taiwannews.com.tw",
+     "tier": "T2",
+     "tier_label": "주요 일간",
+     "bloc": "independent",
+     "bloc_label": "독립",
      "bias": null,
      "hedged": false
     }
@@ -20561,367 +20938,6 @@
      "bloc": "independent",
      "bloc_label": "독립",
      "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261107_ee0047",
-   "headline": "美智庫：共軍可能正在台海軍演 但未公布",
-   "headline_source": "聯合報",
-   "headline_url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSW1ycVNpdWtrQ3VEWWJSUjMxdXJVNm5HeWUxTDVXMWdtMEhKMkxkOV9kUlA1dDB5MG0wSHRCMEVCN1ZLMmJiOUdDbFJyQUFTWEHSAVdBVV95cUxNLVFDM09haTdkTXVtNWJTLW5qRlp6bkNvbnZHaGZfRHIwejI3QU14VmViZVUzQUZxQnRtTy1ydVNwNXR2S0xjX21jUkJfS0FpVGFqQjBTUDQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-07T17:42:00Z",
-   "last_seen": "2026-11-07T17:42:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b63872d53d40fccf"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b63872d53d40fccf",
-     "title": "美智庫：共軍可能正在台海軍演 但未公布",
-     "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBXSW1ycVNpdWtrQ3VEWWJSUjMxdXJVNm5HeWUxTDVXMWdtMEhKMkxkOV9kUlA1dDB5MG0wSHRCMEVCN1ZLMmJiOUdDbFJyQUFTWEHSAVdBVV95cUxNLVFDM09haTdkTXVtNWJTLW5qRlp6bkNvbnZHaGZfRHIwejI3QU14VmViZVUzQUZxQnRtTy1ydVNwNXR2S0xjX21jUkJfS0FpVGFqQjBTUDQ?oc=5",
-     "published": "2026-11-07T17:42:00Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "plan_navy",
-      "taiwan_strait"
-     ],
-     "source_name": "聯合報",
-     "source_domain": "udn.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범파란(친국민당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261107_68ec77",
-   "headline": "PLA may be simulating Taiwan isolation: report",
-   "headline_source": "Taipei Times",
-   "headline_url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CZk9lczlMaGhtckpWd0FqejJ1V0VrT0d1Y0gyVEFya19jNmk5U3Rmb2VtdWpXY1M3OHR1VnBiNTNINXhodnVQcVhsTExfNlhPZi1uR3d3bHM1cjZXMFhTWXdsUWtOYXNNLVJ1ZGJxeFY1X3FGWENFVg?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-11-07T16:00:00Z",
-   "last_seen": "2026-11-07T16:00:00Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "C",
-    "d_reason": null,
-    "grade_label": "단일 출처",
-    "n_originals": 1,
-    "n_unrated": 0,
-    "score": 25.8,
-    "n_independent": 1,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "independent"
-    ],
-    "top_tier": "T2",
-    "primary_cited": false,
-    "reasons": [
-     "독립 출처 1곳",
-     "최고 등급 주요 일간"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "b8a601ad32f32818"
-    ]
-   },
-   "articles": [
-    {
-     "id": "b8a601ad32f32818",
-     "title": "PLA may be simulating Taiwan isolation: report",
-     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1CZk9lczlMaGhtckpWd0FqejJ1V0VrT0d1Y0gyVEFya19jNmk5U3Rmb2VtdWpXY1M3OHR1VnBiNTNINXhodnVQcVhsTExfNlhPZi1uR3d3bHM1cjZXMFhTWXdsUWtOYXNNLVJ1ZGJxeFY1X3FGWENFVg?oc=5",
-     "published": "2026-11-07T16:00:00Z",
-     "lang": "en",
-     "entities": [
-      "pla"
-     ],
-     "source_name": "Taipei Times",
-     "source_domain": "taipeitimes.com",
-     "tier": "T2",
-     "tier_label": "주요 일간",
-     "bloc": "independent",
-     "bloc_label": "독립",
-     "bias": "대만 범녹색(친민진당) 성향",
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261107_31b245",
-   "headline": "澳智庫：台海若開戰 共軍恐牽制澳洲",
-   "headline_source": "短新聞SHOTNEWS",
-   "headline_url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EVUcyME5aNl9yNjRvZWFRUVhCQ0tkODk4TlU0bzBiNDZncm41d3Rrd0ZNbERESTUxNlJKaURNRzBoOXB2T1l1YUZvYjkydGRPZDIzbQ?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-07T14:38:00Z",
-   "last_seen": "2026-11-07T14:38:00Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "cafa8cf171340848"
-    ]
-   },
-   "articles": [
-    {
-     "id": "cafa8cf171340848",
-     "title": "澳智庫：台海若開戰 共軍恐牽制澳洲",
-     "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9EVUcyME5aNl9yNjRvZWFRUVhCQ0tkODk4TlU0bzBiNDZncm41d3Rrd0ZNbERESTUxNlJKaURNRzBoOXB2T1l1YUZvYjkydGRPZDIzbQ?oc=5",
-     "published": "2026-11-07T14:38:00Z",
-     "lang": "zh",
-     "entities": [
-      "pla",
-      "taiwan_strait"
-     ],
-     "source_name": "短新聞SHOTNEWS",
-     "source_domain": "shotnews.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261107_0f9caf",
-   "headline": "2027台海危機倒數？台美日頂尖國防專家：「兵棋推演」3大目的",
-   "headline_source": "遠見雜誌",
-   "headline_url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0b3lRTUhPVG4xMHpqZzdLWl9hc3M1OTBRUGR3Q0hXVmthNVFIby1iUGEtQjAzRkdhR0hZdWk4aEpqNndGVFEwT1loNW5Kdw?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-07T13:31:06Z",
-   "last_seen": "2026-11-07T13:31:06Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "69d0f99b5f0d7b47"
-    ]
-   },
-   "articles": [
-    {
-     "id": "69d0f99b5f0d7b47",
-     "title": "2027台海危機倒數？台美日頂尖國防專家：「兵棋推演」3大目的",
-     "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFB0b3lRTUhPVG4xMHpqZzdLWl9hc3M1OTBRUGR3Q0hXVmthNVFIby1iUGEtQjAzRkdhR0hZdWk4aEpqNndGVFEwT1loNW5Kdw?oc=5",
-     "published": "2026-11-07T13:31:06Z",
-     "lang": "zh",
-     "entities": [
-      "tabletop_wargame",
-      "taiwan_strait"
-     ],
-     "source_name": "遠見雜誌",
-     "source_domain": "gvm.com.tw",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261107_b42b35",
-   "headline": "川普強硬不打算轉彎 陸狂造071台海危機升高？",
-   "headline_source": "中天新聞網",
-   "headline_url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qTzVYVnlRamtxWGNreDZzMWtyLTdFSkJ2V2JMQW45NnVZcVYxdXhPQ05jSmRLSHhqS3hRTGxfY0NxN0ZWS2w1Skd3bm9ZZE1xVGc4?oc=5",
-   "headline_lang": "zh",
-   "first_seen": "2026-11-07T12:30:01Z",
-   "last_seen": "2026-11-07T12:30:01Z",
-   "langs": [
-    "zh"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "ed1773ab062e35b7"
-    ]
-   },
-   "articles": [
-    {
-     "id": "ed1773ab062e35b7",
-     "title": "川普強硬不打算轉彎 陸狂造071台海危機升高？",
-     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1qTzVYVnlRamtxWGNreDZzMWtyLTdFSkJ2V2JMQW45NnVZcVYxdXhPQ05jSmRLSHhqS3hRTGxfY0NxN0ZWS2w1Skd3bm9ZZE1xVGc4?oc=5",
-     "published": "2026-11-07T12:30:01Z",
-     "lang": "zh",
-     "entities": [
-      "taiwan_strait",
-      "trump"
-     ],
-     "source_name": "中天新聞網",
-     "source_domain": "ctinews.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
-     "hedged": false
-    }
-   ]
-  },
-  {
-   "id": "evt_20261107_37f792",
-   "headline": "Taiwan detects intensive Chinese military activity in its vicinity, with dozens of aircraft and vessels spotted",
-   "headline_source": "صوت الإمارات",
-   "headline_url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONkFrbmJHUlZuektVZG8xeEgweHBQdXp6MU45TlBXQ09tWWZFNDFHckJRTGxMYy01eHlEckV5dzhObG82aWhrVGtwRXVBZm9lNlFZRUw1azJYRzJaRkl2U2Joc1psYVJuMVZ0a05XeGdxTW9ZUDEzUXhOWnYtcWtFMkdxRFZsemQ5RmJhOXBxVHpVSEhZVVRpdlhuWl8zTjBFY3NNbllvaFN2OG1tX3Z0RkFSOEVabUF6MG81d3k0bHA4OG8wd1BSa2R3S1BkRFd0OURlX25pR2FXVHB4aG56M0lCMXh5Q1k2dmVDblJDMmpHcnFVVzVqQXV3?oc=5",
-   "headline_lang": "en",
-   "first_seen": "2026-11-07T12:02:19Z",
-   "last_seen": "2026-11-07T12:02:19Z",
-   "langs": [
-    "en"
-   ],
-   "cross_language": false,
-   "credibility": {
-    "grade": "D",
-    "d_reason": "unrated",
-    "grade_label": "출처 미확인",
-    "n_originals": 1,
-    "n_unrated": 1,
-    "score": 2.1,
-    "n_independent": 0,
-    "n_articles": 1,
-    "n_domains": 1,
-    "blocs": [
-     "unknown"
-    ],
-    "top_tier": "T5",
-    "primary_cited": false,
-    "reasons": [
-     "등급표에 없는 매체만 보도",
-     "최고 등급 미분류",
-     "미분류 매체 1곳 추가 보도(교차검증 미산입)"
-    ]
-   },
-   "perspectives": {
-    "prc": [],
-    "tw_west": [
-     "6d5a4a8dba1cd3df"
-    ]
-   },
-   "articles": [
-    {
-     "id": "6d5a4a8dba1cd3df",
-     "title": "Taiwan detects intensive Chinese military activity in its vicinity, with dozens of aircraft and vessels spotted",
-     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxONkFrbmJHUlZuektVZG8xeEgweHBQdXp6MU45TlBXQ09tWWZFNDFHckJRTGxMYy01eHlEckV5dzhObG82aWhrVGtwRXVBZm9lNlFZRUw1azJYRzJaRkl2U2Joc1psYVJuMVZ0a05XeGdxTW9ZUDEzUXhOWnYtcWtFMkdxRFZsemQ5RmJhOXBxVHpVSEhZVVRpdlhuWl8zTjBFY3NNbllvaFN2OG1tX3Z0RkFSOEVabUF6MG81d3k0bHA4OG8wd1BSa2R3S1BkRFd0OURlX25pR2FXVHB4aG56M0lCMXh5Q1k2dmVDblJDMmpHcnFVVzVqQXV3?oc=5",
-     "published": "2026-11-07T12:02:19Z",
-     "lang": "en",
-     "entities": [],
-     "source_name": "صوت الإمارات",
-     "source_domain": "voiceofemirates.com",
-     "tier": "T5",
-     "tier_label": "미분류",
-     "bloc": "unknown",
-     "bloc_label": "미분류",
-     "bias": null,
      "hedged": false
     }
    ]
