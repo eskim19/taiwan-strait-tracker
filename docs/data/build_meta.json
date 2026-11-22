@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-22T11:30:18Z",
+ "updated": "2026-11-22T19:44:26Z",
  "checked": "2026-11-22",
- "duration_sec": 32.6,
+ "duration_sec": 32.0,
  "rolling_days": 14,
- "n_events": 338,
- "n_articles": 385,
+ "n_events": 337,
+ "n_articles": 381,
  "grades": {
-  "D": 163,
   "C": 149,
+  "D": 162,
   "B": 25,
   "A": 1
  },
- "cross_language_events": 1,
+ "cross_language_events": 0,
  "tension_error": null,
  "archive_months": [
   "2026-11"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 20,
+  "T1": 19,
   "T2": 145,
-  "T3": 65,
+  "T3": 63,
   "T4": 7,
-  "T5": 114,
+  "T5": 113,
   "TA": 11
  },
  "t1_domains": [
@@ -58,8 +58,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 47,
-   "n_adopted": 23,
+   "n_entries": 36,
+   "n_adopted": 18,
    "newest": "2026-11-22T05:15:00+00:00",
    "stale": false,
    "error": null
@@ -71,9 +71,9 @@
    "status": "ok",
    "health": "no_adopt",
    "http": 200,
-   "n_entries": 53,
+   "n_entries": 54,
    "n_adopted": 0,
-   "newest": "2026-11-19T03:20:07+00:00",
+   "newest": "2026-11-22T15:12:00+00:00",
    "stale": false,
    "error": null
   },
@@ -85,7 +85,7 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 77,
+   "n_adopted": 75,
    "newest": "2026-11-22T08:40:00+00:00",
    "stale": false,
    "error": null
@@ -95,11 +95,11 @@
    "name": "Google News (중국 관영 감시)",
    "critical": true,
    "status": "ok",
-   "health": "no_adopt",
+   "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 0,
-   "newest": "2026-11-22T10:55:38+00:00",
+   "n_adopted": 1,
+   "newest": "2026-11-22T13:23:15+00:00",
    "stale": false,
    "error": null
   },
@@ -108,11 +108,11 @@
    "name": "Google News (중국 관영·중국어)",
    "critical": true,
    "status": "ok",
-   "health": "ok",
+   "health": "no_adopt",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-11-22T10:30:00+00:00",
+   "n_adopted": 0,
+   "newest": "2026-11-22T15:14:00+00:00",
    "stale": false,
    "error": null
   },
@@ -123,9 +123,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 46,
-   "n_adopted": 2,
-   "newest": "2026-11-22T10:01:07+00:00",
+   "n_entries": 32,
+   "n_adopted": 1,
+   "newest": "2026-11-22T15:53:30+00:00",
    "stale": false,
    "error": null
   },
@@ -137,8 +137,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 47,
-   "n_adopted": 0,
-   "newest": "2026-11-22T00:00:00+00:00",
+   "n_adopted": 2,
+   "newest": "2026-11-23T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -151,7 +151,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 1,
-   "newest": "2026-11-22T10:00:08+00:00",
+   "newest": "2026-11-22T16:01:05+00:00",
    "stale": false,
    "error": null
   },
@@ -164,7 +164,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-22T09:00:00+00:00",
+   "newest": "2026-11-22T12:05:00+00:00",
    "stale": false,
    "error": null
   },
@@ -203,7 +203,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-11-22T11:17:23+00:00",
+   "newest": "2026-11-22T12:18:22+00:00",
    "stale": false,
    "error": null
   },
@@ -216,7 +216,7 @@
    "http": 200,
    "n_entries": 16,
    "n_adopted": 0,
-   "newest": "2026-11-22T06:05:00+00:00",
+   "newest": "2026-11-22T14:05:20+00:00",
    "stale": false,
    "error": null
   },
@@ -229,7 +229,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-22T11:15:27+00:00",
+   "newest": "2026-11-22T19:18:29+00:00",
    "stale": false,
    "error": null
   },
@@ -269,14 +269,14 @@
    "sample_title": "大陸空飄氣球一連3天現蹤台海 累計共10顆"
   },
   {
+   "domain": "thenewslens.com",
+   "n_articles": 4,
+   "sample_title": "25萬美元無人艇擊沉7000萬美元軍艦：烏克蘭「黑海戰略」，能直接照搬到台海嗎？"
+  },
+  {
    "domain": "cmoney.tw",
    "n_articles": 4,
    "sample_title": "学者：美中战略稳定认知不同 台海安全仍是关键议题(图)"
-  },
-  {
-   "domain": "thenewslens.com",
-   "n_articles": 3,
-   "sample_title": "《經濟學人》2027十大趨勢：川普要當「憤怒鳥」、主編憂台海危機⋯⋯去年的預測準不準？"
   },
   {
    "domain": "crntt.tw",
