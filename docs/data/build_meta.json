@@ -1,28 +1,28 @@
 {
- "updated": "2026-11-25T08:41:00Z",
+ "updated": "2026-11-25T19:19:47Z",
  "checked": "2026-11-25",
- "duration_sec": 32.9,
+ "duration_sec": 31.3,
  "rolling_days": 14,
- "n_events": 327,
- "n_articles": 355,
+ "n_events": 315,
+ "n_articles": 344,
  "grades": {
-  "D": 159,
-  "C": 148,
-  "B": 20
+  "B": 19,
+  "D": 154,
+  "C": 142
  },
- "cross_language_events": 0,
+ "cross_language_events": 1,
  "tension_error": null,
  "archive_months": [
   "2026-11"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 15,
-  "T2": 141,
-  "T3": 58,
-  "T4": 4,
-  "T5": 108,
-  "TA": 13
+  "T1": 13,
+  "T2": 142,
+  "T3": 54,
+  "T4": 3,
+  "T5": 109,
+  "TA": 8
  },
  "t1_domains": [
   "aljazeera.com",
@@ -30,7 +30,6 @@
   "dw.com",
   "france24.com",
   "kyodonews.net",
-  "nhk.or.jp",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr"
@@ -56,9 +55,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 52,
-   "n_adopted": 21,
-   "newest": "2026-11-24T23:59:38+00:00",
+   "n_entries": 48,
+   "n_adopted": 20,
+   "newest": "2026-11-25T13:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -69,7 +68,7 @@
    "status": "ok",
    "health": "no_adopt",
    "http": 200,
-   "n_entries": 58,
+   "n_entries": 59,
    "n_adopted": 0,
    "newest": "2026-11-25T07:33:19+00:00",
    "stale": false,
@@ -83,8 +82,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 58,
-   "newest": "2026-11-25T07:38:00+00:00",
+   "n_adopted": 53,
+   "newest": "2026-11-25T18:48:00+00:00",
    "stale": false,
    "error": null
   },
@@ -96,8 +95,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 4,
-   "newest": "2026-11-25T08:20:32+00:00",
+   "n_adopted": 6,
+   "newest": "2026-11-25T11:20:19+00:00",
    "stale": false,
    "error": null
   },
@@ -110,7 +109,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 0,
-   "newest": "2026-11-25T07:03:50+00:00",
+   "newest": "2026-11-25T14:54:41+00:00",
    "stale": false,
    "error": null
   },
@@ -121,9 +120,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 56,
+   "n_entries": 46,
    "n_adopted": 2,
-   "newest": "2026-11-25T08:10:49+00:00",
+   "newest": "2026-11-25T12:54:12+00:00",
    "stale": false,
    "error": null
   },
@@ -134,9 +133,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 51,
+   "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-11-25T00:00:00+00:00",
+   "newest": "2026-11-26T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -149,7 +148,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 0,
-   "newest": "2026-11-25T07:11:14+00:00",
+   "newest": "2026-11-25T14:03:18+00:00",
    "stale": false,
    "error": null
   },
@@ -162,7 +161,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-25T08:33:00+00:00",
+   "newest": "2026-11-25T14:40:00+00:00",
    "stale": false,
    "error": null
   },
@@ -199,9 +198,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 93,
+   "n_entries": 92,
    "n_adopted": 0,
-   "newest": "2026-11-25T08:14:38+00:00",
+   "newest": "2026-11-25T18:10:25+00:00",
    "stale": false,
    "error": null
   },
@@ -214,7 +213,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-25T06:58:24+00:00",
+   "newest": "2026-11-25T10:52:09+00:00",
    "stale": false,
    "error": null
   },
@@ -227,7 +226,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-25T08:23:35+00:00",
+   "newest": "2026-11-25T18:59:26+00:00",
    "stale": false,
    "error": null
   },
@@ -272,6 +271,11 @@
    "sample_title": "25萬美元無人艇擊沉7000萬美元軍艦：烏克蘭「黑海戰略」，能直接照搬到台海嗎？"
   },
   {
+   "domain": "reader.turnnewsapp.com",
+   "n_articles": 3,
+   "sample_title": "強化管轄 福建推台海全域觀測"
+  },
+  {
    "domain": "cmoney.tw",
    "n_articles": 3,
    "sample_title": "2377 微星 - 五星连珠王者劫点：习近平可能发动台海战争(组图) - 股市爆料同學會"
@@ -280,11 +284,6 @@
    "domain": "businessinsider.tw",
    "n_articles": 2,
    "sample_title": "臺灣東部連 3 天偵獲共軍直升機 最新通報僅這 1 架次共機"
-  },
-  {
-   "domain": "reader.turnnewsapp.com",
-   "n_articles": 2,
-   "sample_title": "氣球+共機齊飛 台海壓力升高"
   },
   {
    "domain": "facebook.com",
@@ -317,11 +316,6 @@
    "sample_title": "快評： 中美峰會提台海三方會晤談世局"
   },
   {
-   "domain": "dominotheory.com",
-   "n_articles": 2,
-   "sample_title": "Russian Military Aircraft Enter Taiwan’s Air Defense Zone"
-  },
-  {
    "domain": "epochtimes.com.tw",
    "n_articles": 2,
    "sample_title": "共軍2027攻台之外 戴維森憂資訊戰升級"
@@ -345,6 +339,11 @@
    "domain": "cw.com.tw",
    "n_articles": 1,
    "sample_title": "美中台最危險的10個月？《經濟學人》預測：2027台海大限延長了"
+  },
+  {
+   "domain": "wisevoter.com",
+   "n_articles": 1,
+   "sample_title": "China Stages Joint Air-Naval Patrol Around Taiwan"
   }
  ]
 }
