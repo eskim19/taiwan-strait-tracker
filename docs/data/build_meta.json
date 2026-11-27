@@ -1,33 +1,32 @@
 {
- "updated": "2026-11-27T12:28:31Z",
+ "updated": "2026-11-27T23:29:41Z",
  "checked": "2026-11-27",
- "duration_sec": 32.0,
+ "duration_sec": 29.4,
  "rolling_days": 14,
- "n_events": 294,
- "n_articles": 330,
+ "n_events": 291,
+ "n_articles": 325,
  "grades": {
-  "D": 145,
-  "A": 1,
-  "C": 136,
-  "B": 12
+  "C": 142,
+  "A": 2,
+  "D": 138,
+  "B": 9
  },
- "cross_language_events": 1,
+ "cross_language_events": 2,
  "tension_error": null,
  "archive_months": [
   "2026-11"
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 10,
-  "T2": 140,
-  "T3": 54,
+  "T1": 9,
+  "T2": 145,
+  "T3": 53,
   "T4": 1,
-  "T5": 104,
+  "T5": 97,
   "TA": 6
  },
  "t1_domains": [
   "bbc.co.uk",
-  "france24.com",
   "pts.org.tw",
   "reuters.com",
   "rfi.fr",
@@ -42,8 +41,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 17,
-   "newest": "2026-11-27T05:48:41+00:00",
+   "n_adopted": 16,
+   "newest": "2026-11-26T13:28:30+00:00",
    "stale": false,
    "error": null
   },
@@ -54,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 34,
-   "n_adopted": 22,
-   "newest": "2026-11-27T09:09:00+00:00",
+   "n_entries": 26,
+   "n_adopted": 15,
+   "newest": "2026-11-27T22:00:15+00:00",
    "stale": false,
    "error": null
   },
@@ -67,8 +66,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
-   "n_adopted": 3,
+   "n_entries": 59,
+   "n_adopted": 4,
    "newest": "2026-11-27T09:05:48+00:00",
    "stale": false,
    "error": null
@@ -81,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 51,
-   "newest": "2026-11-27T11:58:55+00:00",
+   "n_adopted": 60,
+   "newest": "2026-11-27T23:04:35+00:00",
    "stale": false,
    "error": null
   },
@@ -94,8 +93,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 9,
-   "newest": "2026-11-27T01:49:02+00:00",
+   "n_adopted": 10,
+   "newest": "2026-11-27T10:06:00+00:00",
    "stale": false,
    "error": null
   },
@@ -108,7 +107,7 @@
    "http": 200,
    "n_entries": 100,
    "n_adopted": 2,
-   "newest": "2026-11-27T11:31:00+00:00",
+   "newest": "2026-11-27T15:10:07+00:00",
    "stale": false,
    "error": null
   },
@@ -119,9 +118,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
+   "n_entries": 39,
    "n_adopted": 1,
-   "newest": "2026-11-27T11:20:24+00:00",
+   "newest": "2026-11-27T13:44:35+00:00",
    "stale": false,
    "error": null
   },
@@ -132,9 +131,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 57,
+   "n_entries": 46,
    "n_adopted": 0,
-   "newest": "2026-11-27T00:00:00+00:00",
+   "newest": "2026-11-28T00:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -147,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-11-27T11:00:10+00:00",
+   "newest": "2026-11-27T22:27:36+00:00",
    "stale": false,
    "error": null
   },
@@ -160,7 +159,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-27T08:36:00+00:00",
+   "newest": "2026-11-27T23:00:00+00:00",
    "stale": false,
    "error": null
   },
@@ -169,12 +168,12 @@
    "name": "Taiwan Security Monitor (GMU)",
    "critical": false,
    "status": "ok",
-   "health": "ok",
+   "health": "stale",
    "http": 200,
    "n_entries": 10,
    "n_adopted": 6,
    "newest": "2026-11-19T19:47:17+00:00",
-   "stale": false,
+   "stale": true,
    "error": null
   },
   {
@@ -197,7 +196,7 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 93,
+   "n_entries": 92,
    "n_adopted": 0,
    "newest": "2026-11-27T10:29:43+00:00",
    "stale": false,
@@ -212,7 +211,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-27T11:44:40+00:00",
+   "newest": "2026-11-27T23:02:35+00:00",
    "stale": false,
    "error": null
   },
@@ -225,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-27T12:00:22+00:00",
+   "newest": "2026-11-27T23:09:04+00:00",
    "stale": false,
    "error": null
   },
@@ -267,17 +266,7 @@
   {
    "domain": "hk.on.cc",
    "n_articles": 3,
-   "sample_title": "九合一選前 解放軍8機艦台海周邊活動"
-  },
-  {
-   "domain": "cmoney.tw",
-   "n_articles": 3,
-   "sample_title": "2377 微星 - 五星连珠王者劫点：习近平可能发动台海战争(组图) - 股市爆料同學會"
-  },
-  {
-   "domain": "en.yenisafak.com",
-   "n_articles": 2,
-   "sample_title": "After Taiwan buys arms, China holds military drills on southeast coast"
+   "sample_title": "九合一選舉前夕 解放軍30架次軍機現台海"
   },
   {
    "domain": "wisevoter.com",
@@ -300,6 +289,11 @@
    "sample_title": "臺灣東部連 3 天偵獲共軍直升機 最新通報僅這 1 架次共機"
   },
   {
+   "domain": "cmoney.tw",
+   "n_articles": 2,
+   "sample_title": "2377 微星 - 五星连珠王者劫点：习近平可能发动台海战争(组图) - 股市爆料同學會"
+  },
+  {
    "domain": "reader.turnnewsapp.com",
    "n_articles": 2,
    "sample_title": "氣球+共機齊飛 台海壓力升高"
@@ -320,14 +314,19 @@
    "sample_title": "輝達晶片恐成台海作戰研究工具？《紐時》追查阿里巴巴與中國軍方連結"
   },
   {
-   "domain": "ua.news",
-   "n_articles": 2,
-   "sample_title": "Taiwan says China held drills involving more than 100 vessels — Taipei Times"
+   "domain": "news.az",
+   "n_articles": 1,
+   "sample_title": "China tests new amphibious landing tactics in military drills near Taiwan"
   },
   {
    "domain": "moderndiplomacy.eu",
    "n_articles": 1,
    "sample_title": "Taiwan Elections Draw Beijing’s Attention as China Sends 30 Military Aircraft Ne"
+  },
+  {
+   "domain": "sisaworld.kr",
+   "n_articles": 1,
+   "sample_title": "대만 지방선거 D-1, 中 군용기 30대 무력시위…26대 중간선 넘어"
   },
   {
    "domain": "fountmedia.io",
