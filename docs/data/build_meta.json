@@ -1,15 +1,15 @@
 {
- "updated": "2026-11-27T23:29:41Z",
- "checked": "2026-11-27",
- "duration_sec": 29.4,
+ "updated": "2026-11-28T07:54:10Z",
+ "checked": "2026-11-28",
+ "duration_sec": 32.4,
  "rolling_days": 14,
- "n_events": 291,
- "n_articles": 325,
+ "n_events": 299,
+ "n_articles": 337,
  "grades": {
-  "C": 142,
-  "A": 2,
-  "D": 138,
-  "B": 9
+  "D": 141,
+  "B": 12,
+  "C": 145,
+  "A": 1
  },
  "cross_language_events": 2,
  "tension_error": null,
@@ -18,11 +18,11 @@
  ],
  "all_feeds_failed": false,
  "tier_articles": {
-  "T1": 9,
-  "T2": 145,
-  "T3": 53,
+  "T1": 10,
+  "T2": 150,
+  "T3": 54,
   "T4": 1,
-  "T5": 97,
+  "T5": 102,
   "TA": 6
  },
  "t1_domains": [
@@ -53,9 +53,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 26,
-   "n_adopted": 15,
-   "newest": "2026-11-27T22:00:15+00:00",
+   "n_entries": 41,
+   "n_adopted": 25,
+   "newest": "2026-11-28T06:45:33+00:00",
    "stale": false,
    "error": null
   },
@@ -66,8 +66,8 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 59,
-   "n_adopted": 4,
+   "n_entries": 100,
+   "n_adopted": 7,
    "newest": "2026-11-27T09:05:48+00:00",
    "stale": false,
    "error": null
@@ -80,8 +80,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 60,
-   "newest": "2026-11-27T23:04:35+00:00",
+   "n_adopted": 51,
+   "newest": "2026-11-28T06:57:46+00:00",
    "stale": false,
    "error": null
   },
@@ -93,8 +93,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 10,
-   "newest": "2026-11-27T10:06:00+00:00",
+   "n_adopted": 9,
+   "newest": "2026-11-27T01:49:02+00:00",
    "stale": false,
    "error": null
   },
@@ -106,8 +106,8 @@
    "health": "ok",
    "http": 200,
    "n_entries": 100,
-   "n_adopted": 2,
-   "newest": "2026-11-27T15:10:07+00:00",
+   "n_adopted": 3,
+   "newest": "2026-11-28T05:48:00+00:00",
    "stale": false,
    "error": null
   },
@@ -118,9 +118,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 39,
+   "n_entries": 43,
    "n_adopted": 1,
-   "newest": "2026-11-27T13:44:35+00:00",
+   "newest": "2026-11-28T04:41:04+00:00",
    "stale": false,
    "error": null
   },
@@ -146,7 +146,7 @@
    "http": 200,
    "n_entries": 50,
    "n_adopted": 2,
-   "newest": "2026-11-27T22:27:36+00:00",
+   "newest": "2026-11-28T06:00:13+00:00",
    "stale": false,
    "error": null
   },
@@ -159,7 +159,7 @@
    "http": 200,
    "n_entries": 30,
    "n_adopted": 0,
-   "newest": "2026-11-27T23:00:00+00:00",
+   "newest": "2026-11-28T06:22:00+00:00",
    "stale": false,
    "error": null
   },
@@ -196,9 +196,9 @@
    "status": "ok",
    "health": "ok",
    "http": 200,
-   "n_entries": 92,
+   "n_entries": 93,
    "n_adopted": 0,
-   "newest": "2026-11-27T10:29:43+00:00",
+   "newest": "2026-11-28T06:39:34+00:00",
    "stale": false,
    "error": null
   },
@@ -211,7 +211,7 @@
    "http": 200,
    "n_entries": 17,
    "n_adopted": 0,
-   "newest": "2026-11-27T23:02:35+00:00",
+   "newest": "2026-11-28T00:50:11+00:00",
    "stale": false,
    "error": null
   },
@@ -224,7 +224,7 @@
    "http": 200,
    "n_entries": 25,
    "n_adopted": 0,
-   "newest": "2026-11-27T23:09:04+00:00",
+   "newest": "2026-11-28T07:42:09+00:00",
    "stale": false,
    "error": null
   },
@@ -267,6 +267,16 @@
    "domain": "hk.on.cc",
    "n_articles": 3,
    "sample_title": "九合一選舉前夕 解放軍30架次軍機現台海"
+  },
+  {
+   "domain": "news.az",
+   "n_articles": 2,
+   "sample_title": "Taiwan votes for local leaders amid Chinese military activity around island"
+  },
+  {
+   "domain": "en.yenisafak.com",
+   "n_articles": 2,
+   "sample_title": "After Taiwan buys arms, China holds military drills on southeast coast"
   },
   {
    "domain": "wisevoter.com",
@@ -314,34 +324,24 @@
    "sample_title": "輝達晶片恐成台海作戰研究工具？《紐時》追查阿里巴巴與中國軍方連結"
   },
   {
-   "domain": "news.az",
+   "domain": "arise.tv",
    "n_articles": 1,
-   "sample_title": "China tests new amphibious landing tactics in military drills near Taiwan"
+   "sample_title": "Taiwan Holds Local Elections Amid Fresh Chinese Military Pressure"
   },
   {
-   "domain": "moderndiplomacy.eu",
+   "domain": "innereastreview.com.au",
    "n_articles": 1,
-   "sample_title": "Taiwan Elections Draw Beijing’s Attention as China Sends 30 Military Aircraft Ne"
+   "sample_title": "Taiwan votes in elections as China flexes military"
   },
   {
-   "domain": "sisaworld.kr",
+   "domain": "breakingthenews.net",
    "n_articles": 1,
-   "sample_title": "대만 지방선거 D-1, 中 군용기 30대 무력시위…26대 중간선 넘어"
+   "sample_title": "Taiwan says 33 Chinese military aircraft detected"
   },
   {
-   "domain": "fountmedia.io",
+   "domain": "sfg.media",
    "n_articles": 1,
-   "sample_title": "投票前一天，上午9時25分起30架次共機出海、26架次越過台海中線及延伸線！國防部清晨6時前另偵獲1架次共機、7艘共艦"
-  },
-  {
-   "domain": "news.jkn.co.kr",
-   "n_articles": 1,
-   "sample_title": "대만 투표 하루 앞두고 중국군 전투기·폭격기 출격 : 국제"
-  },
-  {
-   "domain": "asiae.co.kr",
-   "n_articles": 1,
-   "sample_title": "Ahead of Taiwan Local Elections, China Stages Show of Force with 'Military Aircr"
+   "sample_title": "China Rehearses Potential Invasion of Taiwan Using Civilian Ships"
   }
  ]
 }
